@@ -5,7 +5,10 @@ from pathlib import Path
 
 @st.cache(allow_output_mutation=True)
 def cache_df():
-    return (pd.read_json("data/vol7.json"))
+    df = pd.read_json("data/vol7.json")
+    names = df.names.tolist()
+    descriptions = df.descriptions.tolist()
+    return df, names, descriptions
 
 def read_markdown_file(markdown_file):
     return Path(markdown_file).read_text()
@@ -16,10 +19,8 @@ database_directions = read_markdown_file("markdown_files/database.md")
 directions = st.expander("Directions")
 directions.markdown(database_directions, unsafe_allow_html=True)
 
-df = cache_df()
-# df = df.fillna(" ")
-descs = list(df["descriptions"])
-people = list(df["names"])
+df, people, descs = cache_df()
+
 
 form_options = st.form("Query Form")
 strict_box = form_options.checkbox("Strict Search On")

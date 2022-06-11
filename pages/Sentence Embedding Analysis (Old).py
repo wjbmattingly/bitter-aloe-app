@@ -14,7 +14,11 @@ st.sidebar.markdown("# Sentence Embedding App")
 
 @st.cache(allow_output_mutation=True)
 def cache_df():
-    return (pd.read_json("data/vol7.json"))
+    df = pd.read_json("data/vol7.json")
+    names = df.names.tolist()
+    descriptions = df.descriptions.tolist()
+    return df, names, descriptions
+
 @st.cache(allow_output_mutation=True)
 def cache_paras():
     return (load_data("data/paraphrases-10.json"))
@@ -50,10 +54,9 @@ def write_data(file, data):
         json.dump(data, f, indent=4)
 
 res_container =st.expander("Results")
-df = cache_df()
+df, names, descs = cache_df()
 paraphrases = cache_paras()
-descs = df.descriptions
-names = df.names
+
 search_form = st.sidebar.form("Search Form")
 search_num = search_form.number_input("Search", step=1)
 
