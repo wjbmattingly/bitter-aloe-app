@@ -17,11 +17,14 @@ def load_model():
     topic_words, word_scores, topic_nums = model.get_topics(num_topics)
     return Top2Vec.load("data/top2vec-model"), num_topics, topic_sizes, topic_nums, topic_words, word_scores, topic_nums
 
-def get_data(method:str, num_docs=5, doc_ids=[0], topic_num=0):
+def get_data(method:str, num_docs=5, doc_ids=[0], topic_num=0, keywords=["burn"]):
     if method == "dbd":
         documents, document_scores, document_ids = model.search_documents_by_documents(doc_ids=doc_ids, num_docs=num_docs)
     elif method == "dbt":
         documents, document_scores, document_ids = model.search_documents_by_topic(topic_num=topic_num, num_docs=num_docs)
+    elif method == "dbk":
+        documents, document_scores, document_ids = model.search_documents_by_keywords(keywords=keywords, num_docs=num_docs)
+
     for doc, score, doc_id in zip(documents, document_scores, document_ids):
             st.header(f"Victim: {names[doc_id]}")
             st.write(f"Document: {doc_id}")
@@ -40,7 +43,8 @@ model, num_topics, topic_sizes, topic_nums, topic_words, word_scores, topic_nums
 style = st.sidebar.selectbox("Select Top2Vec Search Style",
                         [
                         "Search by Topic",
-                        "Search by Document"
+                        "Search by Document",
+                        "Search by Keywords"
                         ])
 
 if style=="Search by Topic":
@@ -62,7 +66,6 @@ if style=="Search by Topic":
 
 
 
-
 elif style == "Search by Document":
     st.markdown("# Search by Document")
     document_ids = st.text_input("Which Documents would you like to search? (Use the Victim Index Numbers)", 0)
@@ -74,7 +77,11 @@ elif style == "Search by Document":
         data_expander.write(f"{names[id]}: {descriptions[id]}")
     get_data("dbd", doc_ids=doc_ids, num_docs=num_docs)
 
-
+elif style== "Search by Keywords":
+    keywords = st.text_input("Which Documents would you like to search? (Use the Victim Index Numbers)", "burn")
+    num_docs = st.number_input("How many documents do you want to see from this topic?", 5)
+    document_keywords = [k.strip() for k in keywords.split(",")]
+    get_data("dbk", keywords=document_keywords, num_docs=num_docs)
 
 
 
