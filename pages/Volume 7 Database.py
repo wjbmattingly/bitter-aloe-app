@@ -17,7 +17,7 @@ directions = st.expander("Directions")
 directions.markdown(database_directions, unsafe_allow_html=True)
 
 df = cache_df()
-df = df.fillna(" ")
+# df = df.fillna(" ")
 descs = list(df["descriptions"])
 people = list(df["names"])
 
