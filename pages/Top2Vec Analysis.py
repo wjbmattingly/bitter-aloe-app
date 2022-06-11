@@ -58,7 +58,7 @@ if style=="Search by Topic":
     data_expander.table(res_df)
 
     st.write(f"There are a total of {topic_sizes[topic_num]} available. Currently only displaying the top-{num_docs} results.")
-    get_data("dbd", topic_num=topic_num, num_docs=num_docs)
+    get_data("dbt", topic_num=topic_num, num_docs=num_docs)
 
 
 
