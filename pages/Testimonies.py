@@ -31,9 +31,11 @@ speakers = ["All"]+data['header']['speakers']
 speakers = [x.replace("\n", "") for x in speakers]
 narrow_speakers = st.multiselect("Select Speaker(s)", speakers, ["All"])
 st.write("-----")
+st.header("Header Metadata")
 for item in data['header']:
     st.write(f"{item.title()}: {data['header'][item]}")
 st.write("-----")
+st.header("Testimony")
 st.write("-----")
 for i, segment in enumerate(data["testimony"]):
     if "All" in narrow_speakers or segment[0] in narrow_speakers:
