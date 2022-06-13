@@ -2,6 +2,7 @@ import streamlit as st
 import json
 import pandas as pd
 import glob
+import pathlib
 
 st.title("")
 
@@ -14,6 +15,7 @@ testimony_type = st.selectbox("Select Testimony Type", [
 # if testimony_type == "Amnesty Hearings":
 testimony_type_file = testimony_type.lower().replace(" ", "_")
 files = glob.glob(f"./data/data_saha/{testimony_type_file}/*/*.json")
+st.write(files)
 places = list(set([x.split("\\")[-2].replace("_", " ").title() for x in files]))
 places.sort()
 if testimony_type == "Special Hearings":
