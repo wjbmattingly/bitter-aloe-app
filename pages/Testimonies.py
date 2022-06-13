@@ -64,8 +64,9 @@ elif style == "By Person":
     for person in people:
         st.header(f"Displaying the Data for {person}")
         for filename in all_speakers[person]:
+            filename = filename.replace("\\", "/").replace("..", ".")
             st.markdown(f"**Displaying Dialogue Found in**: {filename}")
-            with open (filename.replace("..", "."), "r") as f:
+            with open (filename, "r") as f:
                 testimony = json.load(f)["testimony"]
             for i, segment in enumerate(testimony):
                 if segment[0] in corrected_people:
