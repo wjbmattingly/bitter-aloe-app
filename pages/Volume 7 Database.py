@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 
-st.sidebar.image(r"../images/bitter_aloe_logo.jpg")
+st.sidebar.image(r"./images/bitter_aloe_logo.jpg")
 
 @st.cache(allow_output_mutation=True)
 def cache_df():
