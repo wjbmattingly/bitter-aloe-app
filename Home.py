@@ -1,6 +1,6 @@
 import streamlit as st
 from pathlib import Path
-st.sidebar.image(r"./images\bitter_aloe_logo.jpg")
+st.sidebar.image(r"./images/bitter_aloe_logo.jpg")
 st.markdown("# The Bitter Aloe Project App")
 
 def read_markdown_file(markdown_file):
