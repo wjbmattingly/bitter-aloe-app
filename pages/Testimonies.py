@@ -3,12 +3,21 @@ import json
 import pandas as pd
 import glob
 import pathlib
+import datetime
+
+st.sidebar.image(r"./images\bitter_aloe_logo.jpg")
 
 @st.cache(allow_output_mutation=True)
 def cache_speakers():
     with open ("./data/all_speakers.json", "r") as f:
         speakers = json.load(f)
     return speakers
+
+def write_data(data):
+    for i, segment in enumerate(data["testimony"]):
+        if segment[0] in corrected_people:
+            st.markdown(f"(Index {i}) **{segment[0]}**: {segment[1]}")
+    st.write("-----")
 
 st.title("")
 style = st.sidebar.selectbox("Select Testimony Analysis Method", [
@@ -52,7 +61,7 @@ if style == "By Testimony":
     for i, segment in enumerate(data["testimony"]):
         if "All" in narrow_speakers or segment[0] in narrow_speakers:
             st.markdown(f"(Index {i}) **{segment[0]}**: {segment[1]}")
-            st.write("-----")
+
 elif style == "By Person":
     st.markdown("**This is in Development**")
     st.title("Testimony Analysis by Person")
@@ -61,14 +70,60 @@ elif style == "By Person":
     speaker_names.sort()
     people = st.multiselect("Select People", speaker_names)
     corrected_people = [p.replace("\n", "") for p in people]
+    date_check = st.checkbox("Check to use Dates")
+    if date_check:
+        date_style = st.selectbox("Select Style of Date Analysis", ["On Date", "Before Date", "After Date"])
+        test_date = st.date_input("Select Date", datetime.date(1998,4,28))
+
     for person in people:
         st.header(f"Displaying the Data for {person}")
         for filename in all_speakers[person]:
             filename = filename.replace("\\", "/").replace("..", ".")
             st.markdown(f"**Displaying Dialogue Found in**: {filename}")
             with open (filename, "r") as f:
-                testimony = json.load(f)["testimony"]
+                data = json.load(f)
+                testimony = data["testimony"]
+            st.markdown(f"**Date**: {data['header']['starting date']}")
             for i, segment in enumerate(testimony):
                 if segment[0] in corrected_people:
-                    st.markdown(f"(Index {i}) **{segment[0]}**: {segment[1]}")
-            st.write("-----")
+                    if date_check:
+                        if data["header"]["starting date"] != "UNKNOWN":
+                            year, month, day = data["header"]["starting date"].split("-")
+                            tmp_date = datetime.date(int(year), int(month), int(day))
+                            if date_style == "On Date" and tmp_date == test_date:
+                                st.markdown(f"(Index {i}) **{segment[0]}**: {segment[1]}")
+                                st.write("-----")
+                            elif date_style == "Before Date" and tmp_date < test_date:
+                                st.markdown(f"(Index {i}) **{segment[0]}**: {segment[1]}")
+                                st.write("-----")
+                            elif date_style == "After Date" and tmp_date > test_date:
+                                st.markdown(f"(Index {i}) **{segment[0]}**: {segment[1]}")
+                                st.write("-----")
+                    else:
+                        st.markdown(f"(Index {i}) **{segment[0]}**: {segment[1]}")
+                        st.write("-----")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            #
