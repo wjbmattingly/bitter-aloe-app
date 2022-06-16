@@ -1,7 +1,7 @@
 import streamlit as st
 from top2vec import Top2Vec
 import pandas as pd
-st.sidebar.image(r"../images/bitter_aloe_logo.jpg")
+st.sidebar.image(r"./images/bitter_aloe_logo.jpg")
 @st.cache(allow_output_mutation=True)
 def cache_df():
     df = pd.read_json("data/vol7.json")

@@ -5,7 +5,7 @@ import glob
 import pathlib
 import datetime
 
-st.sidebar.image(r"../images/bitter_aloe_logo.jpg")
+st.sidebar.image(r"./images/bitter_aloe_logo.jpg")
 
 @st.cache(allow_output_mutation=True)
 def cache_speakers():
