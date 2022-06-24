@@ -12,6 +12,19 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53226&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99022225_bks_990223bk.htm",
         "speakers": [
+            "ADV SIGODI",
+            "CHAIRPERSON",
+            "INTERPRETER",
+            "JOHN M SITHOLE",
+            "JOHN SITHOLE",
+            "MR CACHALIA",
+            "MR CLAASSEN",
+            "MR DRAHT",
+            "MR LAX",
+            "MR SITHOLE",
+            "MS LOCKHAT"
+        ],
+        "original_speakers": [
             "MS LOCKHAT",
             "CHAIRPERSON",
             "MR CLAASSEN",
@@ -58,7 +71,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR CLAASSEN",
+            "MR CLAASSEN",
             "Thank you Mr Chair.\n\tMr Sithole you are today the applicant in an amnesty application before this Committee relating to an incident that occurred on the 12th of February 1994.  Mr Sithole, at the time of this particular incident, were you a member, or affiliated to any political party?",
             "Male"
         ],
@@ -343,7 +356,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR CLAASSEN",
+            "MR CLAASSEN",
             "(Cont)\n\tMr Sithole, I would just like to ask, this evening that you've just described to the Committee, what happened.  When was this in relation to the shooting incident.",
             "Male"
         ],
@@ -1103,7 +1116,7 @@
             "Unknown"
         ],
         [
-            "CROSS EXAMINATION BY MR CACHALIA",
+            "MR CACHALIA",
             "Mr Sithole, the march to the Randburg council offices to demand more land for the people staying in Zevenfontein, was approximately one year, in about March of 1993, before the incident.  Is that correct?",
             "Male"
         ],
@@ -2123,7 +2136,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATOIN BY MR CACHALIA",
+            "MR CACHALIA",
             "(Cont)\n\tMr Sithole, is it correct that you have responded to the Chairperson of the Committee when dealing with your evidence, that you have said that you had learned to fire the AK-47 while you were still in KwaZulu Natal at your home?  Is that correct?",
             "Male"
         ],
@@ -4228,7 +4241,7 @@
             "Unknown"
         ],
         [
-            "RE-EXAMINATION BY MR CLAASSEN",
+            "MR CLAASSEN",
             "Thank you Mr Chair, maybe just an issue that's already been discussed.  Mr Sithole, if you could just, there's been made a lot of mention of distances and times, confirm that you are illiterate and you do not understand time as such in the sense that you understand how a watch works.",
             "Male"
         ],

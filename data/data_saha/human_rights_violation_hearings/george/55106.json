@@ -11,6 +11,13 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55106&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/george/ct06105.htm",
         "speakers": [
+            "DR RAMASHALA",
+            "MR CLAASEN",
+            "MS BURTON",
+            "MS SEROKE",
+            "<UNKNOWN>"
+        ],
+        "original_speakers": [
             "DR RAMASHALA\n",
             "MS BURTON\n",
             "MS SEROKE\n",
@@ -245,7 +252,7 @@
             "Female"
         ],
         [
-            "ON RESUMPTION",
+            "<UNKNOWN>",
             "",
             "Unknown"
         ]

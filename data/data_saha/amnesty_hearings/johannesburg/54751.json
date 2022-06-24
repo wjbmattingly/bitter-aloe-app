@@ -6,6 +6,27 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54751&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/joburg/shell9.htm",
         "speakers": [
+            "CHAIRPERSON",
+            "INTERPRETER",
+            "JUDGE NGCOBO",
+            "MR BERGER",
+            "MR BIZOS",
+            "MR CURRIN",
+            "MR DORFLING",
+            "MR HUMAN",
+            "MR LAX",
+            "MR PRETORIUS",
+            "MR TIPP",
+            "MR VAN WYK",
+            "MS MORAKA",
+            "MS PATEL",
+            "MS VAN HUYSTEEN",
+            "SILWAYIPHI ALFRED MAPHANGA",
+            "SMANGALISO PATRICK SIMELANE",
+            "VELI RAPHAEL NTOMBELA"
+        ],
+        "starting date": "UNKNOWN",
+        "original_speakers": [
             "SMANGALISO PATRICK SIMELANE",
             "CHAIRPERSON",
             "MR VAN WYK",
@@ -29,8 +50,7 @@
             "MR MAPHANGA",
             "MS NTOMBELA",
             "VELI RAPHAEL NTOMBELA"
-        ],
-        "starting date": "UNKNOWN"
+        ]
     },
     "testimony": [
         [
@@ -64,7 +84,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "Chairperson, before Advocate van Wyk proceeds with his questioning, we seek clarity, Chairperson.  We have a list here of objectors that has handed - well, I mean we rode down the list of objectors on the first day of hearing because according to the legal representatives of the objectors, according to the statements that we have received from the objectors, the only three objectors who are objecting to the granting of amnesty with regard to the occurrences, on the fact of it, would be occurrences at Lancet Hall.  It's a Mr Chonco and two gentlemen, the Dlamini's, I mean the family of Mr Chonco and the Dlamini's, who say they were shot and injured at the entrance of Lancet Hall in Jeppe Street.\n\tFor the sake of clarity we would want to know the interest Advocate van Wyk has because according to his list the people that he represents refer to being injured or shot at, at the corner of De Villiers and King George, the Shell House incident, and not the Lancet Hall incident.  In fact, it relates to all the legal representatives here, unless one of them can tell us that he represents Dr van Wyk, who mentions Dlamini and - the Dlamini's, we would want to know which legal representatives represent which objectors in - with specific reference to which occurrence.",
             "Female"
         ],
@@ -74,7 +94,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "Chairperson, perhaps I can correct, I see now that Mr P A van Wyk does represent Christine Chonco, but yesterday Mr Pretorius was about to start cross-examining, and he represents ...(inaudible), I mean according to this list.",
             "Female"
         ],
@@ -254,12 +274,12 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR VAN WYK",
+            "MR VAN WYK",
             "Thank you, Mr Chairman.  Mr Simelane, can you tell the Committee, on that specific day, who issued the firearm to you.  I'm specifically referring to the shotgun.",
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "The shotgun that I had that day had been issued at the office, that is the office of the guards of the African National Congress.  I don't remember the name of the person who was actually issuing out the guns.",
             "Male"
         ],
@@ -269,7 +289,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I did not write it down.",
             "Male"
         ],
@@ -279,7 +299,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I don't have any clarity.",
             "Male"
         ],
@@ -309,7 +329,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I think I can explain this briefly, I don't remember as to who actually gave me the firearm, that's what I'm explaining.",
             "Male"
         ],
@@ -319,7 +339,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I had six bullets or six rounds.",
             "Male"
         ],
@@ -339,7 +359,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I used only one.",
             "Male"
         ],
@@ -349,7 +369,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I returned them the following day when I was returning the shotgun.",
             "Male"
         ],
@@ -369,7 +389,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "No, I do not.",
             "Male"
         ],
@@ -379,7 +399,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I'm not sure as to what time I started, it was only in the morning, I think just after 08h00.",
             "Male"
         ],
@@ -389,7 +409,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "The following day, but I don't remember the time.",
             "Male"
         ],
@@ -409,12 +429,12 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I worked the whole day and the whole night at the basement and I only went out on the following, except when going to the loo.",
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "Sorry, Chair, the Interpreter is saying \"I left the following day\", he says \"I left on occasion to go to the toilet.\"",
             "Female"
         ],
@@ -429,7 +449,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I started working in the morning, the whole day, the whole night.",
             "Male"
         ],
@@ -439,7 +459,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "The following day in the morning.",
             "Male"
         ],
@@ -449,7 +469,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Yes, that is correct.",
             "Male"
         ],
@@ -459,7 +479,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Yes, that is correct.",
             "Male"
         ],
@@ -469,7 +489,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "On that stage I could say that I saw about 4 or 5 of the guards, but I'm not sure about the exact number.",
             "Male"
         ],
@@ -479,7 +499,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I can't remember all of them, I do remember one in particular.",
             "Male"
         ],
@@ -489,7 +509,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Yes, that is correct.",
             "Male"
         ],
@@ -499,7 +519,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I do not remember seeing any one of them, except the one that I've specifically mentioned.",
             "Male"
         ],
@@ -509,7 +529,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I do not remember, but I do remember that I saw him pointing his firearm up towards - I think, if I'm not mistaken, he shot only once, but I'm not sure, I can't vouch that he did.",
             "Male"
         ],
@@ -519,7 +539,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I've already said that I do not vouch as to how many times he shot.",
             "Male"
         ],
@@ -529,7 +549,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I don't want to lie, I don't remember.  I did hear some gunshots, but I cannot say how many.",
             "Male"
         ],
@@ -539,7 +559,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Could you please repeat your question and put it in clearer form please, I don't understand it.",
             "Male"
         ],
@@ -549,7 +569,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Yes, that is correct.",
             "Male"
         ],
@@ -559,7 +579,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Unfortunately I did not.",
             "Male"
         ],
@@ -569,7 +589,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "As I've already explained, that I did not hear any of the evidence and I did not even request my attorneys to tell me as to what was said, because I don't know how it involves me.",
             "Male"
         ],
@@ -579,7 +599,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I wasn't interested to know as to what evidence they tendered before the court, because it concerns me in no way.  ...(no English translation)",
             "Male"
         ],
@@ -599,7 +619,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "Apparently there is a problem.",
             "Female"
         ],
@@ -614,7 +634,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "As I've already explained, I wasn't even interested to hear as to what evidence they had tendered before the inquest court, because as far as I'm concerned this doesn't have any particular meaning to me, even if my attorney had told me, I don't think it involves me in any way, I don't even want to know what is going on, because I'm not connected to that, and I'm not interested.",
             "Male"
         ],
@@ -624,7 +644,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I'll just answer you briefly.  I heard about Mr Chonco the following day that there is a certain man who had been shot at close proximity to the gate in Von Weillich Street, and as you put it.  I do understand what you're saying to me, there's absolutely nothing I can say with regard to that matter because if we can follow that matter up, especially the doctor's report and the ballistic experts, it is said that this person had been shot or an AK47 R1 riffle to R5 was used, so that does not involve me at all.",
             "Male"
         ],
@@ -634,7 +654,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I know nothing about the two Dlamini brothers.",
             "Male"
         ],
@@ -644,7 +664,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I've already said there's absolutely nothing I can say about it, because I do not even know the people that you're referring to.",
             "Male"
         ],
@@ -654,7 +674,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I've come before this Committee to disclose whatever I know and now you want me to lie and say I know things that I do not.  That's your own version.",
             "Male"
         ],
@@ -664,7 +684,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Yes, that is correct.",
             "Male"
         ],
@@ -674,7 +694,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Yes, that is true, I know nothing about that.",
             "Male"
         ],
@@ -684,7 +704,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I do not know that.",
             "Male"
         ],
@@ -694,7 +714,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "Shall we get the record straight, it was not AK47 cartridges, it was one cartridge.",
             "Female"
         ],
@@ -704,7 +724,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I know nothing about that.",
             "Male"
         ],
@@ -714,12 +734,12 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Chairperson and members of the Committee, I think I did specify my evidence which if that I was at the basement and whatever was found somewhere else is something that I have no knowledge of.",
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "Mr Simelane, could you please just be brief when you answer questions.  If they need any explanation, they will specifically request it.  Could you please just answer yes or no.",
             "Female"
         ],
@@ -729,7 +749,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Nobody told me that.",
             "Male"
         ],
@@ -739,7 +759,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "That is correct.",
             "Male"
         ],
@@ -749,7 +769,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I think it was his personal firearm.",
             "Male"
         ],
@@ -759,7 +779,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "When the shots started ringing, we were already at the gate or next to the gate.",
             "Male"
         ],
@@ -769,7 +789,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "It could have been a metre of two from the gate.",
             "Male"
         ],
@@ -779,7 +799,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "There were shots that rang and they stopped for quite a while.  Thereafter we saw the marchers when we had come to open the gate.",
             "Male"
         ],
@@ -789,7 +809,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "It was a group of people.",
             "Male"
         ],
@@ -799,7 +819,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I would not be able to give you the number that you need, as I've already pointed out it was a group, there were not five, there were not hundred either, but it was quite a large group.",
             "Male"
         ],
@@ -809,7 +829,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "That is true.",
             "Male"
         ],
@@ -819,7 +839,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "It was a group and a part of the group tried to push to gate open.  The others were pushing the other gate and the rest were pushing to other one, trying to push it open.",
             "Male"
         ],
@@ -829,7 +849,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "No, I never talked to them.",
             "Male"
         ],
@@ -839,7 +859,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "In a war situation when your enemy does something, you don't reprimand your enemy.  It was a war situation, these people were surging forward, they were in a warpath and there was absolutely no way I could to them or try to communicate with them.",
             "Male"
         ],
@@ -849,7 +869,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "If people are attacking you, there is no way you can repel them by talking to them, they will do whatever they want to do.  So it was a war situation, they were doing what they deemed was right, and I did what I deemed fit.",
             "Male"
         ],
@@ -859,7 +879,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "As I've already explained, that I had prior knowledge to the fact that the offices of the African National Congress were going to be attacked, and the way that they opened the gate, it indicated to me what they wanted to do, they didn't come to just converse with me.",
             "Male"
         ],
@@ -869,7 +889,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "My seniors are the ones who conveyed it to me.",
             "Male"
         ],
@@ -879,7 +899,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I left them for a while until such time that I realised that they were actually opening the gate, that's when I started shooting.",
             "Male"
         ],
@@ -889,7 +909,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I shot only once, so I don't know how long that lasts.",
             "Male"
         ],
@@ -899,7 +919,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "That is correct.",
             "Male"
         ],
@@ -909,7 +929,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "According to my recollection, I was shooting my rifle facing downwards towards the gate, but according to the ballistic evidence, it indicates otherwise.",
             "Male"
         ],
@@ -919,7 +939,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Yes.",
             "Male"
         ],
@@ -929,7 +949,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I think my gun was on the hip level and I pointed the gun towards the feet of the people who were standing at the gate or in front of the gate and trying to push it.",
             "Male"
         ],
@@ -939,7 +959,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Could you repeat the question, it's not clear.",
             "Male"
         ],
@@ -949,7 +969,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I wouldn't know what happened after I had shot.",
             "Male"
         ],
@@ -959,12 +979,12 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "When you're handling a firearm anything can happen.  You cannot pinpoint as to what happened or did not happen, especially if you have no clarity, like I have no clarity, but there are many possibilities when you're handling a firearm, and the possibility is 99% out of 100 that there were people or a person injured or killed when I fired.",
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Sir, in other words, after firing the shot, you realised that the way you handled the arm when you fired the shot, people must have been hit by your shot, is that correct?",
             "Male"
         ],
@@ -984,7 +1004,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "At that time it never occurred to me because I did not see any particular person falling or being injured.",
             "Male"
         ],
@@ -994,7 +1014,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "That is true.",
             "Male"
         ],
@@ -1004,7 +1024,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "That is true.",
             "Male"
         ],
@@ -1014,7 +1034,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "I think just give an indication to him of the line.",
             "Female"
         ],
@@ -1029,7 +1049,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Yes, I do see the paragraph you're referring to, it goes on to 2171 and you will get the explanation that you need if you read it in its entirety, and not read it selectively, that is how I explained it at the inquest.",
             "Male"
         ],
@@ -1039,7 +1059,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I've already said to you that I knew that if I shoot towards the crowd that chances are 99% that a person might get injured or killed.  This is what I have just said now when I was delivering my evidence, that is what I said at the inquest court as well.  So that is what I was explaining, and it's still written here on page 2171.",
             "Male"
         ],
@@ -1049,7 +1069,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Let me put this clear to you so that we stop clutching at straws, we know that at that time Inkatha and the ANC, we're not seeing eye to eye, they are arch rivals.  There was absolutely no need on my part to be bothered about any people who was at the gate, there was absolutely no need.  That is true and you know it as you're sitting there.",
             "Male"
         ],
@@ -1069,7 +1089,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "That is not my attitude toward Zulu's, I'm a Zulu myself, my surname is Simelane.  That was the attitude I had towards people of the Inkatha Freedom Party or members, and not Zulu's in particular, get that clear.",
             "Male"
         ],
@@ -1079,7 +1099,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Yes, I did, I told Mr Khumalo that I shot because there was an urgent need upon my part to shoot marchers, that is IFP marchers, and not Zulu's who wanted to gain entry into the building.",
             "Male"
         ],
@@ -1109,12 +1129,12 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "The attorney wants to know as to what made you align these people with the Inkatha Freedom Party, what is it that you saw, was it a flag that they had, or some type of apparel that they had that indicated that they are members of the IFP.",
             "Female"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I could say that amongst the group at the gate who were singing, they were singing IFP songs, not traditional songs.",
             "Male"
         ],
@@ -1124,7 +1144,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Yes, I do.",
             "Male"
         ],
@@ -1134,7 +1154,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "No, I don't.",
             "Male"
         ],
@@ -1144,7 +1164,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "No, I don't.",
             "Male"
         ],
@@ -1154,7 +1174,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Yes, that is true.",
             "Male"
         ],
@@ -1164,7 +1184,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "That is true.",
             "Male"
         ],
@@ -1174,7 +1194,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "That is true.",
             "Male"
         ],
@@ -1184,7 +1204,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I have already explained, I've put it clearly, I said Inkatha were our arch rivals.  As to whether there was anybody injured or killed, that was none of my concern, I was just less concerned.",
             "Male"
         ],
@@ -1194,7 +1214,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I've already said it, I'm not going to answer that anymore.",
             "Male"
         ],
@@ -1204,12 +1224,12 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "No, that is not it.  Just refer to the past, it's because we were arch rivals, at that time we didn't see eye to eye, and that is not the situation at present.",
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "Mr van Wyk, haven't you covered this ground already?",
             "Female"
         ],
@@ -1239,7 +1259,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "That is correct.",
             "Male"
         ],
@@ -1249,7 +1269,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Yes, for my life as well as the life of the workers who were inside that building, as well as leaders of the ANC, as well as the property within the building itself.",
             "Male"
         ],
@@ -1259,7 +1279,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "They dispersed and ran away to different directions.",
             "Male"
         ],
@@ -1269,7 +1289,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I think that's a blue lie.",
             "Male"
         ],
@@ -1279,7 +1299,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Yes, that is true.",
             "Male"
         ],
@@ -1289,7 +1309,7 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MR PRETORIUS",
+            "MR PRETORIUS",
             "Mr Chairman, just a few aspects I would like to put to the witness.  If I may just refer the Committee to page 1044 of the inquest record and further, I'm not going to quote it in full.  Mr Simelane, a member of the public who was on her way to work, a certain Mrs Prinsloo, saw the incident at the entrance of Lancet Hall, and\ngave evidence at the inquest court about that.  Her evidence in a nutshell is, that the two Mr Dlamini's were shot from behind whilst they were running away from the guards.",
             "Male"
         ],
@@ -1364,7 +1384,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Chairperson and members of the Committee, I had said before that my attorney wanted to explain to me about the two Dlamini's who got injured at Jeppe Street, but I had already indicated before that I told her that I do not think this matter concerns me, so I have nothing to say about the two Dlamini's.  I did not see when they got shot, so there's absolutely nothing I can say about the two Dlamini's.",
             "Male"
         ],
@@ -1379,7 +1399,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "That is correct.",
             "Male"
         ],
@@ -1404,7 +1424,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I do not know Mr Potgieter, but what I said is that the IFP marchers tried to open the gate forcefully and I shot with the gun that I had in my possession, and I did not see anybody getting injured, that's all I can say.",
             "Male"
         ],
@@ -1439,7 +1459,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Maybe Mr Pretorius is making a mistake.  If you do read the inquest record, this Potgieter that you are referring to talks about the 08h00 incident and not the 10h00 incident.  Could you please read the record properly, then  you'd see what I'm referring to.",
             "Male"
         ],
@@ -1449,7 +1469,7 @@
             "Female"
         ],
         [
-            "MR KHAMPEPE",
+            "UNKNOWN",
             "You are referring to the event that occurred in the foyer.",
             "Male"
         ],
@@ -1459,7 +1479,7 @@
             "Female"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "May I just get clarity, Ms Moraka, was he referring to the incident that happened at the foyer of Shell House?",
             "Female"
         ],
@@ -1494,7 +1514,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "That is correct, Chairperson.",
             "Male"
         ],
@@ -1504,7 +1524,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "That is correct.",
             "Male"
         ],
@@ -1514,7 +1534,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "This gate is a two-way gate.  It opens - it's a two-way gate that opens from inside and both gates come back together again.  It's an electronic gate and if you try to push it, it will not get open unless you use extreme force.  Then if you use extreme force it tends to cut out the electric with the electronic workings of the gate, because you've forcefully opened it and the machinery or the electronics of the gate get tampered with.",
             "Male"
         ],
@@ -1524,7 +1544,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I never saw him with my own eyes, but as I've been reading the judgement at the inquest I saw that type of evidence.",
             "Male"
         ],
@@ -1534,7 +1554,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Yes, that is correct.",
             "Male"
         ],
@@ -1544,7 +1564,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I did not see any Policeman coming through that gate, I don't remember such an incident and there is no such Police who did that, that is the evidence I'm giving before this Committee.",
             "Male"
         ],
@@ -1559,7 +1579,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I heard that when the ballistic reports were read, but according to my knowledge I never saw him and I never saw any of what you're referring to.",
             "Male"
         ],
@@ -1579,7 +1599,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Yes, I did not know that before, I've just heard it before this Committee as it's been explained throughout.",
             "Male"
         ],
@@ -1589,7 +1609,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I did not know that before and I did not see it, but I can hear it as you try to explain it.",
             "Male"
         ],
@@ -1599,7 +1619,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Yes, I did not personally know it until after the ballistics as well as the medical evidence was read.",
             "Male"
         ],
@@ -1639,7 +1659,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I don't know whether it's a question or a comment or what, I don't know what Mr Pretorius is saying, it's just not clear to me as to what he's saying.",
             "Male"
         ],
@@ -1649,7 +1669,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Yes, I do understand that explanation, but what I'm not in agreement with is - what I can just say is that I do not agree with what he's saying.",
             "Male"
         ],
@@ -1709,7 +1729,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "What Mr Pretorius is saying is not true, and I don't think I can debate that with him, except for telling him that he's not telling the truth, because he does not know what was happening.  Maybe if he can find out from the Attorney-General as well as the judge who conducted the inquest, he will discover that what he's saying is absolutely not true.",
             "Male"
         ],
@@ -1724,7 +1744,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "Just one question, Chair, you were asked by - about the Police Officer, Mr Potgieter, and then a question was asked by the Chairperson as to - the Chairperson stated that you had been at the gate the entire time, ...(intervention)",
             "Female"
         ],
@@ -1734,17 +1754,17 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "I mean the basement, can you explain to the Committee at what stage you went to the basement, because according to your evidence, let me give you an opportunity to explain what time you got to the basement.",
             "Female"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "As I've already explained that after the incident at the foyer Mr Khumalo came to me and told me that I should go to the basement and help the other guard who was at the basement, that is the late Vusi Vilakazi, that is when I left the foyer and went to the basement.  I cannot say whether it was 08h00, 08h15 or 08h30, but what I'm sure about is that it was after 08h00, that is after the incident at Jeppe Street.",
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "Thank you, Chair.",
             "Female"
         ],
@@ -1754,7 +1774,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I did not hear that question.",
             "Male"
         ],
@@ -1764,7 +1784,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "That's just an estimation.  Maybe it's when I was telling you that I was patrolling, yes, there is such a time.",
             "Male"
         ],
@@ -1774,7 +1794,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I wouldn't say exactly as to how far or near I was, but I think I can estimate, it could have been 4 - 5 metres from the gate at the time that I started shooting.",
             "Male"
         ],
@@ -1784,7 +1804,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Yes, that is correct, the gate was not slightly open.  There was some space for people to gain entry, that's when I started shooting.",
             "Male"
         ],
@@ -1794,7 +1814,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "That is correct, they were running, they were angry and they were entering forcefully.",
             "Male"
         ],
@@ -1804,7 +1824,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "That is correct.",
             "Male"
         ],
@@ -1814,7 +1834,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "That is correct.  As I've already pointed out that my gun was a hip level, I pointed my gun towards the gap that had been open and through which those people were forcefully entering.",
             "Male"
         ],
@@ -1824,7 +1844,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Though I don't remember quite clearly, what I can say is that they got scattered and immediately after having fired the shot, when the other group dispersed I poked my gun once more and I retreated, and I told myself that if they proceed towards me I will fire once more.",
             "Male"
         ],
@@ -1834,7 +1854,7 @@
             "Unknown"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "They turned and ran away.",
             "Male"
         ],
@@ -1844,7 +1864,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "Yes, that is correct.",
             "Male"
         ],
@@ -1854,7 +1874,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "The driveway starts from the street or from the road up to where the building starts, then you past the first gates, that is the ordinary gates that are locked manually, then you proceed into the building.  As you get into the building, you get these electronically operated gates which are right inside the building itself.",
             "Male"
         ],
@@ -1864,7 +1884,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "I don't think I'll be able to do that because it's a long time since I haven't been to the building, but it's not a long distance, maybe let's say from the gate to the pavement it could be 3 - 4 metres, that's just an estimation, I'm not very positive about that.",
             "Male"
         ],
@@ -1874,7 +1894,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "It a two car driveway because when the other car comes in the other one may get out.",
             "Male"
         ],
@@ -1884,7 +1904,7 @@
             "Male"
         ],
         [
-            "MR SIMELANE",
+            "SMANGALISO PATRICK SIMELANE",
             "It could have been 4 - 5 metres, that's just a rough estimation, but I'm not sure.",
             "Male"
         ],
@@ -1999,7 +2019,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "In particular, was a section 19(4) notice sent to Mr Humphrey Ndlovu?",
             "Female"
         ],
@@ -2594,7 +2614,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "What's his name again, Mr Berger?",
             "Female"
         ],
@@ -2604,7 +2624,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "Are you going to let us have copies of that affidavit?",
             "Female"
         ],
@@ -2839,7 +2859,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I'm 16 years old.",
             "Male"
         ],
@@ -2849,7 +2869,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I'm 60 years old.",
             "Male"
         ],
@@ -2859,7 +2879,7 @@
             "Unknown"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I was born in 1965.",
             "Male"
         ],
@@ -2869,7 +2889,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I was born in Ladysmith and I was brought up in Kwa-Zulu Natal in Gandla.",
             "Male"
         ],
@@ -2879,7 +2899,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Standard two.",
             "Male"
         ],
@@ -2889,7 +2909,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "During 1983.",
             "Male"
         ],
@@ -2899,7 +2919,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I sold flowers.",
             "Male"
         ],
@@ -2909,7 +2929,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I was staying at Mansfield.",
             "Male"
         ],
@@ -2919,7 +2939,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I'm not.",
             "Male"
         ],
@@ -2929,7 +2949,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Yes, I do.",
             "Male"
         ],
@@ -2939,7 +2959,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I have seven children.",
             "Male"
         ],
@@ -2949,7 +2969,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Yes, I did hear that we were going to a meeting, not a march.",
             "Male"
         ],
@@ -2959,7 +2979,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I heard at Mansfield that there was going to be a meeting.",
             "Male"
         ],
@@ -2969,7 +2989,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "We were told by the authorities.",
             "Male"
         ],
@@ -2979,7 +2999,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "At the hostel, the authorities at the hostel.",
             "Male"
         ],
@@ -2989,7 +3009,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "He's a leader amongst the hostel community.",
             "Male"
         ],
@@ -2999,7 +3019,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "His name is Mbatha, but Mbatha is now late.",
             "Male"
         ],
@@ -3009,7 +3029,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "That is correct.",
             "Male"
         ],
@@ -3019,7 +3039,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Yes, he said that the King had called a meeting and we were supposed to attend that meeting.",
             "Male"
         ],
@@ -3029,7 +3049,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "He said the meeting was going to be at the Library Gardens.",
             "Male"
         ],
@@ -3044,7 +3064,7 @@
             "Unknown"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "We boarded the train up to Park Station.",
             "Male"
         ],
@@ -3054,7 +3074,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "The last time I was conscious was when I was getting out getting - alighting from the train and I don't know what happened thereafter.  I regained my consciousness at the hospital.",
             "Male"
         ],
@@ -3064,7 +3084,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "No, we were not armed, we had knob kieries as well as shields.",
             "Male"
         ],
@@ -3079,7 +3099,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I'm referring to us, that is the group from the Mansfield Hostel, not only myself.",
             "Male"
         ],
@@ -3089,7 +3109,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "No, I don't even know a firearm.",
             "Male"
         ],
@@ -3099,7 +3119,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Yes, we knew the route to the Library Gardens.",
             "Male"
         ],
@@ -3109,7 +3129,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "We were a group.",
             "Male"
         ],
@@ -3119,7 +3139,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "It's the Induna.",
             "Male"
         ],
@@ -3129,7 +3149,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "That is correct.",
             "Male"
         ],
@@ -3139,7 +3159,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "No.",
             "Male"
         ],
@@ -3149,7 +3169,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "No I have no knowledge thereof.",
             "Male"
         ],
@@ -3159,7 +3179,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I'm working here in Johannesburg.",
             "Male"
         ],
@@ -3169,7 +3189,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "We had gone to a meeting or we were supposed to go to a meeting that was to be held later that day.",
             "Male"
         ],
@@ -3179,7 +3199,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "That is correct.",
             "Male"
         ],
@@ -3229,7 +3249,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I can see myself.",
             "Male"
         ],
@@ -3239,7 +3259,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "At the top part as you're starting the page.",
             "Male"
         ],
@@ -3249,7 +3269,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "It's the first photo.",
             "Male"
         ],
@@ -3259,7 +3279,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "No I don't recognise any.",
             "Male"
         ],
@@ -3269,7 +3289,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "Mr Pretorius they seem to be numbered, I see the one that you've just referred to is 34.10, maybe you can indicate whether you are referring to video 34.20.",
             "Female"
         ],
@@ -3319,7 +3339,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "No.",
             "Male"
         ],
@@ -3329,17 +3349,17 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "Mr Pretorius, may I probably ask something from the ...(indistinct).  This photo that you have been shown, who is it that is lying down there?",
             "Female"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Yes, it's myself.",
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "Thank you.",
             "Female"
         ],
@@ -3349,7 +3369,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "It's mine.",
             "Male"
         ],
@@ -3359,7 +3379,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "No, I'm not able to.",
             "Male"
         ],
@@ -3369,7 +3389,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "No, I'm not able to.",
             "Male"
         ],
@@ -3379,7 +3399,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "No, I'm not able to, I have to be helped by other people.",
             "Male"
         ],
@@ -3389,7 +3409,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I still stay in Soweto.",
             "Male"
         ],
@@ -3399,7 +3419,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I'm staying with my brothers and they are maintaining me.",
             "Male"
         ],
@@ -3409,7 +3429,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Please repeat your question.",
             "Male"
         ],
@@ -3419,7 +3439,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I have no job now because I'm confined to this wheelchair, there's nothing that I'm doing now.",
             "Male"
         ],
@@ -3429,7 +3449,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "No one supports my children.",
             "Male"
         ],
@@ -3439,7 +3459,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I only know that I was shot by ANC, but I don't know them.",
             "Male"
         ],
@@ -3449,7 +3469,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I'll never ever forgiver them, I have no peace in my heart for them, I don't even have a single thread of peace and I'm saying that to them that I have absolutely no peace with them.  It's no secret this was intended to be, it was not a mistake.  Why do they ask for forgiveness after they should have prevented it in the first place?",
             "Male"
         ],
@@ -3459,7 +3479,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I have no knowledge to that effect.  I just saw that we were being killed.",
             "Male"
         ],
@@ -3469,7 +3489,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Yes, I am an IFP member.",
             "Male"
         ],
@@ -3479,7 +3499,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "What I would like to ask, those who shot at us, what are they saying when they see me wheelchair bound?  I would like the Commission to ask them as to whether they feel any pain or feel any remorse to see me confined to this wheelchair, this is as a result of their work.  My children are suffering, they're not even attending school, but theirs, for sure they are going to school and they are being supported.  Mine are suffering and their children are not suffering, they're not in the same position as my children.",
             "Male"
         ],
@@ -3494,7 +3514,7 @@
             "Unknown"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Can you go to a war and have a weapon and not get hurt?  They knew very well that they were going to injure us or hurt us, that they are not injured.  I have not question, thanks.",
             "Male"
         ],
@@ -3504,12 +3524,12 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MR TIPP",
+            "MR TIPP",
             "Mr Maphanga, can I clarify first of all, at a certain stage of your evidence today you said that the last time that you were conscious was when you got off the train at Park Station, is that correct?",
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Yes that is correct.",
             "Male"
         ],
@@ -3519,7 +3539,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Yes, that's what I said.",
             "Male"
         ],
@@ -3529,7 +3549,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I have said what I said and I won't change it.",
             "Male"
         ],
@@ -3539,7 +3559,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Yes, we're moving behind the Induna, the leader.",
             "Male"
         ],
@@ -3549,7 +3569,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "It was Mbatha.",
             "Male"
         ],
@@ -3559,7 +3579,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I don't know, quite many.",
             "Male"
         ],
@@ -3569,7 +3589,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "The last time I recall was when I was getting off the train at Park Station, then I lost consciousness.",
             "Male"
         ],
@@ -3579,7 +3599,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I don't remember anything.  All I remember is when we got off and left that's it.  From there I was in hospital, I did not even know the cause whey I was there.",
             "Male"
         ],
@@ -3589,7 +3609,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Yes, proceed.",
             "Male"
         ],
@@ -3599,7 +3619,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "With regard to?",
             "Male"
         ],
@@ -3609,7 +3629,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I went to Pretoria, I went to Ulundi, I went to other places until the day when I met my fate.",
             "Male"
         ],
@@ -3619,7 +3639,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "We were shot at and dispersed, we never even could meet.  We did not even hear why the meeting was called.",
             "Male"
         ],
@@ -3629,7 +3649,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "About?  I did not hear quite well.",
             "Male"
         ],
@@ -3639,7 +3659,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Yes, that's what I said.",
             "Male"
         ],
@@ -3649,7 +3669,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Yes.",
             "Male"
         ],
@@ -3659,7 +3679,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I don't know, I was at work, I just heard everybody talking.",
             "Male"
         ],
@@ -3669,7 +3689,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I wouldn't have missed that kind of meeting because that's our key, who called us?",
             "Male"
         ],
@@ -3679,7 +3699,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "Mr Tipp, may I interpose and probably clarify a few issues to Mr Maphanga so that you can be on the same page.",
             "Female"
         ],
@@ -3689,37 +3709,37 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "Do you remember Mr Maphanga, you tendered evidence to this Commission when Mr Pretorius, whose you attorney, asked you as to how did you get to that meeting, that is the Library Gardens Meeting?  In your evidence you said you heard from Mr Mbatha, whose an Induna.",
             "Female"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Yes.",
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "This attorney is trying to establish something, he's asking you questions with regard to the meeting that was called by Mr Mbatha, where you were told together with others who had attended that meeting, about the meeting that was called by the King.",
             "Female"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Can you ever remember or recall the people you meet the previous year?",
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "Please listen to the questions, all I was trying to gather here was for you to be on the same wavelength with the line of questioning.  If there are things that you cannot recall, you are at liberty to state this to the Commission, there is nothing wrong whatsoever by saying so, that you don't have an clear recollection, but all we're asking from you is to listen carefully and answer when you can.",
             "Female"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I will answer what I recall, but if I don't recall anything, I won't answer or I will say so.",
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "Thank you, Mr Chair.",
             "Female"
         ],
@@ -3729,7 +3749,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "He said we have been called by the King and that was the end, or he stopped there.",
             "Male"
         ],
@@ -3739,7 +3759,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "He did not explain.",
             "Male"
         ],
@@ -3749,7 +3769,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "It was the King who was going to address the meeting.",
             "Male"
         ],
@@ -3759,7 +3779,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Nothing.",
             "Male"
         ],
@@ -3769,7 +3789,7 @@
             "Male"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Nothing was said.",
             "Male"
         ],
@@ -3794,7 +3814,7 @@
             "Unknown"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Yes, that is correct.",
             "Male"
         ],
@@ -3804,7 +3824,7 @@
             "Unknown"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Yes, they told me as to how I was injured.",
             "Male"
         ],
@@ -3814,7 +3834,7 @@
             "Unknown"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "They told me that I was shot at the meeting down there at the Library Gardens.",
             "Male"
         ],
@@ -3824,7 +3844,7 @@
             "Unknown"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Yes, that is correct.",
             "Male"
         ],
@@ -3834,7 +3854,7 @@
             "Unknown"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I don't remember their names.",
             "Male"
         ],
@@ -3844,7 +3864,7 @@
             "Unknown"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I did not know them.  They told something that was there because it is evident, here am I confined to this wheelchair.",
             "Male"
         ],
@@ -3854,7 +3874,7 @@
             "Unknown"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "Yes, that's what they told me.",
             "Male"
         ],
@@ -3864,7 +3884,7 @@
             "Unknown"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "I don't even know Shell House.  I don't even know that place.",
             "Male"
         ],
@@ -3874,7 +3894,7 @@
             "Unknown"
         ],
         [
-            "MR MAPHANGA",
+            "SILWAYIPHI ALFRED MAPHANGA",
             "It's my first time to hear about that place here, I don't know that place.",
             "Male"
         ],
@@ -3914,7 +3934,7 @@
             "Unknown"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "Yes.",
             "Female"
         ],
@@ -3924,12 +3944,12 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR VAN WYK",
+            "MR VAN WYK",
             "Thank you, Mr Chairman.  Mrs Ntombela can you mention to the Commission how old are you?",
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "I was born in 1934.",
             "Female"
         ],
@@ -3939,7 +3959,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "We didn't go to school.",
             "Female"
         ],
@@ -3949,7 +3969,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "Yes, I am married.",
             "Female"
         ],
@@ -3959,12 +3979,12 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "He's late.",
             "Female"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "Mr van Wyk, can we please have here full names for the record?",
             "Female"
         ],
@@ -3974,12 +3994,12 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "I'm staying at Ulundi.",
             "Female"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "Mr van Wyk?",
             "Female"
         ],
@@ -3989,7 +4009,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "...(inaudible) your client her full names for the record, I don't have them.",
             "Female"
         ],
@@ -3999,7 +4019,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "Agnes Delikulo.",
             "Female"
         ],
@@ -4024,7 +4044,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "Natural causes.",
             "Female"
         ],
@@ -4034,7 +4054,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "That is correct.",
             "Female"
         ],
@@ -4069,7 +4089,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "Yes, he did.",
             "Female"
         ],
@@ -4079,7 +4099,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "Yes, during 1994.",
             "Female"
         ],
@@ -4104,7 +4124,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "Yes, I will.",
             "Female"
         ],
@@ -4114,7 +4134,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "Yes, I did.",
             "Female"
         ],
@@ -4124,7 +4144,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "I see my son.",
             "Female"
         ],
@@ -4134,7 +4154,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "Yes.",
             "Female"
         ],
@@ -4144,7 +4164,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "It's myself.",
             "Female"
         ],
@@ -4154,7 +4174,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "I'm not working, I'm self-employed, I'm weaving some mats.",
             "Female"
         ],
@@ -4164,7 +4184,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "No, these are not sufficient means, because at times they don't buy these mats and we're left destitute as a family.",
             "Female"
         ],
@@ -4174,7 +4194,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "Yes, I was listening throughout, but I do not understand the proceedings.",
             "Female"
         ],
@@ -4184,7 +4204,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "Yes, I did.",
             "Female"
         ],
@@ -4194,7 +4214,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "What I could say as a mother who has given birth to a son, who has experienced suffering, I know that I'll never ever be able to forget, and I don't know how I can ever accept that, because I'm suffering now, I'm working for other women because I want to make ends meet so that I'm able to educate his children.  As I'm here, I don't know what is happening to them because we are supposed to pay there school fees and I do not have the money to pay their school fees or to let them further their education, so it's very difficult on my part and I thought that I thought that my son as the breadwinner was the one who was going to maintain me for the rest of my life.  I never ever had any problem because he maintained the whole family as well as his children.  I could say he was the sole breadwinner and ever since he died I'm suffering and my suffering cannot even be described or equated to any.",
             "Female"
         ],
@@ -4204,7 +4224,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "It's very difficult for me to accept that.  How can I, I don't see any way in which I can accept it.",
             "Female"
         ],
@@ -4214,7 +4234,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "They are with their families, their children are being maintained, they're being pampered, they're being spoiled and they are going to get educated up to wherever they want and Veli's children are remaining at home, they won't be able to further their education and they've got no one to spoil them.  There is another one who I'm already realising will drop out, the rest of them I believe will end up dropping out of school because of the lack of funds.",
             "Female"
         ],
@@ -4224,7 +4244,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "I don't know whether you're joking if you expect me to forgive them for what they have done.",
             "Female"
         ],
@@ -4234,27 +4254,27 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MR BIZOS",
+            "MR BIZOS",
             "Mrs Ntombela, I want to say to you that we understand the difficult position that you find yourself in, and I'm sure that anyone whose had children of his own would share your views about the death of your son.  You yourself don't really know what happened on that day, do you?",
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "Mrs Ntombela, will you be able to continue, are you prepared to answer questions, or would you like us to - would you like to be given a chance to recompose yourself so that you can be able to answer questions posed to you?",
             "Female"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "I will try.",
             "Female"
         ],
         [
-            "MS KHAMPEPE",
+            "UNKNOWN",
             "If you feel that you cannot go on, we would request you to say so and if you need a chance to recompose yourself, please do say so.",
             "Female"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "I think I will continue.",
             "Female"
         ],
@@ -4264,7 +4284,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "No, I don't.",
             "Female"
         ],
@@ -4274,7 +4294,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "Yes, I did.",
             "Female"
         ],
@@ -4284,7 +4304,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "Yes, that is correct.",
             "Female"
         ],
@@ -4294,7 +4314,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "All I know is that he was shot, I do not know anything besides that.",
             "Female"
         ],
@@ -4304,7 +4324,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "What is bad is that a dead man tells no tails, now he cannot come forward and tell us as to who shot him and now I'm not going to listen to what is being said here, whether it is true or it isn't, I'm just not going to listen.\nWhat I'm going to say is that I lost a son and that's it.",
             "Female"
         ],
@@ -4314,7 +4334,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "I've never been informed.",
             "Female"
         ],
@@ -4329,7 +4349,7 @@
             "Unknown"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "He has five children.",
             "Female"
         ],
@@ -4339,7 +4359,7 @@
             "Unknown"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "I do not know their respective ages.",
             "Female"
         ],
@@ -4349,7 +4369,7 @@
             "Unknown"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "Yes.",
             "Female"
         ],
@@ -4359,7 +4379,7 @@
             "Unknown"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "The first one is in standard 5.",
             "Female"
         ],
@@ -4369,7 +4389,7 @@
             "Unknown"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "The name is Mpendulo and Mpendulo is in standard 5.  Siboneso, Siboneso is in standard 3.  Siyabonga, Siyabonga is in standard 2.  Nontebo, and a set of twins who are at pre-school, their names are Sandile and Sanele.",
             "Female"
         ],
@@ -4379,7 +4399,7 @@
             "Unknown"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "He was in first year, grade 1 or sub-A.",
             "Female"
         ],
@@ -4399,7 +4419,7 @@
             "Unknown"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "They are staying with me.  The twins are with their mother.",
             "Female"
         ],
@@ -4409,7 +4429,7 @@
             "Unknown"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "It was a white wedding, they signed at the Magistrates Court, it was not a traditional or common law thing.",
             "Female"
         ],
@@ -4419,7 +4439,7 @@
             "Unknown"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "He was born in 1963.",
             "Female"
         ],
@@ -4429,7 +4449,7 @@
             "Unknown"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "He was working at Allied.",
             "Female"
         ],
@@ -4439,7 +4459,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "It's in Johannesburg.",
             "Female"
         ],
@@ -4449,7 +4469,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "He was a truck driver at Allied.",
             "Female"
         ],
@@ -4524,7 +4544,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "I don't know what position he had according to the Zulu tradition.  According to my knowledge he had none.",
             "Female"
         ],
@@ -4534,7 +4554,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "Yes, I do.",
             "Female"
         ],
@@ -4544,7 +4564,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "He was not an Induna.  There are two types of Indunas.",
             "Female"
         ],
@@ -4554,7 +4574,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "There is a Chief and there is a person who is placed as a leader for the younger generation, that is the bachelors.",
             "Female"
         ],
@@ -4564,7 +4584,7 @@
             "Male"
         ],
         [
-            "MS NTOMBELA",
+            "VELI RAPHAEL NTOMBELA",
             "No, he was nothing, he didn't hold any position.",
             "Female"
         ],

@@ -11,6 +11,21 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53636&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/9908100903_dbn_990902dn.htm",
         "speakers": [
+            "ADV BOSMAN",
+            "C A VAN DER WESTHUIZEN",
+            "CA VAN DER WESTHUIZEN",
+            "CHAIRPERSON",
+            "MR LAX",
+            "MR NEL",
+            "MR SAMUEL",
+            "MR VAN DER MERWE",
+            "MR VAN DER WESTHUIZEN",
+            "MR VISSER",
+            "MR WILLS",
+            "MS BOTHA",
+            "MS THABETHE"
+        ],
+        "original_speakers": [
             "CHAIRPERSON",
             "MR VISSER",
             "MR WILLS",
@@ -98,7 +113,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR VISSER",
+            "MR VISSER",
             "Mr van der Westhuizen, you are an applicant in this matter with regard to Mrs Nthombi Khubeka, is that correct?",
             "Male"
         ],
@@ -703,7 +718,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR VAN DER MERWE",
+            "MR VAN DER MERWE",
             "Thank you Mr Chairman.  Mr van der Westhuizen, during the interrogation I would just like some clarity from you about this, was Mr Baker present on a permanent basis or not?",
             "Male"
         ],
@@ -763,7 +778,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MS BOTHA",
+            "MS BOTHA",
             "Mr van der Westhuizen, it is my inference from your evidence that informers were involved with Nthombi before Simon and Jimmy and Dube made contact with her, is that correct?",
             "Female"
         ],
@@ -883,7 +898,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR SAMUEL",
+            "MR SAMUEL",
             "Thank you Mr Chairman.  Mr van der Westhuizen, I refer you to page 3 of your affidavit, Annexure F on the third paragraph, it says\n\"... there were ablution facilities and a store room\",\n\tyou are referring to the building which is still in existence at the Winkelspruit shooting range, am I right?",
             "Male"
         ],
@@ -1223,7 +1238,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR WILLS",
+            "MR WILLS",
             "Thank you Mr Chairperson.  Mr van der Westhuizen, there were a number of other people who were present on the day and apart from their statements, there is very little that has emerged so far as to what their actual roles were, so what I want you to try and assist me with is to recall as far as you can remember, exactly what roles these people played.  I first want to start off with Jakob Albertus Coetzer, his statement is in the second Bundle from page 101, but  I will be referring you to certain aspects thereof, but prior to that, can you tell us to the best of your recollection, what he did on the day in question, starting from the arrest?  He indicated that he was present at the arrest?",
             "Male"
         ],
@@ -4183,7 +4198,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MS THABETHE",
+            "MS THABETHE",
             "Yes, Mr Chair, thank you.  Mr van der Westhuizen, in previous applications, not necessarily this incident I have realised a certain pattern with the Security Branch people.  What would happen is that someone\nwould be abducted or arrested illegally, would be questioned, okay, let me start afresh, someone would be abducted right, with the help of an askari or an informer, right, and then he would be brought in or she would be brought in, interrogated and it would either be a situation where she cooperates or he doesn't cooperate.  Now take for example in the Deon Cele matter, M.K. Tekere and the Shabalala and Ndaba incidents, it turns out that the people who were brought in for interrogation, they were interrogated, they didn't want to cooperate and eventually they were killed, to protect also the askaris or the informers that were involved in the arrest.  Now, in your evidence, you have indicated, okay, is that a correct reflection or is that a correct way that the Security Branch worked, would you say?",
             "Female"
         ],
@@ -4448,7 +4463,7 @@
             "Unknown"
         ],
         [
-            "RE-EXAMINATION BY MR VISSER",
+            "MR VISSER",
             "Thank you Mr Chair.   It was put to you that if the Commander and one more of his cohorts had been in the vehicle, the Toyota Corolla vehicle, and if you accept that Radebe and Dube and Mbane were in the vehicle, how would they all then have fitted into the vehicle?  How many could be seated in the front?",
             "Male"
         ],
@@ -4738,7 +4753,7 @@
             "Unknown"
         ],
         [
-            "FURTHER EXAMINATION BY MR VISSER",
+            "MR VISSER",
             "One, thank you Mr Chairman, arising from Commissioner Lax' questions about the lawfulness or otherwise of the arrest.  Mr van der Westhuizen, I have already warned you quite a while ago that I would do this, Mr van der Westhuizen, do you know what Judge's Rules are?",
             "Male"
         ],
@@ -4798,7 +4813,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR NEL",
+            "MR NEL",
             "Mr Chairman, yes, if I may, I have just got one question for Mr van der Westhuizen, arising out of the re-examination of Mr Visser, if I may.  Mr van der Westhuizen, there was no information which came from Ms Khubeka upon an answer of yours to Mr Visser, which led to an arrest of four example, these four persons, to which Mr Botha has referred.  Now I assume that their names were also not disclosed during that time?",
             "Male"
         ],

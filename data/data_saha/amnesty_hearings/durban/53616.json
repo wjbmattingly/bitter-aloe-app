@@ -11,6 +11,16 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53616&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/9908100903_dbn_990818db.htm",
         "speakers": [
+            "ADV BOSMAN",
+            "CHAIRPERSON",
+            "LEGAL REPRESENTATIVE",
+            "MR DU PLESSIS",
+            "MR DU PLESSIS ADDRESSES",
+            "MR LABUSCHAGNE",
+            "MR VISSER",
+            "MS THABETHE"
+        ],
+        "original_speakers": [
             "CHAIRPERSON",
             "MR DU PLESSIS ADDRESSES",
             "MR DU PLESSIS",
@@ -44,7 +54,7 @@
             "Male"
         ],
         [
-            "F LABUSCHAGNE",
+            "MR LABUSCHAGNE",
             "(sworn states)",
             "Unknown"
         ],
@@ -54,7 +64,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR DU PLESSIS",
+            "MR DU PLESSIS",
             "Thank you Chairperson, I'll lead the evidence in Afrikaans.\n\tMr Labuschagne, you are currently in the Police Service, is that correct?",
             "Male"
         ],
@@ -724,7 +734,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MS THABETHE",
+            "MS THABETHE",
             "Just on question on one aspect Mr Chair?",
             "Female"
         ],
@@ -794,7 +804,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR VISSER",
+            "MR VISSER",
             "Page 154 you confirmed, Mr Labuschagne, except that you had rectified that Mr Sam du Preez was not there and you were mistaken there but according to the evidence of Wasserman, Du Preez and Vorster, Sergeant Brooks was also there from Pietermaritzburg who accompanied you?",
             "Male"
         ],
@@ -839,7 +849,7 @@
             "Unknown"
         ],
         [
-            "RE-EXAMINATION BY MR DU PLESSIS",
+            "MR DU PLESSIS",
             "Mr Chair, may I perhaps in re-examination be - thank you Chairperson.\n\tMr Labuschagne, just one or two questions flowing from the questions.  You did not have any objection against the abduction, you associated with it and you agreed with it and you had the intention to participate therein?",
             "Male"
         ],

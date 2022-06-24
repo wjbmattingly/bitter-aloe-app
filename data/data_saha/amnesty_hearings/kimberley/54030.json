@@ -10,6 +10,23 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54030&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/2000/200204ki.htm",
         "speakers": [
+            "ADV SANDI",
+            "CHAIRPERSON",
+            "MR DU PLESSIS",
+            "MR DU PLESSIS IN ARGUMENT",
+            "MR GONYA",
+            "MR KOOPEDI",
+            "MR KOOPEDI IN ARGUMENT",
+            "MR MAPOMA",
+            "MR MAPOMA IN ARGUMENT",
+            "MR NOMPOZOLO",
+            "MR NOMPOZOLO IN ARGUMENT",
+            "MR SIBANYONI",
+            "MR SMITH",
+            "MR SMITH IN ARGUMENT",
+            "ZAMILE THOMAS GONYA"
+        ],
+        "original_speakers": [
             "ZAMILE THOMAS Gonya",
             "CHAIRPERSON",
             "MR NOMPOZOLO",
@@ -29,7 +46,7 @@
     },
     "testimony": [
         [
-            "ZAMILE THOMAS Gonya",
+            "ZAMILE THOMAS GONYA",
             "(sworn states)",
             "Unknown"
         ],
@@ -39,7 +56,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR NOMPOZOLO",
+            "MR NOMPOZOLO",
             "Thank you, Mr Chairman.\n\tMr Gonya, during September 1992, it's common cause that you were a soldier employed by the Ciskei Defence Force.",
             "Male"
         ],
@@ -249,7 +266,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR SMITH",
+            "MR SMITH",
             "Mr Gonya, did you at that time, have any experience in dealing with the grenade launcher?",
             "Male"
         ],
@@ -444,7 +461,7 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MR KOOPEDI",
+            "MR KOOPEDI",
             "Mr Gonya, you say you did not hear or see anyone shooting in your direction, is that correct?",
             "Male"
         ],
@@ -489,7 +506,7 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MR DU PLESSIS",
+            "MR DU PLESSIS",
             "Mr Gonya, prior to your testimony today, Mr Gonya, you were sworn in, you took the oath, is that correct?",
             "Male"
         ],
@@ -914,7 +931,7 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MR MAPOMA",
+            "MR MAPOMA",
             "Mr Gonya, prior to the day in question, the day of the shooting, did you hear, I mean the day before the shooting, did you hear the news that those marchers will be in company of MK?",
             "Male"
         ],
@@ -1204,7 +1221,7 @@
             "Male"
         ],
         [
-            "RE-EXAMINATION BY MR NOMPOZOLO",
+            "MR NOMPOZOLO",
             "The first one is; if you did not carry out the order of your commander as a soldier, what would have happened to you?",
             "Male"
         ],

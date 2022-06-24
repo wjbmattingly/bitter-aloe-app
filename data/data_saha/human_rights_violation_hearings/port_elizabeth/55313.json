@@ -5,6 +5,27 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55313&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/hrvpe1/day3.htm",
         "speakers": [
+            "ADJOURNS RESUMES",
+            "APPLAUSE",
+            "BEGINS",
+            "CHAIRPERSON",
+            "ENDS",
+            "J SEROGE",
+            "M RAMASHALA",
+            "N SANDI",
+            "N XUNDU",
+            "NO FURTHER QUESTIONS",
+            "PORT ELIZABETH",
+            "PRAYER",
+            "PRESIDING OFFICIALS",
+            "SONG IS SUNG",
+            "SWITCHED OFF",
+            "<UNKNOWN>",
+            "WITNESS",
+            "WITNESS IS"
+        ],
+        "starting date": "UNKNOWN",
+        "original_speakers": [
             "PORT ELIZABETH\n",
             "PRESIDING OFFICIALS\n",
             "CHAIRPERSON",
@@ -23,8 +44,7 @@
             "BEGINS\n",
             "J SEROGE",
             "THE COMMISSION ADJOURNED\n"
-        ],
-        "starting date": "UNKNOWN"
+        ]
     },
     "testimony": [
         [
@@ -1388,7 +1408,7 @@
             "Unknown"
         ],
         [
-            "THE COMMISSION ADJOURNED",
+            "<UNKNOWN>",
             "",
             "Unknown"
         ]

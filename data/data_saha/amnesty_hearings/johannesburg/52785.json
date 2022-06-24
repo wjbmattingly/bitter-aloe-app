@@ -7,6 +7,13 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=52785&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98080307_jhb_ellisp2.htm",
         "speakers": [
+            "ADV PRIOR",
+            "CHAIRPERSON",
+            "MR LANDMAN",
+            "MRS ERASMUS",
+            "MRS KLUKAS"
+        ],
+        "original_speakers": [
             "CHAIRPERSON",
             "ADV PRIOR",
             "MR LANDMAN",
@@ -136,7 +143,7 @@
             "Female"
         ],
         [
-            "EXAMINATION BY ADV PRIOR",
+            "ADV PRIOR",
             "Mrs Klukas, is it correct that during 1998 you were married to your husband Mr Clive Klukas?",
             "Unknown"
         ],
@@ -271,7 +278,7 @@
             "Female"
         ],
         [
-            "EXAMINATION BY ADV PRIOR",
+            "ADV PRIOR",
             "Mrs Erasmus is it correct that during 1988 during the bomb explosion at Ellis Park you were married to the deceased Mr Marais?",
             "Unknown"
         ],

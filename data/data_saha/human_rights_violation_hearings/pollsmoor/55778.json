@@ -7,6 +7,15 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55778&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/polls/rudolph.htm",
         "speakers": [
+            "ADV POTGIETER",
+            "CHAIRPERSON",
+            "MR LAZARO",
+            "MR LAZARRO",
+            "MS BURTON",
+            "MS GOBODOMADIKIZELA",
+            "<UNKNOWN>"
+        ],
+        "original_speakers": [
             "ADV POTGIETER\n",
             "MR LAZARRO\n",
             "MR LAZARO\n",
@@ -233,7 +242,7 @@
             "Female"
         ],
         [
-            "UNKNOWN COMMISSIONER",
+            "<UNKNOWN>",
             "Are you sure?",
             "Unknown"
         ],

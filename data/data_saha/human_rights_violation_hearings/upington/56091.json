@@ -8,6 +8,19 @@
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/upington/ct04431.htm",
         "speakers": [
             "CASE NO",
+            "CHAIRPERSON",
+            "EMPLOYER",
+            "MR POTGIETER",
+            "MS BURTON",
+            "MS PAPIER",
+            "<UNKNOWN>",
+            "PIET SCHEFFERS",
+            "TESTIMONY FROM",
+            "UPI",
+            "VICTIM"
+        ],
+        "original_speakers": [
+            "CASE NO",
             "UPI\n",
             "VICTIM",
             "PIET SCHEFFERS\n",
@@ -42,12 +55,12 @@
             "Unknown"
         ],
         [
-            "NATURE OF VIOLENCE",
+            "<UNKNOWN>",
             "",
             "Unknown"
         ],
         [
-            "POISONED BY EMPLOYER",
+            "EMPLOYER",
             "",
             "Unknown"
         ],

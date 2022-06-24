@@ -11,6 +11,13 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54959&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/beaufort/ct00370.htm",
         "speakers": [
+            "CHAIRPERSON",
+            "MR KLAASTE",
+            "MS BURTON",
+            "MS SEROKE",
+            "<UNKNOWN>"
+        ],
+        "original_speakers": [
             "MS BURTON\n",
             "MR KLAASTE\n",
             "MS SEROKE\n",
@@ -125,7 +132,7 @@
             "Female"
         ],
         [
-            "UNKNOWN",
+            "<UNKNOWN>",
             "Go and sit.",
             "Unknown"
         ],

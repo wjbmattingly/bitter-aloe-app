@@ -10,6 +10,17 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54779&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/pburg/moloi.htm",
         "speakers": [
+            "ADV VISSER",
+            "ADV VISSER TO MRS MOLOI",
+            "CHAIRMAN",
+            "INTERPRETER",
+            "LEHA MOHLAGATIBI MOLOI",
+            "MR BLACK",
+            "MR MOLOI",
+            "MRS MOLOI",
+            "STEPHAN CYBUTAN FOSTER MOLOI"
+        ],
+        "original_speakers": [
             "MR BLACK",
             "STEPHAN CYBUTAN FOSTER MOLOI",
             "MR MOLOI",
@@ -35,7 +46,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR BLACK",
+            "MR BLACK",
             "Mr Moloi, you are the father of one of the deceased, who were killed in the incident which took place in Alldays.  Could you give the Committee the full names of your son please?",
             "Male"
         ],
@@ -220,7 +231,7 @@
             "Male"
         ],
         [
-            "NO FURTHER QUESTIONS BY MR BLACK",
+            "MR BLACK",
             ".",
             "Male"
         ],
@@ -285,7 +296,7 @@
             "Female"
         ],
         [
-            "EXAMINATION BY MR BLACK",
+            "MR BLACK",
             "Thank you.  Mrs Moloi, you have attended the hearings throughout, and you have heard all the evidence which has been given by the applicants in respect of their application relating to the death of your son.  Is that correct?",
             "Male"
         ],
@@ -310,7 +321,7 @@
             "Male"
         ],
         [
-            "NO FURTHER QUESTIONS BY MR BLACK",
+            "MR BLACK",
             ".",
             "Male"
         ],
@@ -320,7 +331,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY ADV VISSER",
+            "ADV VISSER",
             "Thank you Mr Chairman, I do have one question to Mr Moloi.  Mr Moloi, I heard you say that as far as you are concerned, some of the applicants can be given amnesty and you went on to say but not the Judas goat.\n\tWho are the persons who you are satisfied could be granted amnesty, could you just indicate who you are talking about?",
             "Unknown"
         ],
@@ -345,7 +356,7 @@
             "Unknown"
         ],
         [
-            "NO FURTHER QUESTIONS BY ADV VISSER",
+            "ADV VISSER",
             ".",
             "Unknown"
         ],
@@ -360,7 +371,7 @@
             "Unknown"
         ],
         [
-            "NO CROSS-EXAMINATION BY ADV VISSER TO MRS MOLOI",
+            "ADV VISSER TO MRS MOLOI",
             ".",
             "Female"
         ],

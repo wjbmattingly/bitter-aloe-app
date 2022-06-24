@@ -8,6 +8,16 @@
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/upington/ct04110.htm",
         "speakers": [
             "CASE NO",
+            "MR POTGIETER",
+            "MS WILDSCHUT",
+            "<UNKNOWN>",
+            "OTLOGECOE MOKGATLA",
+            "<UNKNOWN>",
+            "TESTIMONY FROM",
+            "VICTIM"
+        ],
+        "original_speakers": [
+            "CASE NO",
             "VICTIM",
             "OTLOGECOE MOKGATLA\n",
             "NATURE OF VIOLENCE",
@@ -35,12 +45,12 @@
             "Unknown"
         ],
         [
-            "NATURE OF VIOLENCE",
+            "<UNKNOWN>",
             "",
             "Unknown"
         ],
         [
-            "SEVERE ASSAULT BY POLICE",
+            "<UNKNOWN>",
             "",
             "Unknown"
         ],
@@ -60,7 +70,7 @@
             "Male"
         ],
         [
-            "MR MOKGATLA",
+            "OTLOGECOE MOKGATLA",
             "Good afternoon.",
             "Male"
         ],

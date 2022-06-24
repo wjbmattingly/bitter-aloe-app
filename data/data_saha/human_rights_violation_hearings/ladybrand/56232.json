@@ -12,6 +12,21 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=56232&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/ladyb/ladyb2.htm",
         "speakers": [
+            "CELTA MOHATLA",
+            "CHAIRPERSON",
+            "FOKWANE EUNICE MOKHOTHU",
+            "INTERPRETER",
+            "JOHANNES LIKOTSI",
+            "MESHACK MFAZWE",
+            "MIRIAM KATAZILE TELE AND RAMAGOLOI JOHANNES TELE",
+            "MR BAKAMELA",
+            "MR LAX",
+            "MR LYSTER",
+            "MRS BAKAMELA",
+            "PAULUS MAHLOVO AND MRS MAHLOVO",
+            "PHILIP MBUTHI BAKAMELA AND DORA BAKAMELA"
+        ],
+        "original_speakers": [
             "MS TELE",
             "CHAIRPERSON",
             "MIRIAM KATAZILE TELE and RAMAGOLOI JOHANNES TELE",
@@ -39,7 +54,7 @@
             "Unknown"
         ],
         [
-            "MS TELE",
+            "MIRIAM KATAZILE TELE AND RAMAGOLOI JOHANNES TELE",
             "Yes, good morning.",
             "Female"
         ],
@@ -49,7 +64,7 @@
             "Unknown"
         ],
         [
-            "MIRIAM KATAZILE TELE and RAMAGOLOI JOHANNES TELE",
+            "MIRIAM KATAZILE TELE AND RAMAGOLOI JOHANNES TELE",
             "(Sworn, State)",
             "Unknown"
         ],
@@ -1014,7 +1029,7 @@
             "Unknown"
         ],
         [
-            "PAULUS MAHLOVO and MRS MAHLOVO",
+            "PAULUS MAHLOVO AND MRS MAHLOVO",
             "(Sworn, States)   (Through Interpreter)",
             "Female"
         ],
@@ -1274,7 +1289,7 @@
             "Female"
         ],
         [
-            "PHILIP MBUTHI BAKAMELA and DORA BAKAMELA",
+            "PHILIP MBUTHI BAKAMELA AND DORA BAKAMELA",
             "(Sworn, State)  (Through Interpreter)",
             "Unknown"
         ],
@@ -1649,7 +1664,7 @@
             "Unknown"
         ],
         [
-            "MS MOHATLA",
+            "CELTA MOHATLA",
             "Yes, good morning.",
             "Female"
         ],
@@ -1659,7 +1674,7 @@
             "Unknown"
         ],
         [
-            "MS MOHATLA",
+            "CELTA MOHATLA",
             "I am fine, but I am a sickly person.  It's high blood and my leg.  I am really sick.",
             "Female"
         ],
@@ -1669,7 +1684,7 @@
             "Unknown"
         ],
         [
-            "MS MOHATLA",
+            "CELTA MOHATLA",
             "Thank you.",
             "Female"
         ],
@@ -2314,7 +2329,7 @@
             "Unknown"
         ],
         [
-            "MR LIKOTSI",
+            "JOHANNES LIKOTSI",
             "Good morning.  I am fine, except the fact that I was harassed by the police at night, many of them that I do not even know today.  They harassed the whole family.  I do not know even the time because I have never been to school.  Our township was dark in those years because we didn't have any light.",
             "Male"
         ],
@@ -2559,7 +2574,7 @@
             "Unknown"
         ],
         [
-            "MR MFAZWE",
+            "MESHACK MFAZWE",
             "Good day.",
             "Male"
         ],
@@ -2569,7 +2584,7 @@
             "Unknown"
         ],
         [
-            "MR MFAZWE",
+            "MESHACK MFAZWE",
             "Thank you.",
             "Male"
         ],
@@ -2799,7 +2814,7 @@
             "Unknown"
         ],
         [
-            "MS MOKHOTHU",
+            "FOKWANE EUNICE MOKHOTHU",
             "Yes, good day.  I am fine, and how are you?",
             "Female"
         ],

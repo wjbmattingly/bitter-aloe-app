@@ -8,6 +8,19 @@
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/george/ct00544.htm",
         "speakers": [
             "CASE NO",
+            "CHAIRPERSON",
+            "KILLED",
+            "MS BURTON",
+            "MS MASEKO",
+            "MS SEROKE",
+            "<UNKNOWN>",
+            "NELSON ZUZILE MASEKO",
+            "TESTIMONY BY",
+            "THOBEKA DORIS MASEKO",
+            "VICTIM"
+        ],
+        "original_speakers": [
+            "CASE NO",
             "VICTIM",
             "NELSON ZUZILE MASEKO\n",
             "NATURE OF VIOLENCE",
@@ -37,7 +50,7 @@
             "Unknown"
         ],
         [
-            "NATURE OF VIOLENCE",
+            "<UNKNOWN>",
             "",
             "Unknown"
         ],

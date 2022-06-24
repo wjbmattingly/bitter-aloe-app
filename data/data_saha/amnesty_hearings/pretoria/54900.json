@@ -10,6 +10,21 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54900&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/pta/vaneyck1.htm",
         "speakers": [
+            "ADV DE JAGER",
+            "ADV MPSHE",
+            "ADV PRINSLOO",
+            "BAND DAG BAND KANT B MIDDEL VAN BAND",
+            "JOHAN VAN EYCK",
+            "JUDGE MALL",
+            "JUDGE NGOEPE",
+            "MEV VAN DER WALT",
+            "MNR VAN EYCK",
+            "MR MPSHE",
+            "MR VAN EYCK",
+            "MS KHAMPEPE",
+            "ONDERVRAGING DEUR ADV MPSHE"
+        ],
+        "original_speakers": [
             "JOHAN VAN EYCK",
             "MRS VAN DER WALT",
             "MR VAN EYCK",
@@ -35,7 +50,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MRS VAN DER WALT",
+            "MEV VAN DER WALT",
             "Mr Van Eyck, you were also sentenced on the 18th of February 19 ... to 18 years imprisonment which you are currently serving in the Zonderwater Prison in Cullinan, as a result of the murder of the deceased.",
             "Female"
         ],
@@ -45,7 +60,7 @@
             "Male"
         ],
         [
-            "MRS VAN DER WALT",
+            "MEV VAN DER WALT",
             "Mr Van Eyck, you also joined the Police when you were very young. Is that correct?",
             "Female"
         ],
@@ -55,7 +70,7 @@
             "Male"
         ],
         [
-            "MRS VAN DER WALT",
+            "MEV VAN DER WALT",
             "How old were you then?",
             "Female"
         ],
@@ -65,7 +80,7 @@
             "Male"
         ],
         [
-            "MRS VAN DER WALT",
+            "MEV VAN DER WALT",
             "Mr Van Eyck, you are now testifying that you were involved in violence. Can you tell us whether this violence related to ordinary criminal activities or what was the case?",
             "Female"
         ],
@@ -75,7 +90,7 @@
             "Male"
         ],
         [
-            "MRS VAN DER WALT",
+            "MEV VAN DER WALT",
             "During that period, Mr Van Eyck, the period in which there was a lot of violence in the Black areas, were there any statements made by the leaders of the country, of which you were aware?",
             "Female"
         ],
@@ -85,7 +100,7 @@
             "Male"
         ],
         [
-            "MRS VAN DER WALT",
+            "MEV VAN DER WALT",
             "Are you now referring to which President?",
             "Female"
         ],
@@ -95,7 +110,7 @@
             "Male"
         ],
         [
-            "MRS VAN DER WALT",
+            "MEV VAN DER WALT",
             "When these statements were made, that these assaults and onslaughts had to be tackled, very harshly, how did you understand that?",
             "Female"
         ],
@@ -105,7 +120,7 @@
             "Male"
         ],
         [
-            "MRS VAN DER WALT",
+            "MEV VAN DER WALT",
             "The organisations which you mentioned, who were involved in the violence, now were you aware what their objectives were?",
             "Female"
         ],
@@ -115,7 +130,7 @@
             "Male"
         ],
         [
-            "MRS VAN DER WALT",
+            "MEV VAN DER WALT",
             "You then at some stage resigned from the Police?",
             "Female"
         ],
@@ -125,7 +140,7 @@
             "Male"
         ],
         [
-            "MRS VAN DER WALT",
+            "MEV VAN DER WALT",
             "Was this during May 1988?",
             "Female"
         ],
@@ -135,7 +150,7 @@
             "Male"
         ],
         [
-            "MRS VAN DER WALT",
+            "MEV VAN DER WALT",
             "Mr Van Eyck, when you say that there was close contact and liaison between yourself and the Police, could you tell us was that just liaison between yourself as a former policeman asking favours from the Police or did it actually involved Fidelity Guards?",
             "Female"
         ],
@@ -145,7 +160,7 @@
             "Male"
         ],
         [
-            "MRS VAN DER WALT",
+            "MEV VAN DER WALT",
             "Can you tell us did the Police ever assist Fidelity Guards in their investigations, their internal investigations?",
             "Female"
         ],
@@ -155,7 +170,7 @@
             "Male"
         ],
         [
-            "MRS VAN DER WALT",
+            "MEV VAN DER WALT",
             "Brig Daan van Wyk, did you know him whilst you were in the Police?",
             "Female"
         ],
@@ -165,7 +180,7 @@
             "Male"
         ],
         [
-            "MRS VAN DER WALT",
+            "MEV VAN DER WALT",
             "Mr Oosthuisen is accused number 1 in the case.",
             "Female"
         ],
@@ -175,7 +190,7 @@
             "Male"
         ],
         [
-            "MRS VAN DER WALT",
+            "MEV VAN DER WALT",
             "Wat gebeur - hoekom se u dit sal noodlottig wees?",
             "Female"
         ],
@@ -785,7 +800,7 @@
             "Unknown"
         ],
         [
-            "REGTER WILSON",
+            "UNKNOWN",
             "U het die man na die bosse geneem en die hele dag hom daar in die boom gehang?",
             "Unknown"
         ],
@@ -795,7 +810,7 @@
             "Unknown"
         ],
         [
-            "REGTER WILSON",
+            "UNKNOWN",
             "En was hierdie polisieman, was hy besig vir die hele dag, het julle probeer om met hom weer te praat?",
             "Unknown"
         ],
@@ -805,7 +820,7 @@
             "Unknown"
         ],
         [
-            "REGTER WILSON",
+            "UNKNOWN",
             "En hy het niks verder gedoen nie, hy het daar by die bosse gebly vir die hele dag?",
             "Unknown"
         ],
@@ -935,7 +950,7 @@
             "Male"
         ],
         [
-            "JUDGE WILSON",
+            "UNKNOWN",
             "Mr Van Eyck, do I understand you correctly when you say that you had nothing to do with the murder?",
             "Unknown"
         ],
@@ -945,7 +960,7 @@
             "Male"
         ],
         [
-            "JUDGE WILSON",
+            "UNKNOWN",
             "And you did not know that the other two would shoot the deceased?",
             "Unknown"
         ],
@@ -955,7 +970,7 @@
             "Male"
         ],
         [
-            "JUDGE WILSON",
+            "UNKNOWN",
             "And you did not assist in the shooting at all?",
             "Unknown"
         ],
@@ -965,7 +980,7 @@
             "Male"
         ],
         [
-            "JUDGE WILSON",
+            "UNKNOWN",
             "But you did not testify and the Judge therefore did not know that you had not assisted in the shooting?",
             "Unknown"
         ],
@@ -975,7 +990,7 @@
             "Male"
         ],
         [
-            "JUDGE WILSON",
+            "UNKNOWN",
             "But must we now accept these as the true facts, and say that you did not commit murder?",
             "Unknown"
         ],
@@ -985,7 +1000,7 @@
             "Male"
         ],
         [
-            "JUDGE WILSON",
+            "UNKNOWN",
             "And therefore you cannot ask for amnesty because you did not commit the murder?",
             "Unknown"
         ],
@@ -995,7 +1010,7 @@
             "Male"
         ],
         [
-            "JUDGE WILSON",
+            "UNKNOWN",
             "Yes, but that's something different. Thank you.",
             "Unknown"
         ],
@@ -1195,7 +1210,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY ADV PRINSLOO",
+            "ADV PRINSLOO",
             "As it pleases, Mr Chairperson. Mr Van Eyck, on your own version which you have submitted to the Commission, on your version you would have been guilty of murder as an accessory after the fact?",
             "Unknown"
         ],
@@ -1355,7 +1370,7 @@
             "Unknown"
         ],
         [
-            "FURTHER CROSS-EXAMINATION BY MR MPSHE",
+            "MR MPSHE",
             "Thank you, Mr Chairperson. Mr Van Eyck, just to be fair to you. The contention made to you by my learned friend of the ANC pamphlet, is on a pamphlet dated the 7th of August 1988, and the one allegedly made by Mr Tambo is dated 1986.  Will you agree with me that all these were said before the unbanning of political organisations?",
             "Male"
         ],
@@ -1410,12 +1425,12 @@
             "Unknown"
         ],
         [
-            "MRS VAN DER WALT",
+            "MEV VAN DER WALT",
             "Thank you very much.\nCOMMISSION ADJOURNS",
             "Female"
         ],
         [
-            "MRS VAN DER WALT",
+            "MEV VAN DER WALT",
             "I would, if you would give me the opportunity I would like to attempt to either place documentation before the Commission or to call a witness who will answer some of these questions. If you would perhaps grant me an adjournment until tomorrow, I will give you the assurance that we will be prepared to argue the case tomorrow and we will not waste any further time tomorrow, if you will grant me this indulgence.",
             "Female"
         ],
@@ -1435,7 +1450,7 @@
             "Unknown"
         ],
         [
-            "MRS VAN DER WALT",
+            "MEV VAN DER WALT",
             "Thank you, Mr Chairperson.",
             "Female"
         ],

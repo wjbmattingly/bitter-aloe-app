@@ -11,6 +11,12 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54942&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/balfour/10balmot.htm",
         "speakers": [
+            "COMPANION",
+            "DR ALLY",
+            "MR LEWIN",
+            "MR MANTHATA"
+        ],
+        "original_speakers": [
             "DR ALLY",
             "MRS MOTLOUNG",
             "MR LEWIN",
@@ -26,7 +32,7 @@
             "Unknown"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "Yes, I am Motloung.",
             "Female"
         ],
@@ -36,7 +42,7 @@
             "Unknown"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "(sworn states)",
             "Female"
         ],
@@ -51,7 +57,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "Yes, I can hear you, thank you.",
             "Female"
         ],
@@ -61,7 +67,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "In 1993, on the sixth of June at night when we were asleep, I heard the police knocking just before sun rise.  I woke up and I opened the door.  They asked me where Mendi was and I told them that I didn't know his whereabouts.  They went with me in Mendi's room and the door was locked from outside.  When they realized that the door was locked, they went into the house, came back with an axe and they chopped the door open.  The three of them went inside.  All in all there were six of them.  Three went inside the house and three were left behind.  After a few minutes, I don't know what happened to them afterwards but Lindiwe was inside the house and when they found her inside, a gun was fired.  They went out with the mattress and they threw it on the ground.",
             "Female"
         ],
@@ -71,7 +77,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "We were still waiting outside and an ambulance came to take him to the hospital.  On the fifteenth of June, they arrived during the day to inform me that he passed away in the hospital.  We buried him and after the police came with a van and picked me up together with Lindiwe and my other sister.  They took us to the police station in town and they took a statement from us.  They said we shouldn't worry because they will never pick us up anymore.",
             "Female"
         ],
@@ -81,12 +87,12 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "Lindiwe was in the room with Mendi.  So they found her but at first, in your statement you say they did not find him.",
             "Female"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "They found Mendi together with Lindiwe in the room.",
             "Female"
         ],
@@ -96,7 +102,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "Lindiwe was in the house and she saw him and she heard them said, here's a person under the bed.",
             "Female"
         ],
@@ -106,7 +112,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "They only shot once.",
             "Female"
         ],
@@ -116,7 +122,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "They used to come to my house to search for Mendi and when I asked them, why were they looking for him, they said he was in possession of a firearm.",
             "Female"
         ],
@@ -126,7 +132,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "Yes, it happened several times.  Sometimes they would come and say Mendi fought with a policeman.",
             "Female"
         ],
@@ -136,7 +142,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "No Sir.",
             "Female"
         ],
@@ -146,7 +152,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "I have never seen him with a gun, Sir.",
             "Female"
         ],
@@ -156,7 +162,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "They were looking for Mendi.",
             "Female"
         ],
@@ -166,7 +172,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "Yes, he was a member of the PAC.",
             "Female"
         ],
@@ -176,7 +182,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "I really do not know.",
             "Female"
         ],
@@ -186,7 +192,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "They were after him because he was fighting the policeman.",
             "Female"
         ],
@@ -196,7 +202,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "I do not know, I was only given the news that he fought with the policeman.",
             "Female"
         ],
@@ -206,7 +212,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "I heard this from Lindiwe.",
             "Female"
         ],
@@ -216,7 +222,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "No, before he died.",
             "Female"
         ],
@@ -226,7 +232,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "No, she never told me anything.  I only heard that Mendi was running up and down with a policeman, fighting.",
             "Female"
         ],
@@ -236,7 +242,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "I asked him, Mendi, what's happening to you ?  Are you fighting with the policeman ?  He never told me the truth.",
             "Female"
         ],
@@ -246,7 +252,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "He never explained anything to me.",
             "Female"
         ],
@@ -256,7 +262,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "Yes, he was a student.",
             "Female"
         ],
@@ -266,7 +272,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "He hadn't taken a decision what to do after completing his Matric.",
             "Female"
         ],
@@ -276,7 +282,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "No Sir.",
             "Female"
         ],
@@ -286,7 +292,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "I went to look for a death certificate in Heidelberg.  My brothers went to look for it.",
             "Female"
         ],
@@ -296,7 +302,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "Yes.",
             "Female"
         ],
@@ -306,7 +312,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "I have a death certificate here with me.  I'm sorry, I can't read.",
             "Female"
         ],
@@ -316,7 +322,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "Lindiwe and my other daughter and a relative of mine went on that same day to the hospital.",
             "Female"
         ],
@@ -326,7 +332,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "No, he was just quiet.  He couldn't say a word.",
             "Female"
         ],
@@ -336,7 +342,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "No, there was no case against the police.",
             "Female"
         ],
@@ -346,7 +352,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "There was no case because I haven't heard of a case at all.",
             "Female"
         ],
@@ -356,7 +362,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "I do not know, I only learnt later that one of the policeman shot himself dead because he shot a person earlier on.",
             "Female"
         ],
@@ -366,7 +372,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "Yes, this was another person and after shooting this person he turned the gun on himself.",
             "Female"
         ],
@@ -386,7 +392,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "There is nothing specific Sir.",
             "Female"
         ],
@@ -396,7 +402,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "Yes, you can follow it up but I've lost hope because the policeman I've referred to has died.",
             "Female"
         ],
@@ -406,7 +412,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "Yes, carry on Sir.",
             "Female"
         ],
@@ -416,7 +422,7 @@
             "Male"
         ],
         [
-            "MRS MOTLOUNG",
+            "UNKNOWN",
             "This is Lindiwe next to me, Sir.",
             "Female"
         ],
@@ -426,7 +432,7 @@
             "Male"
         ],
         [
-            "MISS MOTLOUNG",
+            "UNKNOWN",
             "No.",
             "Female"
         ],
@@ -436,7 +442,7 @@
             "Male"
         ],
         [
-            "MISS MOTLOUNG",
+            "UNKNOWN",
             "Yes.",
             "Female"
         ],

@@ -11,6 +11,13 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54952&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/beaufort/ct00358.htm",
         "speakers": [
+            "ADV POTGIETER",
+            "CHAIRPERSON",
+            "MR YABO",
+            "MS BURTON",
+            "<UNKNOWN>"
+        ],
+        "original_speakers": [
             "MS BURTON\n",
             "MR YABO\n",
             "UNKNOWN\n",
@@ -70,7 +77,7 @@
             "Female"
         ],
         [
-            "UNKNOWN",
+            "<UNKNOWN>",
             "Bietjie voorentoe, skuif voorentoe.  Okay, okay.",
             "Unknown"
         ],

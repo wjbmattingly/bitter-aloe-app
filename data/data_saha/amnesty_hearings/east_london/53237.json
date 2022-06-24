@@ -11,6 +11,23 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53237&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99040608_el_990407el.htm",
         "speakers": [
+            "ADV SANDI",
+            "CHAIRPERSON",
+            "GEN GRIEBENAUW",
+            "GEN GRIEBENAUW",
+            "GEN GRIEBENAUW",
+            "JOHANNES LODEWIKUS GRIEBENAUW",
+            "MR AVENANT",
+            "MR CLAASSEN",
+            "MR KNOETZE",
+            "MR MAPOMA",
+            "MR NONTENJA",
+            "MR PENZHORN",
+            "MR SIBANYONI",
+            "MR VAN DER HOVEN",
+            "MR WAGENER"
+        ],
+        "original_speakers": [
             "CHAIRPERSON",
             "GENERAL GRIEBENAUW",
             "MR AVENANT",
@@ -35,7 +52,7 @@
             "Unknown"
         ],
         [
-            "GENERAL GRIEBENAUW",
+            "GEN GRIEBENAUW",
             "(sworn states)",
             "Unknown"
         ],
@@ -45,7 +62,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR AVENANT",
+            "MR AVENANT",
             "Thank you Chair.  Gen Griebenauw, you are the applicant in this matter, and you are applying for amnesty in respect of your participation in Operation Katzen.\n\tYou were attached to the South African Police, Security Branch.  Very briefly your background in the South African Police?",
             "Male"
         ],
@@ -265,7 +282,7 @@
             "Unknown"
         ],
         [
-            "MEMORANDUM BY GEN GRIEBENAUW HANDED IN AS EXHIBIT F",
+            "GEN GRIEBENAUW",
             ".",
             "Unknown"
         ],
@@ -395,7 +412,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR KNOETZE",
+            "MR KNOETZE",
             "I do, Mr Chairman.\n\tGeneral, could I take you to page 181 of the bundle, where you refer to this meeting under chairmanship of Joubert.  On behalf of General van der Westhuizen I want to put it to you that he cannot remember this meeting.  He does accept that such a meeting could have taken place.  Are you convinced that he was present at the meeting?",
             "Male"
         ],
@@ -650,7 +667,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR CLAASSEN",
+            "MR CLAASSEN",
             "Thank you, Mr Chairman.\n\tGeneral, a few questions.  Could I first refer you to paragraph 13 of the annexure to you application, where you say that with regards to the liberation of Charles Sebe:\n\"I requested members in my command to obtain information concerning this specific cell where Sebe was being held.\"\nMy client, Mr Fouche, it is that he received the instruction?",
             "Male"
         ],
@@ -780,7 +797,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR MAPOMA",
+            "MR MAPOMA",
             "Just a few, Sir.\n\tSir, you said you sent Major van der Merwe to attend a meeting in Port St Johns on the 10th of November 1986, do you recall that?",
             "Male"
         ],
@@ -1080,7 +1097,7 @@
             "Unknown"
         ],
         [
-            "FURTHER CROSS-EXAMINATION BY MR KNOETZE",
+            "MR KNOETZE",
             "Yes, please Mr Chairman, just two matters.\n\tGeneral, I must say you've confused me now.  I'd like to take you back to Exhibit B, paragraph 12.  Do you have the statement of Brigadier van der Merwe, or have you read it?  Please just answer, have you read this statement?",
             "Male"
         ],

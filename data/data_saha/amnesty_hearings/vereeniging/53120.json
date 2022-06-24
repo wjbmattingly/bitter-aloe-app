@@ -7,6 +7,21 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53120&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99011827_vrn_990121ve.htm",
         "speakers": [
+            "ADV SIGODI",
+            "CHAIRPERSON",
+            "INTERPRETER",
+            "MR BERGER",
+            "MR DA SILVA",
+            "MR LAX",
+            "MR MALINDI",
+            "MR MAPOMA",
+            "MR MAZIBUKO",
+            "MR SIBANYONI",
+            "MS CAMBANIS",
+            "MS PRETORIUS",
+            "MS TANZER"
+        ],
+        "original_speakers": [
             "MR MAZIBUKO",
             "MS CAMBANIS",
             "INTERPRETER",
@@ -91,7 +106,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MS TANZER",
+            "MS TANZER",
             "Mr Buthelezi, you said that ...(intervention)",
             "Female"
         ],
@@ -1211,7 +1226,7 @@
             "Male"
         ],
         [
-            "ADV STRYDOM",
+            "UNKNOWN",
             "Mr Chairperson, his answer was: \"Even if I wanted to I wouldn't have been able to because of the rush.\"  He qualified his answer.",
             "Unknown"
         ],
@@ -2106,12 +2121,12 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR BERGER",
+            "MR BERGER",
             "(Continued)  Thank you, Chairperson.",
             "Male"
         ],
         [
-            "MR STRYDOM",
+            "UNKNOWN",
             "Sorry to interrupt, Chairperson.  One of the applicants, Mr Vincent Kanjele, he already testified and he wants to be excused for two hours to go for a work interview which he can only do now.",
             "Male"
         ],
@@ -2121,7 +2136,7 @@
             "Unknown"
         ],
         [
-            "MR STRYDOM",
+            "UNKNOWN",
             "Thank you, Chairperson.",
             "Male"
         ],
@@ -2581,7 +2596,7 @@
             "Male"
         ],
         [
-            "MR STRYDOM",
+            "UNKNOWN",
             "Chairperson, I want to object to that question.  I don't know if my learned friend will lead that evidence but what's been handed to us is a list of events, the violence in the Vaal Triangle from a certain period to another period and if I look through that document there, there are many more such incidents where IFP supporters were killed.",
             "Male"
         ],
@@ -3841,7 +3856,7 @@
             "Unknown"
         ],
         [
-            "MR STRYDOM",
+            "UNKNOWN",
             "Yes, Chairperson, I thought it would be practical to number these pages, say for instance the last page which deals with Mkhize, well Xholeseni Mkhize is 107 and then make it 107A, B and C, just to have it in the correct place in the bundle and then the same would apply to Mr Mbatha's further documents.",
             "Male"
         ],
@@ -3851,7 +3866,7 @@
             "Unknown"
         ],
         [
-            "MR STRYDOM",
+            "UNKNOWN",
             "I agree, Chairperson.",
             "Male"
         ],
@@ -3906,7 +3921,7 @@
             "Unknown"
         ],
         [
-            "FURTHER EXAMINATION BY MR STRYDOM",
+            "UNKNOWN",
             "Thank you, Chairperson, only one or two questions.\n\tI just want to clarify one point.  At a certain stage you were asked about the reason why you are in custody now and you referred to either another matter or another massacre, did you say matter or massacre?",
             "Male"
         ],
@@ -3916,7 +3931,7 @@
             "Male"
         ],
         [
-            "MR STRYDOM",
+            "UNKNOWN",
             "Yes.  Do you have any reason whatsoever to protect the police or the Defence Force?",
             "Male"
         ],
@@ -3926,7 +3941,7 @@
             "Male"
         ],
         [
-            "MR STRYDOM",
+            "UNKNOWN",
             "You were also referred to the bundle and the document on page 109 and you were asked about the change, or the fact that certain portions of that question 11(b) was wrong and you were asked about meetings and you were scared to mention meetings.  You wanted that reference to the 10th of June to be deleted ...(intervention)",
             "Male"
         ],
@@ -3936,7 +3951,7 @@
             "Unknown"
         ],
         [
-            "MR STRYDOM",
+            "UNKNOWN",
             "I just put the background before I put the question.\n\tI want to refer you to your statement on page 117 and the first paragraph on that page.  I'm going to translate it to you and I want to know if you stand by that.",
             "Male"
         ],
@@ -3946,7 +3961,7 @@
             "Unknown"
         ],
         [
-            "MR STRYDOM",
+            "UNKNOWN",
             "Chairperson, the only point I want to make is that there was a suggestion that there was a particular reason for changing the, or asking for the 10th of June to be deleted, but in his original statement he said that he knew nothing of the attack before the 17th.  So there was no reason for him to change that because it was already contained in his statement.  That is the point I want to make.",
             "Male"
         ],
@@ -3956,7 +3971,7 @@
             "Unknown"
         ],
         [
-            "MR STRYDOM",
+            "UNKNOWN",
             "I want to refer you to page 117, to that paragraph which reads\n\"I knew nothing about the attack beforehand, it was only on the 17th of June 1992 at the stadium that I heard about it.\"\nIs that indeed your evidence?",
             "Male"
         ],
@@ -3966,12 +3981,12 @@
             "Male"
         ],
         [
-            "MR STRYDOM",
+            "UNKNOWN",
             "Thank you, Chairperson, no further questions.\nNO FURTHER QUESTIONS BY MR STRYDOM",
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MS PRETORIUS",
+            "MS PRETORIUS",
             "Just one question.\n\tWas Victor Keswa present on the 17th of June in Boipatong?",
             "Female"
         ],
@@ -4011,7 +4026,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR DA SILVA",
+            "MR DA SILVA",
             "May it please you, Mr Chairman.\n\tMr Mazibuko, I want to take you to where you described these group of attackers, where they were gathering in the veld between Boipatong and the road that leads to Vanderbijl Park.  In an answer to Mr  Berger's question you said that most of the attackers were in the veld, and I gather that what you meant was that most of the attackers were in the veld before they crossed the road.  Is that what you meant?",
             "Male"
         ],
@@ -4886,7 +4901,7 @@
             "Unknown"
         ],
         [
-            "MR STRYDOM",
+            "UNKNOWN",
             "No further questions, Chairperson.\nNO FURTHER QUESTIONS BY MR STRYDOM",
             "Male"
         ],

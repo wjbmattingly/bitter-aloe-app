@@ -12,6 +12,23 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=52720&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98070614_sbk_boipato2.htm",
         "speakers": [
+            "CHAIRPERSON",
+            "INTERPRETER",
+            "MR BERGER",
+            "MR BRINK",
+            "MR DA SILVA",
+            "MR LAX",
+            "MR MALINDI",
+            "MR MTHEMBU",
+            "MR PRIOR",
+            "MR SIBANYONI",
+            "MR STRYDOM",
+            "MR ZULU",
+            "MS PRETORIUS",
+            "VICTOR MTHANDENI MTHEMBU",
+            "VICTOR MTHEMBU"
+        ],
+        "original_speakers": [
             "VICTOR MTHANDENI MTHEMBU",
             "CHAIRPERSON",
             "MR BERGER",
@@ -46,7 +63,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR BERGER",
+            "MR BERGER",
             "(Continues)   Thank you Chairperson.\n\tMr Mthembu, is it correct that you came to the Vaal in 1988?",
             "Male"
         ],

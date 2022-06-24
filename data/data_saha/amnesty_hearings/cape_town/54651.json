@@ -6,6 +6,20 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54651&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/capetown/capetown_2kond1.htm",
         "speakers": [
+            "ADV DE JAGER",
+            "ADV GCABASHE",
+            "CHAIRPERSON",
+            "INTERPRETER",
+            "JUDGE PILLAY",
+            "MR BOOYENS",
+            "MR DU PLESSIS",
+            "MR JANSEN",
+            "MR MOOSA",
+            "MR ROUX",
+            "MR VISSER",
+            "<UNKNOWN>"
+        ],
+        "original_speakers": [
             "MR MOOSA",
             "CHAIRPERSON",
             "MR BOOYENS",
@@ -62,7 +76,7 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MR JANSEN",
+            "MR JANSEN",
             "Mr du Plessis, it is correct that you and your colleagues - that your deception or the fact that you misled the Harmse Commission, that this was successful?",
             "Male"
         ],
@@ -547,7 +561,7 @@
             "Unknown"
         ],
         [
-            "UNKNOWN",
+            "<UNKNOWN>",
             "...[inaudible}",
             "Unknown"
         ],
@@ -1942,7 +1956,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR ROUX",
+            "MR ROUX",
             "Mr du Plessis, if I understand you correctly, you wanted Kondile either to go to Transkei or Lesotho as an informer?",
             "Male"
         ],
@@ -2947,7 +2961,7 @@
             "Unknown"
         ],
         [
-            "FURTHER CROSS-EXAMINATION BY MR ROUX",
+            "MR ROUX",
             "Thank you Mr Chairman.\n\tMr du Plessis, I want to refer you to Volume 1, page 168, entry 264 - it's Volume 2.",
             "Male"
         ],
@@ -3177,7 +3191,7 @@
             "Unknown"
         ],
         [
-            "RE-EXAMINATION BY MR BOOYENS",
+            "MR BOOYENS",
             "Mr Chairman, arising from the questions your brother asked at this stage, perhaps - it seems to me there may still be some uncertainty, may I perhaps just ask a few questions in re-examination in this regard?\n\tMr du Plessis, let's put it simply, we're going through the various steps.  Initially you interrogate Mr Kondile and he provides you with information regarding the Lesotho operation.",
             "Male"
         ],

@@ -12,6 +12,12 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=52896&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98101215_jhb_joha2.htm",
         "speakers": [
+            "ADV STEENKAMP",
+            "BATANDWA GODLO",
+            "CHAIRPERSON",
+            "MR MHLABA"
+        ],
+        "original_speakers": [
             "BATANDWA GODLO",
             "MR MHLABA",
             "MR GODLO",
@@ -26,12 +32,12 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR MHLABA",
+            "MR MHLABA",
             "Mr Godlo, you have listened to the testimony of Mr Wanyane, who is your co-applicant in this matter, and very often your name was mentioned and do you confirm the contents of the testimony of Mr Wanyane, in so far as it relates to you, to be the truth?",
             "Male"
         ],
         [
-            "MR GODLO",
+            "BATANDWA GODLO",
             "Yes Mr Chairman.  I confirm everything that Stanley said here.  That is nothing else but the truth.",
             "Male"
         ],

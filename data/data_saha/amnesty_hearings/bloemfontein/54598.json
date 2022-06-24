@@ -10,6 +10,18 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54598&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/bloem/bloem1_bloem10.htm",
         "speakers": [
+            "ADV DE JAGER",
+            "ADV MPSHE",
+            "ADV MEMANI",
+            "INTERPRETER",
+            "JACK MENERA",
+            "JUDGE MGOEPE",
+            "JUDGE NGOEPE",
+            "JUDGE WILSON",
+            "MATTER POSTPONED",
+            "MR NEMANE"
+        ],
+        "original_speakers": [
             "JUDGE WILSON",
             "ADV MPSHE",
             "MR NEMANE",
@@ -100,12 +112,12 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY ADVOCATE MEMANI",
+            "ADV MEMANI",
             "Thank you Mr Chairman.\n\tMr Menera, is it correct that you are currently serving an effective sentence of ten years, having been convicted on 14 August 1992 of the following offences.  Two counts of attempted murder, two counts of malicious property, malicious injury to property, assault and escape from lawful custody?",
             "Unknown"
         ],
         [
-            "MR MENERA",
+            "JACK MENERA",
             "Yes, that is correct.",
             "Male"
         ],
@@ -115,7 +127,7 @@
             "Male"
         ],
         [
-            "MR MENERA",
+            "JACK MENERA",
             "Yes, that is correct.",
             "Male"
         ],
@@ -545,7 +557,7 @@
             "Male"
         ],
         [
-            "MR MENERA",
+            "JACK MENERA",
             "I was first going to request from this Committee that I say something before I start giving my evidence in regard to my application.",
             "Male"
         ],

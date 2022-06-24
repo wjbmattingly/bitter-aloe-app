@@ -10,6 +10,14 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55129&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/gtown/makafe.htm",
         "speakers": [
+            "CHAIRMAN",
+            "CHAIRPERSON",
+            "MS CRICHTON",
+            "MS MAYA",
+            "NTOMBOMZI MAKAFE",
+            "REV XUNDU"
+        ],
+        "original_speakers": [
             "NTOMBOMZI MAKAFE",
             "REVD XUNDU",
             "CHAIRPERSON",
@@ -22,7 +30,7 @@
     },
     "testimony": [
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "Mr Chairperson, I would like to swear in Ntombomzi Makafe.",
             "Unknown"
         ],
@@ -32,7 +40,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "Thank you.",
             "Unknown"
         ],
@@ -42,7 +50,7 @@
             "Unknown"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "I am 20 years old.",
             "Female"
         ],
@@ -57,7 +65,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "Ii was 11 years old.",
             "Female"
         ],
@@ -67,17 +75,17 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "We were playing together with my friends.  While we were playing, we heard a gunshot.  I fell down and I lost consciousness,  I woke up the next morning, I was in Port Elizabeth in hospital.  I stayed for a month in hospital in Port Elizabeth.  I was then discharged.  I was transferred here in Grahamstown, I stayed for a week here in Grahamstown.",
             "Female"
         ],
         [
-            "M MAYA",
+            "MS MAYA",
             "How were you injured?",
             "Unknown"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "I was injured in my stomach.",
             "Female"
         ],
@@ -87,7 +95,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "Yes, I was operated.",
             "Female"
         ],
@@ -97,7 +105,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "Yes.",
             "Female"
         ],
@@ -107,7 +115,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "I was in sub B.",
             "Female"
         ],
@@ -117,7 +125,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "No, I did not because my leg got injured.",
             "Female"
         ],
@@ -127,7 +135,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "I don't remember.",
             "Female"
         ],
@@ -137,7 +145,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "Yes, I did.",
             "Female"
         ],
@@ -147,7 +155,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "No, because if the weather is bad my leg, I feel pain in my leg.",
             "Female"
         ],
@@ -157,7 +165,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "No, I don't know.",
             "Female"
         ],
@@ -167,7 +175,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "Yes.",
             "Female"
         ],
@@ -177,7 +185,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "Yes, I know him.",
             "Female"
         ],
@@ -187,7 +195,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "It was Mpukumpuku.",
             "Female"
         ],
@@ -197,7 +205,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "Yes, it was Mr Khadi.",
             "Female"
         ],
@@ -207,7 +215,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "Yes, he was arrested because we used to go to court.  We went to court twice after that, we heard that he\nhas passed away.",
             "Female"
         ],
@@ -217,7 +225,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "Yes.",
             "Female"
         ],
@@ -227,7 +235,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "Yes.",
             "Female"
         ],
@@ -237,7 +245,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "I would like to be helped.",
             "Female"
         ],
@@ -247,7 +255,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "Yes, because my leg is not functioning well.",
             "Female"
         ],
@@ -257,7 +265,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "I stopped while I was doing standard 5.",
             "Female"
         ],
@@ -267,7 +275,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "Yes.",
             "Female"
         ],
@@ -287,7 +295,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "Yes, I can hear you.",
             "Female"
         ],
@@ -297,7 +305,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "I knew nothing about politics at that time.",
             "Female"
         ],
@@ -307,7 +315,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "No, Lindelwa is my mother.",
             "Female"
         ],
@@ -317,7 +325,7 @@
             "Female"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "No, I did not have a gun.",
             "Female"
         ],
@@ -332,7 +340,7 @@
             "Unknown"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "No, we did not see any toyi-toyi.",
             "Female"
         ],
@@ -342,7 +350,7 @@
             "Unknown"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "; We were three.  One of us passed away.",
             "Female"
         ],
@@ -352,7 +360,7 @@
             "Unknown"
         ],
         [
-            "MS MAKAFE",
+            "NTOMBOMZI MAKAFE",
             "Yes, it was Nontle Koliti.",
             "Female"
         ],

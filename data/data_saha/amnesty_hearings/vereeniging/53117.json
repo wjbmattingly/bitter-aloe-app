@@ -12,6 +12,33 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53117&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99011827_vrn_990119ve.htm",
         "speakers": [
+            "ADV PRIOR",
+            "ADV SIGODI",
+            "BHEKINKOSI MKHAKLAZENI MKHIZE",
+            "BHEKINKOSI MKHIZE",
+            "CHAIRPERSON",
+            "EXHIBIT R",
+            "INTERPRETER",
+            "MR BERGER",
+            "MR BUTHELEZI",
+            "MR DA SILVA",
+            "MR DLAMINI",
+            "MR LAX",
+            "MR MAPOMA",
+            "MR MBATHA",
+            "MR MDINISO",
+            "MR MKHIZE",
+            "MR MTHEMBU",
+            "MR OLCKERS",
+            "MR SHELLBERG",
+            "MR SIBANYONI",
+            "MR STRYDOM",
+            "MR TSHABANGU",
+            "MS CAMBANIS",
+            "MS PRETORIUS",
+            "MS TANZER"
+        ],
+        "original_speakers": [
             "CHAIRPERSON",
             "ADV PRIOR",
             "MR STRYDOM",
@@ -301,7 +328,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR STRYDOM",
+            "MR STRYDOM",
             "Thank you Chairperson.  Mr Mkhize, you applied for amnesty and you have filled in a so-called Form 1.  I want you to have a look at the document on page 61 of the index.",
             "Male"
         ],
@@ -1616,7 +1643,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MS PRETORIUS",
+            "MS PRETORIUS",
             "As the Chair pleases.  I would just like to know Mr Mkhize, you say you left your job because you were all alone, what did you mean by that?",
             "Female"
         ],
@@ -1686,7 +1713,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR DA SILVA",
+            "MR DA SILVA",
             "May it please you Mr Chairman.  Do you know a gentleman called Daniel Mabote, or Themba Mabote?",
             "Male"
         ],
@@ -1756,7 +1783,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MS TANZER",
+            "MS TANZER",
             "Are you aware of a resident in the hostel by the name of Andries Nosenga.",
             "Female"
         ],
@@ -2421,7 +2448,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR BERGER",
+            "MR BERGER",
             "As you please Chairperson.  Mr Mkhize ... (intervention)",
             "Male"
         ],
@@ -2461,7 +2488,7 @@
             "Unknown"
         ],
         [
-            "Exhibit R",
+            "EXHIBIT R",
             ".   Yes, very well.  Yes, Mr Berger.",
             "Unknown"
         ],
@@ -4911,7 +4938,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR BERGER",
+            "MR BERGER",
             "(continued)   Thank you Chairperson.  Mr Mkhize, did you know that Victor Keswa was a member of the IFP youth brigade?",
             "Male"
         ],
@@ -6861,7 +6888,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR BERGER",
+            "MR BERGER",
             "(continued)  Mr Mkhize, I take it that  you deny that there were any policemen involved in the attack on Boipatong?  You deny that there were any caspirs involved in the attack on Boipatong and you deny that there were any people wearing balaclavas who took part in the attack on Boipatong, would that be right?",
             "Male"
         ],
@@ -9046,7 +9073,7 @@
             "Unknown"
         ],
         [
-            "FURTHER CROSS-EXAMINATION BY MR BERGER",
+            "MR BERGER",
             "Thank you.  Mr Mkhize, how many days before the attack on Boipatong, did you make the public announcement that there was to be an attack on Boipatong, without giving the date?  How many days before the actual attack, did you make that public announcement that Boipatong was going to be attacked?",
             "Male"
         ],

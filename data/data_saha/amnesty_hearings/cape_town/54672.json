@@ -5,6 +5,24 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54672&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/capetown/capetown_benzien3.htm",
         "speakers": [
+            "ADV DE JAGER",
+            "CHAIRPERSON",
+            "INTERPRETER",
+            "JUDGE NGOEPE",
+            "JUDGE WILSON",
+            "MR BRINK",
+            "MR COOK",
+            "MR DONAN",
+            "MR LE GRANGE",
+            "MR PAPIER",
+            "MR PEDRO",
+            "MRS KOTZE",
+            "MS KHAMPEPE",
+            "MS KOTZE",
+            "SARAH MARIA KOTZE"
+        ],
+        "starting date": "UNKNOWN",
+        "original_speakers": [
             "MR COOK",
             "MR PEDRO",
             "MR DONAN",
@@ -22,8 +40,7 @@
             "MRS KOTZE",
             "NO FURTHER QUESTIONS BY MR DONAN",
             "CROSS-EXAMINIATION BY MR BRINK"
-        ],
-        "starting date": "UNKNOWN"
+        ]
     },
     "testimony": [
         [
@@ -342,7 +359,7 @@
             "Male"
         ],
         [
-            "RE-EXAMINATION BY MR DONAN",
+            "MR DONAN",
             "There has been a suggestion by my learned friend of a recent fabrication, a contradiction between what I put and what Mr Pedro has deposed to today.  May I in the traditional way hand in a privileged document, Mr Pedro will waive the privilege, the instructions which he gave me at the time of the trial, with my handwriting on, my handwritten notes, and I'd like to ask Mr Pedro to identify this document.  I unfortunately don't have any copies of it.",
             "Male"
         ],
@@ -537,7 +554,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR LE GRANGE",
+            "MR LE GRANGE",
             "Mr Pedro you've mentioned in cross-examination and in-chief to first of all Mr Donan, and then by Mr Cook, that when you arrived at Culemborg there were other Security Policemen there but you chiefly concentrated, I think, on Mr Benzien and Mr Nortje as the persons who you identified, is that correct?",
             "Male"
         ],
@@ -932,7 +949,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR COOK",
+            "MR COOK",
             "Thank you Chairperson.  Mrs Kotze could you please state your qualifications for the Committee.",
             "Male"
         ],
@@ -1077,7 +1094,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR DONAN",
+            "MR DONAN",
             "Thank you.  I have in front of me a document which is headed DSM4 which seems to be the same as the book which you have in front of you.",
             "Male"
         ],
@@ -2812,7 +2829,7 @@
             "Female"
         ],
         [
-            "NO FURTHER QUESTIONS BY MR DONAN",
+            "MR DONAN",
             ".",
             "Male"
         ],
@@ -2827,7 +2844,7 @@
             "Male"
         ],
         [
-            "NO RE-EXAMINATION BY MR COOK",
+            "MR COOK",
             ".",
             "Male"
         ],
@@ -2837,7 +2854,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINIATION BY MR BRINK",
+            "MR BRINK",
             "Just one.  Mrs Kotze, you have been here a long time, so I won't keep you long, but I wonder if you can help me.  We have heard a lot about the blocking out, this memory loss, be it involuntarily or voluntarily.  I presume one can get voluntarily memory loss, in the sense that you will the memory, the memory to go away.",
             "Male"
         ],

@@ -10,6 +10,15 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=52780&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98080304_mma_mmabath1.htm",
         "speakers": [
+            "ADV MOTATA",
+            "CHAIRPERSON",
+            "MR ENGELBRECHT",
+            "MR HENDRICKS",
+            "MR MPSHE",
+            "MR RAMPHELKE",
+            "MR VAN DEN BERG"
+        ],
+        "original_speakers": [
             "CHAIRPERSON",
             "MR RAMPHELKE",
             "MR HENDRICKS",
@@ -132,7 +141,7 @@
             "Male"
         ],
         [
-            "ADVOCATE MOTATA",
+            "ADV MOTATA",
             "Mr Engelbrecht, as regards what Advocate Mpshe has said, that section 19 notices were sent as early in July... (intervention).",
             "Unknown"
         ],

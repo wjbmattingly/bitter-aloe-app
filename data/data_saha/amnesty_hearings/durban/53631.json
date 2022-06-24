@@ -10,6 +10,17 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53631&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/9908100903_dbn_990830dn.htm",
         "speakers": [
+            "ADV BOSMAN",
+            "CHAIRPERSON",
+            "MR BOTHMA",
+            "MR GORDHAN",
+            "MR LALLA",
+            "MR LAX",
+            "MR NEL",
+            "MR VISSER",
+            "MS THABETHE"
+        ],
+        "original_speakers": [
             "MR NEL",
             "MR BOTHMA",
             "CHAIRPERSON",
@@ -33,7 +44,7 @@
             "Male"
         ],
         [
-            "EXAMINATION BY MR NEL",
+            "MR NEL",
             "Mr Bothma, you are still in the Police Service today, is that correct?",
             "Male"
         ],
@@ -143,7 +154,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR VISSER",
+            "MR VISSER",
             "Thank you Chairperson.\n\tMr Bothma, before this date of the assault were you involved in any interrogation of Mr Gordhan?",
             "Male"
         ],
@@ -253,7 +264,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR GORDHAN",
+            "MR GORDHAN",
             "Yes Chairperson.\n\tWere you involved in any of the arrests of Vula detainees?",
             "Male"
         ],
@@ -818,7 +829,7 @@
             "Unknown"
         ],
         [
-            "FURTHER CROSS-EXAMINATION BY MR GORDHAN",
+            "MR GORDHAN",
             "Just a few Chairperson.\n\tMr Bothma, the offices you occupied were the offices of the security branch in Bethlehem and I imagine covering parts of the Free State region?",
             "Male"
         ],

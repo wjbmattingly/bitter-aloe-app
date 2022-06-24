@@ -12,6 +12,13 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=52897&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98101215_jhb_joha2.htm",
         "speakers": [
+            "ADV STEENKAMP",
+            "BEN MASISO",
+            "CHAIRPERSON",
+            "MR MHLABA",
+            "MR SIBANYONI"
+        ],
+        "original_speakers": [
             "BEN MASISO",
             "MR MHLABA",
             "MR MASISO",
@@ -27,12 +34,12 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR MHLABA",
+            "MR MHLABA",
             "Mr Masiso, you listened to the testimony of Mr Wanyane, the first applicant in this matter.  Can you confirm the testimony to be the truth in so far as it relates to the role you have played in this incident?",
             "Male"
         ],
         [
-            "MR MASISO",
+            "BEN MASISO",
             "Yes, that is correct.",
             "Male"
         ],

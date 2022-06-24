@@ -7,6 +7,17 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55774&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/polls/kleyn.htm",
         "speakers": [
+            "ADV NTSEBEZA",
+            "ADV POTGIETER",
+            "JOHN JOHANNES GEORGE CHRISTOFFEL KLEYN",
+            "<UNKNOWN>",
+            "MNR KLEYN",
+            "MR KLEYN",
+            "MS BURTON",
+            "MS GOBODO",
+            "MS WILDSCHUT"
+        ],
+        "original_speakers": [
             "ADV NTSEBEZA\n",
             "MR KLEYN\n",
             "ADV POTGIETER\n",
@@ -820,7 +831,7 @@
             "Unknown"
         ],
         [
-            "MEETING ADJOURNS ON RESUMPTION",
+            "<UNKNOWN>",
             "",
             "Unknown"
         ],

@@ -11,6 +11,13 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55097&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/george/ct00567.htm",
         "speakers": [
+            "ADV POTGIETER",
+            "CHAIRPERSON",
+            "MR STUURMAN",
+            "MS BURTON",
+            "<UNKNOWN>"
+        ],
+        "original_speakers": [
             "MS BURTON\n",
             "MR STUURMAN\n",
             "ADV POTGIETER\n",
@@ -260,7 +267,7 @@
             "Unknown"
         ],
         [
-            "UNKNOWN COMMISSIONER",
+            "<UNKNOWN>",
             "You now say there was some money that you got, how much was it?",
             "Unknown"
         ],

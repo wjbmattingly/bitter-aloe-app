@@ -18,6 +18,19 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=56217&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/hrvpmb/pmb4.htm",
         "speakers": [
+            "DR MGOJO",
+            "MANDLA MVUBU",
+            "MR DLAMINI",
+            "MR LAX",
+            "MR LYSTER",
+            "MR ZWANE",
+            "MRS GCABASHE",
+            "MS ZIQUBU",
+            "NOMUSA NXUMALO",
+            "ZAMA NDWANDWE"
+        ],
+        "starting date": "UNKNOWN",
+        "original_speakers": [
             "MS ZIQUBU",
             "MR LYSTER",
             "MR DLAMINI",
@@ -31,8 +44,7 @@
             "MRS N KUNENE",
             "DR MGOJO",
             "MANDLA MVUBU"
-        ],
-        "starting date": "UNKNOWN"
+        ]
     },
     "testimony": [
         [
@@ -1651,7 +1663,7 @@
             "Female"
         ],
         [
-            "MS NDWANDWE",
+            "ZAMA NDWANDWE",
             "Do I have to be sworn in?",
             "Female"
         ],
@@ -3541,7 +3553,7 @@
             "Male"
         ],
         [
-            "MS KUNENE",
+            "UNKNOWN",
             "Yes, I can hear you.",
             "Female"
         ],
@@ -3551,7 +3563,7 @@
             "Male"
         ],
         [
-            "MRS N KUNENE",
+            "UNKNOWN",
             "(Sworn, States)",
             "Female"
         ],

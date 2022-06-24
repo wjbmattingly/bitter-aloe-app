@@ -7,6 +7,15 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53275&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99041214_jhb_990412jh.htm",
         "speakers": [
+            "ADV SIGODI",
+            "CHAIRPERSON",
+            "DR TSOTSI",
+            "INTERPRETER",
+            "MR CLAASSEN",
+            "MR MVELASE",
+            "MS THABETE"
+        ],
+        "original_speakers": [
             "MR CLAASSEN",
             "CHAIRPERSON",
             "MR MVELASE",
@@ -34,12 +43,12 @@
             "Male"
         ],
         [
-            "T MVELASE",
+            "MR MVELASE",
             "(sworn states)",
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR CLAASSEN",
+            "MR CLAASSEN",
             "Thank you Mr Chairman.\n   Mr Mvelase, you heard the evidence given today by Mr Sigudu, you also filled out an application for amnesty in December of 1996 for which you then want to apply for amnesty.  Could you just start by very briefly telling this Commission what happened on that particular day of the incident.",
             "Male"
         ],
@@ -1104,7 +1113,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MS THABETE",
+            "MS THABETE",
             "I have a few Mr Chairperson.\n\tMr Mvelase, a few questions.  On page 7 of the bundle 10(a) of your application, you say that:\n\"Although the murder wasn't right, the intention was not to kill.\"\nIs that correct?",
             "Female"
         ],

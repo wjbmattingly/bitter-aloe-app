@@ -5,6 +5,19 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54655&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/capetown/capetown_3heidel.htm",
         "speakers": [
+            "ADV ARENDSE",
+            "ADV SANDI",
+            "CHAIRPERSON",
+            "INTERPRETER",
+            "INTERPRETERS",
+            "JUDGE WILSON",
+            "MR FOURIE",
+            "MR PRIOR",
+            "MR SIBAYA",
+            "MS QUNTA"
+        ],
+        "starting date": "UNKNOWN",
+        "original_speakers": [
             "MR SIBAYA",
             "MS QUNTA",
             "MR PRIOR",
@@ -15,8 +28,7 @@
             "INTERPRETER",
             "ADV ARENDSE",
             "MR FOURIE"
-        ],
-        "starting date": "UNKNOWN"
+        ]
     },
     "testimony": [
         [
@@ -475,7 +487,7 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MS QUNTA",
+            "MS QUNTA",
             "(cont)\n\tThank you Mr Chairman.  Mr Sibaya I would like to find out from you how long you've been working where you are working at present, how long have you been employed there?",
             "Female"
         ],
@@ -2230,7 +2242,7 @@
             "Unknown"
         ],
         [
-            "RE-EXAMINATION BY MR PRIOR",
+            "MR PRIOR",
             "Thank you.  Leading on from that question ...(intervention)",
             "Male"
         ],
@@ -2255,7 +2267,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY ADV ARENDSE",
+            "ADV ARENDSE",
             "Thank you.  Mr Sibaya ...(intervention)",
             "Unknown"
         ],
@@ -2975,7 +2987,7 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY ADV ARENDSE",
+            "ADV ARENDSE",
             "(cont)\n\tThank you Mr Chairman.  Mr Sibaya.",
             "Unknown"
         ],
@@ -3810,7 +3822,7 @@
             "Unknown"
         ],
         [
-            "RE-EXAMINATION BY MR PRIOR",
+            "MR PRIOR",
             "Mr Sibaya after you gave your statement in January of '94 and after you were told you weren't going to be called as a witness in the case did you think any more of the statement you had made at the police station?",
             "Male"
         ],
@@ -3845,7 +3857,7 @@
             "Unknown"
         ],
         [
-            "FURTHER CROSS-EXAMINATION BY MS QUNTA",
+            "MS QUNTA",
             "Yes.  You were shown a batch of photographs by Mr Mark Killian, were you not, is that correct?",
             "Female"
         ],
@@ -4020,7 +4032,7 @@
             "Unknown"
         ],
         [
-            "FURTHER CROSS-EXAMINATION BY ADV ARENDSE",
+            "ADV ARENDSE",
             "Mr Chairman just one question arising from that exchange between Advocate Sandi and Mr Sibaya.\n\tMr Sibaya it's clear to us now that since you have been sitting here, and you've been sitting here for a long time, you have been looking at Advocate Sandi quite a lot, would that be correct?",
             "Unknown"
         ],

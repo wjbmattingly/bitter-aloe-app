@@ -8,6 +8,18 @@
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/upington/ct04114.htm",
         "speakers": [
             "CASE NO",
+            "HARASSMENT",
+            "MR POTGIETER",
+            "MS ORR",
+            "MS WILDSCHUT",
+            "<UNKNOWN>",
+            "<UNKNOWN>",
+            "SHADRACK KWAZA",
+            "TESTIMONY FROM",
+            "VICTIM"
+        ],
+        "original_speakers": [
+            "CASE NO",
             "VICTIM",
             "SHADRACK KWAZA\n",
             "NATURE OF VIOLENCE",
@@ -37,7 +49,7 @@
             "Unknown"
         ],
         [
-            "NATURE OF VIOLENCE",
+            "<UNKNOWN>",
             "ASSAULT,",
             "Unknown"
         ],
@@ -47,7 +59,7 @@
             "Unknown"
         ],
         [
-            "SHOOTING BY POLICE",
+            "<UNKNOWN>",
             "",
             "Unknown"
         ],
@@ -62,7 +74,7 @@
             "Male"
         ],
         [
-            "MS KWAZA",
+            "SHADRACK KWAZA",
             "Yes I am well.  How are you?",
             "Female"
         ],

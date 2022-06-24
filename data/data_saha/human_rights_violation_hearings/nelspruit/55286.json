@@ -12,6 +12,14 @@
         "speakers": [
             "CHAIRPERSON",
             "GLADYS THANDI MATHEBULO",
+            "MR LEWIN",
+            "MRS HATHEBULA",
+            "MRS MATHEBULA",
+            "<UNKNOWN>"
+        ],
+        "original_speakers": [
+            "CHAIRPERSON",
+            "GLADYS THANDI MATHEBULO",
             "MRS HATHEBULA",
             "MR LEWIN",
             "MRS MATHEBULA",
@@ -155,7 +163,7 @@
             "Male"
         ],
         [
-            "QUESTION",
+            "<UNKNOWN>",
             "Mrs Mathebula, I'd just like to ask you a few questions, how old were you when you were sentenced to this term of imprisonment?",
             "Unknown"
         ],
@@ -165,7 +173,7 @@
             "Female"
         ],
         [
-            "QUESTION",
+            "<UNKNOWN>",
             "At the time when your family paid the R750, was that for bail pending an appeal being lodged against the sentence?",
             "Unknown"
         ],
@@ -175,7 +183,7 @@
             "Female"
         ],
         [
-            "QUESTION",
+            "<UNKNOWN>",
             "Did you have a lawyer who was assisting you\nwith the appeal?",
             "Unknown"
         ],
@@ -185,7 +193,7 @@
             "Female"
         ],
         [
-            "QUESTION",
+            "<UNKNOWN>",
             "Also during the time that you were in prison, at any stage did any magistrate visit you?",
             "Unknown"
         ],
@@ -195,7 +203,7 @@
             "Female"
         ],
         [
-            "QUESTION",
+            "<UNKNOWN>",
             "In prison, the three years that you spent there.  At any time when you were ill, did any magistrate or NELSPRUIT  HEARING TRC/MPUMALANGA\n9 MATHEBULA\ndistrict surgeon visit you in the prison to check on your health,  your condition?",
             "Unknown"
         ],
@@ -205,7 +213,7 @@
             "Female"
         ],
         [
-            "QUESTION",
+            "<UNKNOWN>",
             "One last, two questions. Did you have any children from the marriage and did your marriage break up when you came out of prison or while you were still in prison?",
             "Unknown"
         ],
@@ -215,7 +223,7 @@
             "Female"
         ],
         [
-            "QUESTION",
+            "<UNKNOWN>",
             "Do you support yourself now?",
             "Unknown"
         ],

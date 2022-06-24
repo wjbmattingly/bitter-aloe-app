@@ -11,6 +11,15 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55762&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/polls/ct00108.htm",
         "speakers": [
+            "ADV POTGIETER",
+            "CHAIRPERSON",
+            "<UNKNOWN>",
+            "MR MBENYANA",
+            "MS BURTON",
+            "MS GOBODOMADIKIZELA",
+            "MS KONILE"
+        ],
+        "original_speakers": [
             "ADV POTGIETER\n",
             "MS KONILE\n",
             "MR MBENYANA\n",
@@ -187,7 +196,7 @@
             "Unknown"
         ],
         [
-            "MEETING ADJOURNS FOR TEA",
+            "<UNKNOWN>",
             "",
             "Unknown"
         ]

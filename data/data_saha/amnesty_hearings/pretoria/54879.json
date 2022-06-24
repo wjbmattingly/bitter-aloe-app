@@ -10,6 +10,17 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54879&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/pta/gerber.htm",
         "speakers": [
+            "ADV DE JAGER",
+            "CHAIRMAN",
+            "HENDRIK GERBER",
+            "JUDGE NGOEPE",
+            "JUDGE WILSON",
+            "MNR GERBER",
+            "MR GERBER",
+            "MRS VAN DER WALT",
+            "MS KHAMPEPE"
+        ],
+        "original_speakers": [
             "MR MPSHE",
             "MR PRINSLOO",
             "HENDRIK GERBER",
@@ -27,12 +38,12 @@
     },
     "testimony": [
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "As Mr Chairman has indicated, the first applicant will be Mr Hendrik Gerber, duly assisted by Adv Prinsloo.\nThe applicant is further seated on the far right side.",
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Chairperson, I call the witness Mr Gerber.  He is going to testify  in support of his application.",
             "Male"
         ],
@@ -42,7 +53,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR PRINSLOO",
+            "UNKNOWN",
             "Mr Gerber, you were sentenced to 20 years' imprisonment, is that correct?",
             "Male"
         ],
@@ -52,7 +63,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Is it correct, Mr Gerber, that the offence for which you apply for amnesty today, the deceased, Samuel Kanaka died on the 22st May 1991?",
             "Male"
         ],
@@ -62,7 +73,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "And that is the date around which this incident revolves?",
             "Male"
         ],
@@ -72,7 +83,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Mr Gerber, is it true that you are a member of the National Party and was a member at that  stage?",
             "Male"
         ],
@@ -82,7 +93,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Mr Gerber, you were a member of the South African Police.",
             "Male"
         ],
@@ -92,7 +103,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Could you tell the Committee when you became a member of the police and what followed thereafter?",
             "Male"
         ],
@@ -102,7 +113,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "(Inaudible).",
             "Male"
         ],
@@ -112,7 +123,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Did you sponsor it personally or by means of the Fidelity Guards?",
             "Male"
         ],
@@ -122,7 +133,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Mr Gerber, are you perhaps referring to 1991?",
             "Male"
         ],
@@ -132,7 +143,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "The bag which you found, where was it found?",
             "Male"
         ],
@@ -142,7 +153,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Were these  things always in  your car, the shock apparatus?",
             "Male"
         ],
@@ -152,7 +163,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Before you continue.  Was a  fire made at any stage?",
             "Male"
         ],
@@ -162,7 +173,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "(The interpreter did not hear the question).",
             "Male"
         ],
@@ -172,7 +183,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Mr Gerber, in the criminal case itself did you testify in the criminal case in which you were charged?",
             "Male"
         ],
@@ -182,7 +193,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Your testimony today differs from the testimony in that case.",
             "Male"
         ],
@@ -192,7 +203,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Can you tell the Commission why that is so?",
             "Male"
         ],
@@ -202,7 +213,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Mr Gerber, in that trial you denied that you had shot the deceased, is that correct?",
             "Male"
         ],
@@ -212,7 +223,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Mr Gerber, why was it so essential for you to investigate the R4 1/2  million robbery incident and to use people to infiltrate the Fidelity Guards, what is the reason for that?",
             "Male"
         ],
@@ -222,7 +233,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Mr Gerber, did you believe that there was a possibility of such a takeover of power by the ANC/PAC?",
             "Male"
         ],
@@ -232,7 +243,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Did you at any stage act against Samuel Ranaka\nfrom personal malice or hatred etc.?",
             "Male"
         ],
@@ -242,7 +253,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Mr Gerber, during the robbery during  which the R4 1/2  million was robbed, were any members of Fidelity Guards killed?",
             "Male"
         ],
@@ -252,7 +263,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "How could access have been gained to the building in the absence of internal help?",
             "Male"
         ],
@@ -262,7 +273,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Mr Gerber, as far as the investigations are concerned, the Fidelity Guards and the South African Police, was there cooperation or what was the position?",
             "Male"
         ],
@@ -272,7 +283,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "And specifically the investigation regarding the involvement, the possible involvement of the PAC?",
             "Male"
         ],
@@ -282,7 +293,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "The way in which investigations were done by  Fidelity Guards in conjunction with the police, what was your view of this?  Were you part of the police, were you separate  from the police?",
             "Male"
         ],
@@ -292,7 +303,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Mr Gerber, was that operation known as Operation Watchdog?",
             "Male"
         ],
@@ -302,7 +313,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Mr Gerber, why would the police protect you if Samuel had been taken to the  police in an  injured  state having been assaulted?",
             "Male"
         ],
@@ -312,7 +323,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Could you tell us why that would happen?  You said you wanted to take Samuel to the police station.",
             "Male"
         ],
@@ -322,7 +333,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "But the injuries  were not so serious that it would cause panic or embarrass them.  The injuries to his ankles were so slight.  Why did you shoot Samuel, the deceased?",
             "Male"
         ],
@@ -332,7 +343,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "What would have been the importance, significance of gaining information from Samuel, in what connection was this important?",
             "Male"
         ],
@@ -342,7 +353,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "You mentioned Colonel Eugene  de Kock's name.",
             "Male"
         ],
@@ -352,7 +363,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Was there any stage at which you received ammunition or anything which was connected to Eugene de Kock?",
             "Male"
         ],
@@ -362,7 +373,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Can you tell the Commission about it?",
             "Male"
         ],
@@ -372,7 +383,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "What is its name?",
             "Male"
         ],
@@ -382,7 +393,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "At that stage was Brig Van Wyk still in the police or was he a member of Fidelity Guards?",
             "Male"
         ],
@@ -392,7 +403,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "So he was no longer  a member of the police?",
             "Male"
         ],
@@ -402,7 +413,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Mr Gerber, it might be an appropriate time for  a tea adjournment now, Chairperson.",
             "Male"
         ],
@@ -417,7 +428,7 @@
             "Unknown"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "What inference did you draw from the fact that you in the Fidelity Guards premises after the big robbery, the fact that you found these Chinese stick grenades and AK47s, and the AK47 shells in the car.",
             "Male"
         ],
@@ -427,7 +438,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "So, Mr Gerber, at that stage these Chinese stick grenades and the AK47 arms, were these things freely available?",
             "Male"
         ],
@@ -437,7 +448,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Now according to your knowledge, who used these kind of weapons?",
             "Male"
         ],
@@ -447,7 +458,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Mr Gerber, could you tell the Honourable Commission, the political climate reigning at the time, did that influence you at all?",
             "Male"
         ],
@@ -457,7 +468,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Did you believe that at that stage you were making progress or losing ground?",
             "Male"
         ],
@@ -467,7 +478,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "What motivated you to act in the way that you did act in this particular case?",
             "Male"
         ],
@@ -477,7 +488,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Your conduct and investigations which you performed at strategic key points such as Sasol field depots, etc., did you there cooperate there with members of the police?",
             "Male"
         ],
@@ -487,7 +498,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Were you still a member of the Police Reserve Force at the time?",
             "Male"
         ],
@@ -497,7 +508,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "How was that significant for you?",
             "Male"
         ],
@@ -507,7 +518,7 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Mr Gerber, how do you feel now after all these events?",
             "Male"
         ],
@@ -517,12 +528,12 @@
             "Male"
         ],
         [
-            "MR PRINSLOO",
+            "UNKNOWN",
             "Thank you, Chairperson, that is the evidence.\nNO FURTHER QUESTIONS BY MR PRINSLOO",
             "Male"
         ],
         [
-            "EXAMINATION BY MR MPSHE",
+            "UNKNOWN",
             "Mr Gerber, you testified that you have always been in contact with the Security Branch, is that correct?",
             "Male"
         ],
@@ -532,7 +543,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "Correct then at  the time when this offence was committed you were not a member of any security branch, the South African Police Security Branch, you were not a member?",
             "Male"
         ],
@@ -542,7 +553,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "And will it be further correct that what you did on this particular day, for why you are here, you were doing that in the interests of Fidelity Guards?",
             "Male"
         ],
@@ -557,7 +568,7 @@
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "Mr Gerber, as the Chairperson has indicated, you are entitled to answer in Afrikaans and you may listen to the interpreters on the headphones if you should need to do that.  If you don't understand  please just tell the Chairperson.",
             "Male"
         ],
@@ -567,7 +578,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "To take up on that.  You said you were acting to a certain extent in the interests of Fidelity Guards.  Can you continue.",
             "Male"
         ],
@@ -577,7 +588,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "It is on record,  Mr Gerber, that you interrogated the deceased because of the armed robbery that had taken place, am I correct?",
             "Male"
         ],
@@ -587,7 +598,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "How is  that connected with the security of the country?",
             "Male"
         ],
@@ -597,7 +608,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "I understand you very well, but I want us to confine ourselves to the incident at hand.  I said to you that you took this man to investigate or to interrogate him because of the armed robbery that had taken place.  Are we still together there?  Now my question I repeat.   How is this armed robbery connected to the security of the country as a whole?",
             "Male"
         ],
@@ -607,7 +618,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "Was deceased Samuel declared a terrorist?",
             "Male"
         ],
@@ -617,7 +628,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "I am going to show to you a letter which is now on the way to you and the members of the Committee.  I want you to have a look at that letter and tell if you know anything about it?",
             "Male"
         ],
@@ -627,12 +638,12 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "Honourable members of the Committee, it was written by the Managing Director, of Fidelity Guards.",
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "The date mentioned on the letter is 7 November 1989.  You will agree with me that it is a  year before this offence was committed.  Now when you went with Samuel and your other colleagues to the veld for interrogation, was there any shop steward present?",
             "Male"
         ],
@@ -662,7 +673,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "Were you not bound by the contents of this letter from your director to comply therewith seeing  that it  deals actually with the Trade Union of the deceased?",
             "Male"
         ],
@@ -672,7 +683,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "So you proceeded on your own.",
             "Male"
         ],
@@ -682,7 +693,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "... for purposes of this armed robbery, did it have to take place on an old mine heap in the veld?",
             "Male"
         ],
@@ -692,7 +703,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "Is the police station not a safe place to take him there and interrogate him there?",
             "Male"
         ],
@@ -702,7 +713,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "... to another branch of Fidelity Guards?  Seeing that you have got them all over the country.",
             "Male"
         ],
@@ -712,7 +723,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "You testified that you applied shock by means of the apparatus that you had.  Where particularly on his body did you apply this shock?",
             "Male"
         ],
@@ -722,7 +733,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "Now how did you succeed to do that on the private  parts, because he was hanging upside down and apparently he was in his clothes?",
             "Male"
         ],
@@ -732,7 +743,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "And you further testified there was no actual flames from the fire which you made except smoke.  If I put it to you that there will be evidence to the effect that his head was actually burnt up to the skin would you dispute that?",
             "Male"
         ],
@@ -742,7 +753,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "How many times  was the deceased shot by yourself?",
             "Male"
         ],
@@ -752,7 +763,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "Three, four, five times?",
             "Male"
         ],
@@ -762,7 +773,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "Where exactly on his body did the bullets hit him?",
             "Male"
         ],
@@ -772,7 +783,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "According to the post-mortem report the deceased's right arm had been shot off, or had been cut off, the right arm, we are talking about, had it been cut off?",
             "Male"
         ],
@@ -782,7 +793,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "What caused that?",
             "Male"
         ],
@@ -792,7 +803,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "You were present?",
             "Male"
         ],
@@ -802,7 +813,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "Was the deceased armed in any way?",
             "Male"
         ],
@@ -812,7 +823,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "Did that provoke this attack on him?",
             "Male"
         ],
@@ -822,7 +833,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "Was it then necessary to deal with him in this manner?",
             "Male"
         ],
@@ -832,7 +843,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "You shot him dead because you did not want to go to the police.",
             "Male"
         ],
@@ -842,7 +853,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "You testified that on the next day Samuel's fellow employees, Jack and Julius, they told you that they would make a statement that the deceased had been dropped off at his home.",
             "Male"
         ],
@@ -852,7 +863,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "Were these two not told by you to make such a statement?",
             "Male"
         ],
@@ -862,7 +873,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "If testimony should be heard that you had suggested to the two colleagues that they should make a statement saying that the deceased had taken you to Hammanskraal, Daveyton and  other places, how would you react to that?",
             "Male"
         ],
@@ -872,7 +883,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "But perhaps they couldn't do that because they knew what had happened in the past.   Maybe they were afraid to do that.",
             "Male"
         ],
@@ -882,7 +893,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "Mr Gerber, to take it a little bit further.  These two co-workers were present at the scene where Samuel  was assaulted by yourself and others.  They saw how you  applied shocks to Samuel's private parts and they saw how  you or your colleague shot at Samuel or they also saw how you reacted to Samuel.   This was quite sufficient  to make them very afraid.",
             "Male"
         ],
@@ -892,7 +903,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "But everything done by these two colleagues was done as a result of your instructions.",
             "Male"
         ],
@@ -902,7 +913,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "The report that Samuel was missing.   You testified that it was reported the next day that Samuel was missing.   Who made this report?",
             "Male"
         ],
@@ -917,7 +928,7 @@
             "Unknown"
         ],
         [
-            "MNR MPSHE",
+            "UNKNOWN",
             "Het hy nie op 'n sekere stadium van die boom afgeval en hy was toe weer opgehang deur uself en Van Eck?",
             "Unknown"
         ],
@@ -927,7 +938,7 @@
             "Unknown"
         ],
         [
-            "MNR MPSHE",
+            "UNKNOWN",
             "En u sal seker sulke getuienis betwis indien dit ... (tussenbeide).",
             "Unknown"
         ],
@@ -937,7 +948,7 @@
             "Unknown"
         ],
         [
-            "MNR MPSHE",
+            "UNKNOWN",
             "Dis reg.",
             "Unknown"
         ],
@@ -952,7 +963,7 @@
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "UNKNOWN",
             "I am indebted to you, Sir.",
             "Male"
         ],
@@ -1447,7 +1458,7 @@
             "Unknown"
         ],
         [
-            "RE-EXAMINATION BY MNR PRINSLOO",
+            "UNKNOWN",
             "Mnr Gerber, was u bereid gewees om dwang te gebruik deurentyd om inligting te kry?",
             "Unknown"
         ],
@@ -1457,7 +1468,7 @@
             "Unknown"
         ],
         [
-            "MNR PRINSLOO",
+            "UNKNOWN",
             "Was u bewus gewees watter kant die lede van die Vakbond hulleself geskaar het?  Aan watter party het hulle hulself geskaar?",
             "Unknown"
         ],
@@ -1467,7 +1478,7 @@
             "Unknown"
         ],
         [
-            "MNR PRINSLOO",
+            "UNKNOWN",
             "Het hulle julle beskerm as wit lede of nie op daardie stadium?",
             "Unknown"
         ],
@@ -1477,7 +1488,7 @@
             "Unknown"
         ],
         [
-            "MNR PRINSLOO",
+            "UNKNOWN",
             "Het u self aan die Vakbond behoort?",
             "Unknown"
         ],
@@ -1487,7 +1498,7 @@
             "Unknown"
         ],
         [
-            "MNR PRINSLOO",
+            "UNKNOWN",
             "So u het nie daardie beskerming geniet nie.",
             "Unknown"
         ],
@@ -1497,7 +1508,7 @@
             "Unknown"
         ],
         [
-            "MNR PRINSLOO",
+            "UNKNOWN",
             "In u polisie-loopbaan, is u bewus van gevalle waar mede-lede ander lede beskerm het waar hulle betrokke was by aanrandings?",
             "Unknown"
         ],
@@ -1507,7 +1518,7 @@
             "Unknown"
         ],
         [
-            "MNR PRINSLOO",
+            "UNKNOWN",
             "Is u vertroud met die stelsel waar 'n persoon in 'n polisiestasie aangehou word waar 'n Voorvalleboek bygehou word?",
             "Unknown"
         ],
@@ -1517,7 +1528,7 @@
             "Unknown"
         ],
         [
-            "MNR PRINSLOO",
+            "UNKNOWN",
             "En as 'n persoon sou kla dan word 'n Voorvalleboek inskrywing gemaak.",
             "Unknown"
         ],
@@ -1527,7 +1538,7 @@
             "Unknown"
         ],
         [
-            "MNR PRINSLOO",
+            "UNKNOWN",
             "Het dit in u loopbaan gebeur wat u van weet waar sulke inskrywings nie gemaak is nie desnieteenstaande dat 'n persoon wel gekla het?",
             "Unknown"
         ],
@@ -1537,7 +1548,7 @@
             "Unknown"
         ],
         [
-            "MNR PRINSLOO",
+            "UNKNOWN",
             "Is u enigsins bewus met gevalle waar lede van die polisie, spesifiek Moord en Roof in howe getuig het waar persone beweer het hulle is aangerand of gedwing om verklarings af te le?",
             "Unknown"
         ],
@@ -1547,7 +1558,7 @@
             "Unknown"
         ],
         [
-            "MNR PRINSLOO",
+            "UNKNOWN",
             "In sulke gevalle het daardie lede van die Moord en Roof dit erken of nie?",
             "Unknown"
         ],
@@ -1557,7 +1568,7 @@
             "Unknown"
         ],
         [
-            "MNR MPSHE",
+            "UNKNOWN",
             "Geen verdere vrae dankie, U Edele.",
             "Unknown"
         ],

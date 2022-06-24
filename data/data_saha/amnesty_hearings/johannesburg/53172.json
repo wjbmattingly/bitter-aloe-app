@@ -10,6 +10,15 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53172&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99020118_jhb_990203jh.htm",
         "speakers": [
+            "ADV GCABASHE",
+            "ADV STEENKAMP",
+            "CHAIRPERSON",
+            "INTERPRETER",
+            "MR RADEBE",
+            "MR SIBANYONI",
+            "MR SIBEKO"
+        ],
+        "original_speakers": [
             "CHAIRPERSON",
             "ADV STEENKAMP",
             "MR SIBEKO",
@@ -86,7 +95,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR SIBEKO",
+            "MR SIBEKO",
             "Thank you Mr Chairman.  Mr Radebe, you have made an application for amnesty.  Is that correct?",
             "Male"
         ],
@@ -511,7 +520,7 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY ADV STEENKAMP",
+            "ADV STEENKAMP",
             "Thank you Mr Chair, just one or two questions.  Sir according to the amnesty application on page 115, I'm referring to paragraph 11(b) Mr Chairman, do you have that?  You're saying there\n\"...I got an order as when needed.\nDid you, who was, can you first of all tell me who was your commanding officer, or did you have a commanding officer?",
             "Unknown"
         ],

@@ -11,6 +11,13 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54954&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/beaufort/ct00360.htm",
         "speakers": [
+            "CHAIRPERSON",
+            "DR RAMASHALA",
+            "MR METSING",
+            "MS SEROKE",
+            "<UNKNOWN>"
+        ],
+        "original_speakers": [
             "DR RAMASHALA\n",
             "MR METSING\n",
             "UNKNOWN\n",
@@ -40,7 +47,7 @@
             "Male"
         ],
         [
-            "UNKNOWN",
+            "<UNKNOWN>",
             "Could the victim move a little bit closer to the mike please.  He speaks soft.",
             "Unknown"
         ],

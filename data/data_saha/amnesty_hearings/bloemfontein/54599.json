@@ -10,6 +10,18 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54599&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/bloem/bloem1_bloem11.htm",
         "speakers": [
+            "ADV DE JAGER",
+            "ADV MPSHE",
+            "ADV MPSHE",
+            "INTERPRETER",
+            "JUDGE MGOEPE",
+            "JUDGE WILSON",
+            "MR DE RU",
+            "MR MADASA",
+            "MR MPSHE",
+            "MS THABETHE"
+        ],
+        "original_speakers": [
             "ADV MPSHE",
             "JUDGE WILSON",
             "MR MADASA",
@@ -210,7 +222,7 @@
             "Male"
         ],
         [
-            "J DE RU",
+            "MR DE RU",
             "(sworn states)",
             "Unknown"
         ],
@@ -230,7 +242,7 @@
             "Male"
         ],
         [
-            "EXAMINATION BY MR MADASA",
+            "MR MADASA",
             "As Mr Chair pleases.  Mr de Ru, is it correct that you are the applicant in this matter and you are applying for amnesty, is that correct?",
             "Male"
         ],
@@ -1150,7 +1162,7 @@
             "Unknown"
         ],
         [
-            "J DE RU",
+            "MR DE RU",
             "(s.u.o.)",
             "Unknown"
         ],
@@ -1365,7 +1377,7 @@
             "Unknown"
         ],
         [
-            "CROSS EXAMINATION BY MR MPSHE",
+            "MR MPSHE",
             "Thank you Mr Chairman.  Mr de Ru, at the time when you committed or at the time when you killed the two deceased what was your rank?",
             "Male"
         ],
@@ -2640,7 +2652,7 @@
             "Unknown"
         ],
         [
-            "J DE RU",
+            "MR DE RU",
             "(s.u.o.)",
             "Unknown"
         ],
@@ -3065,7 +3077,7 @@
             "Unknown"
         ],
         [
-            "FURTHER CROSS-EXAMINATION BY ADVOCATE MPSHE",
+            "ADV MPSHE",
             "Mr Chairman, I am going to refer to Exhibit H, that is the psychological report.  Mr de Ru, I do not know whether the question I am going to put to you, you will be able to answer or my learned friend will assist the Committee.  This Exhibit H, what does it seek to prove?",
             "Unknown"
         ],
@@ -3105,7 +3117,7 @@
             "Unknown"
         ],
         [
-            "RE-EXAMINATION BY MR MADASA",
+            "MR MADASA",
             "Thank you, Mr Chair.  Mr de Ru, is it correct that at the time you were employed by the South African Police, the divisions between various branches of the police were not strictly adhered to in terms of work that would be carried out by a particular division?  Do you understand my question?",
             "Male"
         ],

@@ -11,6 +11,18 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54246&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/2000/200612ct.htm",
         "speakers": [
+            "ABRAM VAN ZYL",
+            "CHAIRPERSON",
+            "INTERPRETER",
+            "MR COETZEE",
+            "MR KAHANOVITZ",
+            "MR LAX",
+            "MR MARTINI",
+            "MR SIBANYONI",
+            "MR WILLIAMS",
+            "MS COLERIDGE"
+        ],
+        "original_speakers": [
             "CHAIRPERSON",
             "ABRAM VAN ZYL",
             "MR BIZOS",
@@ -38,7 +50,7 @@
             "Unknown"
         ],
         [
-            "MR BIZOS",
+            "UNKNOWN",
             "You carry on.",
             "Male"
         ],
@@ -63,7 +75,7 @@
             "Unknown"
         ],
         [
-            "MR BIZOS",
+            "UNKNOWN",
             "Yes, Mr Chairman, I don't know whether the letter written to us, dated the 30th of May is available to you?",
             "Male"
         ],
@@ -73,7 +85,7 @@
             "Unknown"
         ],
         [
-            "MR BIZOS",
+            "UNKNOWN",
             "It indicates, I accept that its contents is true, nobody has - but indicates a very strange state of affairs.  It says that the original venue was not available, which we accept, but I want to read the rest of the letter, and I think that the Committee and we and our clients are entitled to an explanation as to whether these decisions are made as a prerogative of Mr van Zyl and his legal representative.\n\"... We are aware of the strong opposition raised at the amnesty hearing by Mr Martini the legal representative of Mr van Zyl, to the change of venue, ie 7th floor, 106 Adderley Street, Cape Town.  On 29th May 2000, the writer attempted to conduct a telephonic conversation with the said Attorney, informing him of the developments in the matter.  From the outset of the conversation, he refused to communicate to the writer to the extent of him refusing any future telephonic conversation.  Mr du Plessis, representing Mr Burger, Mr Maree, Mr Basson, Mr Barnard and Mr Alex Bosman representing Gen Verster have indicated to the writer that they are not opposed to the change of the venue.  We wish to point out that the order, by consent in the High Court application in the case of Slang van Zyl  v Truth and Reconciliation Commission states that the TRC \"is interdicted from proceeding or continuing with the amnesty hearing in so far as the applicant is concerned, from the 13th of March to the 17th of March, pending the relocation of the venue.\"  The venue referred to in the said order is the Athlone Learning Centre.  Find annexed here to a copy of the order, by consent marked Annexure B.\nThe letter continues -\n\"... In the spirit of reconciliation, we reiterate the words of the Honourable Justice Miller in response to Mr Martini.  'We are aware that there has been a decision made, but I am also fully aware of the anxiety of the victims, and a change of venue I can assure you would be done in consultation with yourselves.  It is just done in honest endeavour to get something that is more convenient and more acceptable, for all the people.'  Find annexed hereto a copy of pages 763 to 764 of the transcript, marked Annexure C.  We await your urgent response, confirmation to the issue of the said venue by not later than 14H00, Thursday, 1st of June 2000.\"\n\tNow Mr Chairman, what is this power that Mr Martini and Mr van Zyl Slabbert purport to have?",
             "Male"
         ],
@@ -88,7 +100,7 @@
             "Male"
         ],
         [
-            "MR BIZOS",
+            "UNKNOWN",
             "I apologise, Mr Chairman, to the very important figure in public life.  It would indeed be a compliment to the applicant, which was not intended.\n\tMr Chairman, what is it that Mr van Zyl and his Attorney have, that we haven't got that the wishes of the other legal representatives and our clients' strongly felt wishes, are ignored and theirs, are accepted?  Thank you Mr Chairman.",
             "Male"
         ],
@@ -208,12 +220,12 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR KAHANOVITZ",
+            "MR KAHANOVITZ",
             "Yes.  Judge, there is one error that, part of the record that suggests that a certain policeman was a member of the South African Communist Party, but I think that will be noted by everyone.  More important, at page 728, approximately line 30, there is a question put by me and there is quote \"it is not my project, it is Maria's project\", that should obviously be \"Maree's.\"\n\tMr van Zyl, you will recall that towards the end of the proceedings on the last occasion, you were given an opportunity to reflect on the contents of the statements that you made while you were in detention, so that you could return today to point out which portions, if any, were untrue.  Are you in a position to now answer that question?",
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Yes Chairperson.  I have studied the Section 29 statements, it is my opinion that there is no difference with regard to the Section 29 statements and the statement that I submitted to the Honourable Commission and if there are any differences, then I will be able to clear that up.",
             "Male"
         ],
@@ -223,7 +235,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Chairperson, in terms of the Early Learning Centre incident and in terms of the Dullah Omar incident and in terms of the monkey foetus, the incidents for which I apply for amnesty, there are no differences.",
             "Male"
         ],
@@ -243,7 +255,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Chairperson, there is only one instance where this person is focusing on, and that is the Lubowski incident, where factually incorrect versions appear in the Section 29 statement, and I do not want to elaborate on that because this is not part of my application, and in terms of one instance for which I did not apply for amnesty, is the burning down of a printing press.\n\tI mentioned there that I gave Gakkie instructions to do this, it was not Gakkie, it was indeed Peaches Gordon.",
             "Male"
         ],
@@ -253,7 +265,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I just want to ascertain, are we on page 58?  Chairperson, I read to you and I think it may facilitate matters to comment afterwards.\n\"...  As far as I know, Chap handled Aitcheson.  I never saw them together, I do not know what he looks like.  Who shot Lubowski, I do not know, I am not able to say, although Aitcheson was tasked to work for him.\"\n\tThis factually is incorrect.   The last part - \t\"... Aitcheson was tasked to work for him.\"\n\tI do not have any knowledge of it, it was said to me, but that is incorrect.\n\"...  The submission was done by Chap ...\"\n\tthat is also incorrect.\n\"...  Staal and Joe Verster approved it and recommended it to the Chairperson ...\"\n\tthat is also incorrect.\n\"...  On the 1st of September 1989 I saw Chap made the submission to Chriso ...\" (transcriber's interpretation),\n\tthat is also incorrect.\n\"...  Shortly afterwards I went to the hotel room and went on leave the same day, I went to Cape Town, that is why I do not have any knowledge about the project and while I was in the Cape, I had Ferdi Barnard there on Omar's matter and he and I were in the Cape when Lubowski was shot.  That was the last time I saw Ferdi.\"\n\tThat is all correct.",
             "Male"
         ],
@@ -263,7 +275,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, in terms of the fact that Chap Maree handled Aitcheson, it was said to me, but I did not see that.  That factually is correct.",
             "Male"
         ],
@@ -273,7 +285,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "There is nothing wrong with that, that is not what I have said.  What I have read to you, what is incorrect here, I said in the third line, Aitcheson was tasked to work on him, that is the first incorrect statement that I pointed out to you.  I did not point the first sentence out to you as incorrect.",
             "Male"
         ],
@@ -283,7 +295,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, that is also not what I am saying.",
             "Male"
         ],
@@ -293,7 +305,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "The statement that Chappie handled Aitcheson?",
             "Male"
         ],
@@ -303,7 +315,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I don't know about that, in other words that is false.",
             "Male"
         ],
@@ -313,7 +325,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Chairperson, that was a Section 29 statement, which was made under coercion and that is just inferences put in here so that a statement could be made, so that one could be released.  That is why I am pointing out that it is incorrect.",
             "Male"
         ],
@@ -323,7 +335,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is not what I am saying, I said these were inferences that I drew.",
             "Male"
         ],
@@ -333,7 +345,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -343,7 +355,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so, because factually that is incorrect.  The only reason why I am doing this, is because I cannot prove it.  If I could prove it, then I would have told you this is correct.",
             "Male"
         ],
@@ -353,7 +365,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -363,7 +375,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "It could be so.  I do not know.",
             "Male"
         ],
@@ -378,7 +390,7 @@
             "Unknown"
         ],
         [
-            "ADV BIZOS",
+            "UNKNOWN",
             "(Microphone not on)",
             "Unknown"
         ],
@@ -398,7 +410,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "According to my perspective, yes.",
             "Male"
         ],
@@ -408,7 +420,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Yes, that is correct.",
             "Male"
         ],
@@ -418,7 +430,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -428,7 +440,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I agreed to concur with my instructions, and that this included criminal actions, is so.",
             "Male"
         ],
@@ -438,7 +450,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Yes, but I think one has to see it in the right perspective.",
             "Male"
         ],
@@ -448,7 +460,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Chairperson, when one continues with that paragraph it says on the following line\n\"... I saw my task as acting as a soldier and to protect the government of the day and to maintain the State dispensation.\"\n\tThat is why I did this, I was part of a structure that belonged to the Army and where instructions were given to me, which I concurred with.  No other benefit, there was no other benefit involved for me.",
             "Male"
         ],
@@ -458,7 +470,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.  Money played no role in the execution of any of these instructions.",
             "Male"
         ],
@@ -468,7 +480,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -478,7 +490,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -488,7 +500,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Yes.",
             "Male"
         ],
@@ -498,7 +510,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -508,7 +520,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -518,7 +530,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -528,7 +540,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is indeed so.",
             "Male"
         ],
@@ -538,7 +550,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, a better offer was made to me and that was through the Army and this was a simple business decision that I took.",
             "Male"
         ],
@@ -548,7 +560,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is indeed so.",
             "Male"
         ],
@@ -558,7 +570,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "This dealt, this was about an incident where Jack le Grange and van der Merwe were accused of murder and van der Merwe would have alleged to the then Attorney General, Claus von Lieres, that he conveyed certain messages to me which was not true, and I was approached in that regard and I told Mr von Lieres that the statements that van der Merwe was making, were false and because of that I was not prepared to testify about it, and because of my refusal to testify in court that he deemed it necessary to contact Gen Stan Schutte and tell him that there was a breach of trust between the two Officers and because of that, I could not work at Brixton any longer.",
             "Male"
         ],
@@ -568,7 +580,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I did not say that I was not prepared, what I said was I was not prepared to testify in his court, to tell him what he wanted to hear, I will tell him what the truth is, but that what I wanted to testify about, was not what he wanted to hear about.",
             "Male"
         ],
@@ -578,7 +590,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, that is not what I am saying.  What he told me was that a statement was made by van der Merwe, which I denied and the mere fact that I denied that statement, he did not place any pressure afterwards on me to say that he would force me to come and testify in court,  he left me.",
             "Male"
         ],
@@ -588,7 +600,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is an inference that is drawn, this was never factually proven.  I deny it.",
             "Male"
         ],
@@ -598,7 +610,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I felt that it was unfair.",
             "Male"
         ],
@@ -608,7 +620,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Because of the inference that you made now, yes, that is so.",
             "Male"
         ],
@@ -618,7 +630,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so, yes.",
             "Male"
         ],
@@ -628,7 +640,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so, yes.",
             "Male"
         ],
@@ -638,7 +650,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Yes, I was naive enough at that stage, to believe it.",
             "Male"
         ],
@@ -648,7 +660,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Will you repeat the question please.",
             "Male"
         ],
@@ -658,7 +670,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "It is quite simple as this, Mr Chairperson, at that stage, I was 26 years old.  In my opinion just about every member of the Army and the then structures of the Police Force and other structures were brainwashed and were brainwashed by the government and what the government advocated and so forth, and I think it was naive and if you would table the same proposition today to me, I would not accept it.  I cannot explain it any better.\n\tAt that stage I was aware of how the prosecution structures worked and the investigative structures worked, but that is what I believed at that stage.  I think that it is no secret certainly that in most countries of the world, organisations like the CCB existed and probably still exists and that over the course of time, they look after those people so that those people are not exposed to any prosecution.\n\tSo it is in that light that I felt that we would be indemnified from any prosecution.",
             "Male"
         ],
@@ -668,7 +680,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I did not do this.",
             "Male"
         ],
@@ -678,7 +690,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I do not think that one could qualify it as secret legislature, but I think there are secret structures who make this possible, yes.",
             "Male"
         ],
@@ -688,7 +700,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Technically I do understand the word indemnify.",
             "Male"
         ],
@@ -698,7 +710,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.  And I referred furthermore Chairperson, that no evidence existed against those persons that would have enabled the Police to act legally against them, in other words to arrest and prosecute them.",
             "Male"
         ],
@@ -708,7 +720,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -718,7 +730,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -728,7 +740,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "It is not an instance of me protecting him, it is the truth.",
             "Male"
         ],
@@ -738,7 +750,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Approximately 80 at that stage.",
             "Male"
         ],
@@ -748,7 +760,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -758,7 +770,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -768,7 +780,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -778,7 +790,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Yes.",
             "Male"
         ],
@@ -788,7 +800,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That may be.",
             "Male"
         ],
@@ -798,7 +810,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is indeed so.",
             "Male"
         ],
@@ -808,7 +820,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Mr Chairperson,  I just want to explain it in the following way.   What I said here is that I mentioned that Matthysen had no knowledge of any of our activities or projects, I specifically referred to the projects for which I am applying for amnesty and also the other projects mentioned in my statement.\n\tMr Matthysen was very aware of it that we were working for the Army, he was one hundred percent informed about this, but he was not, he did not have any knowledge about the specifics of what we were busy with, in other words the project regarding Min Omar, or the project regarding the monkey and that is what I am trying to say to you.",
             "Male"
         ],
@@ -818,7 +830,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I never discussed anything with Mr Matthysen regarding my activities, being covert, or whatever aspect of the work it might have been.  I can admit that Mr Matthysen did know that we were working for the Defence Force, but the degree to which he knew about it and what he knew about it further, I cannot say.  You will have to ask Mr Burger about it, they were good friends.  Maybe he told him more.",
             "Male"
         ],
@@ -828,7 +840,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "None, Mr Chairperson, not that I know of.",
             "Male"
         ],
@@ -838,7 +850,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I agree with you Chairperson, but I once again want to sketch it out for you that our employers' tax and our UIF, I don't know if they subtracted it back then, but our tax was already deducted by the Army before we received our salaries.\n\tIt was not the function, as I understood it, of Mr Matthysen to subtract this amount of money.  Mr Matthysen in all probability, as I see it, only facilitated us by giving us cover.  In other words myself and Staal and Calla and Chap, could give our then colleagues at Brixton and other people that we knew, in a fraudulent manner, pretend to be employees of Matthysen and Matthysen would then confirm this.\n\tWe didn't do any work for him, for which he had to compensate us.  We got our compensation or our money from the Treasury.",
             "Male"
         ],
@@ -848,7 +860,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No Mr Chairperson, not even in this case, because we received our salaries in cash and the salaries did not go to Mr Matthysen and was deposited into his bank account and he gave us a cheque.  The only money that I know of that went directly to Mr Matthysen was the R30 000 that the State had approved, or the then Department of Defence, had allocated for me purchasing my vehicle.\n\tThat R30 000 as far as I know, was deposited into his account, by him and then he wrote out a cheque so that I could purchase the vehicle, and that is all that I know of.",
             "Male"
         ],
@@ -863,7 +875,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I saw Mr Matthysen about two years ago, over a period of about 12 years.  I saw him regarding a business transaction, because of the work that I am doing at the moment, and he had a problem and I saw him relating to this and since then, not.",
             "Male"
         ],
@@ -873,7 +885,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Yes, if you want to call it a client, then you may call it a client, but I did not do any investigative work for him, it was only a conversation regarding a potential investigation.  At the end of the day I did not do any investigation for him and I did not send him an account.",
             "Male"
         ],
@@ -883,7 +895,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I understand that Mr Matthysen did retire at a certain stage, and I do understand that he is involved in business again, also a bus company.  From where he functions, I do not know.  This is what I hear.",
             "Male"
         ],
@@ -893,7 +905,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No.",
             "Male"
         ],
@@ -903,7 +915,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No.",
             "Male"
         ],
@@ -913,7 +925,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I do not know.",
             "Male"
         ],
@@ -923,7 +935,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "The original Matthysen bus transport service was sold to Unitrans, the Unitrans Group.  They bought it, although the buses are still operating under the name of Matthysen Bus Service, they bought the whole service.",
             "Male"
         ],
@@ -933,7 +945,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -943,7 +955,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -953,7 +965,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -963,7 +975,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -973,7 +985,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No idea, Mr Chairperson.",
             "Male"
         ],
@@ -983,7 +995,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I will accept that that specific person's name was known at that stage, and that it would have appeared in documentation, but it was, I cannot tell you now.",
             "Male"
         ],
@@ -993,7 +1005,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I think it is very difficult to say, I will accept that there would have had to be a relationship with a banned organisation.",
             "Male"
         ],
@@ -1003,7 +1015,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "What happened Mr Chairperson, is that there were names of persons who allegedly were members of SWAPO and these names were given to me.\n\tThese names I gave to Peaches and Peaches according to him, could track down one of these people, and additionally he  brought it under my attention, that that person was responsible for supporting supporters to a terrorist hearing with the bus.  Whether he was the owner of the bus, I do not know.\n\tI channelled this information through to the Co-ordinator and I assume that this information was tested by means of the Information Structure and as a result thereof, I received instructions to burn out the vehicle.",
             "Male"
         ],
@@ -1013,7 +1025,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I think it would have been a disruptive action, Mr Chairperson, maybe to disrupt people for one or two days, so that they could not get to the trial.",
             "Male"
         ],
@@ -1023,7 +1035,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "What I am saying is that I received the legal instruction to do that.  At that stage I did not think it through, and I did not think whether it was justifiable to burn out the bus or not, I just did what was asked of me to do, and I have already told you that I think if they were to give me the same instructions today, then naturally I wouldn't do it.\n\tAt that stage I was very naive.",
             "Male"
         ],
@@ -1033,7 +1045,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I agree with you Mr Chairperson, but I cannot think that there could have been any other reason for burning out the bus, other than it being a disruptive action.",
             "Male"
         ],
@@ -1043,7 +1055,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, I thought that it was a disruptive action so that we could prevent them from using the transport of supporters to go to the terrorist trial.",
             "Male"
         ],
@@ -1053,7 +1065,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Mr Chairperson, it was back then, in a time of undeclared war where we were fighting against the ANC, we were fighting against SWAPO, they took certain steps against us and we against them, and today you can ask yourself many questions, whether it was correct or not.\n\tAt that stage any person who then associated him- or herself with the then enemy, were seen as an enemy by me.",
             "Male"
         ],
@@ -1063,7 +1075,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -1073,7 +1085,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No.  It could not be lawful, but I will once again say that within the context of me receiving instructions, in terms of the structure that had been set up in which unlawful deeds were committed, and it is within that context that I saw it as a lawful instruction.\n\tI know that it was not lawful.",
             "Male"
         ],
@@ -1083,7 +1095,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "You can call it that.",
             "Male"
         ],
@@ -1093,7 +1105,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -1103,7 +1115,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I understand what you are saying and I agree, but I am not totally sure what the crux of the question is.",
             "Male"
         ],
@@ -1113,7 +1125,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I hear what you are saying.  Firstly, we received instructions that we had to execute.  It is so that one was part of the gathering of information for certain of those projects, it is so that one was part of the presentation stage that happened and one can say that there had been a very eager interest from our side, over and above the fact that we executed instructions, and that we followed up those instructions, but it was all within the work structure.\n\tBut it does not matter with what proposals I went to my Regional Manager or with what proposals I went to the Co-ordinator, but the eventual decision of what had to be done, and what did not have to be done, was with the Managing Director and the Chairperson, and from there we received the instructions and this is the reason why I want to tell the Honourable Commission how I understand it.",
             "Male"
         ],
@@ -1123,7 +1135,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "My first instruction, when a project was identified or a target was identified,  being elimination or burning it out, I would receive an instruction from my Regional Manager who would tell me, here we have information, let's name the bus incident, \"here is information relating to the bus incident, I want you to do a pre-study about how this bus would have to be burnt out\" and with this instruction I would come to Cape Town and I would meet my structure, I would make a proposal, I would put the proposal in writing and I would send it back, or I would submit it to the Regional Manager.  As a result of this proposal, an \"in-house\" is held where the project would then, at the end of the day, be approved or altered a little bit.",
             "Male"
         ],
@@ -1133,7 +1145,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is absolutely so, Mr Chairperson.  The initiative did not lay with us at grassroots level, we did not identify people and persons and say \"here is Mr X and we propose that he be eliminated\".  Those instructions came from the top, and we were only part of the preparation that was made in order to execute these instructions.",
             "Male"
         ],
@@ -1143,7 +1155,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "It might be the case.",
             "Male"
         ],
@@ -1153,7 +1165,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Is this specifically regarding Mr Omar?",
             "Male"
         ],
@@ -1163,7 +1175,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "What would happen is I would either receive an instruction from the Co-ordinator or from the Regional Manager, that would be specific and it would tell me \"go and investigate the possibility that this site must be damaged, or go and investigate the possibility that this person would have to be eliminated.\"  In other words, I would then receive an instruction to do a preliminary study and then I would have to come back.\n\tI would have to contact my structure and I would evaluate the situation and investigate it and then I would go back to my Regional Manager, with the post possible proposal or to the Co-ordinator and I would say to them \"listen, I propose that this project can be executed in the following manner.\"",
             "Male"
         ],
@@ -1173,7 +1185,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, what I said is that it is the case that Min Omar's name was given to me by my structure and then that I gave this name to the Co-ordinator so that the Co-ordinator could process it.\n\tBut the instruction, the further instruction in terms of Min Omar, came from the senior structure, to do a preliminary study.  The gathering of the information, that phase relating to Omar, was a secondary part of my work, and I executed it and I did it, but I did not necessarily expect them to come back to me relating to Min Omar and say to me \"prepare a project\".  \n\tThey could take this information and they could have given this information to a person in another region to handle it, or they could have given it to another person who was in my cell, to handle it.",
             "Male"
         ],
@@ -1183,7 +1195,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -1193,7 +1205,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No.  Because in my preliminary study, a target had already been identified to me and this target would be identified to me by the command structure.",
             "Male"
         ],
@@ -1203,7 +1215,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, when I receive my instructions regarding a preliminary study, they would say to me as was the case with Omar, a preliminary study would have to be done, so that he could be eliminated.\n\tA preliminary study would have to be done in terms of the bus, so that it could be burnt.  I will receive my instruction, it is not a case of me getting a cheque that I can fill in any amount.   I will just follow specific instructions.",
             "Male"
         ],
@@ -1213,7 +1225,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -1223,7 +1235,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -1233,7 +1245,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -1243,7 +1255,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, not at all.",
             "Male"
         ],
@@ -1263,7 +1275,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No.  That is absolutely correct.",
             "Male"
         ],
@@ -1273,7 +1285,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Regarding my projects, I had specific instructions that I received and I can explain myself in this way, and I can say that in my cases, regarding all my projects, I had clear instructions and no proposals came from my side, saying that we had to do this or that.",
             "Male"
         ],
@@ -1288,7 +1300,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -1298,7 +1310,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No.",
             "Male"
         ],
@@ -1308,7 +1320,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No.",
             "Male"
         ],
@@ -1318,7 +1330,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -1328,7 +1340,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -1348,7 +1360,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I cannot recall.  I would have to guess, probably two pages, I cannot recall.",
             "Male"
         ],
@@ -1358,7 +1370,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Could you please repeat that?",
             "Male"
         ],
@@ -1368,7 +1380,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No.  I accept that Mr Basson would then receive instructions to say that a pre-study has to be done and an \"in-house\" has to be held, but not, it is not necessary with regard to each pre-study that is done.\n\tI believe that an \"in-house\" would be held.  I cannot answer that question.",
             "Male"
         ],
@@ -1378,7 +1390,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is indeed so.",
             "Male"
         ],
@@ -1388,7 +1400,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Along with the Chairperson, I beg your pardon, the Managing Director.",
             "Male"
         ],
@@ -1398,7 +1410,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Yes.",
             "Male"
         ],
@@ -1408,7 +1420,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -1418,7 +1430,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I cannot tell you, but I would accept that it could have been anything from half an hour to probably an hour, hour and a half, I am not able to say.",
             "Male"
         ],
@@ -1428,7 +1440,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "What is discussed at the \"in-house\" Chairperson, is the submission of the pre-study that has been placed in writing by me, along with inputs from the Co-ordinator and inputs from the Regional Manager, that is what would be discussed there in order to bringing the project to execution according to the pre-study that had been done.",
             "Male"
         ],
@@ -1438,7 +1450,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I cannot tell you now whether in this specific regard, or in this specific instance,  alternatives were discussed with regard to the minibus.  That is possible that it was done, it is only humanly possible that alternatives would be discussed, but at the end of the day, and that is why at the end of the day the primary plan which was submitted, is actually discussed.",
             "Male"
         ],
@@ -1448,7 +1460,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -1458,7 +1470,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -1468,7 +1480,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I understood it that the final decision was the Chairman's decision and I would then accept that under the circumstances, the two persons who really decided whether a project would be executed, whether it should proceed or not, was the Managing Director, Joe Verster, or the Chairperson, Gen Webb, in certain of the projects.",
             "Male"
         ],
@@ -1478,7 +1490,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -1488,7 +1500,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "As far as I know, but it may be that in certain regards, the Regional Manager would be called in.  Whether this was done, I don't know.  My understanding of it, I understood during the second \"in-house\", only the Chairperson and the Managing Director would be present.",
             "Male"
         ],
@@ -1498,7 +1510,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Yes.",
             "Male"
         ],
@@ -1508,7 +1520,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -1518,7 +1530,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -1528,7 +1540,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Yes, that is what you said.  That is not what my testimony has been, but please finish your statement, I shall answer it.",
             "Male"
         ],
@@ -1538,7 +1550,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Yes, that is correct, I agree with that, but at that stage Chairperson, that project has not been approved  yet.  The project is only approved when it is submitted to the Chairperson and he gives his approval, and only then would I receive an instruction to execute that project.\n\tI think where the misunderstanding is here is these recommendations which one has to refer to, which has been done during the first \"in-house\" where I am present, a plan is then recommended to the Managing Director and that plan is taken further by him, to the Chairperson, and only at that level is it approved and then I shall receive an instruction to execute it.",
             "Male"
         ],
@@ -1548,7 +1560,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -1558,7 +1570,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -1568,7 +1580,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -1578,7 +1590,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -1588,7 +1600,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -1598,7 +1610,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -1608,7 +1620,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct, where the decision is then taken whether the project will be executed or not.",
             "Male"
         ],
@@ -1618,7 +1630,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct Chairperson.",
             "Male"
         ],
@@ -1628,7 +1640,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -1643,7 +1655,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -1653,7 +1665,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is how the system worked.  There was no other way.",
             "Male"
         ],
@@ -1663,7 +1675,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "The first time that I for example discussed the Min Omar incident with Joe Verster was at the first \"in-house\", I do not know whether he had knowledge, he controlled the whole structure, so that may be possible.",
             "Male"
         ],
@@ -1673,7 +1685,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, that was not an incident of us going left and right and offering money to persons.  In order to enable me to make a proper pre-study, I have to for example know how many persons I would use to execute the project and what they would be paid for their services, that is correct yes.\n\tBut this is information that I do need, and this is the risk attached to it, that is how the system worked, and that is how we executed it.",
             "Male"
         ],
@@ -1683,7 +1695,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I do not know Chairperson, that is a question that Wouter would have to answer, whom he spoke to, with what persons he liaised after he for example had received information from me with regard to the minibus, I do not know.  The structure worked as we had explained, on a need to know basis.\n\tI went up to Wouter Basson and whom he liaised with further, I am not able to say.",
             "Male"
         ],
@@ -1693,7 +1705,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That was my decision.",
             "Male"
         ],
@@ -1703,7 +1715,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "At that stage I wanted to test Ismail, I regarded it as a relatively low risk project.\n\tI had the choice, I could have used anyone of my three operatives, so it was only a decision.",
             "Male"
         ],
@@ -1713,7 +1725,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is indeed so, but that was the decision that I made.",
             "Male"
         ],
@@ -1723,7 +1735,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That was just a decision.",
             "Male"
         ],
@@ -1733,7 +1745,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -1743,7 +1755,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "It happened by means of negotiations, because I would make the first offer.",
             "Male"
         ],
@@ -1753,7 +1765,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No.",
             "Male"
         ],
@@ -1763,7 +1775,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, not at all.",
             "Male"
         ],
@@ -1773,7 +1785,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -1783,7 +1795,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No.",
             "Male"
         ],
@@ -1793,7 +1805,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -1803,7 +1815,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Ismail was a third person whom I handled.",
             "Male"
         ],
@@ -1813,7 +1825,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "They were all three known to each other.",
             "Male"
         ],
@@ -1823,7 +1835,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Peaches did, yes.",
             "Male"
         ],
@@ -1833,7 +1845,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That may be.",
             "Male"
         ],
@@ -1843,7 +1855,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I think they were members of the Americans.",
             "Male"
         ],
@@ -1853,7 +1865,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "It may be so.",
             "Male"
         ],
@@ -1863,7 +1875,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I didn't deem it necessary.",
             "Male"
         ],
@@ -1873,7 +1885,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "It was just a decision, I did not deem it necessary to do it, otherwise I would have done so.",
             "Male"
         ],
@@ -1883,7 +1895,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I believe that is what he thought, yes.",
             "Male"
         ],
@@ -1893,7 +1905,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I think you would have to ask that of the Co-ordinator, or you must have asked Mr Verster.",
             "Male"
         ],
@@ -1903,7 +1915,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is incorrect.",
             "Male"
         ],
@@ -1913,7 +1925,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Definitely.",
             "Male"
         ],
@@ -1923,7 +1935,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -1933,7 +1945,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -1943,7 +1955,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is entirely correct.",
             "Male"
         ],
@@ -1953,7 +1965,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No.",
             "Male"
         ],
@@ -1963,7 +1975,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Not at all.",
             "Male"
         ],
@@ -1973,7 +1985,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I am not certain whether I received that instruction because of the fact that I had supplied information with regard to Min Omar to the structure, or whether it was an independent decision that was taken and the instruction just fell in my lap.",
             "Male"
         ],
@@ -1983,7 +1995,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -1993,7 +2005,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is all.  Then I accept we have to investigate all the possibilities as to how the project would be brought to execution, and that is what we call the \"pre-study\", that is why in this regard I came down to the Cape and contacted Peaches in this regard, so that I could place a proposal in writing which I could send back to the Co-ordinator.",
             "Male"
         ],
@@ -2003,7 +2015,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -2013,7 +2025,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "With regard to Mr Trevor Manual I can recall that I did receive his name, but at that stage, weeks, a few weeks after I received his name, he was detained in terms of Security Legislation, and that is the only information which I sent back to them.",
             "Male"
         ],
@@ -2023,7 +2035,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "This was the instance, or the information which I received from Peaches, only specifically dealt with Min Dullah Omar.",
             "Male"
         ],
@@ -2033,7 +2045,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is what happened.",
             "Male"
         ],
@@ -2063,12 +2075,12 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR KAHANOVITZ",
+            "MR KAHANOVITZ",
             "(cont)\n\t... the Omar incident, could you just look at  page 117 of bundle A, paragraph 57 concerning a project to burn down a printing press.\n\tNow you say -\n\"... I received information early in June 1989 that the printing press was doing printing work for amongst others the ANC, the UDF, COSATU and other limited organisations.  The information was given to the CCB and a project was identified that the place would have to be burnt down.  After an \"in-house\" with the Managing Director, the Regional Director informed me that the project was approved and the place would have to be burnt down.  I gave Isgak instructions to execute the project.  Later he reported to me that the place had been burnt out and he was compensated with R2 000-00.  I also later heard that the printing press was never burnt out.\"\n\tDo you confirm that statement, correct?",
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is what you read and this is the incident that I referred to this morning Mr Chairperson, where the name was wrong.  Isgak should actually be Peaches.",
             "Male"
         ],
@@ -2078,7 +2090,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "When I compared it with my Section 29 statement and I read it through, it came to my attention, and this is why I mentioned it to you this morning.",
             "Male"
         ],
@@ -2088,7 +2100,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I know it was Peaches who was involved in this project, but Isgak or rather Gakkie, is mentioned here, it was not him.",
             "Male"
         ],
@@ -2098,7 +2110,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "From Peaches.",
             "Male"
         ],
@@ -2108,7 +2120,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I do not have a clue, Mr Chairperson.",
             "Male"
         ],
@@ -2118,7 +2130,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I do not know, I cannot remember.",
             "Male"
         ],
@@ -2138,7 +2150,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Mr Chairperson, I can see that this specific project was very briefly touched upon because it was discovered afterwards that execution had never been given tot he project, because it seems as if the place never existed.  That is why we briefly referred to it and not in detail as we did with the other projects.",
             "Male"
         ],
@@ -2148,7 +2160,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -2158,7 +2170,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -2168,7 +2180,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I cannot remember it.",
             "Male"
         ],
@@ -2178,7 +2190,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is the feedback that I received, or the impression that I was brought under, that that site did not exist and that accordingly was never burnt down.",
             "Male"
         ],
@@ -2188,7 +2200,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I agree with what you are saying, but I didn't do it.",
             "Male"
         ],
@@ -2198,7 +2210,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, it was Peaches, not Isgak.",
             "Male"
         ],
@@ -2208,7 +2220,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No.",
             "Male"
         ],
@@ -2218,7 +2230,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No.",
             "Male"
         ],
@@ -2228,7 +2240,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -2238,7 +2250,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -2253,7 +2265,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -2263,7 +2275,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "This was information that I gathered in time from Gakkie, that the place did not exist and accordingly nothing was burnt out.",
             "Male"
         ],
@@ -2273,7 +2285,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -2283,7 +2295,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "It might be, if one looks at it technically, but these statements were made many years ago.  It was made in co-operation with my legal representatives and one could possibly, from a legal technical point of view,  prove other aspects incorrect if you really want to, but this is the way we put it at that stage, and my evidence I am giving you today, are the true facts.",
             "Male"
         ],
@@ -2293,7 +2305,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "The information that I had received from Gakkie at a later stage is that the place did not exist.\n\tI do not know.  I mean I have told you, I cannot qualify myself in any other way.",
             "Male"
         ],
@@ -2308,7 +2320,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -2318,7 +2330,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -2328,7 +2340,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Regarding this project?",
             "Male"
         ],
@@ -2338,7 +2350,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "It must have been in the region of about July or August 1989.",
             "Male"
         ],
@@ -2348,7 +2360,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -2358,7 +2370,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I cannot comment on this.",
             "Male"
         ],
@@ -2368,7 +2380,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -2378,7 +2390,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -2388,7 +2400,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I think in practice, I do not know if such a theory is possible as a result of the systems applicable within the CCB, but in as far as it was applicable on my project, it was definitely not the case.",
             "Male"
         ],
@@ -2398,7 +2410,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -2408,7 +2420,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -2418,7 +2430,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I agree.",
             "Male"
         ],
@@ -2428,7 +2440,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is possible.",
             "Male"
         ],
@@ -2438,7 +2450,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -2448,7 +2460,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct Mr Chairperson.  I might just mention that Ismail's services were not used again after the bus incident.  Peaches, I started suspecting Peaches and this is also why at a stage I involved Ferdi in the monitoring project of Dullah Omar.  So I could have done a lot more probably in hindsight, but I didn't.",
             "Male"
         ],
@@ -2458,7 +2470,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I cannot remember it, I possibly did it.  Maybe I didn't.",
             "Male"
         ],
@@ -2468,7 +2480,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That he heard about what?",
             "Male"
         ],
@@ -2478,7 +2490,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, I would deny it if he made such a statement.  As Regional Manager, he was part of the first \"in-house\" process, so he cannot deny it.",
             "Male"
         ],
@@ -2488,7 +2500,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -2498,7 +2510,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "As I said, I possibly mentioned it to him, maybe I didn't.  I really cannot remember.",
             "Male"
         ],
@@ -2508,7 +2520,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No Mr Chairperson, indeed I reported back to them in writing that the bus had been burnt out, and that the printing press had been burnt down, because that was the initial information that I had received from the operators who were involved with this.",
             "Male"
         ],
@@ -2518,7 +2530,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I cannot remember that, I possibly did it.  Maybe I forgot to do it.",
             "Male"
         ],
@@ -2528,7 +2540,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Peaches was at that stage involved with the project of Min Omar, and that was a big project, so I did not have much choice.  Although I did have my doubts about him, I could not, I could possibly have done it, but I did not end his mandate at that point, as an operative.",
             "Male"
         ],
@@ -2538,7 +2550,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Yes, it probably is possible, but I don't want to prejudice myself, but it is possible.  I don't know if I reported it or not.  It might be possible.",
             "Male"
         ],
@@ -2548,7 +2560,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I should have done it, yes.",
             "Male"
         ],
@@ -2558,7 +2570,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, I think failure might just be something that you would like to forget.",
             "Male"
         ],
@@ -2578,7 +2590,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -2588,7 +2600,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -2613,7 +2625,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -2623,7 +2635,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, what I can say is that I submitted by project up to the first \"in-house\" level and that I then accept that Verster would submit the project further to the Chairperson, Gen Webb, and if Gen Webb is saying this and that he did not authorise it, then I cannot comment on it, I was not part of these processes, I cannot take it further than the first  \"in-house\".",
             "Male"
         ],
@@ -2633,7 +2645,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, I don't think this is what is said Mr Chairperson, because I mean, I also do not mean what Gen Webb will testify regarding these projects, but what I can tell you is that I accepted my Co-ordinator, and I can accept that my Regional Manager, as was the case with the Managing Director, that their knowledge regarding these project, that they would give their knowledge regarding these projects to the Commission and that they would testify on exactly the same basis  I am testifying on it.\n\tThe reasons why Gen Webb will say that he does not know about it, I do not know.  I was not part of this process.",
             "Male"
         ],
@@ -2643,7 +2655,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Yes Mr Chairperson, I know this is the case, but I stand under correction, but I myself think that Gen Webb had changed the statement because as a result thereof, you must remember at that time with the Harms Commission, it was relied on the right of privilege and as a result thereof, many things had not been said and as a result thereof, lies were also told.\n\tBut if Gen Webb comes here today and says that we as Region 6 internally did not act offensively against the enemies of the State and this did not include the killing of people from time to time, then he would be lying.",
             "Male"
         ],
@@ -2653,7 +2665,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I cannot comment on this.",
             "Male"
         ],
@@ -2663,7 +2675,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -2673,7 +2685,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "As I understood it, it was terms that were used where a person was identified as a target for the organisation and you per chance found yourself in an environment where you could disrupt that person, whatever that disruption would involve, and you could continue with that disruptive action.",
             "Male"
         ],
@@ -2683,7 +2695,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, what I am saying there Mr Chairperson, is that I had received an instruction from Staal that I would have to gather information relating to radical people in the Western Cape, but I then approached Peaches.\n\tIt was not a specific instruction to me to go to Peaches and say to him \"please bring me the information\".",
             "Male"
         ],
@@ -2693,7 +2705,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No.",
             "Male"
         ],
@@ -2708,7 +2720,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Yes, I am convinced that Mr Basson will give you the true version, this is not correct.",
             "Male"
         ],
@@ -2718,7 +2730,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct, Mr Chairperson.",
             "Male"
         ],
@@ -2728,7 +2740,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Naturally long after this statement had been made by Mr Basson, I was part of a process when we were handing in our amnesty applications, and what his exact evidence will be, I will not be able to tell you.  But I am aware of the fact that he supports me in my application regarding the Early Learning Centre, the Dullah Omar incident and all the other incidents.",
             "Male"
         ],
@@ -2738,7 +2750,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, what I am saying is that at that stage myself, Burger, Maree, Botha and Basson used the same legal representative and it is in this process that I had become aware of the fact that my application as it is written today, is supported by all the parties that I have just mentioned.",
             "Male"
         ],
@@ -2748,7 +2760,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "It is reasonably simple, where in the past it had been denied, where in 1990 when I testified before the Harms Commission, where I was pushed to one side and I was told that I had done things on my own and this was not the case, etc, in time those same people had realised that there is only one truth and this is the truth that I had told, and this is why I am supported in relation to my application.",
             "Male"
         ],
@@ -2758,7 +2770,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I think what I am saying here is that in terms of the first paragraph, it is clear that he said that only a monitoring process would be applied to Omar, which was not the case.",
             "Male"
         ],
@@ -2768,7 +2780,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, I see further in the next paragraph, I will just quote\n\"... the decision was made that mentioned Omar would have to be eliminated.\"\n\tI misunderstood it.  What I do say is that I did not receive instructions from him, I deny that, to gather further information relating to Omar.  The initial information that I had received concerning Omar and that had been channelled through regarding Omar, that was it, as far as my information was concerned.  A further instruction was to do a preliminary study so that he can be eliminated.  I deny this paragraph 2.",
             "Male"
         ],
@@ -2778,7 +2790,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I beg your pardon?",
             "Male"
         ],
@@ -2788,7 +2800,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -2798,7 +2810,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I do not know, you would have to ask him.",
             "Male"
         ],
@@ -2818,7 +2830,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I think it would be in the region of end June, beginning of July, if I remember correctly.",
             "Male"
         ],
@@ -2828,7 +2840,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "If I refer to a registered project here, what I mean by it is that it was approved by the Chairperson, and then I received an instruction from my Regional Manager to budget for it financially and to execute the project.",
             "Male"
         ],
@@ -2838,7 +2850,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I think it was at the end of June, beginning of July.",
             "Male"
         ],
@@ -2848,7 +2860,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, it was quite a while before that, I think it was in April.",
             "Male"
         ],
@@ -2858,7 +2870,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Because that was the time, could I have a look at my statement and then I will give you the date.  You have read it and you know what the date is.  The reason why I thought it was July was because I sent Ferdi down and I sent him down in August and in September and then it would be April.",
             "Male"
         ],
@@ -2868,7 +2880,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -2878,7 +2890,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Myself, the Regional Manager, the Managing Director.",
             "Male"
         ],
@@ -2888,7 +2900,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "The Co-ordinator.",
             "Male"
         ],
@@ -2898,7 +2910,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I cannot remember.",
             "Male"
         ],
@@ -2908,7 +2920,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I cannot remember that either.  It was probably approximately an hour, it could be longer.",
             "Male"
         ],
@@ -2918,7 +2930,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "My proposal about how the project would have to be executed.",
             "Male"
         ],
@@ -2928,7 +2940,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That Peaches would obtain two people to help him and that Mr Omar would then be shot at his house.",
             "Male"
         ],
@@ -2938,7 +2950,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "It would lead to further cut-off points, in other words if they were to be arrested, then I would be one step further away from being identified.",
             "Male"
         ],
@@ -2948,7 +2960,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No.",
             "Male"
         ],
@@ -2958,7 +2970,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is the way we worked.",
             "Male"
         ],
@@ -2968,7 +2980,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I think it was R15 000-00.  Wasn't it R15 000-00, it is written in my statement?",
             "Male"
         ],
@@ -2978,7 +2990,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -2988,7 +3000,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct, yes.",
             "Male"
         ],
@@ -2998,7 +3010,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, I mean naturally it did provide for plane tickets but what exactly it was, I cannot remember.",
             "Male"
         ],
@@ -3008,7 +3020,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "They would have been paid from this.",
             "Male"
         ],
@@ -3018,7 +3030,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I think they would each have received R5 000-00.",
             "Male"
         ],
@@ -3028,7 +3040,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -3038,7 +3050,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct, but it was a request when I did the preliminary study with Peaches, we discussed the matter, and it was requested that we provide them with a weapon with a silencer.  We then further thought that we would use a Russian made weapon, so that it could then not lead to Police or Army activities, so that it could lead away from the State in other words.",
             "Male"
         ],
@@ -3048,7 +3060,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Yes.",
             "Male"
         ],
@@ -3058,7 +3070,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, there were ones available, but maybe not as freely as today.",
             "Male"
         ],
@@ -3068,7 +3080,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -3078,7 +3090,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, the only thing that I can recall was that there was a debate with regard to where exactly Min Omar should be shot.  Would it have been in his yard or on his way to his home, I can recall that.",
             "Male"
         ],
@@ -3088,7 +3100,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "There was a decision that Mr Omar would be shot when he arrived at his home and when he parked his vehicle in his garage.",
             "Male"
         ],
@@ -3098,7 +3110,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "It seemed at that stage, to be the best plan ...(transcriber's interpretation)",
             "Male"
         ],
@@ -3108,7 +3120,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I don't know, that was the decision.  I cannot tell you now.  We evaluated the situation and it was a recommendation from my side that I thought this was the best plan.  I cannot explain it else.",
             "Male"
         ],
@@ -3118,7 +3130,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Yes.",
             "Male"
         ],
@@ -3128,7 +3140,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No Chairperson, once again this was done, we depended on the information that Peaches gave to me.",
             "Male"
         ],
@@ -3143,7 +3155,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -3153,7 +3165,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is how the system operated, that is how I handled it.  Other persons would have dealt with it differently, probably.",
             "Male"
         ],
@@ -3163,7 +3175,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -3183,7 +3195,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so and Staal, my Managing Director, gave me those instructions, I beg your pardon, the Regional Manager.",
             "Male"
         ],
@@ -3193,7 +3205,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Staal Burger, the Regional Manager.",
             "Male"
         ],
@@ -3203,7 +3215,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "He told me the project had been approved and I accepted it.  I accepted that he had spoken to the Chairperson.",
             "Male"
         ],
@@ -3213,7 +3225,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is difficult to say, but I would estimate it was in the vicinity of a week to  two weeks.",
             "Male"
         ],
@@ -3223,7 +3235,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -3263,7 +3275,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR KAHANOVITZ",
+            "MR KAHANOVITZ",
             "(cont)\n\tMr van Zyl, please go through page 101 of bundle A, paragraph 40 and if you could just read paragraph 40 into the record.\nMR VAN ZYL\n\"...In Johannesburg I verbally conveyed the progress of the project to the Regional Manager.  I was informed by Peaches three days afterwards, after he paged me, that he had obtained two persons to do the work and that R2 500-00 would be paid out to these persons.  The Regional Manager gave me instructions to hand in an application for R15 000-00.  I had handed this in with the Co-ordinator shortly afterwards.  The amount was received in cash from the Co-ordinator and I paid it into a banking account of Peaches in Johannesburg, R5 000-00.  The R10 000-00 that was left over, I left in the safe in my house.  Peaches would contact me by means of a page, the message \"the sun will shine\" if the project had been executed.  The project went slowly for four or five months and Peaches did not make any progress with the report.  Upon this, I asked Ferdi Barnard during July/August/September of 1989 to monitor Omar.  I want to add ...\"",
             "Male"
         ],
@@ -3293,7 +3305,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -3303,7 +3315,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "It was.",
             "Male"
         ],
@@ -3313,7 +3325,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -3323,7 +3335,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I don't know.",
             "Male"
         ],
@@ -3333,7 +3345,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No.",
             "Male"
         ],
@@ -3343,7 +3355,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -3373,7 +3385,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I cannot dispute that, I do not know whether that was the case.",
             "Male"
         ],
@@ -3383,7 +3395,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "If that is true, I should not know about it.  That is the interpretation of Mr Barnard in his statement and I can tell you that I met Ferdi, I only gave him instruction which he received in a post box with money, and if he received instructions from Lafras Luitingh, also to work on Mr Dullah Omar, then I do not have any knowledge of it, he never mentioned it to me.",
             "Male"
         ],
@@ -3393,7 +3405,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "It was in the beginning or towards the end of June, because June 1989 he went to Cape Town for the first time.",
             "Male"
         ],
@@ -3403,7 +3415,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -3413,7 +3425,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so Mr Chairperson.   Factually how it happened was that Ferdi for the first time, in July went to Cape Town, although the project was approved in April and thereafter he went in August and once again in September, so in other words from April to July when I sent him down for the first time, May, June, July, is three months approximately.",
             "Male"
         ],
@@ -3428,7 +3440,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Yes, the first person of Region 6, I do not regard Mr Barnard as an aware member of Region 6.",
             "Male"
         ],
@@ -3438,7 +3450,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Yes.",
             "Male"
         ],
@@ -3448,7 +3460,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I am aware of it.",
             "Male"
         ],
@@ -3458,7 +3470,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I am not aware of the information that was given.",
             "Male"
         ],
@@ -3468,7 +3480,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, I am not.",
             "Male"
         ],
@@ -3478,7 +3490,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "He was the first person who was arrested.",
             "Male"
         ],
@@ -3488,7 +3500,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "It may be.",
             "Male"
         ],
@@ -3498,7 +3510,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Chairperson, up to today, I have not read the statement of Ferdi, I did not regard it as important.  What he did in his Section 29 statement, I do not regard it as important.",
             "Male"
         ],
@@ -3508,7 +3520,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Barnard was arrested and he actually implicated Calla Botha and Calla Botha actually implicated me.",
             "Male"
         ],
@@ -3518,7 +3530,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -3528,7 +3540,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is true.",
             "Male"
         ],
@@ -3538,7 +3550,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Where did he not implicate me?",
             "Male"
         ],
@@ -3548,7 +3560,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Then you have to point this out to me.  If you are insinuating that he tried to protect me by saying that Lafras Luitingh gave him money in a post box and so forth, I don't know, maybe he did receive an instruction, maybe he lied to me, I would not know, I think you should put that question to him.",
             "Male"
         ],
@@ -3558,7 +3570,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I don't know, I cannot comment on that.",
             "Male"
         ],
@@ -3568,7 +3580,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "When I was detained in terms of Section 29, Ferdi Barnard was still in detention, and then he came out and I came out and I think the first time I saw him, the first time, I don't think I saw him at the Harms Commission, I did not contact him or go to him, I did not deem it necessary.\n\tHonestly, I did not need it because I was speaking the truth, that is why.  And I think the first time that I saw Ferdi was with the Webster post-mortem \tinquest that was held.",
             "Male"
         ],
@@ -3578,7 +3590,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I did not say that I thought that Barnard did not implicate me.  I know that he made certain statements and I know that Ferdi was involved in the monitoring of the Omar project, so he must have implicated me in that regard.  I did not tell you that he did not implicate me.",
             "Male"
         ],
@@ -3588,7 +3600,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I do not know.  I do not know him, so I do not know.",
             "Male"
         ],
@@ -3598,7 +3610,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No.  I am not interested in him.",
             "Male"
         ],
@@ -3608,7 +3620,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Not at all.",
             "Male"
         ],
@@ -3618,7 +3630,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I cannot.",
             "Male"
         ],
@@ -3628,7 +3640,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Ferdi at that stage, as I have said in my statement when I met him, that was approximately February of that same year, he mentioned to me that from an intelligence side, he could play an important role to me, so it was about the information aspects.",
             "Male"
         ],
@@ -3638,7 +3650,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "At that stage, yes.",
             "Male"
         ],
@@ -3648,7 +3660,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That was.",
             "Male"
         ],
@@ -3658,7 +3670,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I think it was a combination of the two.  The first would have been primary, in order to see that the information that I received from Peaches, was indeed the true version, and in order to enable him to do that, he had to monitor the movements of Omar.",
             "Male"
         ],
@@ -3668,7 +3680,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Firstly it was mentioned that Min Omar on various occasions would arrive at his home and he would be accompanied in most cases, by persons who were with him in the vehicle and that circumstances did not allow the project to be executed.",
             "Male"
         ],
@@ -3678,7 +3690,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -3688,7 +3700,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -3698,7 +3710,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I do not agree, and this made sense to me.",
             "Male"
         ],
@@ -3708,7 +3720,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -3748,7 +3760,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -3758,7 +3770,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -3768,7 +3780,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Page?",
             "Male"
         ],
@@ -3778,7 +3790,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I haven't got 1000 pages here.",
             "Male"
         ],
@@ -3808,7 +3820,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -3823,7 +3835,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so, correct.",
             "Male"
         ],
@@ -3833,7 +3845,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, he did not.",
             "Male"
         ],
@@ -3843,7 +3855,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I am not.",
             "Male"
         ],
@@ -3853,7 +3865,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I do not know of that.",
             "Male"
         ],
@@ -3863,7 +3875,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I did not attend any emergency meetings.   With the course of time, there were some enquiries by Joe Verster as well as Staal as to who was possibly responsible for it, but that was pure speculation, but I did not receive any call to attend any emergency meeting, where it was discussed.",
             "Male"
         ],
@@ -3873,7 +3885,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I cannot comment about that.",
             "Male"
         ],
@@ -3898,7 +3910,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That may be so, I cannot dispute it.",
             "Male"
         ],
@@ -3908,7 +3920,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Probably because I did not have any contact with him.",
             "Male"
         ],
@@ -3918,7 +3930,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Probably because I did not have any contact with him.",
             "Male"
         ],
@@ -3928,7 +3940,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -3938,7 +3950,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I do so.",
             "Male"
         ],
@@ -3948,7 +3960,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -3958,7 +3970,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -3968,7 +3980,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I have to deny that.",
             "Male"
         ],
@@ -3978,7 +3990,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No.",
             "Male"
         ],
@@ -3988,7 +4000,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Nobody told me.",
             "Male"
         ],
@@ -3998,7 +4010,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I deny that vehemently.",
             "Male"
         ],
@@ -4008,7 +4020,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I deny that too.",
             "Male"
         ],
@@ -4018,7 +4030,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I deny that.",
             "Male"
         ],
@@ -4028,7 +4040,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I saw that, yes.",
             "Male"
         ],
@@ -4048,7 +4060,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That may be so.",
             "Male"
         ],
@@ -4083,7 +4095,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No Mr Chairperson, not that I can remember.",
             "Male"
         ],
@@ -4093,7 +4105,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I could never have done it, there was not a budget of R15 000-00 on this project, where I could have gotten R50 000-00 to give it to Barnard if he executed it, no one knows.",
             "Male"
         ],
@@ -4103,7 +4115,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, not at all, under no circumstances.",
             "Male"
         ],
@@ -4113,7 +4125,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Exactly.",
             "Male"
         ],
@@ -4123,7 +4135,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "It would appear so, yes.",
             "Male"
         ],
@@ -4133,7 +4145,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Absolutely.",
             "Male"
         ],
@@ -4143,7 +4155,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I do not know Sir, you would have to ask him that.  He definitely did not get it from me.",
             "Male"
         ],
@@ -4153,7 +4165,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -4163,7 +4175,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -4173,7 +4185,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "It was a decision I had taken.  I admit it was undisciplined, but I did it.",
             "Male"
         ],
@@ -4183,7 +4195,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I differ from you, Sir.",
             "Male"
         ],
@@ -4193,7 +4205,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Naturally Chairperson, I wanted to execute the project regarding Omar and at that point I thought it good to involve Ferdi, so that he could help with the monitoring so that I could make adjustments if it were necessary in order to execute the project.\n\tThis is the reason why I used Ferdi and Ferdi approached me shortly beforehand as I had already given evidence, and he offered me his services relating to information.  At that point I thought it good and I thought that this would be the suitable occasion to involve a person of his calibre at that stage, to help me.",
             "Male"
         ],
@@ -4203,7 +4215,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I gave him a total amount of R7 000-00, Mr Chairperson, and out of this he could possibly have received R2 000-00 as compensation for his services, and the rest was for plane tickets and hotel accommodation.",
             "Male"
         ],
@@ -4213,7 +4225,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Because it was prescribed to us specifically that we should not get involved in the execution actions, or that kind of action, we had to use agents to gather the information for us, and to give execution to approved contacts, because we wanted to determine cut-off points, because we did not want to run the risk of being identified ourselves.\n\tMyself for instance, being identified in Athlone.",
             "Male"
         ],
@@ -4223,7 +4235,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I agree with you, he was not the appropriate cut-off point, because he knew my identity, but I think that at that stage, I trusted him that if it had happened that he would be identified at the house of Omar, that he would have been able to give an alibi without connecting me with the instance.",
             "Male"
         ],
@@ -4233,7 +4245,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so, but this is what I am trying to explain to you, that I was relying on it that if Ferdi had been confronted by the South African Police, because he hadn't done anything wrong, he couldn't be arrested, according to the instructions that I gave him, they could not arrest him.\n\tIf he had been confronted by the South African Police, he could have given them an explanation so that it could not lead back to me or the South African Defence Force.",
             "Male"
         ],
@@ -4243,7 +4255,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -4253,7 +4265,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -4263,7 +4275,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -4273,7 +4285,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -4283,7 +4295,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "They weren't happy, but those are things that happen.",
             "Male"
         ],
@@ -4293,7 +4305,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -4303,7 +4315,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I did it.",
             "Male"
         ],
@@ -4313,7 +4325,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -4323,7 +4335,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -4333,7 +4345,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Well, I broke the one rule and I said it right at the beginning of my evidence, and I cannot deny it, and this is why I am giving evidence about it.",
             "Male"
         ],
@@ -4343,7 +4355,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I agree with that, but the fact of the matter is if I were to be allowed to break ten rules, and I am only breaking one at the end of the day, I don't think you should ask me why didn't I break the other nine, I just broke the one.  I did it and I admit to doing it.\n\tIt is just so that I didn't break the other rule.",
             "Male"
         ],
@@ -4358,7 +4370,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, why are you saying so?",
             "Male"
         ],
@@ -4368,7 +4380,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, that is not what I said.  I differ with you.",
             "Male"
         ],
@@ -4378,7 +4390,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Qualify yourself please, I am just not following your argument.",
             "Male"
         ],
@@ -4388,7 +4400,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -4398,7 +4410,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Mr Chairperson, what I testified to in court, does not differ from what I have said up to now.  I was aware of the fact and that Ferdi had told me that he was on an inactive list and that he would go and work outside the country in the following year, but I cannot understand that my evidence in court and the evidence that I give here, that it is now said that these are not the same, because to me they are exactly the same.",
             "Male"
         ],
@@ -4408,7 +4420,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -4418,7 +4430,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -4428,7 +4440,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "They didn't question me about this.",
             "Male"
         ],
@@ -4438,7 +4450,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I differ from you.",
             "Male"
         ],
@@ -4448,7 +4460,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is exactly the case, but I want to tell you that the Prosecutor in that case, Mr Ackerman, was exactly up to date, and he led me from my Section 29 statement and from my statement that I made in front of the Commission.  The fact that he did not present it, please don't blame me for it.",
             "Male"
         ],
@@ -4458,7 +4470,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is the statement that you are making, I am not saying it.",
             "Male"
         ],
@@ -4468,7 +4480,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "The Regional Manager, Staal.",
             "Male"
         ],
@@ -4478,7 +4490,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "He wanted the project to be completed.",
             "Male"
         ],
@@ -4488,7 +4500,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Peaches.",
             "Male"
         ],
@@ -4498,7 +4510,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I introduced Ferdi Barnard to Peaches and Peaches took Ferdi out to the site, to Omar's house so that he could show him what the problems were that they were experiencing, etc.  I think it makes sense.",
             "Male"
         ],
@@ -4508,7 +4520,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I gave the Makarov to Peaches.",
             "Male"
         ],
@@ -4518,7 +4530,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That was the proposal from Peaches.",
             "Male"
         ],
@@ -4528,7 +4540,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I cannot remember that, but I think it would probably have been a case of the one would do the shooting and the other one would drive away with the car, but I will only be speculating, I cannot tell you.\n\tI cannot remember the details of that project, the submission.",
             "Male"
         ],
@@ -4538,7 +4550,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "The only other task that I asked him was the monitoring of Lubowski.",
             "Male"
         ],
@@ -4548,7 +4560,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I think it was all for Omar.",
             "Male"
         ],
@@ -4558,7 +4570,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I only used him for two tasks as I said, and then we can assume that it was for those two tasks.",
             "Male"
         ],
@@ -4568,7 +4580,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "As I had already said, the largest part of that was also on the expenses related to the plane ticket and the hotel accommodation.",
             "Male"
         ],
@@ -4578,7 +4590,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is correct.",
             "Male"
         ],
@@ -4588,7 +4600,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Once again you are playing with the words, it is an instance of R7 000-00 that I gave to Ferdi, and if out of R7 000-00, if there was R1 000-00 too much, you may regard it as a salary.  At the end of the day, he was  satisfied with the R7 000-00 and maybe the cost he incurred was R7 500-00, maybe he received R500-00 too little.",
             "Male"
         ],
@@ -4598,7 +4610,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -4608,7 +4620,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I will not say it was a lie as you are trying to point out here, the fact of the matter is that I gave him R7 000-00 which was supposed to cover his costs, and if anything was left over, it was for payment of his services.  Technically you may be correct when you say that.",
             "Male"
         ],
@@ -4618,7 +4630,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -4628,7 +4640,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -4638,7 +4650,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I respect the decision of the Court.  I did not give Ferdi any instruction and I did not give him any firearm to eliminate Dullah Omar, but I respect the finding of the Court, based on other evidence which was led there.",
             "Male"
         ],
@@ -4648,7 +4660,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I respect the finding of the Court.",
             "Male"
         ],
@@ -4658,7 +4670,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I said that I respect the finding of the Court.",
             "Male"
         ],
@@ -4678,7 +4690,7 @@
             "Unknown"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Based upon the ... (tape ends) ...",
             "Male"
         ],
@@ -4688,7 +4700,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is so.",
             "Male"
         ],
@@ -4698,7 +4710,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "If that was the case, definitely.",
             "Male"
         ],
@@ -4708,7 +4720,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Seen in the light of the Court's finding, he did not comply with my instructions.",
             "Male"
         ],
@@ -4718,7 +4730,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "It was never an instruction, his instructions were quite clear Chairperson, to do the monitoring of Peaches, the movements of Omar so that I could see what the reasons for the delays were in the project.  At no stage, that is also why the statement that he made that I would have offered him R50 000-00 to kill Omar, is absolutely absurd.  If Calla Botha turned around at the end of the day and said that I told him, but he also heard this from Ferdi Barnard.  I do not know where he sucks this out of this thumb and with respect, I would ask the Commission to ask the questions of him, I cannot answer those questions.",
             "Male"
         ],
@@ -4728,7 +4740,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, not at all.",
             "Male"
         ],
@@ -4738,7 +4750,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, I did not.",
             "Male"
         ],
@@ -4748,7 +4760,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No.",
             "Male"
         ],
@@ -4758,7 +4770,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Peaches told me that because of the circumstances in which Mr Omar had his heart attack, that he had access to his house and that he could obtain some of those tablets, so the initial idea emanated from him and I discussed that idea with the Regional Manager and I then received instructions from the Regional Manager to ask Peaches to obtain some of these tablets, so that I could process it.",
             "Male"
         ],
@@ -4768,7 +4780,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],
@@ -4778,7 +4790,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I cannot recall, I think he knew someone who worked there.",
             "Male"
         ],
@@ -4788,7 +4800,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I don't know what to believe today.",
             "Male"
         ],
@@ -4798,7 +4810,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Yes, I would say I believed him.",
             "Male"
         ],
@@ -4808,7 +4820,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No.",
             "Male"
         ],
@@ -4818,7 +4830,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I discussed the matter with the Regional Manager, Staal, he came back to me and said that the matter had been discussed with the Managing Director and that because there was already an approved project, I could continue with the obtaining of these tablets.",
             "Male"
         ],
@@ -4828,7 +4840,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "In terms of the pre-study, I did have a discretion, yes.",
             "Male"
         ],
@@ -4838,7 +4850,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "That is indeed the case.",
             "Male"
         ],
@@ -4853,7 +4865,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "I would say Chairperson, in terms of an instruction is given to me to go and do a pre-study, as in this case, with regard to Omar, and then the discretion is with me, after negotiation with the agents whom I would use in that specific instance, to submit a plan as to how best a project could be brought to execution to eliminate Mr Omar, in other words it is not said to me that at that stage of the pre-study, \"go out, he has to be killed in this manner, go and look at the possibilities and come back\", therefore I had a discretion at that stage to exercise, and I placed this in writing, and then later it is discussed at an \"in-house\".",
             "Male"
         ],
@@ -4863,7 +4875,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Chairperson, yes, as I have said, I think alternatives have been discussed at some stage, but I cannot recall, it is possible that it was the case, yes.",
             "Male"
         ],
@@ -4873,7 +4885,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "No, not that I can recall.",
             "Male"
         ],
@@ -4883,7 +4895,7 @@
             "Male"
         ],
         [
-            "MR VAN ZYL",
+            "ABRAM VAN ZYL",
             "Correct.",
             "Male"
         ],

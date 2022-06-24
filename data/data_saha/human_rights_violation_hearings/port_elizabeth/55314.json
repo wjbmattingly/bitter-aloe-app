@@ -10,6 +10,15 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55314&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/hrvpe2/bekwa.htm",
         "speakers": [
+            "ACTING CHAIRMAN",
+            "BANDLAKAZI JANE BEKWA",
+            "CHAIRMAN",
+            "MR BEKWA",
+            "MR FINCA",
+            "MRS BEKWA",
+            "REV XUNDU"
+        ],
+        "original_speakers": [
             "MRS BEKWA",
             "ACTING CHAIRMAN",
             "REV XUNDU",
@@ -277,7 +286,7 @@
             "Female"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "Okay.  Were there any lawyers who assisted you to make some investigations?",
             "Unknown"
         ],

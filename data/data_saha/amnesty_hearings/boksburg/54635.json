@@ -7,6 +7,20 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54635&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/bok/bok1_katleho2.htm",
         "speakers": [
+            "CHAIRPERSON",
+            "M O MOTLOKWA",
+            "MOHALE OSCAR MOTLOKWA",
+            "MR MADASA",
+            "MR MALAN",
+            "MR MAPOMA",
+            "MR MOTATA",
+            "MR MOTLOKWA",
+            "MR SIBANYONI",
+            "MR SONTI",
+            "ZOLA NXEBA MICHAEL SONTI",
+            "ZOLA NXEBE MICHAEL SONTI"
+        ],
+        "original_speakers": [
             "MR MAPOMA",
             "CHAIRPERSON",
             "MR MOTLOKWA",
@@ -288,7 +302,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR MADASA",
+            "MR MADASA",
             "(con)\n\tMr Motlokwa, as a result of these killings, did you personally benefit anything therefrom?",
             "Male"
         ],
@@ -308,7 +322,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR MAPOMA",
+            "MR MAPOMA",
             "Thank you Chairperson.\n\tMr Motlokwa, during December 1993 you were a member of the African National Congress, is that not correct?",
             "Male"
         ],
@@ -2308,7 +2322,7 @@
             "Unknown"
         ],
         [
-            "RE-EXAMINATION BY MR MADASA",
+            "MR MADASA",
             "Yes, Mr Chair.\n\tAt the meeting at Blanko's place you were not in control of the meeting, is that correct?",
             "Male"
         ],
@@ -3838,7 +3852,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR MADASA",
+            "MR MADASA",
             "Mr Sonti, is it correct that you were a member of the SDU during the time in question?",
             "Male"
         ],

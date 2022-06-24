@@ -12,6 +12,17 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=52810&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98081114_vdb_2boipat2.htm",
         "speakers": [
+            "ADV PRIOR",
+            "CHAIRPERSON",
+            "INTERPRETER",
+            "MPLUPEKI SAMU TSHABANGU",
+            "MPLUPEKI SIMON TSHABANGU",
+            "MR BERGER",
+            "MR LAX",
+            "MR STRYDOM",
+            "MR TSHABANGU"
+        ],
+        "original_speakers": [
             "MR STRYDOM",
             "CHAIRPERSON",
             "MR TSHABANGU",
@@ -46,7 +57,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR STRYDOM",
+            "MR STRYDOM",
             "Thank you Mr Chairperson.  Mr Tshabangu, you applied for amnesty and signed a form in terms of the Act.  Can you just confirm your signature as it appears on page 167 of the Bundle.",
             "Male"
         ],
@@ -1261,7 +1272,7 @@
             "Male"
         ],
         [
-            "NO FURTHER QUESTIONS BY MR STRYDOM",
+            "MR STRYDOM",
             ".",
             "Male"
         ],
@@ -1281,7 +1292,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR BERGER",
+            "MR BERGER",
             "Thank you Chairperson.  Mr Tshabangu, when you arrived at the corner of Msheshwe and Leqwa Streets, you say that there was some barricades which you removed, is that correct?",
             "Male"
         ],

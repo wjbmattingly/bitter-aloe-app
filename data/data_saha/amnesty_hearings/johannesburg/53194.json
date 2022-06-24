@@ -11,6 +11,13 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53194&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99020118_jhb_990217jh.htm",
         "speakers": [
+            "ADV GCABASHE",
+            "ADV STEENKAMP",
+            "CHAIRPERSON",
+            "MR NHLAPO",
+            "MR SIBEKO"
+        ],
+        "original_speakers": [
             "CHAIRPERSON",
             "ADV STEENKAMP",
             "MR NHLAPO",
@@ -115,7 +122,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR SIBEKO",
+            "MR SIBEKO",
             "Thank you Mr Chairman.  Mr Nhlapo, the acts that you have applied for, occurred in which year?",
             "Male"
         ],

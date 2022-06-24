@@ -11,6 +11,11 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55835&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/qtown/dywashu.htm",
         "speakers": [
+            "NN DYWASHU",
+            "REV FINCA",
+            "REV XUNDU"
+        ],
+        "original_speakers": [
             "REVD FINCA",
             "REVD XUNDU",
             "NN DYWASHU"
@@ -18,12 +23,12 @@
     },
     "testimony": [
         [
-            "REVD FINCA",
+            "REV FINCA",
             "Welcome Ma'am, and we now hand you over to Revd Xundu who will lead you in your evidence.",
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "Hallo Ma'am.",
             "Unknown"
         ],
@@ -33,7 +38,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "Please come closer to the microphone.  What is your clan name and into which clan are you married?",
             "Unknown"
         ],
@@ -43,7 +48,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "Do you have any children there?",
             "Unknown"
         ],
@@ -53,7 +58,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "How many children do you have?",
             "Unknown"
         ],
@@ -63,7 +68,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "You have come to give evidence in connection with the death of Tembole Mvolani.  Just tell me in the village, what was Mvolani a member of?",
             "Unknown"
         ],
@@ -73,7 +78,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "Was there any other organisation there?",
             "Unknown"
         ],
@@ -83,7 +88,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "And there was conflict between these two organisations?",
             "Unknown"
         ],
@@ -93,7 +98,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "Tell us the story about the death of your\nQUEENSTOWN HEARING TRC/EASTERN CAPE\n2 NN DYWASHU\nhusband, when he was seen, found by a shop owner, what had happened?",
             "Unknown"
         ],
@@ -103,7 +108,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "Was he on his way to a meeting or was he on other business?",
             "Unknown"
         ],
@@ -113,7 +118,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "Did the policeman say that they were taking him to the mortuary?",
             "Unknown"
         ],
@@ -123,7 +128,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "When he was seen by the shop owner, was he still alive?",
             "Unknown"
         ],
@@ -133,7 +138,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "Was your husband in any position in the ANC, was he a Chairman or anything?",
             "Unknown"
         ],
@@ -143,7 +148,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "They then took him to the mortuary and then the policemen arrived at your place at some other stage and said that they had arrested the people responsible?",
             "Unknown"
         ],
@@ -153,7 +158,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "Were these people that you knew?  Did you recognise the names?",
             "Unknown"
         ],
@@ -163,7 +168,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "Did you know the names of these people?  Who were they?",
             "Unknown"
         ],
@@ -173,7 +178,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "Lumko?  Which Lumko?",
             "Unknown"
         ],
@@ -183,7 +188,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "Did you know these people to be members of the ANC or the ADM?",
             "Unknown"
         ],
@@ -193,7 +198,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "All these people?",
             "Unknown"
         ],
@@ -203,7 +208,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "When they had appeared in court, what happened?",
             "Unknown"
         ],
@@ -213,7 +218,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "The one by the name of Nkoliseko Mrola, what was his role in all this?",
             "Unknown"
         ],
@@ -223,7 +228,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "Is he the one who disappeared?",
             "Unknown"
         ],
@@ -233,7 +238,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "That Mrola said that these six people were responsible for your husband's death?",
             "Unknown"
         ],
@@ -243,7 +248,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "After your husband's death, was there any trial or inquest into the cause of his death?",
             "Unknown"
         ],
@@ -253,7 +258,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "Was your husband taken to hospital and was the Doctor able to say what the cause of his death was?",
             "Unknown"
         ],
@@ -263,7 +268,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "Did the trial then not proceed because of an order from Gqozo?",
             "Unknown"
         ],
@@ -273,7 +278,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "Was you husband working?",
             "Unknown"
         ],
@@ -283,7 +288,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "Is there anything that you would like to ask the Commission to do for you?  Any way in which the Commission can be of assistance to you?",
             "Unknown"
         ],
@@ -293,7 +298,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "A tombstone?  What else Ma'am?",
             "Unknown"
         ],
@@ -303,7 +308,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "How was your health affected by this?",
             "Unknown"
         ],
@@ -313,7 +318,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "What is the main problem?",
             "Unknown"
         ],
@@ -323,7 +328,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "Do you receive any pension?",
             "Unknown"
         ],
@@ -333,7 +338,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "How much do you, oh, you receive a pension?",
             "Unknown"
         ],
@@ -343,7 +348,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "How many children do you have?",
             "Unknown"
         ],
@@ -353,7 +358,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "What are their names?",
             "Unknown"
         ],
@@ -363,7 +368,7 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "What standard is Mpoqwana?",
             "Unknown"
         ],
@@ -373,12 +378,12 @@
             "Unknown"
         ],
         [
-            "REVD XUNDU",
+            "REV XUNDU",
             "Thank you very much.  Back to you Mr Chairman.",
             "Unknown"
         ],
         [
-            "REVD FINCA",
+            "REV FINCA",
             "Nohombile, I do not think you know the way in which you people touch us.  After having gone through such suffering, and when asked what the Commission can do for you, you merely ask for tombstones.\n That touches us very deeply to see the manner in which your thoughts are so humble.  In stead of asking for a lot of things from the Government you merely ask that tombstones be put on your loved ones' graves.  Whenever I hear that request, I am so deeply touched, because it is a request from very humble people.\n We thank you for your evidence and thank you also for the love that you have shown towards your husband even \nQUEENSTOWN HEARING TRC/EASTERN CAPE\n7\nthough he is no longer with you through your request to the Commission on behalf of yourself and your children.\n I also want to reiterate once more that there is nothing that the Commission can do on its own, we cannot make any final decisions on our own, but we rather have to make submissions to the President who will then in consultation with the Cabinet, reach a final decision.\n But I would like you to know that we have heard, we have taken cognisance of what you have said and we thank you for coming forward and we will now like to thank you and ask you to take your seat.  Thank you.",
             "Unknown"
         ]

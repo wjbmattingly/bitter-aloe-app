@@ -11,6 +11,9 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=56048&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/umtata/langa.htm",
         "speakers": [
+            "MEMBER OF PANEL"
+        ],
+        "original_speakers": [
             "MEMBER OF PANEL",
             "LETITIA NOZAME LANGA",
             "ZOLEKA LANGA"
@@ -23,12 +26,12 @@
             "Unknown"
         ],
         [
-            "LETITIA NOZAME LANGA",
+            "UNKNOWN",
             "(Duly sworn, states).",
             "Unknown"
         ],
         [
-            "ZOLEKA LANGA",
+            "UNKNOWN",
             "(Duly sworn, states).",
             "Unknown"
         ],

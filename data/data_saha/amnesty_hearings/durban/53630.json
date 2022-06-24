@@ -10,6 +10,17 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53630&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/9908100903_dbn_990830dn.htm",
         "speakers": [
+            "ADV BOSMAN",
+            "CHAIRPERSON",
+            "MR DUHR",
+            "MR GORDHAN",
+            "MR LALLA",
+            "MR LAX",
+            "MR NEL",
+            "MR VISSER",
+            "MS THABETHE"
+        ],
+        "original_speakers": [
             "CHAIRPERSON",
             "MR NEL",
             "MR DUHR",
@@ -53,7 +64,7 @@
             "Male"
         ],
         [
-            "EXAMINATION BY MR NEL",
+            "MR NEL",
             "Mr Duhr, am I correct in saying that you are an amnesty applicant in terms of the Act for an assault which you have described in your amnesty application which is found on page 16 of the bundle and may I ask you to confirm your entire application which runs to page 19 except for where you have given your address as Panorama Park in Illovo Beach, you no longer reside there?",
             "Male"
         ],
@@ -183,7 +194,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR VISSER",
+            "MR VISSER",
             "Thank you Chairperson.\n\tMr Duhr, I'm not certain that I quite heard you, you were tasked to question whom?  Mr Lalla or Mr Gordhan?",
             "Male"
         ],
@@ -273,7 +284,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR GORDHAN",
+            "MR GORDHAN",
             "Mr Duhr, were you involved in any of the Vula arrests?",
             "Male"
         ],
@@ -393,7 +404,7 @@
             "Male"
         ],
         [
-            "RE-EXAMINATION BY MR NEL",
+            "MR NEL",
             "Mr Duhr, is it correct that you are still presently in the South African Police Services?",
             "Male"
         ],

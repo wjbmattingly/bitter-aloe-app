@@ -11,6 +11,12 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55765&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/polls/ct00317.htm",
         "speakers": [
+            "ADV POTGIETER",
+            "MS VAN DYK",
+            "MS WILDSCHUT",
+            "<UNKNOWN>"
+        ],
+        "original_speakers": [
             "ADV POTGIETER\n",
             "UNKNOWN COMMISSIONER\n",
             "MS VAN DYK\n",
@@ -24,7 +30,7 @@
             "Unknown"
         ],
         [
-            "UNKNOWN COMMISSIONER",
+            "<UNKNOWN>",
             "It's her husband.",
             "Unknown"
         ],

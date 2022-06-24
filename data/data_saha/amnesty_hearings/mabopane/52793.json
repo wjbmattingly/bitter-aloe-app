@@ -11,6 +11,19 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=52793&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98080607_mbp_mabopan1.htm",
         "speakers": [
+            "ADV BOSMAN",
+            "ADV MOTATA",
+            "ADV MPSHE",
+            "ADV MPSHE ADDRESSES",
+            "ADV SIGODI",
+            "CHAIRPERSON",
+            "F T T MASANGO",
+            "F TING TING MASANGO",
+            "MR MASANGO",
+            "MR MOLOPE",
+            "MR VAN DEN BERG"
+        ],
+        "original_speakers": [
             "CHAIRPERSON",
             "F TING TING MASANGO",
             "MR VAN DEN BERG",
@@ -36,7 +49,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR VAN DEN BERG",
+            "MR VAN DEN BERG",
             "Thank you Mr Chairman.\n\tMr Masango, if we can get one technical aspect out of the way before we start with your evidence in chief.  You submitted an application for amnesty, a copy of which is before the Committee.  The copy before the Committee is unsigned, do you recall signing the application form?",
             "Male"
         ],
@@ -551,7 +564,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY ADV MPSHE",
+            "ADV MPSHE",
             "I do Mr Chairman, thank you.\n\tMr Masango, if you have the application before you I want to refer you to page 11.\n\tThe paginated pages Mr Chairman, Members of the Committee.",
             "Unknown"
         ],
@@ -646,7 +659,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR MOLOPE",
+            "MR MOLOPE",
             "Mr Masango, were you the driver on the day when Brigadier Molope was killed?  What day was it?",
             "Male"
         ],
@@ -1006,7 +1019,7 @@
             "Unknown"
         ],
         [
-            "RE-EXAMINATION BY MR VAN DEN BERG",
+            "MR VAN DEN BERG",
             "Just one or two questions.\n\tThe other policeman who was mentioned was a policeman called Mokobojane, was he also a target?",
             "Male"
         ],

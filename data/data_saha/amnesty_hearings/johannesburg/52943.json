@@ -10,6 +10,14 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=52943&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98110205_jhb_jhnbrg1.htm",
         "speakers": [
+            "ADV BOSMAN",
+            "ADV MOTATA",
+            "ADV MPSHE",
+            "CHAIRPERSON",
+            "MR MBANDAZAYO",
+            "MR SAPELE"
+        ],
+        "original_speakers": [
             "MR SAPELE",
             "MR MBANDAZAYO",
             "CHAIRPERSON",
@@ -315,7 +323,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY ADV MPSHE",
+            "ADV MPSHE",
             "Yes, Mr Chairman, thank you.\n\tMr Sapele, would I be correct to state that the purpose, or the reason for escaping was to gain your freedom?",
             "Unknown"
         ],
@@ -445,7 +453,7 @@
             "Unknown"
         ],
         [
-            "RE-EXAMINATION BY MR MBANDAZAYO",
+            "MR MBANDAZAYO",
             "Yes, one, Mr Chairperson.\n\tMr Sapele, when you met Borowsky Masilela in prison as you have already told that he recruited you to PAC, what did he say to you?",
             "Male"
         ],

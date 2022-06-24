@@ -10,6 +10,20 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54731&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/joburg/jbgamn.htm",
         "speakers": [
+            "ADV BOSMAN",
+            "ADV SIGODI",
+            "BRINK",
+            "CAREL HENDRICKS MEIRING",
+            "CAREL HENDRIK MEIRING",
+            "CHAIRPERSON",
+            "MR BRINK",
+            "MR KNOETZE",
+            "MR MALAN",
+            "MR MEIRING",
+            "MR PRINSLOO",
+            "<UNKNOWN>"
+        ],
+        "original_speakers": [
             "MR PRINSLOO",
             "CAREL HENDRICKS MEIRING",
             "MR MEIRING",
@@ -40,7 +54,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR PRINSLOO",
+            "MR PRINSLOO",
             "As it pleases the Chair.\n\tMr Meiring, what is your age?",
             "Male"
         ],
@@ -1460,7 +1474,7 @@
             "Male"
         ],
         [
-            "NO FURTHER QUESTIONS BY MR PRINSLOO",
+            "MR PRINSLOO",
             ".",
             "Male"
         ],
@@ -1470,7 +1484,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MRS VAN DER WALT",
+            "UNKNOWN",
             "Mr Meiring, you committed the act and you testified that you believed that the revolution had begun. Do you know of any bomb explosions which occurred directly after that?",
             "Female"
         ],
@@ -1480,7 +1494,7 @@
             "Male"
         ],
         [
-            "MS VAN DER WALT",
+            "UNKNOWN",
             "What did you think about that?",
             "Female"
         ],
@@ -1490,7 +1504,7 @@
             "Male"
         ],
         [
-            "MS VAN DER WALT",
+            "UNKNOWN",
             "And it is also so that bomb explosions took place until a few days before the elections in places like Braamfontein and Pretoria and those people who had planted the bombs and detonated the bombs there were all AWB members?",
             "Female"
         ],
@@ -1500,7 +1514,7 @@
             "Male"
         ],
         [
-            "MS VAN DER WALT",
+            "UNKNOWN",
             "What did you think of that?",
             "Female"
         ],
@@ -1510,12 +1524,12 @@
             "Male"
         ],
         [
-            "MS VAN DER WALT",
+            "UNKNOWN",
             "No further questions thank you.",
             "Female"
         ],
         [
-            "NO FURTHER QUESTIONS BY MRS VAN DER WALT",
+            "UNKNOWN",
             ".",
             "Female"
         ],
@@ -1535,7 +1549,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY BRINK",
+            "BRINK",
             "Thank you Mr Chairman. Mr Meiring I am putting my questions to you in english but please answer in afrikaans. Is it correct that the ideology of the AWB is based on Christian principles and more particularly Calvinistic principles?",
             "Unknown"
         ],
@@ -1875,7 +1889,7 @@
             "Male"
         ],
         [
-            "MS VAN DER WALT",
+            "UNKNOWN",
             "Excuse me. The medical people are not here. And we just want to get Mr Kloppers some oxygen. Okay here he comes right now.",
             "Female"
         ],
@@ -1885,7 +1899,7 @@
             "Unknown"
         ],
         [
-            "MS VAN DER WALT",
+            "UNKNOWN",
             "No.",
             "Female"
         ],
@@ -1940,7 +1954,7 @@
             "Male"
         ],
         [
-            "MS VAN DER WALT",
+            "UNKNOWN",
             "Can we adjourn for a moment so we can make sure?",
             "Female"
         ],
@@ -2345,7 +2359,7 @@
             "Unknown"
         ],
         [
-            "RE-EXAMINATION BY MR PRINSLOO",
+            "MR PRINSLOO",
             "Mr Meiring when you were promoted in prison your co-accused Commander Kloppers and Commander Martin, were they also promoted?",
             "Male"
         ],
@@ -2410,7 +2424,7 @@
             "Male"
         ],
         [
-            "WITNESS EXCUSED",
+            "<UNKNOWN>",
             ".",
             "Unknown"
         ]

@@ -5,9 +5,12 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55311&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/hrvpe1/day1.htm",
         "speakers": [
-            "I think, judging from the interrogation during my torture that the focal  point of the Security Branch was around the (XHOSA)."
+            "I THINK JUDGING FROM THE INTERROGATION DURING MY TORTURE THAT THE FOCAL POINT OF THE SECURITY BRANCH WAS AROUND THE XHOSA"
         ],
-        "starting date": "UNKNOWN"
+        "starting date": "UNKNOWN",
+        "original_speakers": [
+            "I think, judging from the interrogation during my torture that the focal  point of the Security Branch was around the (XHOSA)."
+        ]
     },
     "testimony": []
 }

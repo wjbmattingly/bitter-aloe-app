@@ -24,6 +24,33 @@
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/hrvdurb1/durban4.htm",
         "speakers": [
             "CHAIRMAN",
+            "COMBRINCK J",
+            "DR BORAINE",
+            "DR MAGWAZA",
+            "DR MGOJO",
+            "EUNICE DLOMO",
+            "GERTRUDE MBAMBO",
+            "GREGORY TUNTULWANA",
+            "HOPEWELL KHUZWAYO",
+            "INTERPRETER",
+            "LUPINA NOZIPHO ZONDO",
+            "MR DLAMINI",
+            "MR LAX",
+            "MR LYSTER",
+            "MRS GCABASHE",
+            "MRS KHUZWAYO",
+            "MRS PIYE",
+            "MRS SITHOLE",
+            "NXUMALE DUBE",
+            "PATRICK HLONGWANE",
+            "PHILISUYA KHUZWAYO",
+            "SABATHA MADIKIZELA",
+            "SIZA CYRIL MHLONGO",
+            "THULI GABELA",
+            "ZAMISWAZI MKHIZE"
+        ],
+        "original_speakers": [
+            "CHAIRMAN",
             "DR BORAINE",
             "MRS GABELA",
             "THULI GABELA",
@@ -83,7 +110,7 @@
             "Unknown"
         ],
         [
-            "MRS GABELA",
+            "THULI GABELA",
             "Yes.",
             "Female"
         ],
@@ -683,7 +710,7 @@
             "Unknown"
         ],
         [
-            "MRS DUBE",
+            "NXUMALE DUBE",
             "Yes, I can hear it.",
             "Female"
         ],
@@ -693,7 +720,7 @@
             "Unknown"
         ],
         [
-            "MRS DUBE",
+            "NXUMALE DUBE",
             "Yes, I can hear them.",
             "Female"
         ],
@@ -703,7 +730,7 @@
             "Unknown"
         ],
         [
-            "MRS DUBE",
+            "NXUMALE DUBE",
             "She is my sister.  I come after her.",
             "Female"
         ],
@@ -1038,7 +1065,7 @@
             "Unknown"
         ],
         [
-            "MR JUSTICE TSHABALALA",
+            "UNKNOWN",
             "Yes, this is my son, Ayanda.  He is my second-born, and my daughter, Vuye.  She is one of the twins - the twin girls.",
             "Male"
         ],
@@ -1048,7 +1075,7 @@
             "Unknown"
         ],
         [
-            "MR JUSTICE VUKA MSWAZI TSHABALALA",
+            "UNKNOWN",
             "(Sworn states) (Through Interpreter)",
             "Male"
         ],
@@ -1348,7 +1375,7 @@
             "Unknown"
         ],
         [
-            "MRS MKHIZE",
+            "ZAMISWAZI MKHIZE",
             "Yes.",
             "Female"
         ],
@@ -1358,7 +1385,7 @@
             "Unknown"
         ],
         [
-            "MRS MKHIZE",
+            "ZAMISWAZI MKHIZE",
             "Yes.",
             "Female"
         ],
@@ -1368,7 +1395,7 @@
             "Unknown"
         ],
         [
-            "MRS MKHIZE",
+            "ZAMISWAZI MKHIZE",
             "It's my son, Sifiso and the cousin of my husband, Thandi Memela.",
             "Female"
         ],
@@ -2268,7 +2295,7 @@
             "Unknown"
         ],
         [
-            "MR HLONGWANE",
+            "PATRICK HLONGWANE",
             "Yes.",
             "Male"
         ],
@@ -2598,7 +2625,7 @@
             "Unknown"
         ],
         [
-            "MRS MADIKIZELA",
+            "SABATHA MADIKIZELA",
             "Yes.",
             "Female"
         ],
@@ -2843,7 +2870,7 @@
             "Unknown"
         ],
         [
-            "MRS DLOMO",
+            "EUNICE DLOMO",
             "Yes.",
             "Female"
         ],
@@ -3078,7 +3105,7 @@
             "Unknown"
         ],
         [
-            "MRS ZONDO",
+            "LUPINA NOZIPHO ZONDO",
             "Yes, I can hear you.",
             "Female"
         ],
@@ -3683,7 +3710,7 @@
             "Unknown"
         ],
         [
-            "MRS MBAMBO",
+            "GERTRUDE MBAMBO",
             "Yes.",
             "Female"
         ],
@@ -3898,7 +3925,7 @@
             "Unknown"
         ],
         [
-            "MR MHLONGO",
+            "SIZA CYRIL MHLONGO",
             "Yes.",
             "Male"
         ],

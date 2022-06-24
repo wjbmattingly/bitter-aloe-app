@@ -6,6 +6,19 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54874&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/pta/derby05.htm",
         "speakers": [
+            "ADV MPSHE",
+            "CHAIRPERSON",
+            "CLIVE DERBY LEWIS",
+            "INTERPRETER",
+            "JUDGE WILSON",
+            "MR BIZOS",
+            "MR DERBYLEWIS",
+            "MR MALUNDI",
+            "MR PRINSLOO",
+            "MS KHAMPEPE"
+        ],
+        "starting date": "UNKNOWN",
+        "original_speakers": [
             "MR PRINSLOO",
             "ADV MPSHE",
             "CHAIRPERSON",
@@ -16,8 +29,7 @@
             "MR DERBY-LEWIS",
             "INTERPRETER",
             "MS KHAMPEPE"
-        ],
-        "starting date": "UNKNOWN"
+        ]
     },
     "testimony": [
         [
@@ -181,7 +193,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR PRINSLOO",
+            "MR PRINSLOO",
             "(cont)\n\tMr Derby-Lewis, you wanted to submit something before we recommence?",
             "Male"
         ],
@@ -1731,7 +1743,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR BIZOS",
+            "MR BIZOS",
             "Thank you Mr Chairman.  Mr Derby-Lewis you used the word \"let us\" quite often in your peroration, let us try and find out whether you are a man who is prepared to commit perjury without any qualms, shall we try that?\n\tWill you please have a look at R2, page 107.  I beg your pardon, it is page 117.  Have you got it Mr Derby-Lewis, R2, page 117?",
             "Male"
         ],

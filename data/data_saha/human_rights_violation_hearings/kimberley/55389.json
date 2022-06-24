@@ -11,6 +11,15 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55389&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/kimber/ct04603.htm",
         "speakers": [
+            "ADV POTGIETER",
+            "MS MABILO",
+            "MS MABOZO",
+            "MS MATLAKALA",
+            "MS SOOKA",
+            "<UNKNOWN>",
+            "WITNESSES"
+        ],
+        "original_speakers": [
             "MS SOOKA\n",
             "WITNESSES\n",
             "ADV POTGIETER\n",
@@ -117,7 +126,7 @@
             "Female"
         ],
         [
-            "UNKNOWN",
+            "<UNKNOWN>",
             "The interpreters can not hear the speaker.  The mike is not on.",
             "Unknown"
         ],

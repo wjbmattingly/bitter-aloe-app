@@ -9,6 +9,21 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54620&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/bloem/bloem4_ngo3.htm",
         "speakers": [
+            "ADV DE JAGER",
+            "CAPT BOKABA",
+            "CHAIRPERSON",
+            "COL LOOTS",
+            "COURT",
+            "JUDGE NGOEPE",
+            "MR BRINK",
+            "MR DU PLESSIS",
+            "MR DU PLESSIS OBJECTS",
+            "MR MEMANI",
+            "MR STANDER",
+            "MR VISSER"
+        ],
+        "starting date": "UNKNOWN",
+        "original_speakers": [
             "MR STANDER",
             "CHAIRPERSON",
             "MR DU PLESSIS",
@@ -21,8 +36,7 @@
             "CAPT BOKABA",
             "COURT",
             "MR VISSER"
-        ],
-        "starting date": "UNKNOWN"
+        ]
     },
     "testimony": [
         [
@@ -56,7 +70,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR MEMANI",
+            "MR MEMANI",
             "(cont)\n\tNow Mr Loots, yesterday you told us that you were in the unfortunate position of inheriting a two, a unit consisting of two oldish men.  Is that correct?",
             "Male"
         ],
@@ -1201,7 +1215,7 @@
             "Unknown"
         ],
         [
-            "RE-EXAMINATION BY MR DU PLESSIS",
+            "MR DU PLESSIS",
             "Thank you, Mr Chairman, I will be very short.  Colonel, if you, when the interview took place with Mr Ngo, if you made any enquiries or if you called Shaw, would it have had any effect on the application of Mr Ngo, would there have been anything in it for somebody?",
             "Male"
         ],
@@ -1511,7 +1525,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR DU PLESSIS",
+            "MR DU PLESSIS",
             "May I proceed, Mr Chair? Thank you.",
             "Male"
         ],
@@ -2021,7 +2035,7 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MR MEMANI",
+            "MR MEMANI",
             "Now Mr Bokaba, in  your evidence in chief you told us that the security branch did not have an office at Mamelodi.  Now I want to clarify that with you and tell you that Ngo did not say that the security branch had an office at Mamelodi.",
             "Male"
         ],
@@ -2641,7 +2655,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR MEMANI",
+            "MR MEMANI",
             "(cont)\n\tNow Mr Bokaba, I was saying to you that you worked with Loots and you told us that you worked under his direct command, and you must therefore have had a vague knowledge of what he was doing at work.  Do you want to disagree with me on that?",
             "Male"
         ],

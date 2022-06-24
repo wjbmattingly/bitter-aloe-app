@@ -12,6 +12,18 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54152&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/2000/200504wr.htm",
         "speakers": [
+            "ADV SANDI",
+            "CHAIRPERSON",
+            "DANIEL BENJAMIN SNYDERS",
+            "MNR SNYDERS",
+            "MR MORGAN",
+            "MR SMIT",
+            "MR SNYDERS",
+            "MR VAN DER BANK",
+            "MR VAN WYK",
+            "MS MTANGA"
+        ],
+        "original_speakers": [
             "CHAIRPERSON",
             "MR SMIT",
             "MR VAN WYK",
@@ -96,7 +108,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR SMIT",
+            "MR SMIT",
             "Mr Chairperson, the witness is Afrikaans-speaking and I will proceed in Afrikaans then.  As it pleases you.\n\tMr Snyders, you are the first applicant in this application for amnesty, together with Messrs Ras and Kruger, and before this Committee three affidavits were deposed to by yourself, is that correct?",
             "Male"
         ],
@@ -756,7 +768,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR VAN WYK",
+            "MR VAN WYK",
             "Thank you, Chairperson.\n\tMr Snyders, I have a few aspects which I would like to take up with you.  I appear on behalf of your brother, Louis Snyders.  Would you agree with me that your brother at some stage had worked for you?",
             "Male"
         ],
@@ -1226,7 +1238,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR MORGAN",
+            "MR MORGAN",
             "As it pleases the Committee, Mr Chairman, just a few questions on behalf of the victims.\n\tMr Snyders, is it correct that in the execution of all the bombings, special care was taken to prevent the loss of life?",
             "Male"
         ],
@@ -1296,7 +1308,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR VAN DER BANK",
+            "MR VAN DER BANK",
             "Thank you, Chairperson.\n\tMr Snyders, it is correct that extensive damage was caused to the school at Nelspruit, as well as the Agricultural College at Nelspruit, because of these bomb explosions where you were involved in.",
             "Male"
         ],
@@ -1466,7 +1478,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MS MTANGA",
+            "MS MTANGA",
             "Thank you, Chairperson, I just have a few questions.\n\tMr Snyders, in your evidence you referred to the bombing of Sabie Magistrate's Court, were you involved in this bombing?",
             "Female"
         ],

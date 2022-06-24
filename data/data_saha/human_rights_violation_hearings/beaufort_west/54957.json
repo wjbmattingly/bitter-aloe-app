@@ -11,6 +11,14 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54957&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/beaufort/ct00365.htm",
         "speakers": [
+            "ADV POTGIETER",
+            "DR RAMASHALA",
+            "MS BURTON",
+            "MS HUGO",
+            "MS SEROKE",
+            "<UNKNOWN>"
+        ],
+        "original_speakers": [
             "MS BURTON\n",
             "UNKNOWN\n",
             "DR RAMASHALA\n",
@@ -31,7 +39,7 @@
             "Female"
         ],
         [
-            "UNKNOWN",
+            "<UNKNOWN>",
             "The interpreters can not hear the victim.",
             "Unknown"
         ],

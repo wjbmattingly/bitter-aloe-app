@@ -9,6 +9,19 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54623&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/bloem/bloem5_2ndngo10.htm",
         "speakers": [
+            "ADV DE JAGER",
+            "CHAIRPERSON",
+            "INTERPRETER",
+            "JUDGE NGOEPE",
+            "MR BRINK",
+            "MR COETZEE",
+            "MR DU PLESSIS",
+            "MR MEMANI",
+            "MR STANDER",
+            "MR VISSER"
+        ],
+        "starting date": "UNKNOWN",
+        "original_speakers": [
             "CHAIRPERSON",
             "MR VISSER",
             "MR COETZEE",
@@ -19,8 +32,7 @@
             "MR MEMANI",
             "MR BRINK",
             "JUDGE NGOEPE"
-        ],
-        "starting date": "UNKNOWN"
+        ]
     },
     "testimony": [
         [
@@ -339,7 +351,7 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MR DU PLESSIS",
+            "MR DU PLESSIS",
             "Thank you Mr Chair.\n\tBrigadier Coetzee, you've already said that you were not the author of the Venter murder.  Could you please tell the Commission, did you discuss the murder at any stage with a Captain Flip Loots?",
             "Male"
         ],
@@ -374,7 +386,7 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MR STANDER",
+            "MR STANDER",
             "Brigadier, could you please assist us?  When an admission of guilt has to be taken down, we understand that the procedure was in Bloemfontein, to take the person to the local Magistrate's Court.",
             "Male"
         ],
@@ -649,7 +661,7 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MR MEMANI",
+            "MR MEMANI",
             "Mr Coetzee, in your evidence in chief you told us that at some you were investigating matters relating to terrorist and - I didn't hear the second thing.",
             "Male"
         ],
@@ -1134,7 +1146,7 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MR BRINK",
+            "MR BRINK",
             "Thank you Mr Chairman.\n\tBrigadier, that passage in which you found those two - I think you said: \"two women sitting\", was that ...[intervention]",
             "Male"
         ],

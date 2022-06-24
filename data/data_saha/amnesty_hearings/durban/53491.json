@@ -11,6 +11,15 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53491&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99062124_dbn_990621db.htm",
         "speakers": [
+            "ADV DE JAGER",
+            "CHAIRPERSON",
+            "INTERPRETER",
+            "MR MALAN",
+            "MR MOLOHLANYE",
+            "MS THABETHE",
+            "ROY BONGUMUSA CELE"
+        ],
+        "original_speakers": [
             "CHAIRPERSON",
             "MR MOLOHLANYE",
             "ROY BONGUMUSA CELE",
@@ -113,7 +122,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR MOLOHLANYE",
+            "MR MOLOHLANYE",
             "For the record Mr Cele, can you please give us your full names?\nMR R.B. CELE: Roy Bongumusa Cele.",
             "Male"
         ],

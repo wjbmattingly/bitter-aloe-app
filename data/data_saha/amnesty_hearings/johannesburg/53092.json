@@ -11,6 +11,17 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53092&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/9811241202_jhb_981202ji.htm",
         "speakers": [
+            "ADV DE JAGER",
+            "ADV MOTATA",
+            "CHAIRPERSON",
+            "INTERPRETER",
+            "MR CHISOMA",
+            "MR SAMUELS",
+            "MR SWANEPOEL",
+            "MS PATEL",
+            "<UNKNOWN>"
+        ],
+        "original_speakers": [
             "CHAIRPERSON",
             "MR CHISOMA",
             "C CHISOMA",
@@ -40,7 +51,7 @@
             "Unknown"
         ],
         [
-            "C CHISOMA",
+            "MR CHISOMA",
             "(sworn states)",
             "Unknown"
         ],
@@ -330,7 +341,7 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MS PATEL",
+            "MS PATEL",
             "Mr Chisoma, besides the fact that Mr Zulu was an IFP member, was there anything else that he had done or said that led you to killing him?",
             "Female"
         ],
@@ -1115,7 +1126,7 @@
             "Unknown"
         ],
         [
-            "WITNESS EXCUSED",
+            "<UNKNOWN>",
             "",
             "Unknown"
         ],

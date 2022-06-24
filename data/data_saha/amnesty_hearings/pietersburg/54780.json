@@ -10,6 +10,15 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54780&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/pburg/pretoriu.htm",
         "speakers": [
+            "ADV DE JAGER",
+            "ADV VISSER",
+            "CHAIRMAN",
+            "LOURENS MARTIN PRETORIUS",
+            "MR BLACK",
+            "MR ROSSOUW",
+            "MS KHAMPEPE"
+        ],
+        "original_speakers": [
             "ADV VISSER",
             "LOURENS MARTIN PRETORIUS",
             "MR PRETORIUS",
@@ -33,12 +42,12 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY ADV VISSER",
+            "ADV VISSER",
             "Mr Pretorius, you are an applicant for amnesty before this Committee and you are requesting amnesty for any offence or crime which you might have committed or which may be found to have been committed by you during the incident which took place on the 10th of July, 1986 on the Breslau/Alldays road?",
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "Correct, yes.",
             "Male"
         ],
@@ -48,7 +57,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "Yes.",
             "Male"
         ],
@@ -58,7 +67,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "Just at paragraph 8(b) on page 2, where it says March 1996, Station Commissioner in Makwoin.",
             "Male"
         ],
@@ -68,7 +77,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "It should be Makwoin.  The \"n\" should change into a \"w\".",
             "Male"
         ],
@@ -78,7 +87,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "That is all.",
             "Male"
         ],
@@ -88,7 +97,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "Yes.",
             "Male"
         ],
@@ -98,7 +107,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "Yes.",
             "Male"
         ],
@@ -108,7 +117,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "Correct.",
             "Male"
         ],
@@ -118,7 +127,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "That is correct.",
             "Male"
         ],
@@ -128,7 +137,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "I was in the casspir.",
             "Male"
         ],
@@ -143,7 +152,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "No, I didn't see Captain Born.",
             "Male"
         ],
@@ -153,7 +162,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "Yes, I did.",
             "Male"
         ],
@@ -163,7 +172,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "Yes.",
             "Male"
         ],
@@ -173,7 +182,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "Yes.",
             "Male"
         ],
@@ -183,7 +192,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "Yes.",
             "Male"
         ],
@@ -193,7 +202,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "Yes, I emptied one magazine and 20 shots.",
             "Male"
         ],
@@ -203,7 +212,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "Yes.",
             "Male"
         ],
@@ -213,7 +222,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "At the kombi.",
             "Male"
         ],
@@ -223,7 +232,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "That is correct.",
             "Male"
         ],
@@ -233,7 +242,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "We had to arrest them, but not at the expense of our own lives.",
             "Male"
         ],
@@ -243,7 +252,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "No.",
             "Male"
         ],
@@ -253,7 +262,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "No.",
             "Male"
         ],
@@ -263,7 +272,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "I concluded that we were being shot at and our people started shooting back and I joined in the shooting.",
             "Male"
         ],
@@ -273,7 +282,7 @@
             "Unknown"
         ],
         [
-            "NO FURTHER QUESTIONS BY ADV VISSER",
+            "ADV VISSER",
             ".",
             "Unknown"
         ],
@@ -288,7 +297,7 @@
             "Male"
         ],
         [
-            "NO CROSS-EXAMINATION BY MR ROSSOUW",
+            "MR ROSSOUW",
             ".",
             "Male"
         ],
@@ -303,7 +312,7 @@
             "Male"
         ],
         [
-            "NO CROSS-EXAMINATION BY MR BLACK",
+            "MR BLACK",
             ".",
             "Male"
         ],
@@ -313,7 +322,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "According to my training, as soon as you open fire, you deliver maximum fire.  I am not prepared to go back and find out whether these people are still able to return fire, I wouldn't endanger my life like that.",
             "Male"
         ],
@@ -323,7 +332,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "I supposed we could have shouted from the casspir.",
             "Male"
         ],
@@ -333,7 +342,7 @@
             "Unknown"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "I am satisfied that we acted in accordance with my training and correctly.\n\tPerhaps we could have shot even more, but we didn't.",
             "Male"
         ],
@@ -343,7 +352,7 @@
             "Female"
         ],
         [
-            "MR PRETORIUS",
+            "LOURENS MARTIN PRETORIUS",
             "That is correct Chairperson.",
             "Male"
         ],
@@ -358,7 +367,7 @@
             "Unknown"
         ],
         [
-            "NO RE-EXAMINATION BY ADV VISSER",
+            "ADV VISSER",
             ".",
             "Unknown"
         ],

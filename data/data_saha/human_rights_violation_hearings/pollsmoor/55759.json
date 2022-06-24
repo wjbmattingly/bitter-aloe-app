@@ -7,6 +7,14 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55759&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/polls/bateman.htm",
         "speakers": [
+            "ADV POTGIETER",
+            "CHAIRPERSON",
+            "<UNKNOWN>",
+            "MR BATEMAN",
+            "MS GOBODOMADIKIZELA",
+            "MS WILDSCHUT"
+        ],
+        "original_speakers": [
             "ADV POTGIETER\n",
             "MR BATEMAN\n",
             "MS WILDSCHUT\n",
@@ -477,7 +485,7 @@
             "Unknown"
         ],
         [
-            "MEETING ADJOURNS FOR LUNCH",
+            "<UNKNOWN>",
             "",
             "Unknown"
         ]

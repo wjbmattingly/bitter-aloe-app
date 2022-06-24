@@ -10,6 +10,17 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53934&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99111517_tho_991116th.htm",
         "speakers": [
+            "ADV DE JAGER",
+            "ADV SIGODI",
+            "CHAIRPERSON",
+            "INTERPRETER",
+            "MR MASHAMBA",
+            "MR NDOU",
+            "MR VAN RENSBURG",
+            "MR VAN RENSBURG IN ARGUMENT",
+            "MS PATEL"
+        ],
+        "original_speakers": [
             "T MASHAMBA",
             "MR NDOU",
             "MR MASHAMBA",
@@ -24,12 +35,12 @@
     },
     "testimony": [
         [
-            "T MASHAMBA",
+            "MR MASHAMBA",
             "(sworn states)",
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR NDOU",
+            "MR NDOU",
             "Thank you Mr Chairperson.\n\tMr Mashamba, I see in your application here you indicate that you were born on the 2nd February 1963?  Is that your correct date of birth?",
             "Male"
         ],
@@ -814,7 +825,7 @@
             "Female"
         ],
         [
-            "CROSS-EXAMINATION BY MR VAN RENSBURG",
+            "MR VAN RENSBURG",
             "Thank you, may I proceed?  \tMr Mashamba, there's just thing I want you to explain to me.  If you now succeeded in killing all the witches in the whole of Venda, how would that act cause the people in government in power to become powerless?",
             "Male"
         ],
@@ -1259,7 +1270,7 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MS PATEL",
+            "MS PATEL",
             "Thank you Honourable Chairperson.\n\tSir, can you tell us, Mr is it Mafune?  His three huts were burnt, not so and you were responsible for setting the first house alight?",
             "Female"
         ],

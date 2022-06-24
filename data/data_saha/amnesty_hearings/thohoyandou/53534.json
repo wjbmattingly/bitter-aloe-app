@@ -10,6 +10,19 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53534&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99071214_tho_990714th.htm",
         "speakers": [
+            "ADV DE JAGER",
+            "CHAIRPERSON",
+            "CHESTER RAGWALA",
+            "INTERPRETER",
+            "MR NDOU",
+            "MR VAN RENSBURG",
+            "MRS MAHVUNGA",
+            "MS MAHVUNGA",
+            "MS PATEL",
+            "N P RERANI",
+            "ROSINNAH MAHVUNGA"
+        ],
+        "original_speakers": [
             "CHAIRPERSON",
             "MR RERANI",
             "N P RERANI",
@@ -32,7 +45,7 @@
             "Unknown"
         ],
         [
-            "MR RERANI",
+            "N P RERANI",
             "Venda.",
             "Male"
         ],
@@ -47,12 +60,12 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR NDOU",
+            "MR NDOU",
             "Thank you, Mr Chairman.  Mr Rerani, you've signed an affidavit.  If you look at the last page of this affidavit, you'll see there's a signature there, is that your signature?",
             "Male"
         ],
         [
-            "MR RERANI",
+            "N P RERANI",
             "Yes, it's might.",
             "Male"
         ],
@@ -62,7 +75,7 @@
             "Male"
         ],
         [
-            "MR RERANI",
+            "N P RERANI",
             "Yes.",
             "Male"
         ],
@@ -72,7 +85,7 @@
             "Male"
         ],
         [
-            "MR RERANI",
+            "N P RERANI",
             "No.",
             "Male"
         ],
@@ -82,7 +95,7 @@
             "Unknown"
         ],
         [
-            "MR RERANI",
+            "N P RERANI",
             "No.\nNO FURTHER QUESTIONS BY MR NDOU",
             "Male"
         ],
@@ -97,7 +110,7 @@
             "Male"
         ],
         [
-            "MR RERANI",
+            "N P RERANI",
             "Yes, it is true.",
             "Male"
         ],
@@ -107,7 +120,7 @@
             "Male"
         ],
         [
-            "MR RERANI",
+            "N P RERANI",
             "Yes, I can.",
             "Male"
         ],
@@ -117,7 +130,7 @@
             "Male"
         ],
         [
-            "MR RERANI",
+            "N P RERANI",
             "When I arrived there, the fight was on.  I just joined and participate in throwing the stones.",
             "Male"
         ],
@@ -127,7 +140,7 @@
             "Male"
         ],
         [
-            "MR RERANI",
+            "N P RERANI",
             "Maybe they asked me in a way that you are not asking me now.  I might have answered it contrary to what you are expecting of me.",
             "Male"
         ],
@@ -137,7 +150,7 @@
             "Unknown"
         ],
         [
-            "MR RERANI",
+            "N P RERANI",
             "Yes.",
             "Male"
         ],
@@ -147,7 +160,7 @@
             "Unknown"
         ],
         [
-            "MR RERANI",
+            "N P RERANI",
             "I thought that if, when arriving there, I could just stand and watch them because they would revolt against me.",
             "Male"
         ],
@@ -157,7 +170,7 @@
             "Unknown"
         ],
         [
-            "MR RERANI",
+            "N P RERANI",
             "No.",
             "Male"
         ],
@@ -202,7 +215,7 @@
             "Unknown"
         ],
         [
-            "MR RAGWALA",
+            "CHESTER RAGWALA",
             "Venda.",
             "Male"
         ],
@@ -212,7 +225,7 @@
             "Unknown"
         ],
         [
-            "MR RAGWALA",
+            "CHESTER RAGWALA",
             "No.",
             "Male"
         ],
@@ -222,12 +235,12 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR NDOU",
+            "MR NDOU",
             "Thank you, Mr Chairman.  Mr Ragwala, you are an applicant in this matter and you have prepared an affidavit and, if you look at the last page of this affidavit, is that your signature?",
             "Male"
         ],
         [
-            "MR RAGWALA",
+            "CHESTER RAGWALA",
             "Yes, it's mine.",
             "Male"
         ],
@@ -237,7 +250,7 @@
             "Male"
         ],
         [
-            "MR RAGWALA",
+            "CHESTER RAGWALA",
             "Yes, I cannot add anything.",
             "Male"
         ],
@@ -247,7 +260,7 @@
             "Unknown"
         ],
         [
-            "MR RAGWALA",
+            "CHESTER RAGWALA",
             "No.\nNO FURTHER QUESTIONS BY MR NDOU",
             "Male"
         ],
@@ -307,7 +320,7 @@
             "Male"
         ],
         [
-            "MR RAGWALA",
+            "CHESTER RAGWALA",
             "Throwing stones at the deceased as well as burning the house.",
             "Male"
         ],
@@ -317,7 +330,7 @@
             "Male"
         ],
         [
-            "MR RAGWALA",
+            "CHESTER RAGWALA",
             "Regarding the burning of the house, it's as follows.  I burned the car.",
             "Male"
         ],
@@ -327,7 +340,7 @@
             "Unknown"
         ],
         [
-            "MR RAGWALA",
+            "CHESTER RAGWALA",
             "I took the tyres, as the car was burning, I added towards the flame.",
             "Male"
         ],
@@ -337,7 +350,7 @@
             "Male"
         ],
         [
-            "MR RAGWALA",
+            "CHESTER RAGWALA",
             "Could you repeat the question please?",
             "Male"
         ],
@@ -347,7 +360,7 @@
             "Male"
         ],
         [
-            "MR RAGWALA",
+            "CHESTER RAGWALA",
             "It was perhaps out of forgetfulness in explaining.",
             "Male"
         ],
@@ -377,12 +390,12 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MS PATEL",
+            "MS PATEL",
             "Thank you, honourable Chairperson, just one.  Sir, at the time you stated when you were asked the reason for your involvement, you said you were just throwing stones because you felt like it and because everybody else was throwing stones, is that still your position today?",
             "Female"
         ],
         [
-            "MR RAGWALA",
+            "CHESTER RAGWALA",
             "Could you repeat your question slowly?",
             "Male"
         ],
@@ -392,7 +405,7 @@
             "Female"
         ],
         [
-            "MR RAGWALA",
+            "CHESTER RAGWALA",
             "Yes, I do remember, that was when I was putting a statement or writing a statement before the police.  As I was explaining, I did explain that I arrived at the deceased's house and the fight was already on.  I joined in the throwing of stones.",
             "Male"
         ],
@@ -402,7 +415,7 @@
             "Female"
         ],
         [
-            "MR RAGWALA",
+            "CHESTER RAGWALA",
             "Yes, it was true.",
             "Male"
         ],
@@ -412,7 +425,7 @@
             "Unknown"
         ],
         [
-            "MR RAGWALA",
+            "CHESTER RAGWALA",
             "I knew that we were fighting against the deceased because the deceased had already been told to leave and he refused.",
             "Male"
         ],
@@ -422,7 +435,7 @@
             "Unknown"
         ],
         [
-            "MR RAGWALA",
+            "CHESTER RAGWALA",
             "Could you repeat that question?",
             "Male"
         ],
@@ -432,7 +445,7 @@
             "Unknown"
         ],
         [
-            "MR RAGWALA",
+            "CHESTER RAGWALA",
             "He was asked to leave because he was suspected of witchcraft plus...(intervention)",
             "Male"
         ],
@@ -447,7 +460,7 @@
             "Unknown"
         ],
         [
-            "MR RAGWALA",
+            "CHESTER RAGWALA",
             "Because he was suspected of witchcraft practise and also apposing the people at Mahvunga village.",
             "Male"
         ],
@@ -472,7 +485,7 @@
             "Unknown"
         ],
         [
-            "MR RAGWALA",
+            "CHESTER RAGWALA",
             "The question, please?",
             "Male"
         ],
@@ -482,7 +495,7 @@
             "Unknown"
         ],
         [
-            "MR RAGWALA",
+            "CHESTER RAGWALA",
             "Yes.",
             "Male"
         ],
@@ -492,7 +505,7 @@
             "Unknown"
         ],
         [
-            "MR RAGWALA",
+            "CHESTER RAGWALA",
             "I remember that in one meeting at the chief's kraal when the late was told to leave because he was apposing the children at Mahvunga, the meeting did not resolve well because it was then that Petrus' house was burnt down.  As the deceased was really fighting against the people and they started singing towards the house.  And that led to the ending of the meeting, not in a peaceful way.",
             "Male"
         ],
@@ -542,7 +555,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR VAN RENSBURG",
+            "MR VAN RENSBURG",
             "Thank you, Mr Chairperson.  Rosinnah, can you first start to explain to us what the relationship was between yourself and the deceased, Mr Edward Mahvunga?",
             "Male"
         ],
@@ -1922,7 +1935,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR NDOU",
+            "MR NDOU",
             "Just one or two questions.\n\tI just want to find out from you, since you now live at Chirore is it correct that the other children of the deceased never left their home, they remained there all the time?  Is that correct?",
             "Male"
         ],

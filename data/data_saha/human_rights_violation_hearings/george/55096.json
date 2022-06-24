@@ -11,6 +11,13 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55096&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/george/ct00553.htm",
         "speakers": [
+            "DR ALLY",
+            "DR RAMASHALA",
+            "<UNKNOWN>",
+            "MR YALOLO",
+            "MS BURTON"
+        ],
+        "original_speakers": [
             "DR RAMASHALA\n",
             "MR YALOLO\n",
             "MEETING ADJOURNS FOR TEA ON RESUMPTION\n",
@@ -40,7 +47,7 @@
             "Unknown"
         ],
         [
-            "MEETING ADJOURNS FOR TEA ON RESUMPTION",
+            "<UNKNOWN>",
             "",
             "Unknown"
         ],

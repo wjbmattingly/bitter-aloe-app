@@ -11,6 +11,13 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55519&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/kwtown/zwlmaty.htm",
         "speakers": [
+            "CHAIRPERSION",
+            "MR SANDI",
+            "MRS MATYOLO",
+            "MRS TYOLO",
+            "MS MAYA"
+        ],
+        "original_speakers": [
             "MS MAYA",
             "MR  SANDI",
             "MRS MATYOLO",
@@ -31,7 +38,7 @@
             "Female"
         ],
         [
-            "MR  SANDI",
+            "MR SANDI",
             "Let me start by greeting you, Mrs Matyolo.  You are here to talk about your son, Zalisile Ernest Matyolo.",
             "Male"
         ],

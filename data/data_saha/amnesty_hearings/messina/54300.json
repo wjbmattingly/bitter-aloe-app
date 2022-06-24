@@ -12,6 +12,16 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54300&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/2000/200703me.htm",
         "speakers": [
+            "ADV BOSMAN",
+            "CHAIRPERSON",
+            "MR DE BEER",
+            "MR KOOPEDI",
+            "MR NONDULA",
+            "MR SIBANYONI",
+            "MR WAGENER",
+            "MS MTANGA"
+        ],
+        "original_speakers": [
             "MR KOOPEDI",
             "CHAIRPERSON",
             "MR NONDULA",
@@ -39,7 +49,7 @@
             "Male"
         ],
         [
-            "EXAMINATION BY MR KOOPEDI",
+            "MR KOOPEDI",
             "Mr Nondula, I'm showing to you page 23 of the bundle of documents.  There is an application form there.  Is this your application form?",
             "Male"
         ],
@@ -384,7 +394,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR WAGENER",
+            "MR WAGENER",
             "Prior to this incident, what training did you receive in military weapons?",
             "Male"
         ],
@@ -1759,7 +1769,7 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MR DE BEER",
+            "MR DE BEER",
             "Mr Nondula, you said that when you crossed the border, you saw some patrols.  Were they military patrols, I assume?",
             "Male"
         ],
@@ -2149,7 +2159,7 @@
             "Male"
         ],
         [
-            "RE-EXAMINATION BY MR KOOPEDI",
+            "MR KOOPEDI",
             "Now Mr Nondula, were you at any stage a member of the National Executive Committee of the ANC?",
             "Male"
         ],
@@ -2344,7 +2354,7 @@
             "Male"
         ],
         [
-            "FURTHER CROSS-EXAMINATION BY MR WAGENER",
+            "MR WAGENER",
             "On this last question of Mr Sibanyoni, do you concede that you were convicted in respect of the mine that killed the De Nysschen and Van Eck families?",
             "Male"
         ],

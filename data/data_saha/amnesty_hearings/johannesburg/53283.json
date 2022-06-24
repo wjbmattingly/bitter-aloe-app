@@ -6,6 +6,23 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53283&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99041220_jhb_990412jb.htm",
         "speakers": [
+            "ADV BOSMAN",
+            "APPLICATION NO",
+            "CHAIRPERSON",
+            "DAY",
+            "MATTER",
+            "MR CHASKALSON",
+            "MR CORNELIUS",
+            "MR DU PLESSIS",
+            "MR HATTINGH",
+            "MR LENGANE",
+            "MR NOTT",
+            "MR RAUTENBACH",
+            "MR TRENGOVE",
+            "MR WAGENER",
+            "<UNKNOWN>"
+        ],
+        "original_speakers": [
             "NAME",
             "APPLICATION NO",
             "MATTER",
@@ -25,7 +42,7 @@
     },
     "testimony": [
         [
-            "NAME",
+            "<UNKNOWN>",
             "MICHAEL BELLINGAN",
             "Unknown"
         ],

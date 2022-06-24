@@ -6,6 +6,19 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54640&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/bok/bok1_katleho7.htm",
         "speakers": [
+            "ADV MOTATA",
+            "CHAIRPERSON",
+            "MR MADASA",
+            "MR MADASA IN ARGUMENT",
+            "MR MADASA IN FURTHER ARGUMENT",
+            "MR MALAN",
+            "MR MAPOMA",
+            "MR MAPOMA IN ARGUMENT",
+            "MR SIBANYONI",
+            "SELENA MDONBISIMENGE MOTLOUNG"
+        ],
+        "starting date": "UNKNOWN",
+        "original_speakers": [
             "MR MAPOMA",
             "SELENA MDONBISIMENGE MOTLOUNG",
             "MS MOTLOUNG",
@@ -17,8 +30,7 @@
             "MR MADASA - IN ARGUMENT",
             "MR MAPOMA - IN ARGUMENT",
             "MR MADASA - IN FURTHER ARGUMENT"
-        ],
-        "starting date": "UNKNOWN"
+        ]
     },
     "testimony": [
         [
@@ -37,12 +49,12 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR MAPOMA",
+            "MR MAPOMA",
             "Miss Motloung, where do you reside?",
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "I stay in Tokoza.",
             "Female"
         ],
@@ -52,7 +64,7 @@
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "Yes, I know them.",
             "Female"
         ],
@@ -62,7 +74,7 @@
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "Yes, he is my son.",
             "Female"
         ],
@@ -72,7 +84,7 @@
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "I would like to know that I'm here since Thursday, I never heard a single one committing himself to having committed the crime.",
             "Female"
         ],
@@ -82,7 +94,7 @@
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "It means they have not told me the truth about my son.",
             "Female"
         ],
@@ -92,7 +104,7 @@
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "Yes, I know.",
             "Female"
         ],
@@ -102,7 +114,7 @@
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "ANC Youth League.",
             "Female"
         ],
@@ -112,7 +124,7 @@
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "None.",
             "Female"
         ],
@@ -132,7 +144,7 @@
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "If these people had not killed Blanko and Bulelwa, they would not have been killed?",
             "Female"
         ],
@@ -142,7 +154,7 @@
             "Unknown"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "That was a question.",
             "Female"
         ],
@@ -152,7 +164,7 @@
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "That they were criminals, or they are the ones who killed Bulelwa and Blanko?   Will you please repeat your question?",
             "Female"
         ],
@@ -162,7 +174,7 @@
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "I don't believe that our sons are the ones who killed Bulelwa and Blanko.",
             "Female"
         ],
@@ -172,7 +184,7 @@
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "I would forgive them if they could give me Vips's head, I should say eyes and hair, if they can give me those things, I can forgive them, but if they cannot give me those things, I cannot.   I'm not satisfied that they killed him because he killed Bulelwa and Blanko.   If they argue that he was a criminal, I would not accept that.   I don't know how they can say he was a criminal.   His report does also indicate that he was going to school and he passed.  I'm just wondering what time he committed these crimes?",
             "Female"
         ],
@@ -182,7 +194,7 @@
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "On my side, I think they have not divulged the truth and therefore I cannot forgive them, because it is not enough to say I forgive them whereas I am hurting inside.",
             "Female"
         ],
@@ -192,12 +204,12 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MR MADASA",
+            "MR MADASA",
             "Mrs Motloung, are you saying if you had heard how Vips was killed, you would not oppose the amnesty application?",
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "I would object to it, because as a parent, they did not come to me to explain to me that my son was committing crime.   They, like parents, were supposed to give me a chance so I could speak to my son.",
             "Female"
         ],
@@ -207,7 +219,7 @@
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "If they could tell me exactly how he was killed, and therefore give me his body parts, I would not object to the application for amnesty.",
             "Female"
         ],
@@ -217,7 +229,7 @@
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "Yes, I did hear about that.    If he was killed in Khumalo by Manyala and others, why then did they include Vips's name in the list, because they did not kill him?",
             "Female"
         ],
@@ -237,7 +249,7 @@
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "Who captured him, who captured him with his own hands?",
             "Female"
         ],
@@ -257,7 +269,7 @@
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "So Manyala is the person who dealt with Vips?",
             "Female"
         ],
@@ -267,7 +279,7 @@
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "There is also one more of these who are applying for amnesty.   He says Vips was carrying a gun, he tried to shoot him and he fled.   What time, therefore, did they capture him?   Can I get an explanation on this one?",
             "Female"
         ],
@@ -277,7 +289,7 @@
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "I am now satisfied.   She was not in their hands, but the information they know.   Even though I was not residing at 6, some residents are saying after killing him, they were told that he was killed.   They too knew how he was going to be killed.",
             "Female"
         ],
@@ -297,7 +309,7 @@
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "Yes, I concur with that.",
             "Female"
         ],
@@ -307,7 +319,7 @@
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "I went to the Peace Committee because I wanted my son's corpse and I couldn't find it.   The soldiers that I found at the bridge in Moleleki said they could not help me, except for me to go to the Peace Committee, they were told that there were seven corpses in Moleleki and it might have happened that the eighth was that of my son's, that is why I had to go to the Peace Committee, to ask them to help me locate the corpse of my son.",
             "Female"
         ],
@@ -317,7 +329,7 @@
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "I don't have forgiveness, because as they explained on my arrival, they're saying they have been suspecting the kids for a very long time, that they were criminals, hijacking and doing all sorts of things, and after killing Bulelwa and Blanko, that is then they took action, and they, as adults, have taken that action.   Why, if they were trying to protect the community, why did they not go to Peter Ngaba, discuss this with him, indicate to him that this is beyond their power, and indicate to him that since the kids had killed, something had to be done?",
             "Female"
         ],
@@ -327,7 +339,7 @@
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "I have no knowledge, because I was not residing in Moleleki at that time.",
             "Female"
         ],
@@ -357,12 +369,12 @@
             "Unknown"
         ],
         [
-            "FURTHER CROSS-EXAMINATION BY MR MADASA",
+            "MR MADASA",
             "You say you were not living at Moleleki in December 1993.   Was Vips living with you?",
             "Male"
         ],
         [
-            "MS MOTLOUNG",
+            "SELENA MDONBISIMENGE MOTLOUNG",
             "(Indistinct - reply not translated).",
             "Female"
         ],

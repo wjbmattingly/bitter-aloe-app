@@ -6,6 +6,17 @@
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/pe/cradock4.htm",
         "speakers": [
             "CHAIRPERSON",
+            "INTERPRETER",
+            "MR BIZOS",
+            "MR BOOYENS",
+            "MR HUGO",
+            "MR NOLTE",
+            "MR VAN RENSBURG",
+            "MS PATEL"
+        ],
+        "starting date": "UNKNOWN",
+        "original_speakers": [
+            "CHAIRPERSON",
             "MR BIZOS",
             "MR BOOYENS",
             "MR VAN RENSBURG",
@@ -13,8 +24,7 @@
             "MS PATEL",
             "MR HUGO",
             "MR NOLTE"
-        ],
-        "starting date": "UNKNOWN"
+        ]
     },
     "testimony": [
         [
@@ -663,7 +673,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MS PATEL",
+            "MS PATEL",
             "I'm quite happy to proceed.\n\tMr van Rensburg just for clarity's sake, could you please explain who approached whom first regarding the question of the elimination of Mr Goniwe and whoever accompanied him?  Did you approach van Zyl and Mr du Plessis or did they approach you first?",
             "Female"
         ],

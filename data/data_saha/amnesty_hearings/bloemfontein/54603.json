@@ -12,6 +12,14 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54603&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/bloem/bloem2_moalisi.htm",
         "speakers": [
+            "ADV DE JAGER",
+            "JUDGE NGOEPE",
+            "JUDGE WILSON",
+            "MR MAOLOSI",
+            "MS THABETHA",
+            "SIMON PHULA GHEDSA MOALOSI"
+        ],
+        "original_speakers": [
             "ADV TSHONGWENI",
             "ADV DE JAGER",
             "MS THABETHA",
@@ -24,7 +32,7 @@
     },
     "testimony": [
         [
-            "ADV TSHONGWENI",
+            "UNKNOWN",
             "With your permission, Mr Chairman, I beg to call Mr Moalosi to the stand.",
             "Unknown"
         ],
@@ -74,7 +82,7 @@
             "Unknown"
         ],
         [
-            "ADV TSHONGWENI",
+            "UNKNOWN",
             "That is correct.",
             "Unknown"
         ],
@@ -84,7 +92,7 @@
             "Unknown"
         ],
         [
-            "ADV TSHONGWENI",
+            "UNKNOWN",
             "Mr Chairman, I intended calling Mr Thoabala after ...",
             "Unknown"
         ],
@@ -94,7 +102,7 @@
             "Unknown"
         ],
         [
-            "ADV TSHONGWENI",
+            "UNKNOWN",
             "I am indebted to you.",
             "Unknown"
         ],
@@ -109,7 +117,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR TSHONGWENI",
+            "UNKNOWN",
             "With your permission, M'Lord, the applicant will now give evidence.   Please state your full name and surname?",
             "Male"
         ],
@@ -129,7 +137,7 @@
             "Male"
         ],
         [
-            "ADV TSHONGWENI",
+            "UNKNOWN",
             "Where were you born?",
             "Unknown"
         ],
@@ -139,7 +147,7 @@
             "Male"
         ],
         [
-            "ADV TSHONGWENI",
+            "UNKNOWN",
             "How long did you live there?",
             "Unknown"
         ],
@@ -149,7 +157,7 @@
             "Male"
         ],
         [
-            "ADV TSHONGWENI",
+            "UNKNOWN",
             "Up to what standard did you go to school?",
             "Unknown"
         ],
@@ -159,7 +167,7 @@
             "Male"
         ],
         [
-            "ADV TSHONGWENI",
+            "UNKNOWN",
             "Where did you pass your matric?",
             "Unknown"
         ],
@@ -169,7 +177,7 @@
             "Male"
         ],
         [
-            "ADV TSHONGWENI",
+            "UNKNOWN",
             "What did you do after passing matric?",
             "Unknown"
         ],
@@ -179,7 +187,7 @@
             "Male"
         ],
         [
-            "ADV TSHONGWENI",
+            "UNKNOWN",
             "How long were you employed by the department of - now the Correctional Services?",
             "Unknown"
         ],
@@ -189,7 +197,7 @@
             "Male"
         ],
         [
-            "ADV TSHONGWENI",
+            "UNKNOWN",
             "You are presently incarcerated in Kroonstad Prison for the murder of John Plaatjies and serving eight years.  Is that correct?",
             "Unknown"
         ],
@@ -199,7 +207,7 @@
             "Male"
         ],
         [
-            "ADV TSHONGWENI",
+            "UNKNOWN",
             "Could you tell the Committee what happened and what led to the killing of the deceased?",
             "Unknown"
         ],
@@ -209,7 +217,7 @@
             "Male"
         ],
         [
-            "ADV TSHONGWENI",
+            "UNKNOWN",
             "Mr Moalosi, were you at any stage considered as an enemy by the comrades in Tamahole?",
             "Unknown"
         ],
@@ -219,7 +227,7 @@
             "Male"
         ],
         [
-            "ADV TSHONGWENI",
+            "UNKNOWN",
             "In conclusion, Mr Moalosi, do you now consider your co-accused as enemies?",
             "Unknown"
         ],
@@ -229,7 +237,7 @@
             "Male"
         ],
         [
-            "ADV TSHONGWENI",
+            "UNKNOWN",
             "Thank you, Mr Chairman, I have no further questions.\nNO FURTHER QUESTIONS BY ADV TSHONGWENI",
             "Unknown"
         ],
@@ -239,7 +247,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MS THABETHA",
+            "MS THABETHA",
             "Yes, Mr Chair.  Mr Maolosi, was Mr Plaatjies your friend?",
             "Female"
         ],
@@ -459,7 +467,7 @@
             "Male"
         ],
         [
-            "ADV TSHONGWENI",
+            "UNKNOWN",
             "Mr Chairperson, no further questions.\nNO RE-EXAMINATION BY ADV TSHONGWENI",
             "Unknown"
         ],

@@ -13,7 +13,7 @@ def cache_speakers():
         speakers = json.load(f)
     return speakers
 
-def write_data(data):
+def write_data(data, keywords=False):
     for i, segment in enumerate(data["testimony"]):
         if segment[0] in corrected_people:
             st.markdown(f"(Index {i}) **{segment[0]}**: {segment[1]}")
@@ -22,9 +22,33 @@ def write_data(data):
 st.title("")
 style = st.sidebar.selectbox("Select Testimony Analysis Method", [
                                                             "By Testimony",
-                                                            "By Person"
-
+                                                            "By Person",
+                                                            "By Keyword"
                                                                 ])
+if style == 'By Keyword':
+    st.title("Testimony Analysis by Keyword(s)")
+    files = glob.glob(f"./data/data_saha/*/*/*.json")
+    keywords = st.sidebar.text_input('Enter Search').split(",")
+    keywords = [k.strip().lower() for k in keywords]
+
+    if st.sidebar.button("Search"):
+
+        st.write(keywords)
+        if len(keywords) > 0:
+            found_files = []
+            for filename in files:
+                with open (filename, 'r') as f:
+                    data = json.load(f)
+                for i, segment in enumerate(data["testimony"]):
+                    for k in keywords:
+                        if k.lower() in segment[1].lower():
+                            if filename not in found_files:
+                                st.header(f"File: {filename}")
+                                found_files.append(filename)
+                            st.markdown(f"(Index {i}) **{segment[0]}**: {segment[1].replace(k, f'<mark>{k}</mark>')}", unsafe_allow_html=True)
+                            st.write("-----")
+
+
 if style == "By Testimony":
     st.title("Testimony Analysis by Testimony")
     testimony_type = st.selectbox("Select Testimony Type", [

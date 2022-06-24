@@ -12,6 +12,19 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54243&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/2000/200612bl.htm",
         "speakers": [
+            "ADV SANDI",
+            "CHAIRPERSON",
+            "INTERPRETATION",
+            "INTERPRETER",
+            "JUDGE DE JAGER",
+            "ME LEBEA",
+            "MR KACHELHOFFER",
+            "MR LEBEA",
+            "MR MBANDAZAYO",
+            "MS MTANGA",
+            "TITUS LETHOHONOLO LEBEA"
+        ],
+        "original_speakers": [
             "CHAIRPERSON",
             "MR MBANDAZAYO",
             "MR KACHELHOFFER",
@@ -82,7 +95,7 @@
             "Male"
         ],
         [
-            "EXAMINATION BY MR MBANDAZAYO",
+            "MR MBANDAZAYO",
             "Mr Lebea, is it correct that you were born on the 14th of March 1971 in Vanderbijlpark?",
             "Male"
         ],
@@ -1147,7 +1160,7 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MR KACHELHOFFER",
+            "MR KACHELHOFFER",
             "Mr Lebea, you testified to the effect that you have decided to leave the AK47 in the vehicle, remember that?",
             "Male"
         ],
@@ -1672,7 +1685,7 @@
             "Female"
         ],
         [
-            "CROSS-EXAMINATION BY MS MTANGA",
+            "MS MTANGA",
             "Mr Lebea, you have testified that in your knowledge the value of the goods that\nwere taken or stolen from the van Tonder family was about R26 350, do you recall that?",
             "Female"
         ],
@@ -3202,7 +3215,7 @@
             "Male"
         ],
         [
-            "RE-EXAMINATION BY MR MBANDAZAYO",
+            "MR MBANDAZAYO",
             "Mr Lebea, let me start with the dates.  You were questioned by the members of the Committee and you indicated that on the 15th of January, the target was identified by Themba Ncapai and he told you about\nthe target.  Can you explain, at that time had you already undergone the crash course?",
             "Male"
         ],
@@ -3797,7 +3810,7 @@
             "Unknown"
         ],
         [
-            "RE-EXAMINATION BY MR MBANDAZAYO",
+            "MR MBANDAZAYO",
             "(Cont)\n\tThank you Chairperson and Honourable Members of the Committee.  Mr Lebea, when we took a break I was asking you that am I correct to say that you were visited by members of APLA whilst you were in prison?",
             "Male"
         ],
@@ -3952,7 +3965,7 @@
             "Male"
         ],
         [
-            "FURTHER CROSS-EXAMINATION BY MR KACHELHOFFER",
+            "MR KACHELHOFFER",
             "I just want to know, is it currently still the policy of Apla to attack so-called white farmers or farms?",
             "Male"
         ],

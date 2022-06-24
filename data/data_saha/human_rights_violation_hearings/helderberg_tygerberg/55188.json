@@ -7,6 +7,18 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55188&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/helder/ct01808.htm",
         "speakers": [
+            "AWB",
+            "CASE NO",
+            "CHAIRPERSON",
+            "COMMISSIONER",
+            "DOUGLAS SIZWE NKWALI",
+            "MS BURTON",
+            "MS WILDSCHUT",
+            "<UNKNOWN>",
+            "TESTIMONY FROM",
+            "VICTIM"
+        ],
+        "original_speakers": [
             "CASE NO",
             "VICTIM",
             "DOUGLAS SIZWE NKWALI\n",
@@ -37,12 +49,12 @@
             "Unknown"
         ],
         [
-            "NATURE OF VIOLENCE",
+            "<UNKNOWN>",
             "",
             "Unknown"
         ],
         [
-            "SEVERE ASSAULT BY AWB",
+            "AWB",
             "",
             "Unknown"
         ],

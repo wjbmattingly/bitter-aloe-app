@@ -11,6 +11,14 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55763&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/polls/ct00112.htm",
         "speakers": [
+            "ADV POTGIETER",
+            "DR ORR",
+            "MS BOY",
+            "MS MTUZE",
+            "MS WILDSCHUT",
+            "<UNKNOWN>"
+        ],
+        "original_speakers": [
             "ADV POTGIETER\n",
             "MS MTUZE\n",
             "UNKNOWN\n",
@@ -36,7 +44,7 @@
             "Unknown"
         ],
         [
-            "UNKNOWN",
+            "<UNKNOWN>",
             "Yes.",
             "Unknown"
         ],

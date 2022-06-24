@@ -11,6 +11,18 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53210&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99021519_jhb_990216br.htm",
         "speakers": [
+            "ADV SANDI",
+            "CHAIRPERSON",
+            "DR TSOTSI",
+            "INTERPRETER",
+            "JOHN IDMEL DUBE",
+            "JOHN ITHUMALENG DUBE",
+            "MR DUBE",
+            "MR KOOPEDI",
+            "MR MAPOMA",
+            "MR RICHARD"
+        ],
+        "original_speakers": [
             "MR MAPOMA",
             "MR KOOPEDI",
             "MR RICHARD",
@@ -105,7 +117,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR KOOPEDI",
+            "MR KOOPEDI",
             "As the Committee pleases.  \tMr Dube, where do you reside?",
             "Male"
         ],
@@ -610,7 +622,7 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MR RICHARD",
+            "MR RICHARD",
             "My first question, Mr Dube, is how long did you know the deceased before his death?",
             "Male"
         ],
@@ -1545,7 +1557,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR RICHARD",
+            "MR RICHARD",
             "(cont)\n\tWe were dealing with the various occasions on which the late Sicelo Dhlomo was detained during the 86 87 period.  Where we had got to was you really didn't know him before, if I remember correctly and I unfortunately didn't make a note of it, it was the June, July period, mid-year that year.",
             "Male"
         ],
@@ -3050,7 +3062,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR RICHARD",
+            "MR RICHARD",
             "(cont)\n\tFor the sake of the record I would like to put in that this statement emanates from a pile kept at the historical documents section of the William Cullen library at the University of the Witwatersrand.  It was amongst the papers together with a post mortem report prepared by the late Dr Gluckman.  Mr Pigou gave a copy of it to Mr Moime last week, so, may I proceed.",
             "Male"
         ],
@@ -3115,7 +3127,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR RICHARD",
+            "MR RICHARD",
             "(Cont)\n\tMr Dube, have you had a chance to read that statement that I gave you before lunch?",
             "Male"
         ],

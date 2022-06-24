@@ -11,6 +11,15 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53832&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99110103_el_991101.htm",
         "speakers": [
+            "ADV SIBANYONI",
+            "CHAIRPERSON",
+            "INTERPRETER",
+            "JUDGE POTGIETER",
+            "MR MAPOMA",
+            "MR MBANDAZAYO",
+            "MR NKUMANDA"
+        ],
+        "original_speakers": [
             "CHAIRPERSON",
             "JUDGE POTGIETER",
             "ADV SIBANYONI",
@@ -82,7 +91,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR MBANDAZAYO",
+            "MR MBANDAZAYO",
             "Thank you Chairperson and Honourable Members of the Committee.\n\tMr Nkumanda, the affidavit which is in front of you is also before the Honourable Members of the Committee.  Do you confirm that this affidavit was made by yourself and you abide by it's contents?",
             "Male"
         ],
@@ -177,7 +186,7 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MR MAPOMA",
+            "MR MAPOMA",
             "Thank you Mr Chairperson.\n\tMr Nkumanda, where were you trained?",
             "Male"
         ],

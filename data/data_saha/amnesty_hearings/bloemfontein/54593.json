@@ -11,6 +11,16 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54593&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/bloem/bloem1_bloem04.htm",
         "speakers": [
+            "ADV DE JAGER",
+            "ADV THABETHE",
+            "H LEEUW",
+            "HENDRIK LEEUW",
+            "JUDGE MGOEPE",
+            "JUDGE WILSON",
+            "MR LEEUW",
+            "MR MTHEMBU"
+        ],
+        "original_speakers": [
             "ADV THABETHE",
             "JUDGE WILSON",
             "MR MTHEMBU",
@@ -98,7 +108,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR MTHEMBU",
+            "MR MTHEMBU",
             "Thank you Mr Chair.  Mr Leeuw is it correct that you have applied for amnesty in respect of certain offences?",
             "Male"
         ],
@@ -1428,7 +1438,7 @@
             "Male"
         ],
         [
-            "EXAMINATION BY ADV THABETHE",
+            "ADV THABETHE",
             "Mr Leeuw can you briefly explain to the Committee exactly what instructions were you given by Mr Showa?",
             "Unknown"
         ],

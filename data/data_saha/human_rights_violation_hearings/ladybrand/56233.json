@@ -14,6 +14,18 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=56233&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/ladyb/ladyb3.htm",
         "speakers": [
+            "BELINA RATEFANE",
+            "CHAIRPERSON",
+            "CLEMENT MASEMOLA",
+            "INTERPRETER",
+            "JOHANNES FOKISI SIMAKALE",
+            "MANTHIBI ROSIE SELEMELA NCHE",
+            "MATHABISO MARIA SEKHOPA",
+            "MR LAX",
+            "MR SEMAKALE",
+            "SOLOMON MAJO SETENE"
+        ],
+        "original_speakers": [
             "MRS SEKHOPA",
             "CHAIRPERSON",
             "MATHABISO MARIA SEKHOPA",
@@ -38,7 +50,7 @@
             "Unknown"
         ],
         [
-            "MRS SEKHOPA",
+            "MATHABISO MARIA SEKHOPA",
             "I can hear you, Sir.",
             "Female"
         ],
@@ -1488,7 +1500,7 @@
             "Unknown"
         ],
         [
-            "MRS NCHE",
+            "MANTHIBI ROSIE SELEMELA NCHE",
             "Good morning, Sir.",
             "Female"
         ],
@@ -1498,7 +1510,7 @@
             "Unknown"
         ],
         [
-            "MRS NCHE",
+            "MANTHIBI ROSIE SELEMELA NCHE",
             "You are correct.",
             "Female"
         ],
@@ -1508,7 +1520,7 @@
             "Unknown"
         ],
         [
-            "MRS NCHE",
+            "MANTHIBI ROSIE SELEMELA NCHE",
             "You are correct.",
             "Female"
         ],
@@ -1518,7 +1530,7 @@
             "Unknown"
         ],
         [
-            "MRS NCHE",
+            "MANTHIBI ROSIE SELEMELA NCHE",
             "All the names, Sir.",
             "Female"
         ],
@@ -2073,7 +2085,7 @@
             "Unknown"
         ],
         [
-            "MR SIMAKALE",
+            "JOHANNES FOKISI SIMAKALE",
             "That is correct.",
             "Male"
         ],
@@ -2383,7 +2395,7 @@
             "Unknown"
         ],
         [
-            "MR MASEMOLA",
+            "CLEMENT MASEMOLA",
             "Yes.",
             "Male"
         ],
@@ -2393,7 +2405,7 @@
             "Unknown"
         ],
         [
-            "MR MASEMOLA",
+            "CLEMENT MASEMOLA",
             "You are correct.",
             "Male"
         ],
@@ -2983,7 +2995,7 @@
             "Unknown"
         ],
         [
-            "MR SETENE",
+            "SOLOMON MAJO SETENE",
             "Good afternoon, Sir.",
             "Male"
         ],
@@ -2993,7 +3005,7 @@
             "Unknown"
         ],
         [
-            "MR SETENE",
+            "SOLOMON MAJO SETENE",
             "That is correct.",
             "Male"
         ],
@@ -3003,7 +3015,7 @@
             "Unknown"
         ],
         [
-            "MR SETENE",
+            "SOLOMON MAJO SETENE",
             "That is correct.",
             "Male"
         ],
@@ -3013,7 +3025,7 @@
             "Unknown"
         ],
         [
-            "SOLOMON MAJORO SETENE",
+            "SOLOMON MAJO SETENE",
             "(Sworn, States)  (Through Interpreter)",
             "Unknown"
         ],

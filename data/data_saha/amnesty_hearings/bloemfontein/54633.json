@@ -8,6 +8,19 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54633&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/bloem/bloem5_2ndngo9.htm",
         "speakers": [
+            "ADV DE JAGER",
+            "CHAIRPERSON",
+            "INTERPRETER",
+            "JUDGE NGOEPE",
+            "MR BRINK",
+            "MR COETZEE",
+            "MR ERASMUS",
+            "MR MEMANI",
+            "MR STANDER",
+            "MR VISSER"
+        ],
+        "starting date": "UNKNOWN",
+        "original_speakers": [
             "MR MEMANI",
             "MR ERASMUS",
             "JUDGE NGOEPE",
@@ -18,8 +31,7 @@
             "MR BRINK",
             "MR STANDER",
             "MR COETZEE"
-        ],
-        "starting date": "UNKNOWN"
+        ]
     },
     "testimony": [
         [
@@ -703,7 +715,7 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MR STANDER",
+            "MR STANDER",
             "Mr Chair, I failed raise two aspects with the witness, I will be as quickly as possible with your permission, like yesterday.  As it please Mr Chairman.\n\tMr Erasmus, I understood that the leaders of the group of 19 on occasion were taken to the local Magistrates Court in order to go and make admissions there.  Do you have any knowledge of that?",
             "Male"
         ],
@@ -843,7 +855,7 @@
             "Male"
         ],
         [
-            "RE-EXAMINATION BY MR VISSER",
+            "MR VISSER",
             "Mr Chairman, may I be allowed, perhaps just to take this aspect one step further.\n\tIn 1986 Mr Erasmus, were there regulations applicable to visits to or controls over detainees in terms of security legislation?",
             "Male"
         ],

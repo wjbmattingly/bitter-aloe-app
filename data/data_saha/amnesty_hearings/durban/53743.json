@@ -11,6 +11,17 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53743&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/9909271013_dbn_991007db.htm",
         "speakers": [
+            "ADV PRIOR",
+            "ADV SIGODI",
+            "CHAIRPERSON",
+            "JUDGE PILLAY",
+            "MR BERGER",
+            "MR DEHAL",
+            "MR RICHARD",
+            "MS KOOVERJEE",
+            "MS NARKEDIEN"
+        ],
+        "original_speakers": [
             "MR DEHAL",
             "CHAIRPERSON",
             "MS NARKEDIEN",
@@ -59,7 +70,7 @@
             "Male"
         ],
         [
-            "EXAMINATION BY MR DEHAL",
+            "MR DEHAL",
             "Ms Narkedien, is it correct that you were previously known as Greta Apelgren?",
             "Male"
         ],
@@ -984,7 +995,7 @@
             "Male"
         ],
         [
-            "CROSS-EXAMINATION BY MR RICHARD",
+            "MR RICHARD",
             "Now, in and during the months January to end of June 1986, ending at the time that you were arrested, did you travel to and from Botswana with Mr McBride on a number of occasions?",
             "Male"
         ],
@@ -1809,7 +1820,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY ADV PRIOR",
+            "ADV PRIOR",
             "Ms Narkedien, on that evening, the vehicle that you were driving, was that your sister's car?",
             "Unknown"
         ],

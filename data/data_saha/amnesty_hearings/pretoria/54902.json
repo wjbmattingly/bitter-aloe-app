@@ -11,6 +11,20 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54902&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/pta/vanwyk.htm",
         "speakers": [
+            "ADV DE JAGER",
+            "CHAIRPERSON",
+            "CORNELIUS JOHANNES VAN WYK",
+            "GERRY VAN WYK",
+            "JUDGE NGOEPE",
+            "JUDGE WILSON",
+            "MR G VAN WYK",
+            "MR GIMSBEEK",
+            "MR MPSHE",
+            "MR RHOODE",
+            "MR VAN WYK",
+            "MS KHAMPEPE"
+        ],
+        "original_speakers": [
             "CHAIRPERSON",
             "ADV DE JAGER",
             "MR MPSHE",
@@ -77,7 +91,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR GIMSBEEK",
+            "MR GIMSBEEK",
             "You are Mr Cornelius Johannes van Wyk?",
             "Male"
         ],
@@ -682,7 +696,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR GIMSBEEK",
+            "MR GIMSBEEK",
             "(cont)\n\tMr van Wyk to return now to the scene in Louis Trichardt.  During the State's case against you in the Supreme Court evidence was tendered to the effect that there was an R4 gun in the room and that on that particular day the gun was no longer there, could you elaborate on this aspect please?",
             "Male"
         ],
@@ -1497,7 +1511,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR RHOODE",
+            "MR RHOODE",
             "Thank you very much for the privilege.  Mr van Wyk this Church of the Creator is it purely an ideological organisation or is it or did it have a political agenda?",
             "Male"
         ],
@@ -1757,7 +1771,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR MPSHE",
+            "MR MPSHE",
             "Mr van Wyk in your party did you have a written policy whereupon you were operating?",
             "Male"
         ],
@@ -3097,7 +3111,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR GIMSBEEK",
+            "MR GIMSBEEK",
             "Thank you Mr van Wyk, thank you Chairperson.  Mr van Wyk what is your occupation?",
             "Male"
         ],

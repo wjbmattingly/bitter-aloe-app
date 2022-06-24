@@ -11,6 +11,13 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53013&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/9811231210_pr_981130th.htm",
         "speakers": [
+            "ADV GCABASHE",
+            "ADV STEENKAMP",
+            "CHAIRPERSON",
+            "MR MOPEDI",
+            "MR TSHABALALA"
+        ],
+        "original_speakers": [
             "MR MOPEDI",
             "CHAIRPERSON",
             "MR TSHABALALA",
@@ -40,7 +47,7 @@
             "Unknown"
         ],
         [
-            "EXAMINATION BY MR MOPEDI",
+            "MR MOPEDI",
             "Thank you, Mr Chairman.\n\tMr Tshabalala, you are also applying for amnesty, is that correct?",
             "Male"
         ],

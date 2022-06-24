@@ -21,6 +21,28 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=56202&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/hrvbloem/bloem2.htm",
         "speakers": [
+            "BETTY LALIWE LOWAPE",
+            "BHAKI GEORGE MORAKE",
+            "DR BORAINE",
+            "DR MAGWAZA",
+            "DR MGOJO",
+            "INTERPRETER",
+            "MAMARAMA TSHALE",
+            "MODISI ELIAS MOYHILWA",
+            "MORGAN SABATHA PHEHLANI",
+            "MR B BOLANE",
+            "MR DLAMINI",
+            "MR LAX",
+            "MR LYSTER",
+            "MR PISTOL",
+            "MR TSHABALALA",
+            "MRS GCABASHE",
+            "PUMLA MARINA MASHOANG",
+            "SHADRACK RATABA AND JONAS MOLEHE",
+            "SHUPING JOSIAH MOTLALE"
+        ],
+        "starting date": "UNKNOWN",
+        "original_speakers": [
             "DR BORAINE",
             "MR TSHABALALA",
             "MR LAX",
@@ -49,8 +71,7 @@
             "MR E MOLATSELI",
             "SHADRACK RATABA and JONAS MOLEHE",
             "MR B BOLANE"
-        ],
-        "starting date": "UNKNOWN"
+        ]
     },
     "testimony": [
         [
@@ -279,7 +300,7 @@
             "Unknown"
         ],
         [
-            "MRS LOWAPE",
+            "BETTY LALIWE LOWAPE",
             "Yes, I can hear you perfectly well.",
             "Female"
         ],
@@ -669,7 +690,7 @@
             "Unknown"
         ],
         [
-            "MR PHEHLANI",
+            "MORGAN SABATHA PHEHLANI",
             "Yes, I can hear you very clear.",
             "Male"
         ],
@@ -679,7 +700,7 @@
             "Unknown"
         ],
         [
-            "MR PHEHLANI",
+            "MORGAN SABATHA PHEHLANI",
             "I don't need an interpreter.",
             "Male"
         ],
@@ -1419,7 +1440,7 @@
             "Unknown"
         ],
         [
-            "MS MASHOANG",
+            "PUMLA MARINA MASHOANG",
             "Yes, Sir.",
             "Female"
         ],
@@ -1429,7 +1450,7 @@
             "Unknown"
         ],
         [
-            "MS MASHOANG",
+            "PUMLA MARINA MASHOANG",
             "Yes, Sir.",
             "Female"
         ],
@@ -1439,7 +1460,7 @@
             "Unknown"
         ],
         [
-            "MS MASHOANG",
+            "PUMLA MARINA MASHOANG",
             "It's my ex-husband.",
             "Female"
         ],
@@ -1449,7 +1470,7 @@
             "Unknown"
         ],
         [
-            "MS MASHOANG",
+            "PUMLA MARINA MASHOANG",
             "Yes, Sir.",
             "Female"
         ],
@@ -2069,7 +2090,7 @@
             "Male"
         ],
         [
-            "MRS DASEKO",
+            "UNKNOWN",
             "Yes, I can hear you.",
             "Female"
         ],
@@ -2079,7 +2100,7 @@
             "Male"
         ],
         [
-            "MRS G S DASEKO",
+            "UNKNOWN",
             "(Sworn, States)",
             "Female"
         ],
@@ -2249,7 +2270,7 @@
             "Male"
         ],
         [
-            "MR MOYHILWA",
+            "MODISI ELIAS MOYHILWA",
             "Yes.",
             "Male"
         ],
@@ -2259,7 +2280,7 @@
             "Male"
         ],
         [
-            "MR MOYHILWA",
+            "MODISI ELIAS MOYHILWA",
             "It's Moyhilwa.",
             "Male"
         ],
@@ -2554,7 +2575,7 @@
             "Male"
         ],
         [
-            "MRS TSHALE",
+            "MAMARAMA TSHALE",
             "Yes, I can hear you, Sir.",
             "Female"
         ],
@@ -2564,7 +2585,7 @@
             "Male"
         ],
         [
-            "MRS TSHALE",
+            "MAMARAMA TSHALE",
             "This is my daughter, Sir.",
             "Female"
         ],
@@ -2574,7 +2595,7 @@
             "Male"
         ],
         [
-            "MRS TSHALE",
+            "MAMARAMA TSHALE",
             "Yes, that's correct.",
             "Female"
         ],
@@ -3449,7 +3470,7 @@
             "Male"
         ],
         [
-            "MR MOLATSELI",
+            "UNKNOWN",
             "I can hear you.",
             "Male"
         ],
@@ -3459,7 +3480,7 @@
             "Male"
         ],
         [
-            "MR MOLATSELI",
+            "UNKNOWN",
             "A little louder please.",
             "Male"
         ],
@@ -3469,7 +3490,7 @@
             "Male"
         ],
         [
-            "MR MOLATSELI",
+            "UNKNOWN",
             "Yes, I can hear you.",
             "Male"
         ],
@@ -3479,7 +3500,7 @@
             "Male"
         ],
         [
-            "MR E MOLATSELI",
+            "UNKNOWN",
             "(Sworn, States)",
             "Male"
         ],
@@ -3739,7 +3760,7 @@
             "Male"
         ],
         [
-            "SHADRACK RATABA and JONAS MOLEHE",
+            "SHADRACK RATABA AND JONAS MOLEHE",
             "(Sworn, State)",
             "Unknown"
         ],

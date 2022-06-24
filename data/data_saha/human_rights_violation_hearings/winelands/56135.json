@@ -11,6 +11,14 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=56135&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/wineland/ct00440.htm",
         "speakers": [
+            "ADV POTGIETER",
+            "CHAIRPERSON",
+            "DR ORR",
+            "MS GOBODO",
+            "MS WILLIAMS",
+            "<UNKNOWN>"
+        ],
+        "original_speakers": [
             "MS GOBODO\n",
             "DR ORR\n",
             "ADV POTGIETER\n",
@@ -41,7 +49,7 @@
             "Unknown"
         ],
         [
-            "UNKNOWN",
+            "<UNKNOWN>",
             "The witness can hear the interpreter.",
             "Unknown"
         ],

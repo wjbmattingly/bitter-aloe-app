@@ -7,6 +7,19 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53506&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/990621_mma_990621mm.htm",
         "speakers": [
+            "ADV BOSMAN",
+            "ADV SIGODI",
+            "CHAIRPERSON",
+            "MR DLAVANE",
+            "MR DLAVANE IN ARGUMENT",
+            "MR MOGALE",
+            "MR MULLIGAN",
+            "MR MULLIGAN IN ARGUMENT",
+            "MR SEABELA",
+            "MR SEABELA IN ARGUMENT",
+            "MS LOCKHAT"
+        ],
+        "original_speakers": [
             "CHAIRPERSON",
             "MR DLAVANE",
             "MR MOGALE",
@@ -42,7 +55,7 @@
             "Male"
         ],
         [
-            "EXAMINATION BY MR DLAVANE",
+            "MR DLAVANE",
             "Mr Mogale, you are here seeking amnesty for the same occurrence that your co-applicant here, Mr Modisane, is seeking amnesty for. You and Mr Modisane were colleagues in the former Bophuthatswana Defence Force. Is that correct?",
             "Male"
         ],
@@ -157,7 +170,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MR MULLIGAN",
+            "MR MULLIGAN",
             "Yes, thank you, Mr Chairperson. Mr Mogale, did you only go to Minister Ntsime's house?",
             "Male"
         ],
@@ -227,7 +240,7 @@
             "Unknown"
         ],
         [
-            "CROSS-EXAMINATION BY MS LOCKHAT",
+            "MS LOCKHAT",
             "Yes, thank you, Chairperson. Mr Mogale, did you work very closely with Mr Pirie?",
             "Female"
         ],

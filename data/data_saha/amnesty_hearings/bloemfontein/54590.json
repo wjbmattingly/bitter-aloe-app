@@ -11,6 +11,14 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54590&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/bloem/bloem1_bloem01.htm",
         "speakers": [
+            "ADV DE JAGER",
+            "JUDGE MGOEPE",
+            "JUDGE WILSON",
+            "MR MATELA",
+            "MR MPSHE",
+            "PHILIP MATELA DINTWE"
+        ],
+        "original_speakers": [
             "JUDGE WILSON",
             "MR MPSHE",
             "PHILIP MATELA DINTWE",
@@ -1806,7 +1814,7 @@
             "Male"
         ],
         [
-            "RE-EXAMINATION BY MR MPSHE",
+            "MR MPSHE",
             "Mr Matela just tell us something about the Russians, were they a political organisation at the time or were they affiliated to any particular organisation?",
             "Male"
         ],
