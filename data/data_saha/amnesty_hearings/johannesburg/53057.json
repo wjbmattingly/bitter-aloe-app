@@ -11,13 +11,14 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53057&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98112324_jhb_981123ji.htm",
         "speakers": [
-            "ADV BOSMAN",
             "ADV PRIOR",
-            "CHAIRPERSON",
-            "INTERPRETER",
-            "MR MALAN",
             "MR MBANDAZAYO",
-            "PAGE HLALE HLELESI"
+            "CHAIRPERSON",
+            "MR MALAN",
+            "PAGE HLALE HLELESI",
+            "ADV BOSMAN",
+            "INTERPRETER",
+            "UNKNOWN"
         ],
         "original_speakers": [
             "ADV PRIOR",

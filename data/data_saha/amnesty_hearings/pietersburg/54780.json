@@ -10,13 +10,13 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54780&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/pburg/pretoriu.htm",
         "speakers": [
-            "ADV DE JAGER",
             "ADV VISSER",
-            "CHAIRMAN",
             "LOURENS MARTIN PRETORIUS",
-            "MR BLACK",
+            "CHAIRPERSON",
             "MR ROSSOUW",
-            "MS KHAMPEPE"
+            "MR BLACK",
+            "ADV DE JAGER",
+            "SISI KHAMPEPE"
         ],
         "original_speakers": [
             "ADV VISSER",
@@ -287,7 +287,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Rossouw?",
             "Unknown"
         ],
@@ -302,7 +302,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Black?",
             "Unknown"
         ],
@@ -327,7 +327,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "You can shout from the casspir?",
             "Unknown"
         ],
@@ -347,7 +347,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "I think Mr Pretorius maybe in fairness to you is to restate that you had your ground Commander in the casspir and you shot in his presence and he didn't say anything to stop you?\n\tHe only gave the instructions to cease your firing after some time.",
             "Female"
         ],
@@ -357,7 +357,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Visser?",
             "Unknown"
         ],
@@ -372,7 +372,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Thank you Mr Pretorius.",
             "Unknown"
         ]

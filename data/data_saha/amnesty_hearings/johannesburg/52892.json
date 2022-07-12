@@ -12,13 +12,13 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=52892&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98101215_jhb_joha1.htm",
         "speakers": [
-            "ADV GCABASHE",
             "ADV STEENKAMP",
             "CHAIRPERSON",
-            "INTERPRETER",
             "MR SHAYI",
             "MR SIBANYONI",
-            "SAINT MKULULI MANYAMALA"
+            "SAINT MKULULI MANYAMALA",
+            "ADV GCABASHE",
+            "INTERPRETER"
         ],
         "original_speakers": [
             "ADV STEENKAMP",

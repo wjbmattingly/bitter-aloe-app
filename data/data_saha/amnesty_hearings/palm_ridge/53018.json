@@ -11,13 +11,13 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53018&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/9811231210_pr_981130th.htm",
         "speakers": [
-            "ADV GCABASHE",
-            "ADV SANDI",
-            "ADV STEENKAMP",
             "CHAIRPERSON",
-            "MR MOPEDI",
             "MR SIBEKO",
-            "SIPHIWE MADONDO"
+            "MR MOPEDI",
+            "SIPHIWE MADONDO",
+            "ADV STEENKAMP",
+            "ADV SANDI",
+            "ADV GCABASHE"
         ],
         "original_speakers": [
             "CHAIRPERSON",

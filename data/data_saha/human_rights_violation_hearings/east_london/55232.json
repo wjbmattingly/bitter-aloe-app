@@ -11,9 +11,10 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55232&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/hrvel2/elngobiz.htm",
         "speakers": [
-            "MS CRICHTON",
-            "REV FINCA",
-            "REV XUNDU"
+            "REV XUNDU",
+            "UNKNOWN",
+            "BONGANI FINCA",
+            "JUNE CRICHTON"
         ],
         "original_speakers": [
             "REV XUNDU",
@@ -35,12 +36,12 @@
             "Male"
         ],
         [
-            "REV FINCA",
+            "BONGANI FINCA",
             "June Crichton?",
             "Unknown"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "Mr Gobizembe, can you hear me?",
             "Female"
         ],
@@ -50,7 +51,7 @@
             "Male"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "Before you start on your story there are a few questions I need to ask you just so that I'm very clear before I listen to your story.  The first question that I want to ask you,  you say that you were in a military camp in Zimbabwe for political reasons.   I want you to just to explain that to me please, what do you mean by this?",
             "Female"
         ],
@@ -60,7 +61,7 @@
             "Male"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "Alright, thank you that was the first question.  When you were in Zimbabwe and you got to Zimbabwe you were at a military camp, which one was that?  Which camp was it?",
             "Female"
         ],
@@ -70,7 +71,7 @@
             "Male"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "I need to ask you a few questions if you'll please just bear with me.  Who was the Commander at that Camp?",
             "Female"
         ],
@@ -80,7 +81,7 @@
             "Male"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "Yes that's right.  If you can't remember that's all right.  You also say in your statement that it was during the mutiny period but as far as I understand there wasn't any mutiny in Zimbabwe, there was in Angola.  Is it the mutiny in Angola that you're talking about?",
             "Female"
         ],
@@ -90,7 +91,7 @@
             "Male"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "That's fine that helps me to understand much better.  You say that you went to the OAU in Zambia, is that right and it was there that you were stabbed and shot, is that correct?",
             "Female"
         ],
@@ -100,7 +101,7 @@
             "Male"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "Now I can let you tell your story because I'm now clear, thank you.  Please carry on and tell us what happened.",
             "Female"
         ],
@@ -110,7 +111,7 @@
             "Male"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "I'm sorry that we're going to interrupt you Mr Gobizembe and ask you if you would start from when you were in South Africa and from there move through with your story.",
             "Female"
         ],
@@ -120,17 +121,17 @@
             "Male"
         ],
         [
-            "REV FINCA",
+            "BONGANI FINCA",
             "Please keep quiet people.  Thank you.",
             "Unknown"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "Mr Gobizembe, thank you for telling us your story we have got the facts now that is why I asked so many questions and we will investigate and do what we can.  I'm going to hand you back to the Chairman now, thank you.",
             "Female"
         ],
         [
-            "REV FINCA",
+            "BONGANI FINCA",
             "Mr Gobizembe, we will thank you together with other people.  You may step down for now.",
             "Unknown"
         ]

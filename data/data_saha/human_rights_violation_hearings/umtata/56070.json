@@ -11,10 +11,9 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=56070&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/umtata/zibi.htm",
         "speakers": [
-            "CHAIRMAN",
             "CHAIRPERSON",
-            "MR ZIBI",
-            "MS MKHIZE"
+            "MS MKHIZE",
+            "MR ZIBI"
         ],
         "original_speakers": [
             "CHAIRMAN",
@@ -25,7 +24,7 @@
     },
     "testimony": [
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "We will ask Hlengiwe Mkhize to lead the witness.",
             "Unknown"
         ],

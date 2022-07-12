@@ -10,14 +10,13 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55998&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/uiten/gqubule.htm",
         "speakers": [
-            "CCHAIRPERSON",
             "CHAIRPERSON",
-            "EASTERN CAPE",
             "FUNDILE LAWRENCE GQUBULE",
-            "G GQUBULE",
             "MR GQUBULE",
-            "MS MAYA",
-            "PANEL MEMBER"
+            "EASTERN CAPE",
+            "G GQUBULE",
+            "PANEL MEMBER",
+            "MS MAYA"
         ],
         "original_speakers": [
             "CCHAIRPERSON",
@@ -32,7 +31,7 @@
     },
     "testimony": [
         [
-            "CCHAIRPERSON",
+            "CHAIRPERSON",
             "Can we now ask Mr Fundile Lawrence Gqubule to \ntake over.  Thank you Mr Nkobese.  We are going to ask the \nnext witness to come forward.",
             "Unknown"
         ],

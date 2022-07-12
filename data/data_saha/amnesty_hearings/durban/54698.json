@@ -11,14 +11,14 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54698&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/durban/hlengwa.htm",
         "speakers": [
-            "ADV DE JAGER",
-            "ADV SANDI",
             "CHAIRPERSON",
-            "INTERPRETER",
             "MR BRINK",
             "MR SHEMBE",
+            "ADV DE JAGER",
             "MR WILLS",
-            "VUSI LINDA HLENGWA"
+            "VUSI LINDA HLENGWA",
+            "ADV SANDI",
+            "INTERPRETER"
         ],
         "original_speakers": [
             "CHAIRPERSON",

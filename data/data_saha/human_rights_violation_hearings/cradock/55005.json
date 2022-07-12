@@ -10,13 +10,13 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55005&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/cradock/mbalula.htm",
         "speakers": [
-            "INTERPRETER",
-            "MR SANDI",
-            "MRS CRICHTON",
-            "MS MAYA",
+            "BONGANI FINCA",
+            "REV XUNDU",
             "POLINA NOLESE MBALULA",
-            "REV FINCA",
-            "REV XUNDU"
+            "JUNE CRICHTON",
+            "INTERPRETER",
+            "MS MAYA",
+            "MR SANDI"
         ],
         "original_speakers": [
             "REVD XUNDU",
@@ -31,7 +31,7 @@
     },
     "testimony": [
         [
-            "REV FINCA",
+            "BONGANI FINCA",
             "We ask Polina Nolese Mbalula to come forward please.  We realise that there is a lot of people in this hall.  We also realise that a lot of people are uncomfortable because there is not enough space, we expected that in Cradock the hall would be this full, but we do trust that people will be disciplined because people from Cradock have been disciplined by the struggle.\n Thank you.  We just want to remind you that the people who come to testify before us, should be given reverence, they come here and tell their stories.  We welcome you Mrs Mbalula, the Reverend Xundu will swear you in and Mrs June Crichton will lead the evidence.",
             "Unknown"
         ],
@@ -46,7 +46,7 @@
             "Unknown"
         ],
         [
-            "MRS CRICHTON",
+            "JUNE CRICHTON",
             "We welcome you Mrs Mbalula and according to your statement here, we are going to hear about the death of Nobeki Mbalula.  Can you tell me first of all what her role was?  We have to start again, can you hear me?",
             "Female"
         ],
@@ -56,7 +56,7 @@
             "Female"
         ],
         [
-            "MRS CRICHTON",
+            "JUNE CRICHTON",
             "We welcome you to this Commission and we are here to talk about your sister-in-law Nobeki Mbalula.  Would you tell me first of all what her role in the community was?",
             "Female"
         ],
@@ -66,7 +66,7 @@
             "Female"
         ],
         [
-            "MRS CRICHTON",
+            "JUNE CRICHTON",
             "I understand according to your statement,\nCRADOCK HEARING TRC/EASTERN CAPE\n2 PN MBALULA\nthat she was a member of the ANC, is that right?",
             "Female"
         ],
@@ -76,7 +76,7 @@
             "Female"
         ],
         [
-            "MRS CRICHTON",
+            "JUNE CRICHTON",
             "And your relationship to her is as sister-in-law, is that correct?",
             "Female"
         ],
@@ -86,7 +86,7 @@
             "Female"
         ],
         [
-            "MRS CRICHTON",
+            "JUNE CRICHTON",
             "... that day, can you give us a little bit of an idea of what was actually happening in Venterstad at that time?  What was the situation in the community?",
             "Female"
         ],
@@ -101,7 +101,7 @@
             "Unknown"
         ],
         [
-            "MRS CRICHTON",
+            "JUNE CRICHTON",
             "Would you like to just begin again telling us what happened when the hippo came.  Start from that point.",
             "Female"
         ],
@@ -111,7 +111,7 @@
             "Female"
         ],
         [
-            "MRS CRICHTON",
+            "JUNE CRICHTON",
             "How were you informed about her death?",
             "Female"
         ],
@@ -121,7 +121,7 @@
             "Female"
         ],
         [
-            "MRS CRICHTON",
+            "JUNE CRICHTON",
             "Are you ready now?",
             "Female"
         ],
@@ -131,7 +131,7 @@
             "Female"
         ],
         [
-            "MRS CRICHTON",
+            "JUNE CRICHTON",
             "I would like to move on a little bit and ask you - I would like to ask you whether there was a court case or an inquest of any sort?",
             "Female"
         ],
@@ -146,7 +146,7 @@
             "Unknown"
         ],
         [
-            "MRS CRICHTON",
+            "JUNE CRICHTON",
             "Mrs Mbalula, I must ask you to speak more slowly and I need to ask you a couple of questions at this point and then if there is more for you to say afterwards, you can add it.\n I need to ask you and take you back to Nobeki's death and ask you very specifically if you know who the boyfriend was?  The name of the boyfriend?",
             "Female"
         ],
@@ -156,7 +156,7 @@
             "Female"
         ],
         [
-            "MRS CRICHTON",
+            "JUNE CRICHTON",
             "And then as well as that, I would like to know when the corpse of your sister-in-law was being taken out of the house, there was a policeman standing at the door.  Was it that policeman who said that the baby could be breast fed by the corpse?",
             "Female"
         ],
@@ -166,7 +166,7 @@
             "Female"
         ],
         [
-            "MRS CRICHTON",
+            "JUNE CRICHTON",
             "Do you know who they are, would you recognise them?",
             "Female"
         ],
@@ -176,7 +176,7 @@
             "Female"
         ],
         [
-            "MRS CRICHTON",
+            "JUNE CRICHTON",
             "(Indistinct)",
             "Female"
         ],
@@ -186,7 +186,7 @@
             "Female"
         ],
         [
-            "MRS CRICHTON",
+            "JUNE CRICHTON",
             "Mrs Mbalula, there is just one last question.  You told us about your husband and his death, we don't have anything on our statement about that.  Have you actually testified or had information taken down by the Truth Commission about your husband?",
             "Female"
         ],
@@ -196,12 +196,12 @@
             "Female"
         ],
         [
-            "MRS CRICHTON",
+            "JUNE CRICHTON",
             "Thank you very much indeed.  I hand you back to the Chairman now.",
             "Female"
         ],
         [
-            "REV FINCA",
+            "BONGANI FINCA",
             "Thank you.  Revd Xundu?",
             "Unknown"
         ],
@@ -331,7 +331,7 @@
             "Unknown"
         ],
         [
-            "REV FINCA",
+            "BONGANI FINCA",
             "Tiny Maya?",
             "Unknown"
         ],
@@ -381,7 +381,7 @@
             "Female"
         ],
         [
-            "REV FINCA",
+            "BONGANI FINCA",
             "Mr Sandi?",
             "Unknown"
         ],
@@ -461,7 +461,7 @@
             "Male"
         ],
         [
-            "REV FINCA",
+            "BONGANI FINCA",
             "Mrs Polina Mbalula, we thank you for having given us this picture about your sister-in-law who was shot just walking around the township.\n It is clear that the police behaved any how, shooting at people.  You have given us the picture of cruelty beyond anybody's imagination.\n It touches us deeply when you tell us that when you were asking the police, who is going to breast feed this\nCRADOCK HEARING TRC/EASTERN CAPE\n11 PN MBALULA\nbaby, and the police said, the corpse can do it.  That is cruelty.  This shows us that the people in the previous regime of this country, did not care about the communities.\n You have told us that this endangered your health.  We can see that.  On behalf of the Commission we sympathise and empathise with you.\n We promise that if we can help in any way by putting and recording your story in the report that we will be giving to the President, we will do all we can.\n We thank you very much, you can go back to  your seat now.",
             "Unknown"
         ]

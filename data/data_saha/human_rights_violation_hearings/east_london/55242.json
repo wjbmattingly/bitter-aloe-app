@@ -11,8 +11,9 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55242&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/hrvel2/elntuku.htm",
         "speakers": [
-            "MS CRICHTON",
-            "REV FINCA"
+            "BONGANI FINCA",
+            "UNKNOWN",
+            "JUNE CRICHTON"
         ],
         "original_speakers": [
             "REV FINCA",
@@ -23,7 +24,7 @@
     },
     "testimony": [
         [
-            "REV FINCA",
+            "BONGANI FINCA",
             "We'll now call Thembakazi Tuku to come forward.",
             "Unknown"
         ],
@@ -33,12 +34,12 @@
             "Male"
         ],
         [
-            "REV FINCA",
+            "BONGANI FINCA",
             "June Crichton?",
             "Unknown"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "Are you wanting me to speak in English to you?",
             "Female"
         ],
@@ -48,7 +49,7 @@
             "Female"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "Then I can take these off and that will be nice.  You're here this afternoon to speak about your brother, Thembisile and to tell us what happened to him when he went into exile.  I'm going to let you tell your story uninterrupted but before you do that just let me get it quite clear that he went into exile in '78 into Botswana, is that correct?",
             "Female"
         ],
@@ -58,7 +59,7 @@
             "Female"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "Would you like to just carry on and tell us the story please.",
             "Female"
         ],
@@ -68,7 +69,7 @@
             "Female"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "Can I just interrupt you, I actually think it's going to be easier for you if you speak in Xhosa.  Do you mind if you start again because I would like everybody to hear and I can perfectly all right through these, all right?",
             "Female"
         ],
@@ -78,7 +79,7 @@
             "Female"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "Thank you, I need to ask you a few questions now.  Lets go right back to the beginning, he was resident here in East London before he went to Botswana, is that right?",
             "Female"
         ],
@@ -88,7 +89,7 @@
             "Female"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "You say that when he was found in his room you were told that he was already dead, he was under a mattress and he had his gun in his hand.  Who was it that gave you that information?",
             "Female"
         ],
@@ -98,7 +99,7 @@
             "Female"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "What was his name?",
             "Female"
         ],
@@ -108,7 +109,7 @@
             "Female"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "Somebody Victor, is that his surname or is it a first name?",
             "Female"
         ],
@@ -118,7 +119,7 @@
             "Female"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "His first name?",
             "Female"
         ],
@@ -128,7 +129,7 @@
             "Female"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "Were there wounds on the body or was he just holding his gun, was he shot or was he just ...?",
             "Female"
         ],
@@ -138,7 +139,7 @@
             "Female"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "You don't know about that?  So you're then saying that the funeral took place and even now you have not been told where the grave is?  When last did you approach the ANC for help?  When you went up there it was in 1990, have you been back to the ANC since?",
             "Female"
         ],
@@ -148,7 +149,7 @@
             "Female"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "In  your statement and in your requests you actually say that if the body was ever buried in Botswana, you seem uncertain as to whether body was actually buried there, is that correct?  Are you uncertain about it?",
             "Female"
         ],
@@ -158,7 +159,7 @@
             "Female"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "You might have heard us earlier speaking about the second submission of the ANC to the TRC in which a public commitment was made that records of circumstances like this that people are unsure about, they are prepared to assist us with information and so all we can say to you now having heard your story is that we will look at those records and see if more can be found out.  Is there  a particular request that you have to the Commission other than the fact that you want to know where he was buried and that you would like his body to be brought back?",
             "Female"
         ],
@@ -168,7 +169,7 @@
             "Female"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "How old was he when he left?",
             "Female"
         ],
@@ -178,7 +179,7 @@
             "Female"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "Did he leave dependants behind, children?",
             "Female"
         ],
@@ -188,7 +189,7 @@
             "Female"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "And there were no children in Botswana that you know about?",
             "Female"
         ],
@@ -198,12 +199,12 @@
             "Female"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "Thank you, I'll hand you back to the Chairperson.",
             "Female"
         ],
         [
-            "REV FINCA",
+            "BONGANI FINCA",
             "Thembakazi I would just like to clarify the issue of Thembisile being shot under mysterious circumstances according to your statement in his flat in Botswana.  If we are going to successfully investigate this matter please tell us what do you suspect happened to Thembisile?",
             "Unknown"
         ],
@@ -213,7 +214,7 @@
             "Female"
         ],
         [
-            "REV FINCA",
+            "BONGANI FINCA",
             "Are there any rumours that he perhaps was shot by people from Botswana or maybe ANC Comrades?",
             "Unknown"
         ],
@@ -223,7 +224,7 @@
             "Female"
         ],
         [
-            "REV FINCA",
+            "BONGANI FINCA",
             "Therefore you have no knowledge of what happened to him at all?",
             "Unknown"
         ],
@@ -233,7 +234,7 @@
             "Female"
         ],
         [
-            "REV FINCA",
+            "BONGANI FINCA",
             "I think you endeavoured to find out what happened after the ANC was banned, did you try?",
             "Unknown"
         ],
@@ -243,7 +244,7 @@
             "Female"
         ],
         [
-            "REV FINCA",
+            "BONGANI FINCA",
             "Any particular reasons why you didn't or didn't you think that you'll find any substantial information?",
             "Unknown"
         ],
@@ -253,7 +254,7 @@
             "Female"
         ],
         [
-            "REV FINCA",
+            "BONGANI FINCA",
             "You said only the Priest, the landlady and the girlfriend were at the funeral.  Did you ever talk to this lady?",
             "Unknown"
         ],
@@ -263,7 +264,7 @@
             "Female"
         ],
         [
-            "REV FINCA",
+            "BONGANI FINCA",
             "Do you know where they are?",
             "Unknown"
         ],
@@ -273,7 +274,7 @@
             "Female"
         ],
         [
-            "REV FINCA",
+            "BONGANI FINCA",
             "Thembakazi, I will thank you together with those that are going to give their evidence just now.   Please step down.",
             "Unknown"
         ]

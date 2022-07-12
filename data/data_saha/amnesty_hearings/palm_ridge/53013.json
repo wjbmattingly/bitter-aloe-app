@@ -11,11 +11,11 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53013&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/9811231210_pr_981130th.htm",
         "speakers": [
-            "ADV GCABASHE",
-            "ADV STEENKAMP",
-            "CHAIRPERSON",
             "MR MOPEDI",
-            "MR TSHABALALA"
+            "CHAIRPERSON",
+            "MR TSHABALALA",
+            "ADV GCABASHE",
+            "ADV STEENKAMP"
         ],
         "original_speakers": [
             "MR MOPEDI",

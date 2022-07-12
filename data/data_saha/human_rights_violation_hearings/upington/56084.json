@@ -7,15 +7,16 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=56084&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/upington/ct01419.htm",
         "speakers": [
-            "ARREST AND INCARCERATION",
             "CASE NO",
-            "IVOLYN DE BRUIN",
-            "MR POTGIETER",
-            "MS WILDSCHUT",
-            "<UNKNOWN>",
-            "TESTIMONY FROM",
             "UPI",
-            "VICTIM"
+            "VICTIM",
+            "IVOLYN DE BRUIN",
+            "<UNKNOWN>",
+            "ARREST AND INCARCERATION",
+            "TESTIMONY FROM",
+            "MR POTGIETER",
+            "TESTIMONY_GIVER:",
+            "GLENDA WILDSCHUT"
         ],
         "original_speakers": [
             "CASE NO",
@@ -168,7 +169,7 @@
             "Male"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "Mamma, I just want to ask one short question.  Your husband, oupa Gideon, would he have wanted to testify today and do you think that if he were to be alive today he would have been sitting next to you and testifying as well?",
             "Female"
         ],
@@ -178,7 +179,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " So you are speaking also on his behalf today and I am sure that you are also feeling that ... end of Tape, side A ... us in spirit.",
             "Female"
         ],
@@ -188,7 +189,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "Thank you Mama, thank you very much.",
             "Female"
         ],

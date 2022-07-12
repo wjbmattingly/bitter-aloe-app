@@ -10,13 +10,13 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=52948&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98110205_jhb_jhnbrg3.htm",
         "speakers": [
-            "ADV BOSMAN",
-            "ADV MOTATA",
-            "ADV MPSHE",
-            "CHAIRPERSON",
-            "MR MABANDAZAYO",
             "MR MBANDAZAYO",
-            "ZOLA PRINCE MABALA"
+            "CHAIRPERSON",
+            "ZOLA PRINCE MABALA",
+            "MR MABANDAZAYO",
+            "MOKOTEDI MPSHE",
+            "ADV MOTATA",
+            "ADV BOSMAN"
         ],
         "original_speakers": [
             "MR MBANDAZAYO",
@@ -81,7 +81,7 @@
             "Unknown"
         ],
         [
-            "ADV MPSHE",
+            "MOKOTEDI MPSHE",
             "No questions thank you Mr Chairman.\nNO QUESTIONS BY ADV MPSHE",
             "Unknown"
         ],
@@ -226,7 +226,7 @@
             "Male"
         ],
         [
-            "ADV MPSHE",
+            "MOKOTEDI MPSHE",
             "I have none Mr Chairman save on what the Chair has asked the applicant to confirm that he is awaiting trial on the two incidents.  I was phoned this very Monday by the State Advocate, he actually appeared in court on Monday and I was told by the State Advocate that the case will be postponed to next year pending the decision of amnesty.",
             "Unknown"
         ],

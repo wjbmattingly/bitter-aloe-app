@@ -12,14 +12,14 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53304&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99042630_el_990428el.htm",
         "speakers": [
-            "ADV BOSMAN",
-            "ADV SANDI",
             "CHAIRPERSON",
-            "INTERPRETER",
-            "MR CLARKE",
             "MR KINCAID",
+            "MR CLARKE",
             "MS PATEL",
-            "NZUNZIMA JIMMY NOKAWUSANA"
+            "NZUNZIMA JIMMY NOKAWUSANA",
+            "INTERPRETER",
+            "ADV SANDI",
+            "ADV BOSMAN"
         ],
         "original_speakers": [
             "CHAIRPERSON",

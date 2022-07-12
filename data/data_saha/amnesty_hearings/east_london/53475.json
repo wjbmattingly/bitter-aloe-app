@@ -12,15 +12,15 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53475&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99061418_eln_990614el.htm",
         "speakers": [
-            "ADV BOSMAN",
             "CHAIRPERSON",
-            "DR TSOTSI",
-            "INTERPRETER",
-            "KWANELE ARTHUR MFENE",
             "MR MAPOMA",
-            "MR NOMPOZOLO",
             "MR OBOSE",
-            "MS COLLETT"
+            "MR NOMPOZOLO",
+            "MS COLLETT",
+            "KWANELE ARTHUR MFENE",
+            "INTERPRETER",
+            "DR TSOTSI",
+            "ADV BOSMAN"
         ],
         "original_speakers": [
             "CHAIRPERSON",

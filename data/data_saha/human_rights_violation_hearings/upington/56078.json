@@ -8,15 +8,15 @@
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/upington/ct01403.htm",
         "speakers": [
             "CASE NO",
-            "CHAIRPERSON",
-            "MR POTGIETER",
-            "MS BURTON",
-            "<UNKNOWN>",
-            "<UNKNOWN>",
-            "TESTIMONY FROM",
             "UPI",
             "VICTIM",
-            "VICTOR CHARLES ZENANE"
+            "VICTOR CHARLES ZENANE",
+            "<UNKNOWN>",
+            "TESTIMONY FROM",
+            "MR POTGIETER",
+            "MARY BURTON",
+            "TESTIMONY_GIVER:",
+            "CHAIRPERSON"
         ],
         "original_speakers": [
             "CASE NO",
@@ -94,7 +94,7 @@
             "Male"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "Thank you.  Morning Mr Zenane.  Can we make you we have your name right - Zenane or Zename?",
             "Female"
         ],
@@ -104,7 +104,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             " You are going to tell us about what happened in Prieska in Ethembeni is it, in June 1986 and the injuries you suffered after that.  Please go ahead and tell us your story.",
             "Female"
         ],
@@ -114,7 +114,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "  ... in fact laid a formal charge in court.  You made a statement but nothing else happened.",
             "Female"
         ],
@@ -124,7 +124,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             " ... must have been seriously injured, you were in hospital a long time.",
             "Female"
         ],
@@ -134,7 +134,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             " When you were shot, did you, there was some singing and toi-toiing and quite a lot of activity in the area.  Did you feel that they were looking for you particularly or was it just bad luck that you ended up in that plot where you couldn't run away?",
             "Female"
         ],
@@ -144,7 +144,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             " ... when you came back from the hospital and this lieutenant offered you a bicycle.  Didn't you think that was a strange thing, how did you explain that offer?",
             "Female"
         ],
@@ -154,7 +154,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             " In your statement you say he told you that he was sorry that he had shot you.",
             "Female"
         ],
@@ -164,7 +164,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             " ... all this happened were you working?",
             "Female"
         ],
@@ -174,7 +174,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             " And you didn't return to school afterwards?",
             "Female"
         ],
@@ -184,7 +184,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             " And now, are you employed now?",
             "Female"
         ],
@@ -194,7 +194,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             " We take note of your request that you need further medical assistance and our team will investigate what can be done in that regard.  Is there anything else that you would like to say to us?",
             "Female"
         ],
@@ -204,7 +204,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "We take note of that and we will make you sure that you are referred for further medical advice.  I think you, I understand that you can feel very despondent but as it has turned out, it was probably a very good thing that you didn't agree to the amputation of your leg because I see that you are able to use your leg and I hope that there will able to be an improvement in your condition.  I have no further questions Chairperson.",
             "Female"
         ],

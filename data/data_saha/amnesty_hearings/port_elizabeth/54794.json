@@ -5,11 +5,11 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54794&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/pe/2biko3.htm",
         "speakers": [
-            "ADV BOOYENS",
             "CHAIRPERSON",
-            "MR CHAIRMAN",
-            "MR MPSHE",
-            "MR POTGIETER"
+            "ADV BOOYENS",
+            "MR POTGIETER",
+            "UNKNOWN",
+            "MOKOTEDI MPSHE"
         ],
         "starting date": "UNKNOWN",
         "original_speakers": [
@@ -595,7 +595,7 @@
             "Unknown"
         ],
         [
-            "MR CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Bizos we will appreciate the typed notes if they are made available to us.",
             "Male"
         ],
@@ -620,7 +620,7 @@
             "Unknown"
         ],
         [
-            "MR CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Bizos?",
             "Male"
         ],
@@ -635,7 +635,7 @@
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Mr Chairman we are making no submissions, thank you.",
             "Male"
         ],

@@ -10,11 +10,11 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55127&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/gtown/koti.htm",
         "speakers": [
+            "CHAIRPERSON",
             "ADV MATUIS",
-            "ADV SANDI",
-            "CHAIRMAN",
             "NOMBENQANA ALBERT KOTI",
-            "REV XUNDU"
+            "REV XUNDU",
+            "ADV SANDI"
         ],
         "original_speakers": [
             "ADV MATUIS",
@@ -28,7 +28,7 @@
     },
     "testimony": [
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "We would like to call Nombenqana Albert Koti to the stand please.  Are you appearing for Mr Koti?",
             "Unknown"
         ],
@@ -38,7 +38,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Thank you.  Mr Koti, we are going to request to swear you in before we hear your evidence.",
             "Unknown"
         ],
@@ -53,7 +53,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Matuis, you have submitted two memorandums to us.  One deals with Mdyogolo, Nosipho Angelina.  Perhaps let us start with that one.  It is a short memorandum, perhaps you could ask your client to quickly summarise it for us in Xhoza so that we can then direct some questions to him.",
             "Unknown"
         ],
@@ -63,7 +63,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "In her testimony Nosipho Angelina Mdyogolo said under oath that you Nombenqana Albert Koti did not participate in the killing of Mtandazeli because  you were in the van, so we just want to place on record that the witness did say that you weren't responsible, but the Commission would like to put a few questions to you in trying to establish the truth.\n Were you working in one group?",
             "Unknown"
         ],
@@ -73,7 +73,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Which is the incident where they said you weren't involved?",
             "Unknown"
         ],
@@ -83,7 +83,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "We are now talking about the Mdyogolo incident.  Do you say that you weren't even present there?",
             "Unknown"
         ],
@@ -93,7 +93,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "So you were not even present where this incident took place?",
             "Unknown"
         ],
@@ -103,7 +103,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "But you were working as one group and you were a reservist in this group?",
             "Unknown"
         ],
@@ -113,7 +113,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "When you got back from your deploy, you would get together and report to each other so you knew exactly who had killed Mtandazeli?",
             "Unknown"
         ],
@@ -123,7 +123,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Who did you report to?",
             "Unknown"
         ],
@@ -133,7 +133,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Who was in charge?",
             "Unknown"
         ],
@@ -143,7 +143,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Do you know where Captain Nel finds himself these days?",
             "Unknown"
         ],
@@ -153,7 +153,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "So in your team it could happen that if someone was killed at any certain place, you would not get together at the end of the day and share your reports with each other?",
             "Unknown"
         ],
@@ -163,7 +163,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Reverend Xundu?",
             "Unknown"
         ],
@@ -188,7 +188,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Let us go to the second matter, the case of Elizabeth Koliti about the murder of Nontle Koliti.  We would one again like you to give us a summary of your affidavit in Xhoza.",
             "Unknown"
         ],
@@ -198,7 +198,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Sandi.",
             "Unknown"
         ],
@@ -363,7 +363,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "I am trying not to use the word Amangundwana, what does it mean?  Was it used to describe municipal police?",
             "Unknown"
         ],
@@ -373,7 +373,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "The people working for the municipal police, who\nwere they working for?  Who was in charge of them?",
             "Unknown"
         ],
@@ -383,7 +383,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes, but who did you report to?",
             "Unknown"
         ],
@@ -393,7 +393,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Who assigned your duties to you?",
             "Unknown"
         ],
@@ -403,7 +403,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Who was it at the time?",
             "Unknown"
         ],
@@ -413,7 +413,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Not that one, the one that is there now, what is his name?",
             "Unknown"
         ],
@@ -423,7 +423,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "So when you and Constable Khadi left on that day, Nel had assigned you the duty of investigating the shooting of a White man?",
             "Unknown"
         ],
@@ -433,7 +433,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Why did you as municipal policemen have to investigate the shooting of these people, was it normal in your duties?",
             "Unknown"
         ],
@@ -443,7 +443,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Did you also investigate the shooting of students, school children?",
             "Unknown"
         ],
@@ -453,7 +453,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "I want to know about the shooting of school children.  The shooting of a school child, was the investigation normally given to you or did you investigate the shooting of Whites?\n I am trying to define the difference between the\nshootings which shootings you people investigated?",
             "Unknown"
         ],
@@ -463,7 +463,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "The child being referred to here in - Nontle Koliti.",
             "Unknown"
         ],
@@ -473,7 +473,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "What I am trying to say is did Nel assign any policeman to investigate the shooting of Nontle koliti?",
             "Unknown"
         ],
@@ -483,7 +483,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Who investigated the shooting of Nontle Koliti?",
             "Unknown"
         ],
@@ -493,7 +493,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Was - did you also have to submit a statement?",
             "Unknown"
         ],
@@ -503,7 +503,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Can you recall who you made a statement to?",
             "Unknown"
         ],
@@ -513,7 +513,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "When you returned after the shooting of this child, as you say it was you and Constable Khadi, you went and reported to Mr Nel?",
             "Unknown"
         ],
@@ -523,7 +523,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "And you also made a statement?",
             "Unknown"
         ],
@@ -533,7 +533,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "What was the effect of the statement which you made?",
             "Unknown"
         ],
@@ -543,7 +543,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Were you a witness for the family that Khadi shot this girl?",
             "Unknown"
         ],
@@ -553,7 +553,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Did the Attorney ask you not to say that Khadi had shot?",
             "Unknown"
         ],
@@ -563,7 +563,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Did you explain that Khadi shot this person, shot the girl?  So would the court records reflect that you actually said from the beginning that Khadi shot this girl?  Were there any steps taken by the municipality to compensate the family for the loss of this girl?  Did that not upset you?",
             "Unknown"
         ],
@@ -573,7 +573,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Did you ever come into contact with the family of this girl after her death?",
             "Unknown"
         ],
@@ -583,7 +583,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Didn't you ever think or deem it important to meet with the family of this girl?",
             "Unknown"
         ],
@@ -593,7 +593,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "By going there?  You were the person who was present when Khadi shot this girl, didn't you ever deem it important after the accusation that you had also shot this girl that you should go to the family and try and explain to them about Khadi having shot this girl?",
             "Unknown"
         ],
@@ -603,7 +603,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "So are you saying that you don't have any problem with these people, that you are living harmoniously?",
             "Unknown"
         ],
@@ -613,7 +613,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Ntsiki Sandi?",
             "Unknown"
         ],
@@ -708,7 +708,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Koti, we thank you for having come and answered our questions.\n We would like to inform you that we would like to have another opportunity where we can contact you and obtain further information from  you in our quest to provide the families of the victims with the truth so that there can be reconciliation so that when the police move around in these communities, they can do so freely and with a clear conscience knowing that they have made peace with these people.\n We thank you for having taken the first step in trying to assist us here by what you did today.  Perhaps there are still many more questions which we will have for you after having contacted this Mr Nel who you referred to and also others who have been involved in this incident.\n We would like to get to the bottom of this so that we can make the truth available to the family of the deceased, so that they can deal with this matter.  We will not make a finding at this stage, but when we are contemplating making a finding which is detrimental to you, we will definitely inform you through your lawyer and you will be allowed to make further representations.\n We thank you.",
             "Unknown"
         ],

@@ -12,10 +12,10 @@
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/pretoria/mafuya.htm",
         "speakers": [
             "CHAIRPERSON",
-            "DR ALLY",
-            "JOYCE NOCAWE MAFUYA",
             "MR MALAN",
-            "MR MANTHATA"
+            "JOYCE NOCAWE MAFUYA",
+            "RUSSELL ALLY",
+            "THOMAS MANTHATA"
         ],
         "original_speakers": [
             "CHAIRPERSON",
@@ -58,7 +58,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "Thank you very much.  Mrs Mafuya, if you do not mind, I would just like to ask you a few questions.  Just to start where you ended.  You said they sent a cheque for\nR36 000.00.  Who is the they who gave the cheque to you?",
             "Unknown"
         ],
@@ -68,7 +68,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "So it was the South African Police that they gave you this cheque?",
             "Unknown"
         ],
@@ -78,7 +78,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "The Attorney, who was he, what is the name of the Attorney.",
             "Unknown"
         ],
@@ -88,7 +88,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "You mentioned Constable Holiday.",
             "Unknown"
         ],
@@ -98,7 +98,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "Did Constable Holiday actually admit that he was the one who shot or how do you get to this name?",
             "Unknown"
         ],
@@ -108,7 +108,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "Now you said that on the day that your son was shot, on the 7th of December 1985 by the Riot Squad, you say that there, that there was rioting in the township of Atteridgeville.  Can you just tell us a little bit about what was happening on that day?",
             "Unknown"
         ],
@@ -118,7 +118,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "So it was a funeral and did anything happen ...",
             "Unknown"
         ],
@@ -128,7 +128,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "... on that day besides the funeral?  What actually happened that led to the riot, the police being active in the area?",
             "Unknown"
         ],
@@ -138,7 +138,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "He definitely said hand grenade, not petrol bomb or.  So was that ...\nPRETORIA HEARING TRC/GAUTENG\n6 J N MAFUYA",
             "Unknown"
         ],
@@ -148,7 +148,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "... hand grenade.",
             "Unknown"
         ],
@@ -158,7 +158,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "And your son got, he was 15 years old at the time.  Was he involved in any of the political organisations in youth structures or street committees or UDF structures?  Do you know?",
             "Unknown"
         ],
@@ -168,7 +168,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "But he was attending that funeral that day?  Is that correct?  Was he part of the funeral procession or was he just one of the bystanders?",
             "Unknown"
         ],
@@ -178,7 +178,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "Now you said to us that your son did not die immediately.  That he actually died two years later almost on the same day that he was shot on the seventh of December ...",
             "Unknown"
         ],
@@ -188,7 +188,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "... two years later.  Now during that period after he was shot and he died, your son, he lived with you and you use to take him to hospital or was he at the hospital all the time and you use to go and visit him at the hospital?",
             "Unknown"
         ],
@@ -198,7 +198,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "Now, your son, did he ever tell you in his own words what actually happened on that day when he was shot?  Did he give you his account?",
             "Unknown"
         ],
@@ -208,7 +208,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "But he never gave an account himself of what happened that day?",
             "Unknown"
         ],
@@ -218,12 +218,12 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "Thank you Mrs Mafuya. I am going to ask if there are any other Commissioners who want to ask questions.  Tom.",
             "Unknown"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "Mrs Mafuya, before the burial of one, this student, did you ever hear of any student activities in Atteridgeville which were in conflict with the police procedures or councillors?",
             "Male"
         ],
@@ -233,7 +233,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "My question was did you hear that youth of that time were against or in conflict with policemen and committee councillors where their houses were destroyed or they were killed because you said this was during riots.",
             "Male"
         ],
@@ -243,7 +243,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "Were they destroyed by the youth or who destroyed the houses?",
             "Male"
         ],
@@ -253,7 +253,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "Can we now say the policemen looked for such youths?",
             "Male"
         ],
@@ -263,7 +263,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "But now this youth were either COSAS or youth league members.  Did they look for them because they wanted to know their membership and where they reside?",
             "Male"
         ],
@@ -273,7 +273,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "We know that youth who were arrested, they could say that comrades that they worked with because they could actually give out names of comrades that they worked with because they worked in the same offices.  Sorry, what I am saying is that they have their names in the books, in the offices.  They would be given names of such people by those who arrest them timeously.",
             "Male"
         ],
@@ -283,7 +283,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "What I am trying to prove here is that, was it appropriate arrest any other youth on the street because they would know the names of the youth who were affiliated to such organisations to which they said, they claimed that they burn houses of such people.",
             "Male"
         ],
@@ -293,7 +293,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "At that time could you distinguish between a policeman, a soldier?  Could you say this was a policeman or a soldier of these people, did they perform the same duty at the same time?\nPRETORIA HEARING TRC/GAUTENG\n9 J N MAFUYA",
             "Male"
         ],
@@ -303,7 +303,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "Does it mean then Atteridgeville was a war zone at that time?",
             "Male"
         ],
@@ -313,7 +313,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "Unfortunately, your son was shot at that time.  Even after that they still come to collect his body even after he died.",
             "Male"
         ],
@@ -323,7 +323,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "Then they took the corpse to perform some surgery and then what did they say they wanted?",
             "Male"
         ],
@@ -333,7 +333,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "It would seem that you are very lucky because they compensated you.  I still wonder if you were compensated to satisfaction.",
             "Male"
         ],
@@ -343,7 +343,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "What you want is that Mr Holiday must be arrested and be jailed?",
             "Male"
         ],
@@ -353,7 +353,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "Now what we could suggest is that would you not like to meet Constable Holiday and discuss about things that transpired with respect to your child?",
             "Male"
         ],
@@ -363,7 +363,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "What you mean is that Holiday said he is not\nPRETORIA HEARING TRC/GAUTENG\n10 J N MAFUYA\nprepared to talk to you about the child's funeral?",
             "Male"
         ],
@@ -373,12 +373,12 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "We will ask you that this matter is still to be discussed much further or investigated.  So it is such a difficult thing for you as a woman.  So I will just stop there with my questions.",
             "Male"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "Wynand.",
             "Unknown"
         ],
@@ -418,7 +418,7 @@
             "Male"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "Thank you very much both Mr and Mrs Mafuya for coming to speak about Godfrey and like with the other cases, this is also a case which we will continue to investigate and hopefully we will be able to come back with some answers.  Thank you very much.\n I would just ask us to stand please while the witnesses leave and once the witnesses have left we will take a lunch break and we will come back at two o' clock.  So could we please stand while the witnesses leave.  \nPRETORIA HEARING TRC/GAUTENG",
             "Unknown"
         ]

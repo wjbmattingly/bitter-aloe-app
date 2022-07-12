@@ -8,13 +8,13 @@
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/upington/ct04110.htm",
         "speakers": [
             "CASE NO",
-            "MR POTGIETER",
-            "MS WILDSCHUT",
-            "<UNKNOWN>",
+            "VICTIM",
             "OTLOGECOE MOKGATLA",
             "<UNKNOWN>",
             "TESTIMONY FROM",
-            "VICTIM"
+            "MR POTGIETER",
+            "GLENDA WILDSCHUT",
+            "TESTIMONY_GIVER:"
         ],
         "original_speakers": [
             "CASE NO",
@@ -85,7 +85,7 @@
             "Male"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "How are you this afternoon Mr Mokgatla?",
             "Female"
         ],
@@ -95,7 +95,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " Thank you for being so patient.  You have had a very long wait today to come and give your testimony so without further ado let us turn to your story.  Could you please tell us what happened to you during the 1980's when there were riots.  Please tell us what happened during those riots and what happened to you in particular.",
             "Female"
         ],
@@ -105,7 +105,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " Yes you may do that.",
             "Female"
         ],
@@ -115,7 +115,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " Please would you just wait for a moment so that the interpreters can continue.  Right, please just start again.",
             "Female"
         ],
@@ -125,7 +125,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " Do you know why you were beaten?  Do you have any idea why these police beat you?",
             "Female"
         ],
@@ -135,7 +135,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " These were Zulu policemen?",
             "Female"
         ],
@@ -145,7 +145,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " You are a senior person today, how old were you when this happened, do you have any idea of how old you were?",
             "Female"
         ],
@@ -155,7 +155,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " Yes I just wanted you to confirm that you are a senior person in the community, you're a senior, you're a grandfather.",
             "Female"
         ],
@@ -165,7 +165,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "I do not have any questions to ask you except to hand over to the Chairperson who might have questions and my other colleagues might have questions for you.",
             "Female"
         ],

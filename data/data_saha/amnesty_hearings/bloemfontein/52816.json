@@ -11,14 +11,14 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=52816&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98081721_blm_bloem2.htm",
         "speakers": [
-            "ADV SOGODI",
-            "CHAIRPERSON",
-            "INTERPRETER",
-            "MANGALISEKILE BHANI",
-            "MR MALAN",
-            "MR MBANDAZAYO",
             "MR STEENKAMP",
-            "<UNKNOWN>"
+            "CHAIRPERSON",
+            "MR MBANDAZAYO",
+            "MR MALAN",
+            "<UNKNOWN>",
+            "MANGALISEKILE BHANI",
+            "INTERPRETER",
+            "ADV SOGODI"
         ],
         "original_speakers": [
             "MR STEENKAMP",

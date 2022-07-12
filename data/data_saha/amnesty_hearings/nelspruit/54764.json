@@ -10,15 +10,15 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54764&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/nel/skosana.htm",
         "speakers": [
-            "ADV DE JAGER",
-            "ADV MOJAPELO",
-            "ADV PATEL",
-            "ADV TEE",
-            "CHAIRMAN",
-            "INTERPRETER",
+            "CHAIRPERSON",
             "MR BLACK",
-            "MS KHAMPEPE",
-            "STATEMENT OF MR SKOSANA HANDED IN AS EXHIBIT A"
+            "ADV PATEL",
+            "ADV MOJAPELO",
+            "STATEMENT OF MR SKOSANA HANDED IN AS EXHIBIT A",
+            "INTERPRETER",
+            "ADV TEE",
+            "SISI KHAMPEPE",
+            "ADV DE JAGER"
         ],
         "original_speakers": [
             "MR BLACK",
@@ -36,7 +36,7 @@
     },
     "testimony": [
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "For the record, we have now concluded evidence in respect of the applications of the Nkuna brothers.  We are now commencing a new application, that is the application of Mr D.M. Skosana, application number 3387/96.\n\tThe Committee is constituted as it was in the previous applications and counsel and Attorneys should place themselves on record.  Mr Black?",
             "Unknown"
         ],
@@ -46,7 +46,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "And of course Adv Patel is still representing the victims?  Am I right Mr Patel?",
             "Unknown"
         ],
@@ -56,7 +56,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Tee, of course is representing the implicated persons, this time now it is the two previous applicants.  Mr Mojapelo.",
             "Unknown"
         ],
@@ -66,12 +66,12 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes, let's just swear him in.\nDERICK (INDISTINCT) SKOSANA: (sworn states)",
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Thank you, you may sit down.  Mr Mojapelo, you have prepared an affidavit, it hasn't been signed actually, has it?",
             "Unknown"
         ],
@@ -81,7 +81,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Alright, we will ask him whether he confirms the truth thereof, but are you wanting to cause him to read it into the record?",
             "Unknown"
         ],
@@ -91,7 +91,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes, you may proceed to do that.",
             "Unknown"
         ],
@@ -101,7 +101,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "I know you took an oath before reading this, but do you confirm that what stands in this statement is the truth?",
             "Unknown"
         ],
@@ -111,7 +111,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Mojapelo, we will admit it as Exhibit A.",
             "Unknown"
         ],
@@ -126,7 +126,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes, Mr Mojapelo.",
             "Unknown"
         ],
@@ -166,7 +166,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Patel?",
             "Unknown"
         ],
@@ -196,7 +196,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Black?",
             "Unknown"
         ],
@@ -251,7 +251,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Black, I can't remember what Mr Nkuna senior, testified, what he said around that aspect, but with regard to Conrad, subsequently he conceded that he could not with certainty say whether or not Mr Skosana did bring the weapons along with him from Witbank.\n\tWhen I put questions to him, he said well, when he saw Mr Skosana for the first time, Mr Skosana was already having those weapons, so he didn't quite categorically say that Mr Skosana had brought along those weapons from Witbank.\n\tEarlier on he did say so, but when I asked him later, he said, well, he wasn't very sure about it.",
             "Unknown"
         ],
@@ -351,7 +351,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Skosana, tell me, just take your mind off this case for a while.  This Soli Morapi, was he ever imprisoned for a political offence?",
             "Unknown"
         ],
@@ -361,7 +361,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Was he from Witbank?",
             "Unknown"
         ],
@@ -371,7 +371,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Was he convicted in a case in Delmas?",
             "Unknown"
         ],
@@ -381,7 +381,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes, but where was that case heard, was it not in Delmas?",
             "Unknown"
         ],
@@ -391,7 +391,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Not Delmas?  Was it not in Bethal?",
             "Unknown"
         ],
@@ -401,7 +401,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "During that case he was already in prison?",
             "Unknown"
         ],
@@ -411,7 +411,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Tee?",
             "Unknown"
         ],
@@ -461,7 +461,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Are you on channel 2 Mr Tee, because if you are on channel 2, you will only hear ...",
             "Female"
         ],
@@ -631,7 +631,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "To quote him, he said it is only Soli who can respond to that.",
             "Female"
         ],
@@ -671,7 +671,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "It is actually not in mitigation.  Mr Tee, that was not a statement in mitigation as I see it.  It is a plea on the merits.",
             "Unknown"
         ],
@@ -681,7 +681,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Tee, what bundle are you referring us to, is that Mr Nkuna's bundle or are you now referring us to Mr Nkuna's bundle?",
             "Female"
         ],
@@ -691,7 +691,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "What number is it, alphabetical number?  I've got A up to E.  Thank you.  And you said it was page 5?",
             "Female"
         ],
@@ -701,7 +701,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Are you referring to the evidence that he gave during his trial?  Thank you.",
             "Unknown"
         ],
@@ -721,7 +721,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "It is indeed Mr Skosana's evidence Mr Tee.",
             "Female"
         ],
@@ -751,7 +751,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "I think he starts where it says I left Witbank for Nelspruit and that is Mr Skosana testifying.",
             "Female"
         ],
@@ -776,7 +776,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Skosana, did Joe know already that Soli had to skip the country?",
             "Female"
         ],
@@ -786,7 +786,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Is that the dilemma that you are eluding to ...",
             "Female"
         ],
@@ -821,7 +821,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "You are excused Mr Patel.  Your Attorney remains?",
             "Unknown"
         ],
@@ -1106,7 +1106,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "May I interpose Mr Tee, I am sorry.",
             "Female"
         ],
@@ -1116,7 +1116,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Skosana, are you saying that you went to Mr Shabangu's house at about two o'clock because you had arranged to go to that house at about two o'clock?  Was that the time that you had agreed upon as a group that would be launching your attack?",
             "Female"
         ],
@@ -1126,7 +1126,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "I am just reading from your evidence in mitigation which you gave when you stated that the reason why you went there two o'clock was because Mr Nkuna was late, he was supposed to have arranged transport for you, but then he didn't pitch up in time, that appears on paginated page 7.  That is the first line, he was supposed to organise transport for us, that was going to take us to the particular place, that was on the 10th.\n\tWe waited for him until late, which is now during the morning hours of the 11th, roundabout one or two o'clock in the morning and he failed to organise transport and we walked to that place.",
             "Female"
         ],
@@ -1136,7 +1136,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "You were supposed to organise transport to take you to where?",
             "Female"
         ],
@@ -1146,7 +1146,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "We are on the same wavelength and he delayed them, that is why you ended up going there in the early hours of the morning.",
             "Female"
         ],
@@ -1156,7 +1156,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "So who was nearer to Nkuna's house, was it Jack or Shabangu?",
             "Female"
         ],
@@ -1166,7 +1166,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Who was nearer to Nkuna's house, was it Jack ...",
             "Female"
         ],
@@ -1176,7 +1176,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "But you didn't go to his house?",
             "Female"
         ],
@@ -1186,7 +1186,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And that is the gentleman you didn't find in and that is why you went to Mr Shabangu's house?",
             "Female"
         ],
@@ -1196,7 +1196,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Thank you.",
             "Female"
         ],
@@ -1236,7 +1236,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Thank you Mr Tee.",
             "Female"
         ],
@@ -1256,7 +1256,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Tee, won't you refer him to a particular page so that he can actually be with you.  I think he looks a little blank, so is his counsel.",
             "Female"
         ],
@@ -1276,7 +1276,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "No Mr Tee, you are wrong, he doesn't say that we went out to go and kill six people, where do you see that?",
             "Unknown"
         ],
@@ -1286,7 +1286,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes, he says I admit that we attempted to kill six people.  He doesn't say he admit that we went to go and kill six people as you put it.  I think this of course has just to do with the question of reconciling himself with the possible death of people which is a technical aspect of the matter.\n\tIt cannot be construed in any way to mean that when they left home, they had the intention to go and kill six people.  To start off they didn't know that there were six people in the house.",
             "Unknown"
         ],
@@ -1296,7 +1296,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "We will appreciate it if it could be shorter than what you are suggesting.",
             "Unknown"
         ],
@@ -1306,7 +1306,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "We will be happy if it could be shorter than five minutes.\nCOMMISSION ADJOURNS FOR FIVE MINUTES - ON RESUMPTION",
             "Unknown"
         ],
@@ -1476,7 +1476,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Sorry, just to interrupt.  I think we have heard that he has explained that perhaps the wrong use of terminology, we have gone through that and he said these names appeared on documents and I think you were at a point where you were asking this witness, who had issued those documents.\n\tI think maybe for us before we lose the picture, before it gets muddled up, maybe we should get an answer to that question.",
             "Unknown"
         ],
@@ -1501,7 +1501,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "May I interpose Mr Tee?  You've said that these were letters from the police?",
             "Female"
         ],
@@ -1511,7 +1511,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Now, were they on a letterhead from the South African Police, the documents that you saw?",
             "Female"
         ],
@@ -1521,7 +1521,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "But they were not on a letterhead from the South African Police?",
             "Female"
         ],
@@ -1531,7 +1531,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Thank you Mr Tee, you may proceed.",
             "Female"
         ],
@@ -1541,7 +1541,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "That is not what he has said Mr Tee.  These letters were not on a letterhead from the South African Police, they had a stamp of the South African Police.",
             "Female"
         ],
@@ -1576,7 +1576,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "He knows you were not there, he is telling you that they say that only one person was targeted?",
             "Unknown"
         ],
@@ -1886,7 +1886,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Of what relevance is this to our proceedings Mr Tee?",
             "Unknown"
         ],
@@ -1896,7 +1896,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Are you going to be interested in the Magistrate's proceedings with regard to the arrest of Soli, why would that interest us at all.",
             "Unknown"
         ],
@@ -1931,7 +1931,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Can I ask you about the incident itself.  You said Joe Nkuna took up position, something like that, what did you mean by that?",
             "Unknown"
         ],
@@ -1941,7 +1941,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Then during your evidence in mitigation, paginated page 7 around line 20, actually 19, you say that Joe was keeping observation because he was patrolling the whole area.  The street and the places where we were.",
             "Unknown"
         ],
@@ -1951,7 +1951,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Well if he in fact was patrolling the whole area, it would suggest that he was not standing in one place?",
             "Unknown"
         ],
@@ -1961,7 +1961,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "And you are saying that what stands here is incorrect, you were incorrectly transcribed?",
             "Unknown"
         ],
@@ -1971,7 +1971,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Then you go on to say, which worries me again, Soli then threw the two handgrenades into the bedroom.  The three of us then ran away.\n\tWho were the three, is it not you, Conrad and Soli?",
             "Unknown"
         ],
@@ -1981,7 +1981,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Only the three of you ran away?",
             "Unknown"
         ],
@@ -1991,7 +1991,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "So he didn't run away, or he didn't have to run away?",
             "Unknown"
         ],
@@ -2001,7 +2001,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "He did not run away?",
             "Unknown"
         ],
@@ -2011,7 +2011,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "But then you go on and say we found Joe at a nearby house there?",
             "Unknown"
         ],
@@ -2021,7 +2021,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "You found him at a house other than Shabangu's house?",
             "Unknown"
         ],
@@ -2031,7 +2031,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "So when the attack on Shabangu's house took place, Joe was a distance away from Shabangu's house.",
             "Unknown"
         ],
@@ -2041,7 +2041,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "In fact he was at another house?  It may be a nearby house, but he was in fact at another house, that is what you are saying?",
             "Unknown"
         ],
@@ -2051,7 +2051,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "So he wasn't present when the actual attack on Shabangu's house took place?",
             "Unknown"
         ],
@@ -2061,7 +2061,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Was he not at another house, a nearby house?",
             "Unknown"
         ],
@@ -2071,7 +2071,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Now you say Joe was at a nearby house.",
             "Unknown"
         ],
@@ -2081,7 +2081,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "He couldn't have been at two houses at the same time, you must tell us whether he was at Shabangu's house or at a house nearby?",
             "Unknown"
         ],
@@ -2091,7 +2091,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Now, I don't understand his role then.  If you say he was not patrolling, you say he was not patrolling, he was standing at one point and that one point you are now saying, was not at Shabangu's house but at a house nearby, of what use was he to you then?",
             "Unknown"
         ],
@@ -2161,7 +2161,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "When you testified against the Nkuna brothers, was it as a result of any pressure by anybody or an assault by anybody?",
             "Unknown"
         ],
@@ -2171,7 +2171,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Were you promised anything?",
             "Unknown"
         ],
@@ -2181,7 +2181,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Did you have any motive to testify against them?",
             "Unknown"
         ],
@@ -2191,7 +2191,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Did you have any motive to lie against them?",
             "Unknown"
         ],
@@ -2211,7 +2211,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "We may have to interrupt you Mr Tee, there is a note that employs us to stick to the arrangement.  Mr Mojapelo, what next?  It would seem that Mr Tee still wants to go on putting questions to the witness and we have gone beyond the time that we have arranged that we would stop by.\n\tYou have some problems about tomorrow, do you want to be excused or if so, what do you - are you going to arrange for somebody to be present or what is the position?",
             "Unknown"
         ],
@@ -2221,7 +2221,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "I assume you will be available tomorrow?",
             "Unknown"
         ],
@@ -2231,7 +2231,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "You will only be available on Friday?",
             "Unknown"
         ],
@@ -2241,7 +2241,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "I've got certain ...",
             "Unknown"
         ],
@@ -2286,7 +2286,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Are you saying that on your assessment of the situation so far, you don't see the need to be here tomorrow?",
             "Unknown"
         ],
@@ -2296,7 +2296,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Maybe I expressed myself badly, but what I wanted to find out from you is that having so far listened to the cross-examination, is there anything that you thought you wanted to ask us to grant you leave to put questions to the witness or do you still feel that there is no need to put any more questions.\n\tI know Mr Patel has had the opportunity already to put questions to the witness, I know that, but I just wanted to find out from you, that having sat there because I don't assume that you are sitting there just for the sake of sitting there, you are certainly listening to the evidence.\n\tNow having listened to the evidence so far, do you feel the need to be given further leave to put questions to the witness or don't you?",
             "Unknown"
         ],
@@ -2306,7 +2306,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Before it becomes just too late, Mr Mojapelo, you will clear up the matter with your client as to somebody perhaps coming into your place tomorrow and we will adjourn the matter until tomorrow morning.\n\tWe will deal with the situation as it presents itself tomorrow morning.  There are two possibilities, we may just proceed until Mr Tee finishes his cross-examination and the other extreme possibility is that we will proceed on Friday then.  These are the only two possible scenarios, but the matters must be finalised in this week in any way.\n\tSome of my colleagues feel that this is a case we would prefer to have oral argument, but that will be sorted out later.  Do I understand that Mr Patel is not even here on Friday?",
             "Unknown"
         ],
@@ -2316,7 +2316,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Can the Attorney confirm that Mr Black, because in the event that the Committee should request that oral submissions be presented on Friday, we would like to know whether Mr Patel would be available to do so because as up to the time when he left, he assumed that he would be able to submit written submissions.",
             "Female"
         ],
@@ -2331,7 +2331,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Maybe I think Mr Ngobe can clarify the situation for us.  I did not understand Mr Patel to be saying that he did not intend ultimately to oppose the application.  I understood him to say that he would not oppose the application if his clients were satisfied that full disclosure had been complied with by the applicant and he seemed to give an indication or to suggest that the clients were not satisfied that full disclosure had been complied with and on the basis of that, they wanted to submit written representation.",
             "Female"
         ],
@@ -2341,7 +2341,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Except that we must be careful of that because my recollection is that we put Mr Patel under the impression that he could submit written argument and we cannot go back on that.  So let's leave it there.\n\tI think the only real problem remaining would be for Mr Mojapelo to take instructions from his client.   Either him or Mr Mojapelo personally would be here tomorrow morning or somebody else and then we will hear from, if you are not here, we will hear from that person what the position is.",
             "Unknown"
         ],
@@ -2351,7 +2351,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "During the hearing?",
             "Unknown"
         ],
@@ -2361,7 +2361,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Oh, well, we didn't know that.  That is what had been causing us some concern.  If that is the case, we have no problem about releasing you tomorrow.",
             "Unknown"
         ],
@@ -2371,7 +2371,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "And then if we happen to hear oral evidence on Friday, he will tell you tomorrow afternoon that we would like to hear argument on Friday, if that turns out to be the case.  So we will adjourn until half past nine tomorrow morning.\nCOMMISSION ADJOURNS",
             "Unknown"
         ]

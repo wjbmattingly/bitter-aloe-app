@@ -6,16 +6,16 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54640&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/bok/bok1_katleho7.htm",
         "speakers": [
-            "ADV MOTATA",
             "CHAIRPERSON",
-            "MR MADASA",
-            "MR MADASA IN ARGUMENT",
-            "MR MADASA IN FURTHER ARGUMENT",
-            "MR MALAN",
             "MR MAPOMA",
-            "MR MAPOMA IN ARGUMENT",
+            "SELENA MDONBISIMENGE MOTLOUNG",
+            "MR MADASA",
             "MR SIBANYONI",
-            "SELENA MDONBISIMENGE MOTLOUNG"
+            "MR MALAN",
+            "ADV MOTATA",
+            "MR MADASA -",
+            "MR MAPOMA -",
+            "MR MADASA - IN FURTHER ARGUMENT"
         ],
         "starting date": "UNKNOWN",
         "original_speakers": [
@@ -464,7 +464,7 @@
             "Unknown"
         ],
         [
-            "MR MADASA - IN ARGUMENT",
+            "MR MADASA -",
             "Thank you, Mr Chair.",
             "Male"
         ],
@@ -999,7 +999,7 @@
             "Unknown"
         ],
         [
-            "MR MAPOMA - IN ARGUMENT",
+            "MR MAPOMA -",
             "Thank you, Chairperson.   Mr Chairman, I would like to have your direction as to whether I am expected to go through the heads?",
             "Male"
         ],

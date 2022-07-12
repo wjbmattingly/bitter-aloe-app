@@ -10,15 +10,15 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54760&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/kim/smiles.htm",
         "speakers": [
-            "ADV DE JAGER",
             "CHAIRPERSON",
-            "INTERPRETER",
-            "MR BODE",
             "MR TSHOLANKU",
+            "ADV DE JAGER",
+            "WALTER SMILES",
+            "SISI KHAMPEPE",
             "MR VISSER",
-            "MS KHAMPEPE",
             "PROF DE KOKER",
-            "WALTER SMILES"
+            "MR BODE",
+            "INTERPRETER"
         ],
         "original_speakers": [
             "CHAIRPERSON",
@@ -95,7 +95,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Tsholanku, if you so wish you can put your questions in English and they will be translated to your client, if you so elect.",
             "Female"
         ],
@@ -115,7 +115,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Tsholanku, I wonder if he assist - the technician can assist Mr Smiles in making sure that he's getting the translation in Afrikaans.",
             "Female"
         ],
@@ -125,7 +125,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Sorry, to intervene again Mr Tsholanku, was it the 25th or the 24th - maybe that's why he does not understand your question.",
             "Female"
         ],
@@ -405,7 +405,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Is he saying he had never thrown a hand grenade before?",
             "Female"
         ],
@@ -465,7 +465,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "I think Mr Visser, it's Nkosinatu not ...[intervention]",
             "Female"
         ],
@@ -565,7 +565,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Can you tell us in which bundle and the page on that bundle?",
             "Female"
         ],
@@ -765,7 +765,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Tsholanku, may I just get some clarification - I believe a statement was made to Mr Boraine and Sipho, can we just get clarity on who is this Sipho, whether we are talking about Sipho Mbatwa or Sipho who is working for the TRC?",
             "Female"
         ],
@@ -775,7 +775,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Yes.",
             "Female"
         ],
@@ -830,7 +830,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Tsholanku, can we rather refer to it as evidence because it really was evidence which was given to the TRC as opposed to the other statement?",
             "Female"
         ],
@@ -900,7 +900,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "May I interpose Mr Tsholanku?",
             "Female"
         ],
@@ -910,7 +910,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "I don't know whether I have taken the correct notes here, did Mr Smiles say that in 1992 he left the country because of this incident?",
             "Female"
         ],
@@ -935,7 +935,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Did you leave the country in 1992 after this incident?",
             "Female"
         ],
@@ -1255,7 +1255,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Professor de Koker, when has he said that he sat on the wall - that's not what he has stated before us?  Are you not referring to the evidence which was led before the HRV Committee?",
             "Female"
         ],
@@ -1265,7 +1265,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "I think you've got to make it simpler to Mr Smiles by stating that to him, we are also getting confused because I thought you were referring to the evidence which has been led before us today.",
             "Female"
         ],
@@ -1275,7 +1275,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "No, I understand that, it's just that it wasn't clear to him that you were clarifying issues.",
             "Female"
         ],
@@ -1860,7 +1860,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Did you at the HRV hearing say at any time that Mr Mbatha gave you a signal before throwing the hand grenade into the building, did you ever say that?",
             "Female"
         ],
@@ -1870,7 +1870,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Why did you say that if you are now contending that that is not what actually happened?",
             "Female"
         ],
@@ -1880,7 +1880,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "What happened, are you saying that you got a signal from Mr Mbatha to throw the hand grenade?  Take your time Mr Smiles, the evidence that you are giving here is very important and it is a fundamental requirement to your application that you should give a full disclosure by that you must be honest.  So, we want to know, did you or did you not get a signal from Mr Mbatha to throw a hand grenade into the building?",
             "Female"
         ],
@@ -1890,7 +1890,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "So the evidence that you have just led now should be disregarded and we should now accept that you got a signal from Mr Mbatha and it was as a result of that signal that you threw the hand grenade into the building.  Is that the evidence that you want us to accept now?",
             "Female"
         ],
@@ -1915,7 +1915,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Smiles, have you been listening to what we were saying to you?  We are getting very confused with your evidence.  You are here to make things easier for us and not to make things difficult, we need to know the truth.",
             "Female"
         ],
@@ -1925,7 +1925,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "We will afford you a break because please it's very important that you must tell us the truth.",
             "Female"
         ],
@@ -1935,7 +1935,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And don't come with a truth which is going to be negotiated around circles.",
             "Female"
         ],
@@ -1965,7 +1965,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Unless of course Mr Tsholanku, you want to persist that we give you two minutes?  I don't know whether Mr Smiles can really recollect himself within two minutes.",
             "Female"
         ],
@@ -2010,7 +2010,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Do you know personally Mr Sipho Mbatwa?",
             "Female"
         ],

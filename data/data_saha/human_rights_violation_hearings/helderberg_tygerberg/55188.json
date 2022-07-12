@@ -7,16 +7,17 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55188&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/helder/ct01808.htm",
         "speakers": [
-            "AWB",
             "CASE NO",
-            "CHAIRPERSON",
-            "COMMISSIONER",
+            "VICTIM",
             "DOUGLAS SIZWE NKWALI",
-            "MS BURTON",
-            "MS WILDSCHUT",
             "<UNKNOWN>",
+            "AWB",
             "TESTIMONY FROM",
-            "VICTIM"
+            "COMMISSIONER",
+            "GLENDA WILDSCHUT",
+            "TESTIMONY_GIVER:",
+            "CHAIRPERSON",
+            "MARY BURTON"
         ],
         "original_speakers": [
             "CASE NO",
@@ -79,7 +80,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "Good morning Mr Nkwali, how are you today?",
             "Female"
         ],
@@ -89,7 +90,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "I am fine too thank you. There are quite a few people in the audience who do not have headphones, so just before I begin to talk to you, I would like to just give the audience a brief summary of what you are going to talk to us about today, is that in order? Okay Mr Nkwali will be talking to us today about a random attach that he had experienced in Kraaifontein on the 7th of January 1993. He was attacked by two white men who - it is believed to belong to a political organisation called the Afrikaanse Weerstand Beweging called the AWB. He was brutually beaten up that night and left in a field and later rescued by somebody. In this case he was awarded R200,000-00 and to date has not received that money yet. But I will now ask Mr Nkwali to tell us his story in his own words. Mr Nkwali could you please just tell us a little bit about yourself, where are you staying and what are you doing right now and then go on to tell\nus your story.",
             "Female"
         ],
@@ -99,7 +100,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "Thanks Mr Nkwali, perhaps I would like to just go back a little bit in your story and ask a few questions. Do you - do you know how long this attack took, how long were they beating you, can you give us an idea of how long it was?",
             "Female"
         ],
@@ -109,7 +110,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "Thanks, do you have any idea why these people attacked you apart from making reference to Mr Mandela what was the reason for them attacking you, do you have an idea?",
             "Female"
         ],
@@ -119,7 +120,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "And while they were assaulting you and shooting you did they, were they having a conversation with each other - were they talking to each other and what were the kinds of things were they saying about why they were attacking you.",
             "Female"
         ],
@@ -129,7 +130,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "Do you know which language they were speaking?",
             "Female"
         ],
@@ -139,7 +140,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "Okay, you say that you were unconscious for a very long time, how long were you in hospital?",
             "Female"
         ],
@@ -149,7 +150,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "And did the doctors and the nurses explain to you what your injuries were and do you remember what - what kind of injuries you had?",
             "Female"
         ],
@@ -159,7 +160,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "So you have many injuries from that attack and you still suffering the consequences of that attack right now.",
             "Female"
         ],
@@ -169,7 +170,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "Are you still receiving any treatment today?",
             "Female"
         ],
@@ -179,7 +180,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "Can we talk a little bit about the Court case, obviously the time of your attack you didn't know who these people were, but you subsequently - you subsequently heard who these people were, can you tell us who they were and how they were identified during the Court case.",
             "Female"
         ],
@@ -189,7 +190,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "You are aware that in the hearings of the Truth Commission we have to understand whether the violation you are talking about is - has a political motive.  Do you think that this attack had a political motive and can you just explain to us if you do think so, why you think so.",
             "Female"
         ],
@@ -199,7 +200,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "When you say they, who are you talking about?",
             "Female"
         ],
@@ -209,7 +210,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "Thank you, Mr Nkwali do you have a family?",
             "Female"
         ],
@@ -219,7 +220,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "Can you tell us how this attack and what happened after that has - has affected your family.",
             "Female"
         ],
@@ -229,7 +230,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "During the Court case you had received a settlement of money, have you received that money yet?",
             "Female"
         ],
@@ -239,7 +240,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "Yes it was reduced according to our research notes and the investigations, work that has been done, you were awarded R200,000-00 but I am just surprised that you have not received the money yet, do you - has anyone explained to you why you have not received the money yet.",
             "Female"
         ],
@@ -249,7 +250,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "Thank you very much for telling us your story Mr Nkwali, I have no more questions to ask you but I am sure that there may be questions from my colleagues, so I'll had over to the Chairperson now.",
             "Female"
         ],
@@ -259,7 +260,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "Ms Nkwali can you tell us what work you were doing before this happened to you?",
             "Female"
         ],
@@ -269,7 +270,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "And you mentioned that you were a member of the ANC, were you known to be a member of the ANC, would people have identified you as an active member?",
             "Female"
         ],
@@ -279,7 +280,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "But you don't think they could have guessed, they just guessed that maybe because you were a black person, you were a supporter of President Mandela.",
             "Female"
         ],
@@ -289,7 +290,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "So it was in a way just - just bad luck that you were there on that day at that time when they found you.",
             "Female"
         ],
@@ -299,12 +300,12 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "I am trying to find out if they were looking for you specially or they would just attack somebody because they happened to meet somebody that morning.\n--- It happened that they were just attacking but those days - at that time there were no people on the streets, I was the only one on the street. And I don't know whether, if they could have seen someone as what perhaps could they have done.",
             "Female"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "Thank you.",
             "Female"
         ],

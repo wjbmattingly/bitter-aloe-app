@@ -11,16 +11,17 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54246&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/2000/200612ct.htm",
         "speakers": [
-            "ABRAM VAN ZYL",
             "CHAIRPERSON",
-            "INTERPRETER",
-            "MR COETZEE",
-            "MR KAHANOVITZ",
-            "MR LAX",
-            "MR MARTINI",
-            "MR SIBANYONI",
+            "ABRAM VAN ZYL",
+            "UNKNOWN",
             "MR WILLIAMS",
-            "MS COLERIDGE"
+            "MR LAX",
+            "MS COLERIDGE",
+            "MR MARTINI",
+            "MR KAHANOVITZ",
+            "INTERPRETER",
+            "MR SIBANYONI",
+            "MR COETZEE"
         ],
         "original_speakers": [
             "CHAIRPERSON",

@@ -10,12 +10,12 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55508&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/kwtown/ngxokela.htm",
         "speakers": [
-            "ADV SANDI",
-            "CHAIRMAN",
-            "MR REDPATH",
-            "MS MAYA",
+            "CHAIRPERSON",
             "MZWABANTU NGXOKELA",
-            "REV XUNDU"
+            "REV XUNDU",
+            "MS MAYA",
+            "ADV SANDI",
+            "MR REDPATH"
         ],
         "original_speakers": [
             "MZWABANTU NGXOKELA",
@@ -29,7 +29,7 @@
     },
     "testimony": [
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "We will now call forward Mzwabantu Ngxokela.",
             "Unknown"
         ],
@@ -44,7 +44,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Tiny Maya will lead you with questions on behalf of the Commission.",
             "Unknown"
         ],
@@ -574,7 +574,7 @@
             "Female"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Ngxokela, the Dr Brink you mentioned, is he the same Dr Brink we heard about in Khayalethu Hela's testimony?  Khayalethu Hela said that Dr Brink was corroborating with the police?",
             "Unknown"
         ],
@@ -584,7 +584,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Is he the same Dr Brink?",
             "Unknown"
         ],
@@ -594,7 +594,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "You received treatment from him?",
             "Unknown"
         ],
@@ -604,7 +604,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Were you from prison at the time?",
             "Unknown"
         ],
@@ -614,7 +614,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Tiny Maya?",
             "Unknown"
         ],
@@ -634,7 +634,7 @@
             "Female"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Sandi?",
             "Unknown"
         ],
@@ -704,7 +704,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Thank you Mr Ngxokela, we thank you for appearing before the Commission to give your testimony.\n We also understand your situation because of this assault as the Commission, we understand that.  All the cases presented before us, we investigate them trying to find out all the details so that we can make a decision of whether this person is a victim or not.\n If we found out that the person is a victim, that the person's rights have been violated, we would then be able to inform the President, this is the first step that you've given us your statement and you've given us your evidence.\n When we are making the finding, we will know what to conclude.  For now, we would like to thank you for coming before the Commission to tell us your story.\n Thank you very much Mr Ngxokela.",
             "Unknown"
         ],
@@ -714,7 +714,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Thank you very much Mr Redpath.",
             "Unknown"
         ],

@@ -11,14 +11,14 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=52786&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98080307_jhb_ellisp2.htm",
         "speakers": [
-            "ADV PRIOR",
-            "ADV SANDI",
             "CHAIRPERSON",
-            "DR TSOTSI",
-            "INTERPRETER",
-            "LESTER DUMAKUDE",
             "MR LANDMAN",
-            "MR VAN DEN BERG"
+            "MR VAN DEN BERG",
+            "LESTER DUMAKUDE",
+            "INTERPRETER",
+            "ADV SANDI",
+            "DR TSOTSI",
+            "ADV PRIOR"
         ],
         "original_speakers": [
             "CHAIRPERSON",

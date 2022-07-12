@@ -12,14 +12,14 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53505&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/990621_mma_990621mm.htm",
         "speakers": [
-            "ADV BOSMAN",
-            "ADV SIGODI",
             "CHAIRPERSON",
-            "JONATHAN PHOLELE MODISANE",
             "MR DLAVANE",
             "MR MULLIGAN",
             "MR SEABELA",
-            "MS LOCKHAT"
+            "MS LOCKHAT",
+            "JONATHAN PHOLELE MODISANE",
+            "ADV SIGODI",
+            "ADV BOSMAN"
         ],
         "original_speakers": [
             "CHAIRPERSON",

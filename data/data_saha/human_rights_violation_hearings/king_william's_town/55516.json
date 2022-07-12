@@ -10,12 +10,12 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55516&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/kwtown/tyakume.htm",
         "speakers": [
-            "ADV SANDI",
-            "CHAIRMAN",
-            "MS CRICHTON",
-            "MS MAYA",
+            "CHAIRPERSON",
             "MTHUNZI WELLINGTON TIBI TYAKUME",
-            "REV XUNDU"
+            "REV XUNDU",
+            "ADV SANDI",
+            "JUNE CRICHTON",
+            "MS MAYA"
         ],
         "original_speakers": [
             "MTHUNZI WELLINGTON TIBI TYAKUME",
@@ -29,7 +29,7 @@
     },
     "testimony": [
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Wellington Tyakume.",
             "Unknown"
         ],
@@ -44,7 +44,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Sandi?",
             "Unknown"
         ],
@@ -254,7 +254,7 @@
             "Unknown"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "Can you hear me Mr Tyakume.",
             "Female"
         ],
@@ -264,7 +264,7 @@
             "Male"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "That's good.  I wanted to find out from you about something that is in your statement where it says that there was one Mthunzi Tyakume who was actually an eye-witness to the event, is that correct?",
             "Female"
         ],
@@ -274,7 +274,7 @@
             "Male"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "And yet you are saying at the inquest they decided to find nobody liable because there was a lack of evidence.",
             "Female"
         ],
@@ -284,7 +284,7 @@
             "Male"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "Was Mthunzi at the inquest?",
             "Female"
         ],
@@ -294,7 +294,7 @@
             "Male"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "Thank you.  You are Mthunzi, I am sorry?  I see that they have put you down as a witness as well as being a deponent, thank you.  Thank you.",
             "Female"
         ],

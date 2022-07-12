@@ -7,16 +7,16 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54958&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/beaufort/ct00368.htm",
         "speakers": [
-            "ADV POTGIETER",
             "CASE NO",
-            "CHAIRPERSON",
-            "DETENTION",
-            "DR RAMASHALA",
-            "MS BURTON",
-            "<UNKNOWN>",
-            "TESTIMONY BY",
             "VICTIM",
-            "ZOMARIUS BOCKS"
+            "ZOMARIUS BOCKS",
+            "<UNKNOWN>",
+            "DETENTION",
+            "TESTIMONY BY",
+            "MARY BURTON",
+            "ADV POTGIETER",
+            "CHAIRPERSON",
+            "MAPULE RAMASHALA"
         ],
         "original_speakers": [
             "CASE NO",
@@ -69,7 +69,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "Welcome,  Mr Bocks before we begin, we welcome the members of the public back again to our afternoon hearing and we particularly would welcome Father Peter Rhodes, who has joined us -  very nice to have you and to have had your support in the preparations for our hearings over these past weeks.  \nMr Bocks, can you - are you going to use the headsets or are you comfortable in English?",
             "Female"
         ],
@@ -79,12 +79,12 @@
             "Male"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "Denzil, are you going to ask questions in Afrikaans. Okay, right Mr Bocks, will you stand to take the oath.  Thank you. \nZO-MARIUS BOCKS Duly sworn states",
             "Female"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "Adv Potgieter is going to lead your evidence.",
             "Female"
         ],
@@ -734,7 +734,7 @@
             "Unknown"
         ],
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "Mr  Marius, you say that you suffer from dizziness?",
             "Unknown"
         ],
@@ -744,7 +744,7 @@
             "Male"
         ],
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "And you've had medical assessment done?",
             "Unknown"
         ],
@@ -754,7 +754,7 @@
             "Male"
         ],
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "And what did the doctors say?",
             "Unknown"
         ],
@@ -764,7 +764,7 @@
             "Male"
         ],
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "And you still suffer dizziness today?",
             "Unknown"
         ],
@@ -774,7 +774,7 @@
             "Male"
         ],
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "Okay, thank you.",
             "Unknown"
         ],

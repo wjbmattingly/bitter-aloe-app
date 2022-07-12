@@ -9,20 +9,19 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=56251&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/special/caprivi/caprivi2.htm",
         "speakers": [
-            "BRIAN GCINA MKHIZE",
-            "DALUXOLO WORDSWORTH LUTHULI",
-            "INTERPRETER",
-            "MR",
-            "MR DE VOS",
-            "MR LASICH",
             "MR LYSTER",
+            "BRIAN GCINA MKHIZE",
+            "MR LASICH",
             "MR MACADAM",
-            "MR NTSEBEZA",
-            "MR STEWART",
-            "MR VISSER",
+            "TESTIMONY_GIVER:",
+            "INTERPRETER",
             "MR WILLS",
-            "MS",
-            "MS SOOKA"
+            "MR VISSER",
+            "YASMINE SOOKA",
+            "MR NTSEBEZA",
+            "MR DE VOS",
+            "MR STEWART",
+            "DALUXOLO WORDSWORTH LUTHULI"
         ],
         "original_speakers": [
             "BRIAN GCINA MKHIZE",
@@ -795,7 +794,7 @@
             "Unknown"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "[... Break in recording ...] or evidence that is going to actually be led later.  At this specific point in time we have led evidence on the training that Mr Mkhize received and I think that it would be appropriate if the cross-examination or rebuttal is in fact confined to that particular issue.",
             "Female"
         ],
@@ -1080,22 +1079,22 @@
             "Male"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Mr - is it De Vos?  Thank you very much for what you've said.  I think that we need to remind your goodselves that in fact this is a Commission of Inquiry and this is not in fact a Court of Law and the Commission, in fact, sets its own rules and procedures and for its convenience it has decided in fact that the witness should be led in various phases, beginning first with his training.  Obviously we need to satisfy the legal requirements which are set out in the Act and in fact which have been determined in the cases that have come through, which is to allow in fact your particular clients the opportunity to place in rebuttal facts which come through this witness' evidence and in fact to allow your clients the opportunity to put forward their particular views on a particular issue.  You have in fact raised, I think, a very sensible option and certainly, if it is the view of all of you that we should allow this witness to complete his evidence in total before we allow cross-examination, so that it is done in a sensible way, I don't think there can actually be a problem with that and if all of you want to proceed in that particular way, then that's fine with us, because the purpose of this opportunity is really to allow each of you to do your own questioning or put your own version for your particular clients, so if you want a short adjournment to decide whether all of you comply with that, then we won't have any problem with making that particular ruling.\nMR   (?): And may I ask whether the ruling which you\n /have\n2A have now suggested would include the possibility of reserving cross-examination until the end and include the possibility of cross-examining with regard to issues which had already previously been dealt with?",
             "Female"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Will you be more specific when you say issues previously dealt with?  Are you talking about issues dealt with in other trials or in this particular matter?\nMR   (?): No, it is simply in this particular matter.  If cross-examination always - if the evidence has been completed on this issue and the witness is led on further issues in the future, that we could revert to this issue and fully cross-examine on this issue.",
             "Female"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Absolutely.  If you are not going to do it now you must be given an opportunity at some stage, so I can't see a problem with that.\nMR   (?): No, I fully agree, I just wanted to have some clarity on the issue.  Thank you.",
             "Female"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Okay, we'll adjourn for five minutes and you can agree between yourselves and come back to us.\nMR   (?): We're indebted to the Commission.  Thank you.\nSHORT ADJOURNMENT\nON RESUMPTION",
             "Female"
         ],
@@ -2800,7 +2799,7 @@
             "Unknown"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Could you ask the question by - was the instruction?",
             "Female"
         ],
@@ -2975,7 +2974,7 @@
             "Male"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Could you tell me how long you spent on Robben Island?  ",
             "Female"
         ],
@@ -2985,17 +2984,17 @@
             "Unknown"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "You also said that when the trainees went initially for training you actually had to handle their questions about receiving training from the military.  How were you yourself able to deal with that, seeing that they were",
             "Female"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "/once",
             "Female"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "3B once your own enemies?  ",
             "Female"
         ],
@@ -3005,7 +3004,7 @@
             "Unknown"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Sorry, I think you misunderstood.  I'm talking about your receiving training from the military and the Caprivi trainees receiving training from the military guard of the South African regime at that time.  ",
             "Female"
         ],
@@ -3015,7 +3014,7 @@
             "Unknown"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "You mentioned in your evidence that often you had to answer the questions of the young trainees about why the people from the old government were in fact training them and my question actually was, was how you were able to deal with that and also to deal with it personally, seeing that they've actually been on the other side?  ",
             "Female"
         ],
@@ -3025,17 +3024,17 @@
             "Unknown"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "/very",
             "Female"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "3B very difficult question to me when it was directed to me and I didn't know how to answer back to them, because it's also  it's something that hurt me most of the time.",
             "Female"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "MR   (?): Mr Luthuli, just one aspect I'd like you to go back on and maybe just expand on a little bit.  You spoke about meeting with military intelligence and Terblanche from time to time.  You said - if I understood you correctly, you said some of those meetings happened at the Polo Pony and other places near Mpumalanga.  Did your people work with Terblanche's people at all?  ",
             "Female"
         ],
@@ -3045,7 +3044,7 @@
             "Unknown"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "So it wasn't just a question of him withdrawing his unit from certain areas?  ",
             "Female"
         ],
@@ -3055,7 +3054,7 @@
             "Unknown"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Could you just expand a little bit on that?  What sort of things did you work on together, what sort of operations or activities or whatever?  ",
             "Female"
         ],

@@ -11,14 +11,14 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54455&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/2000/200904db.htm",
         "speakers": [
-            "CHAIRPERSON",
-            "DHANPAL NAIDOO",
-            "MR LAX",
-            "MR MAPOMA",
             "MR MOERANE",
-            "MR SIBANYONI",
+            "DHANPAL NAIDOO",
             "MS CAMBANIS",
-            "MS MOHAMED"
+            "MS MOHAMED",
+            "MR MAPOMA",
+            "MR LAX",
+            "CHAIRPERSON",
+            "MR SIBANYONI"
         ],
         "original_speakers": [
             "MR MOERANE",

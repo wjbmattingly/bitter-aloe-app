@@ -12,14 +12,14 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53280&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99041214_jhb_990414jh.htm",
         "speakers": [
-            "ADV SIGODI",
             "CHAIRPERSON",
             "DR TSOTSI",
-            "INTERPRETER",
+            "ADV SIGODI",
+            "UNKNOWN",
+            "MS THABETE",
             "MILTON BEKI MHLONGO",
-            "MR MHOLABA",
-            "MR MHOLABA IN ARGUMENT",
-            "MS THABETE"
+            "INTERPRETER",
+            "MR MHOLABA"
         ],
         "original_speakers": [
             "CHAIRPERSON",
@@ -1477,7 +1477,7 @@
             "Unknown"
         ],
         [
-            "MR MHOLABA IN ARGUMENT",
+            "MR MHOLABA",
             "Thank you, Chair, I'll be very brief.\n\tMr Chairman, the application of, the form submitted by the applicant I submit complies with the requirement of the Act.  I would further submit that the evidence given by the applicant here clearly suggested that there was nothing concealed and therefore the full disclosure test has been passed.\n\tWith regard to the element of political objective ...(intervention)",
             "Male"
         ],

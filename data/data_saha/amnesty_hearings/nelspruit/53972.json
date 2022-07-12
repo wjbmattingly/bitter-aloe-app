@@ -11,13 +11,13 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53972&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99120708_nel_991208nl.htm",
         "speakers": [
-            "ADV BOSMAN",
             "CHAIRPERSON",
-            "INTERPRETER",
-            "MR LAX",
             "MR WILLS",
             "MS MTANGA",
-            "VOICE MORRIS SAMBO"
+            "VOICE MORRIS SAMBO",
+            "MR LAX",
+            "INTERPRETER",
+            "ADV BOSMAN"
         ],
         "original_speakers": [
             "CHAIRPERSON",

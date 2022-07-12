@@ -7,15 +7,16 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=56075&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/upington/ct00696.htm",
         "speakers": [
-            "ABEL KUTU",
             "CASE NO",
-            "MR POTGIETER",
-            "MS WILDSCHUT",
-            "<UNKNOWN>",
-            "TESTIMONY FROM",
-            "TORTURE AND INCARCERATION",
             "UPI",
-            "VICTIM"
+            "VICTIM",
+            "ABEL KUTU",
+            "<UNKNOWN>",
+            "TORTURE AND INCARCERATION",
+            "TESTIMONY FROM",
+            "MR POTGIETER",
+            "GLENDA WILDSCHUT",
+            "TESTIMONY_GIVER:"
         ],
         "original_speakers": [
             "CASE NO",
@@ -81,7 +82,7 @@
             "Male"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "Mr Kutu which language do you prefer to speak in?",
             "Female"
         ],
@@ -91,7 +92,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " Okay so you will be giving your testimony in Afrikaans.  I will be speaking to you in English and you will hear the translation through the earphones.  Is that okay?  Are you able to hear us clearly?",
             "Female"
         ],
@@ -101,7 +102,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " Would you come a bit closer to the microphone and if you can't hear very well you can adjust the volume on your head set.  I am sure the briefer will help you.  Okay.  Mr Kutu you are also somebody who has been involved in the Upington 26th incident and trial.  We have heard evidence from quite a few people already this morning but we would like to hear the story from your side and how the incident affected you.  So will you start now please by telling us your side of the story.  Thank you.",
             "Female"
         ],
@@ -111,7 +112,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " Thank you Mr Kutu for your testimony.  Can I just ask you, how old were you when this incident took place?",
             "Female"
         ],
@@ -121,7 +122,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " Whilst you were in prison awaiting trial, were you tortured in any way?  As I understand your statement, you were also tortured after the trial.",
             "Female"
         ],
@@ -131,7 +132,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " During the trial?",
             "Female"
         ],
@@ -141,7 +142,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " Why did they torture you?  Did they want you to make a statement about the death of Jetta?",
             "Female"
         ],
@@ -151,7 +152,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " You also mentioned your mother.  You said that...",
             "Female"
         ],
@@ -161,7 +162,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "Thank you Mr Kutu, I will hand you over now to the Chairperson, I have no further questions.",
             "Female"
         ],

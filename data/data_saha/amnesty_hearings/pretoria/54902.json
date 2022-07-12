@@ -11,18 +11,18 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54902&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/pta/vanwyk.htm",
         "speakers": [
-            "ADV DE JAGER",
             "CHAIRPERSON",
-            "CORNELIUS JOHANNES VAN WYK",
-            "GERRY VAN WYK",
-            "JUDGE NGOEPE",
-            "JUDGE WILSON",
-            "MR G VAN WYK",
+            "ADV DE JAGER",
+            "MOKOTEDI MPSHE",
             "MR GIMSBEEK",
-            "MR MPSHE",
-            "MR RHOODE",
+            "CORNELIUS JOHANNES VAN WYK",
             "MR VAN WYK",
-            "MS KHAMPEPE"
+            "BERNARD MAKGABO NGOEPE",
+            "JUDGE WILSON",
+            "SISI KHAMPEPE",
+            "MR RHOODE",
+            "GERRY VAN WYK",
+            "MR G VAN WYK"
         ],
         "original_speakers": [
             "CHAIRPERSON",
@@ -56,7 +56,7 @@
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Thank you Mr Chairman.  Mr Chairman first an apology that we had to start as late as we are doing now.  It is due to some logistical arrangements that were not in place.\n\tMr Chairman we have two applicants today to start with, that is Cornelius Johannes van Wyk, and Pierre du Plessis.  Mr Chairman we will first start with the application by Cornelius Johannes van Wyk, represented by Attorney Gimsbeek.",
             "Male"
         ],
@@ -66,7 +66,7 @@
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Mr Chairman I had given out a memo to the Investigating Unit, particularly Advocate Andre Steenkamp in Johannesburg and Major Swart to do that for me.  Unfortunately when I got hold of Andre Steenkamp this morning he told me that due to time constraints they couldn't, but some members they cannot trace and I asked him to be present here after lunch to give me a full explanation.  At the moment they are not here.",
             "Male"
         ],
@@ -141,7 +141,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Just a minute, we are trying to get this document, the indictment.",
             "Unknown"
         ],
@@ -1226,7 +1226,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "I am sorry to interrupt you.  Mr Gimsbeek I see this document forms part of our pages, I am not so sure whether you would like to convince the Chairman that there is a need to read this into the record.  This forms part of an application which has been made on a prescribed form, which has been signed under oath.  It's like pleadings you know, one does not normally read pleadings into a court record. It is one thing which you can do, it is one thing to lead your witness paragraph by paragraph, but it's quite a different thing to read what essentially is like pleadings into the record.",
             "Unknown"
         ],
@@ -1321,7 +1321,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Is it not page 13?",
             "Female"
         ],
@@ -1491,7 +1491,7 @@
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Mr Chairman may we take a lunch break?  A lot has been said to determine my stand as far as cross-examination is concerned, if there is I will do that after lunch.",
             "Male"
         ],
@@ -1771,7 +1771,7 @@
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Mr van Wyk in your party did you have a written policy whereupon you were operating?",
             "Male"
         ],
@@ -1781,7 +1781,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Can I say that you were then operating on day-to-day events as you were encountering them?",
             "Male"
         ],
@@ -1791,7 +1791,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "But pertinent to the oath which you say you were taking, you were taking the oath in order to do what?",
             "Male"
         ],
@@ -1801,7 +1801,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Did you in your operation, in your movement envisage to say achieve the change of any existing position or to maintain the status quo as it was then?",
             "Male"
         ],
@@ -1811,7 +1811,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Yes, NSP.",
             "Male"
         ],
@@ -1821,7 +1821,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Ja, what I am trying to drive at is this, as you say you were going to launch your objectives, what was the ultimate goal to be achieved by your objectives?",
             "Male"
         ],
@@ -1831,7 +1831,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "I listened a little bit to the issue of the three murders of innocent persons.  I know that you did not do that, it was your colleague with whom you were on the spot, but in your own opinion do you think this was necessary to be done?",
             "Male"
         ],
@@ -1851,7 +1851,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "You were asked the question by one of the members of the Committee whilst testifying as to whether you foresaw killing person or persons at Louis Trichardt and you answered in the negative, am I right?",
             "Male"
         ],
@@ -1861,7 +1861,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "And you testified further that the decision to shoot or to kill was an instruction ...(intervention)",
             "Male"
         ],
@@ -1871,7 +1871,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Given to you.",
             "Male"
         ],
@@ -1881,7 +1881,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Can you then agree with me if I say this that the decision to kill was not part of the policy of your organisation, it was an individual decision taken there and then?",
             "Male"
         ],
@@ -1891,7 +1891,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Yes, yes, I agree with you inasfar as the global injuries and causing of death is concerned in the process of your pursuing whatever objective you wanted to pursue, but I am confining you here now to this particular killing in Louis Trichardt, and I am saying to you that this was an individual's decision and not the party's decision.",
             "Male"
         ],
@@ -1901,7 +1901,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Can you, if you can answer this one, refer to four people as enough to form an organisation or a party?",
             "Male"
         ],
@@ -1911,7 +1911,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Ja.  Four as you were and after having told this Committee that you had the \"lederingde gehaad\" in the running of your movement can you really say that your movement was a well, firmly-established movement to can take charge of anything?  Can you refer to it as an established movement to carry political objectives?",
             "Male"
         ],
@@ -1921,7 +1921,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Mr van Wyk do you have parents of your own?",
             "Male"
         ],
@@ -1931,7 +1931,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Both parents?",
             "Male"
         ],
@@ -1941,7 +1941,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Do you mind to tell us what the occupation of your father is?",
             "Male"
         ],
@@ -1951,7 +1951,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Retired?",
             "Male"
         ],
@@ -1961,7 +1961,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "What was he before he retired?",
             "Male"
         ],
@@ -1971,7 +1971,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Superintendent of Transnet?",
             "Male"
         ],
@@ -1981,7 +1981,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Did he have his own political convictions?",
             "Male"
         ],
@@ -1991,7 +1991,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Were they different from yours?",
             "Male"
         ],
@@ -2001,7 +2001,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Ja.  What is it that you argued most with him upon as far as politics is concerned?",
             "Male"
         ],
@@ -2011,7 +2011,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "What is it that on which you argued most with him pertaining to politics?",
             "Male"
         ],
@@ -2021,7 +2021,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Can you then say that your father did not have much influence on you as du Plessis (Snr) had on you?",
             "Male"
         ],
@@ -2031,7 +2031,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "And what was your mother's occupation?",
             "Male"
         ],
@@ -2041,7 +2041,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "I see.  Did you sometimes have some chats with her about politics, your convictions?",
             "Male"
         ],
@@ -2051,7 +2051,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "H'n.",
             "Male"
         ],
@@ -2061,7 +2061,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "What made you get in touch or come in contact with Mr du Plessis (Snr)?",
             "Male"
         ],
@@ -2071,7 +2071,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "What made you get in touch with him?",
             "Male"
         ],
@@ -2081,7 +2081,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "You are referring to Senior not so?",
             "Male"
         ],
@@ -2091,7 +2091,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Oh Junior, alright.",
             "Male"
         ],
@@ -2101,7 +2101,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "How often did you see du Plessis (Snr)?",
             "Male"
         ],
@@ -2111,7 +2111,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Could you say that you had constant contact with him, close?",
             "Male"
         ],
@@ -2121,7 +2121,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "For how long were you in contact with him?",
             "Male"
         ],
@@ -2151,7 +2151,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "And what was his occupation, du Plessis (Snr)?",
             "Male"
         ],
@@ -2161,7 +2161,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "In your own knowledge did Mr du Plessis (Snr) ever have contact with your own parents?",
             "Male"
         ],
@@ -2171,7 +2171,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "What was the book about?",
             "Male"
         ],
@@ -2181,7 +2181,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Sorry, Mr van Wyk was he also not a sand-washer at that stage, Mr du Plessis (Snr)?",
             "Female"
         ],
@@ -2191,7 +2191,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "A sand-washer at that stage?",
             "Female"
         ],
@@ -2201,7 +2201,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "He was involved in a business which had to do with sand.",
             "Female"
         ],
@@ -2211,7 +2211,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Yes.",
             "Female"
         ],
@@ -2221,7 +2221,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Now this Church of the Creator, how long were you a member thereof?",
             "Male"
         ],
@@ -2231,7 +2231,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "But did this church have any influence on you?",
             "Male"
         ],
@@ -2246,7 +2246,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Mr van Wyk the initial idea was that as you expected to find a helper at Mr le Roux's house, the idea was that she would be tied?",
             "Unknown"
         ],
@@ -2256,7 +2256,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Why was that not done?",
             "Unknown"
         ],
@@ -2266,7 +2266,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Ja but she was so close that she looked into White's eyes and he even greeted her.",
             "Unknown"
         ],
@@ -2276,7 +2276,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Why didn't you run up to her, grab her and tie her?",
             "Unknown"
         ],
@@ -2286,7 +2286,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Yes, the real question I am asking you now is, had White so chosen would he have been in a position to can give chase and tie her rather than shooting her?  That is the substance of my question.",
             "Unknown"
         ],
@@ -2296,7 +2296,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Did you ask him why he didn't do that instead of electing to shoot?",
             "Unknown"
         ],
@@ -2306,7 +2306,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "And now with regard to the husband, why was the husband shot, why was he not tied?",
             "Unknown"
         ],
@@ -2316,7 +2316,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Before you gave chase to him was he aware of you?",
             "Unknown"
         ],
@@ -2326,7 +2326,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "He could just have run away further and further away from you wouldn't he?  He was in a position to run away from you?",
             "Unknown"
         ],
@@ -2336,7 +2336,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "The worst that could have happened was that he could have run away without having seen you?",
             "Unknown"
         ],
@@ -2346,7 +2346,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Oh had he already seen White?",
             "Unknown"
         ],
@@ -2356,7 +2356,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "No before - he only noticed White and please tell me if I am wrong, he only became aware of White after White had decided to give chase to him?  Had White remained posted at the point where he was would he still have seen White?",
             "Unknown"
         ],
@@ -2366,7 +2366,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Now onto the third victim, you say you shot, you are the person who shot the third victim in the wardrobe?",
             "Unknown"
         ],
@@ -2376,7 +2376,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Yes, yes.  And you said you had a feeling or you noticed that there was probably somebody in the wardrobe that's why you fired a shot?",
             "Unknown"
         ],
@@ -2386,7 +2386,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "And you were surprised to - and you later discovered that it was Mrs Roux or le Roux?",
             "Unknown"
         ],
@@ -2396,7 +2396,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "And you described her as a White lady?",
             "Unknown"
         ],
@@ -2406,7 +2406,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "When you shot, when you realised there was somebody in the wardrobe and when you shot, was your expectation that it could have been a Black person?",
             "Unknown"
         ],
@@ -2416,7 +2416,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Had you imagined that it could be a White person would you still have fired the shot or not?",
             "Unknown"
         ],
@@ -2426,7 +2426,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Did these people die at once, at the spot?",
             "Unknown"
         ],
@@ -2436,7 +2436,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "If I understood you correctly the first victim after being shot did you say that her throat was cut?",
             "Unknown"
         ],
@@ -2446,7 +2446,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Did that happen to her husband as well?",
             "Unknown"
         ],
@@ -2456,7 +2456,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "And who did all this cutting, one and the same person?",
             "Unknown"
         ],
@@ -2466,7 +2466,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Mr White?",
             "Unknown"
         ],
@@ -2476,7 +2476,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Thank you.",
             "Unknown"
         ],
@@ -2626,7 +2626,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Can I just ask you a question to what was being asked.  You - the first person to be shot was the helper and she was shot by yourself on the instructions of Mr White?",
             "Unknown"
         ],
@@ -2636,7 +2636,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Oh you shot the second person to be killed?",
             "Unknown"
         ],
@@ -2646,7 +2646,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Because Mr White instructed you to do that?",
             "Unknown"
         ],
@@ -2656,7 +2656,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "You could clearly see the person?",
             "Unknown"
         ],
@@ -2666,7 +2666,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Ja.  Had that person been White would you still have shot him?",
             "Unknown"
         ],
@@ -2676,7 +2676,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "You are not sure whether you would have....",
             "Unknown"
         ],
@@ -2686,7 +2686,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "If it was a Black woman running away, do you know what you would have done?",
             "Unknown"
         ],
@@ -2696,7 +2696,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr van Wyk your plan that day was to steal the weapons from the house?",
             "Female"
         ],
@@ -2706,7 +2706,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And this was conceived by an excellent military strategist...",
             "Female"
         ],
@@ -2716,7 +2716,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "In the name of Mr White?",
             "Female"
         ],
@@ -2726,7 +2726,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And you knew that when you got there there would only be the servant, Mrs Dubane?",
             "Female"
         ],
@@ -2736,7 +2736,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And there would be no-one else, according to the information which you relied upon, because Mr White was a reliable military strategist?",
             "Female"
         ],
@@ -2746,7 +2746,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Why did you then enter the premises fully armed?",
             "Female"
         ],
@@ -2756,7 +2756,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "But there was no reason for any security measure to crop up which would have required you to use your arms.  You went in there with information, and this was a private house?",
             "Female"
         ],
@@ -2766,7 +2766,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "So it was not your intention to kill when you went in, yet you went in fully armed into that house?",
             "Female"
         ],
@@ -2776,7 +2776,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Now you say your political objective was to get the Afrikaner on your side and was to provide a safe haven for them?",
             "Female"
         ],
@@ -2786,7 +2786,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Now on about the 20 to the 21st of September there was a robbery of a motor car that you were involved in?",
             "Female"
         ],
@@ -2796,7 +2796,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "There was a theft of a motor vehicle.",
             "Female"
         ],
@@ -2806,7 +2806,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And you were involved in that theft?",
             "Female"
         ],
@@ -2816,7 +2816,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Now your political opponent who was it, was it the Nationalist Party?",
             "Female"
         ],
@@ -2826,7 +2826,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Now who is the person that you stole the motor car from?",
             "Female"
         ],
@@ -2836,7 +2836,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And this was a White person.",
             "Female"
         ],
@@ -2846,7 +2846,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And how was this theft conducted?",
             "Female"
         ],
@@ -2856,7 +2856,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And was Mr van Leeuwen inside his motor car?",
             "Female"
         ],
@@ -2866,7 +2866,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "So you were not aware of the owner of the vehicle?",
             "Female"
         ],
@@ -2876,7 +2876,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Now with regard to the incident at Louis Trichardt when you shot at Mrs Roux what was the state of your mind?",
             "Female"
         ],
@@ -2896,7 +2896,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "On your own?",
             "Female"
         ],
@@ -2906,7 +2906,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Now with regard to your movement Mr van Wyk, you have stated that at the time of the commission of these crimes your movement was at the first stage, is that correct?",
             "Female"
         ],
@@ -2916,7 +2916,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Could it be defined as having been a private movement at that stage?",
             "Female"
         ],
@@ -2926,7 +2926,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "How many people would you say belonged to your movement?",
             "Female"
         ],
@@ -2936,7 +2936,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Of four people?",
             "Female"
         ],
@@ -2946,7 +2946,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "But you just got support from the other rightwing movements?",
             "Female"
         ],
@@ -2956,7 +2956,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Were you involved in any effective recruitment measures to attract more people?",
             "Female"
         ],
@@ -2966,7 +2966,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And what were those measures which were effected to recruit members?",
             "Female"
         ],
@@ -2976,7 +2976,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Would I be correct to say that you were not interested in recruiting more people because you conceived that quality and not quantity to be more important in your movement?",
             "Female"
         ],
@@ -2986,7 +2986,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Would I also be correct that at the time of your arrest none of the Afrikaners that were intended to be trained had been trained?",
             "Female"
         ],
@@ -2996,7 +2996,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "... in the country and outside the country?",
             "Female"
         ],
@@ -3006,7 +3006,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "No further questions Mr Chairperson.",
             "Female"
         ],
@@ -3256,7 +3256,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Mr van Wyk I get the impression that your son at some stage that he was a (...indistinct)",
             "Unknown"
         ],
@@ -3266,7 +3266,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "And you wouldn't know, considering the way you brought him up, you would be at a loss as to why he would tend to be that racist?",
             "Unknown"
         ],
@@ -3276,12 +3276,12 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Thank you.",
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr van Wyk when did you first become aware that your son had espoused, was espousing such ultra rightwing political views?",
             "Female"
         ],
@@ -3291,7 +3291,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "So all along until the arrest of your son you were not aware that he had ...(intervention)",
             "Female"
         ],
@@ -3301,7 +3301,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "That he had become espoused to such views.",
             "Female"
         ],
@@ -3311,7 +3311,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Thank you.",
             "Female"
         ],
@@ -3336,7 +3336,7 @@
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "It will be Exhibit A Mr Chairman.",
             "Male"
         ],

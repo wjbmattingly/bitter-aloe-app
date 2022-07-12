@@ -7,11 +7,11 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=52787&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98080307_jhb_ellisp3.htm",
         "speakers": [
-            "ADV PRIOR",
             "CHAIRPERSON",
-            "MR DUMAKUDE",
             "MR LANDMAN",
-            "MR VAN DEN BERG"
+            "MR VAN DEN BERG",
+            "MR DUMAKUDE",
+            "ADV PRIOR"
         ],
         "original_speakers": [
             "MR LANDMAN",

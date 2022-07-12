@@ -10,10 +10,11 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55867&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/sebokeng/seb1046.htm",
         "speakers": [
-            "CHAIRPERSON",
             "DR BORAINE",
-            "DR RANDERA",
-            "MR NTSOERENG"
+            "MR NTSOERENG",
+            "CHAIRPERSON",
+            "UNKNOWN",
+            "DR RANDERA"
         ],
         "original_speakers": [
             "DR BORAINE",

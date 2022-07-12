@@ -11,17 +11,17 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54588&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/benoni/benoni1_viktor.htm",
         "speakers": [
-            "ADV DE JAGER",
-            "CHAIRMAN",
-            "INTERPRETER",
-            "JOHANNES JACOBUS VIKTOR",
-            "JUDGE NGOEPE",
-            "JUDGE WILSON",
-            "MR CURRIN",
-            "MR CURRIN ADDRESSES",
-            "MR MPSHE",
+            "CHAIRPERSON",
             "MR VISSER",
-            "MS KHAMPEPE"
+            "UNKNOWN",
+            "MR CURRIN",
+            "MOKOTEDI MPSHE",
+            "BERNARD MAKGABO NGOEPE",
+            "JOHANNES JACOBUS VIKTOR",
+            "ADV DE JAGER",
+            "SISI KHAMPEPE",
+            "INTERPRETER",
+            "JUDGE WILSON"
         ],
         "original_speakers": [
             "CHAIRMAN",
@@ -42,7 +42,7 @@
     },
     "testimony": [
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "This is a sitting of the Amnesty Committee comprised of Judges Mall,  Judge Wilson on my right, Judge Ngoepe on my left, Advocate Chris de Jager, SC, on his left and Miss Khampepe on the right of Judge Wilson.\n\tWe are about the commence the hearing of evidence of General Viktor who has been subpoenaed by the Committee at the request of Mr Brian Currin who represented a number of victims in respect of whom or concerning whom evidence was given at a previous hearing.\n\tMr Visser, I understand, you will be representing General Viktor, is that correct?",
             "Unknown"
         ],
@@ -52,7 +52,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "You are here representing",
             "Unknown"
         ],
@@ -62,7 +62,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "And Mr Currin.",
             "Unknown"
         ],
@@ -72,17 +72,17 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Mpshe you are the leader of evidence of the TRC.",
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "That is so Mr Chairman.",
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Very well, Mr Visser, you may begin.",
             "Unknown"
         ],
@@ -92,7 +92,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Sorry to interrupt you Mr Visser.  I am here, I am speaking from here, sorry to interrupt you, I don't know how many more pages you are going to take us through, I am just wondering whether we are not in fact not simply putting the record on record, because that's what we are doing it seems to me.  Would it not have been better if, for example, if you go stage by stage that way, at the same time we invite the witness to comment so that we could immediately capture, you refer to a passage and possibly you read it and then thereafter we invite the witness to capture his response to it as we go along.",
             "Unknown"
         ],
@@ -107,7 +107,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "If it is possible for him to follow your questions in English than we will save time.",
             "Unknown"
         ],
@@ -377,7 +377,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Visser I think I can confirm that this affidavit was never handed up to members of the Committee.\nI just wanted to indicate that this affidavit was never handed up to members of the Committee at any given stage, so we would request you to make copies available to us.",
             "Female"
         ],
@@ -387,7 +387,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes.  The members of the Amnesty Committee may not have, I have seen the letter and I think that Ms Khampepe has not seen it.",
             "Unknown"
         ],
@@ -842,7 +842,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes would you please hand it in.",
             "Unknown"
         ],
@@ -852,7 +852,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Thank you.",
             "Unknown"
         ],
@@ -862,7 +862,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Should the need arise you will be forwarded another opportunity if you think you want to develop any further points that General Viktor has given arising out of the questions.",
             "Unknown"
         ],
@@ -872,17 +872,17 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Currin.",
             "Unknown"
         ],
         [
-            "MR CURRIN ADDRESSES",
+            "MR CURRIN",
             "Mr Chairman in order not to waste time we have agreed that Mr du Plessis will put his questions first and after that I will review my situation to see whether in fact I have any questions at all.  It depends on what comes out of the\nquestions which Mr du Plessis puts to the Brigadier.  If that pleases the Committee I think it will be the quicker way of dealing with it.",
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes Mr du Plessis.",
             "Unknown"
         ],
@@ -1092,7 +1092,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Put them to him.",
             "Unknown"
         ],
@@ -1257,7 +1257,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Will you just read it slowly because the Interpreter is having difficulty interpreting it.",
             "Unknown"
         ],
@@ -1267,7 +1267,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "You are reading too fast, please.",
             "Unknown"
         ],
@@ -1282,12 +1282,12 @@
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Mr Chairman I requested that we wait a little bit until the shuttling shall have stopped.\nSHORT BREAK",
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes, will you proceed.",
             "Unknown"
         ],
@@ -1357,7 +1357,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "I think you are required to keep your speed down a little bit to enable the Interpreters to do their bit.",
             "Unknown"
         ],
@@ -1422,7 +1422,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "I think you must understand now there's a - you have a reaction from this witness who has been listening to these statements that you have been reading out to him and you are inviting his comment, where does that get you?",
             "Unknown"
         ],
@@ -1432,7 +1432,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Because I think that we have got to bring this to an end otherwise it's going to carry on ad infinitum.",
             "Unknown"
         ],
@@ -1442,7 +1442,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Now he's told you the limits of what he knows and what he said at that meeting and which was then conveyed telephonically.  Now that's the limit of what he says and how far can you push?",
             "Unknown"
         ],
@@ -1452,7 +1452,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes.",
             "Unknown"
         ],
@@ -1462,7 +1462,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Sorry Mr du Plessis before you leave that point, I hear your response but I think the way I understand the question put by Mr du Plessis, he's inviting you as an experienced policeman, you had been in the police force since 1947 until 1989 when you retired ...(intervention)",
             "Unknown"
         ],
@@ -1472,7 +1472,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Yes.  And he is inviting you to express your own personal opinion with regard to the assessment of the situation, whether your personal assessment of the situation accords with that one which has been made by the other Generals, I think you could be in a position to do that actually.",
             "Unknown"
         ],
@@ -1527,7 +1527,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Sorry, sorry in that case there's nothing new that you would have been suggesting.  They would have known that if you find somebody doing that you arrest them.  Surely you are not suggesting anything new?",
             "Unknown"
         ],
@@ -1612,7 +1612,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr du Plessis, but didn't he go on to say something further, he stated that the suggestion he gave them was if a fellow policeman's house had been bombed then they should do the same thing - and eye for an eye!",
             "Female"
         ],
@@ -1622,7 +1622,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "It's now been built up already.  (General laughter)",
             "Unknown"
         ],
@@ -1632,7 +1632,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "That's correct.",
             "Female"
         ],
@@ -1687,7 +1687,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Can I interpose Mr du Plessis.  General you proceeded to speak to Brigadier Cronje regarding the suggestions that you had discussed with his underlings.",
             "Female"
         ],
@@ -1697,7 +1697,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Couldn't one presume that the whole thing was again to engender a suggestion that you should also proceed to act in accordance with your suggestion?",
             "Female"
         ],
@@ -1912,7 +1912,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "The Committee will now take an adjournment and will resume at 2 o'clock.\nCOMMITTEE ADJOURNS\nON RESUMPTION",
             "Unknown"
         ],
@@ -1992,7 +1992,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "The question is you know yourself what you said to them, the question is what you said to them was such that it was capable of being understood by them in the way that they say they did understand it.",
             "Unknown"
         ],
@@ -2022,7 +2022,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "You put the questions that you wish to and if you're finished then I'd be pleased to hear that.",
             "Unknown"
         ],
@@ -2032,7 +2032,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "I think Mr Visser it would be for you to clear up if you do wish to at some stage.",
             "Unknown"
         ],
@@ -2042,7 +2042,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes.  As long as you just make references to the relevant pages so that we ourselves know what to look at and what to look for.",
             "Unknown"
         ],
@@ -2167,7 +2167,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "I think the purpose of cross-examination goes you really want test whether he gave instructions or not and I think that allied matters ought not to be put to him just for the sake of putting them to him, because what you are saying now may very well be an important part of your argument.  As I understand it that is what it really boils down to, is argument.",
             "Unknown"
         ],
@@ -2177,7 +2177,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Well now you've put the relevant questions to him to which he's given you answers, now you've gone beyond that and you are trying to submit points which are really argument.",
             "Unknown"
         ],
@@ -2187,7 +2187,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes.",
             "Unknown"
         ],
@@ -2312,22 +2312,22 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "It will be placed on record that Counsel for some members of the families have approached me, that is Mr Currin, he has indicated to me that as a result of the questions that have been put to this witness there is no need for him to cross-examine the witness and has asked to be excused.\n\tMr Mpshe are there any questions you wish to put to this witness?",
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Yes Mr Chairman.",
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "You may do so.",
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "General, when you made this suggestion were you advised by anybody to make it, the suggestion you made to the three members?",
             "Male"
         ],
@@ -2337,7 +2337,7 @@
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "What had prompted you to make this suggestion to these three members?",
             "Male"
         ],
@@ -2347,7 +2347,7 @@
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Is it correct that the three members were juniors to yourself?",
             "Male"
         ],
@@ -2357,7 +2357,7 @@
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Can it be taken then that when you spoke to them, you spoke to them as a senior?",
             "Male"
         ],
@@ -2367,7 +2367,7 @@
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Now if you spoke to them in your position as a senior you should have foreseen the possibility of them acting on what you are saying as a senior?",
             "Male"
         ],
@@ -2377,7 +2377,7 @@
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "When you made these suggestions what did you intend to bring into their minds?",
             "Male"
         ],
@@ -2387,7 +2387,7 @@
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "General can we then conclude that that suggestion was actually an advice to them as to how to go about addressing the situation?",
             "Male"
         ],
@@ -2397,7 +2397,7 @@
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "But you were telling them that they've got to chase them, they've got to search for them, look for them, don't give him a chance day and night, is that not an advice telling them how to do things?  It is more than a suggestion as far as I am concerned.",
             "Male"
         ],
@@ -2407,12 +2407,12 @@
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Thank you Mr Chairman, no further questions.\nNO FURTHER QUESTIONS BY MR MPSHE",
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Visser are there questions you wish to put to the witness?",
             "Unknown"
         ],
@@ -2422,7 +2422,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Please do.",
             "Unknown"
         ],
@@ -2452,7 +2452,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes Mr Visser, members of my Committee would appreciate written submissions by you on the evidence that has been led.",
             "Unknown"
         ],
@@ -2462,7 +2462,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes, yes.  General thank you very much.  You are excused from further attendance.",
             "Unknown"
         ],
@@ -2472,7 +2472,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "You will, in the course of your heads, which I understand you will be submitting on the overall case, deal with this aspect of the matter to the extent that you think it necessary to deal with?",
             "Unknown"
         ],
@@ -2482,27 +2482,27 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Thank you.  Alright, you are excused.\nCOUNSEL EXCUSED",
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes Mr Mpshe?",
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Mr Chairman may I suggest that we adjourn now so as to get the other parties in and then we can start in five minutes time to relocate things properly Mr Chairman, please.",
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Very well.  We will take a short adjournment.",
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Thank you.\nCOMMITTEE ADJOURNS",
             "Male"
         ]

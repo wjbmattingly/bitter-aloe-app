@@ -11,15 +11,16 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54253&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/2000/200613bl.htm",
         "speakers": [
-            "ADV SANDI",
-            "ANSWER",
             "CHAIRPERSON",
-            "INTERPRETER",
-            "JUDGE DE JAGER",
-            "MR CHOANE",
             "MR JOHNSON",
             "MR SAMUEL",
-            "SELLO DAVID THEJANE"
+            "JUDGE DE JAGER",
+            "SELLO DAVID THEJANE",
+            "ADV SANDI",
+            "MR CHOANE",
+            "UNKNOWN",
+            "ANSWER",
+            "INTERPRETER"
         ],
         "original_speakers": [
             "CHAIRPERSON",

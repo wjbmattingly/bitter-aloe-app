@@ -10,14 +10,15 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=52883&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98100514_el_eastlon3.htm",
         "speakers": [
-            "ADV DE JAGER",
-            "ADV SANDI",
+            "MR ZILWA",
             "CHAIRPERSON",
             "FUNDISILE GULENI",
-            "INTERPRETER",
-            "MR MAPOMA",
             "MR SMUTS",
-            "MR ZILWA"
+            "ADV DE JAGER",
+            "MR MAPOMA",
+            "ADV SANDI",
+            "UNKNOWN",
+            "INTERPRETER"
         ],
         "original_speakers": [
             "MR ZILWA",

@@ -10,15 +10,15 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55123&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/gtown/kaleni.htm",
         "speakers": [
-            "ADV SANDI",
-            "CHAIRPERSON",
-            "COMMISSION ADJOURNS UNTIL TWO OCLOCK",
-            "MANDLA BROWN KASO",
-            "MS CRICHTON",
-            "MS MAYA",
-            "NOMTANDAZO LYDIA KALENI",
             "REV XUNDU",
-            "TEMBILE ALFRED SWARTBOOI"
+            "NOMTANDAZO LYDIA KALENI",
+            "TEMBILE ALFRED SWARTBOOI",
+            "MANDLA BROWN KASO",
+            "CHAIRPERSON",
+            "JUNE CRICHTON",
+            "ADV SANDI",
+            "MS MAYA",
+            "COMMISSION ADJOURNS UNTIL TWO O'CLOCK"
         ],
         "original_speakers": [
             "NOMTANDAZO LYDIA KALENI",
@@ -477,7 +477,7 @@
             "Unknown"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "Mr Kaso, can you hear me?  Can you hear me?",
             "Female"
         ],
@@ -487,7 +487,7 @@
             "Male"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "It just took you a couple of moments to tell your story, but there is a lifetime of results as a result of your story.  I only have one simple question for you.  I want to ask you who Priscilla Kaso is?",
             "Female"
         ],
@@ -497,7 +497,7 @@
             "Male"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "Did she witness the event?",
             "Female"
         ],
@@ -507,7 +507,7 @@
             "Male"
         ],
         [
-            "MS CRICHTON",
+            "JUNE CRICHTON",
             "Thank you, that is all I wanted from you.  Thank you Mr Chairperson.",
             "Female"
         ],

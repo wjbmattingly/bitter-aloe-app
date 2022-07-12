@@ -11,12 +11,12 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54613&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/bloem/bloem3_mohapi.htm",
         "speakers": [
-            "ADV SANDI",
-            "CHAIRPERSON",
-            "MR MPSHE",
             "MR MTHEMBU",
-            "MS KHAMPEPE",
-            "PETRUS TAPELO MOHAPI"
+            "PETRUS TAPELO MOHAPI",
+            "CHAIRPERSON",
+            "SISI KHAMPEPE",
+            "MOKOTEDI MPSHE",
+            "ADV SANDI"
         ],
         "original_speakers": [
             "MR MTHEMBU",
@@ -130,7 +130,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Mohapi I am going to interrupt you because you are not responding to what your counsel has put to you.",
             "Female"
         ],
@@ -140,7 +140,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Why was it necessary for you to contact Mr Gwalale and Mr Mbiga?",
             "Female"
         ],
@@ -215,7 +215,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "You see Mr Mohapi it's not a question of not being patient with you, we have records of what you are saying and the translator's have to translate so you either elect to choose a particular language for purposes of transcribing this record, because otherwise it really gets mixed up.  So it's not a question of not being patient with you.  I know it's difficult to stick to a particular language like Sotho all the time, but if you would like to address us in English you can do so.  Or if you want to use seSotho you can do so and use English quite sparingly to make the task of the translators and the transcribers much easier.",
             "Female"
         ],
@@ -270,7 +270,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Mohapi we are going to request you to again to confine yourself please to questions which are posed to you.",
             "Female"
         ],
@@ -480,7 +480,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Mohapi we don't have an Annexure R so just tell us what you took.  Confine yourself to what you are saying.  Annexure A?",
             "Female"
         ],
@@ -550,7 +550,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Mohapi I think your counsel is trying to lead you in order for you to give us relevant evidence which is material to your application, so I think you must listen to him and simply respond to his questions.  He is representing you.",
             "Female"
         ],
@@ -600,7 +600,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Mthembu I still do not have an answer to your question if you would mind just please also taking control of your client, you know giving us the right and relevant evidence.",
             "Female"
         ],
@@ -640,7 +640,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "And to assist the Committee further, according to the record, the transcript in court, on page 89 of the bundle, line 18, Mrs Renee Smith was shot on the left leg, on the left side.  I will just quote what is said on the record in Afrikaans,\n\"Linker been aan die linker side getreff\"\nThat is the left leg, that is where she was shot.  Page 89, line 18.",
             "Male"
         ],
@@ -745,7 +745,7 @@
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Thank you Mr Chairman.\n\tMr Mohapi do you agree with me that in your application the formal form that you completed from the TRC office, including your annexure to the application consisting of seven pages, nowhere do you mention how this offence was committed, not even a single word about the offence itself, do you agree?",
             "Male"
         ],
@@ -755,7 +755,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Yes I want your explanation.",
             "Male"
         ],
@@ -765,7 +765,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "You are now at page 2 and you want to find out if Mr Mpshe is asking you about paragraph 9A and Roman figure I, II, III up to IV?",
             "Female"
         ],
@@ -775,7 +775,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "I am not yet there.  I am saying to you the whole application, your annexure consisting of seven handwritten pages there is nothing said about the offence itself as you explained in such details today, nothing has been said in your application, do you agree?",
             "Male"
         ],
@@ -795,7 +795,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Right.  And as a, that's my opinion, as a learned applicant, you knew very well that in an application for amnesty full disclosure is one of the requirements?",
             "Male"
         ],
@@ -805,7 +805,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "How are you?",
             "Male"
         ],
@@ -815,7 +815,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "To learn yourself?  You say you are in the process to learn yourself?",
             "Male"
         ],
@@ -825,7 +825,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Now when you filled in the application form did you know what is required in order to be granted amnesty?",
             "Male"
         ],
@@ -835,7 +835,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "And you knew at that time that full disclosure is one of the requirements for you to be granted amnesty?",
             "Male"
         ],
@@ -845,7 +845,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Alright let us - just answer my question.  Let us go back, what is it that which you knew should be satisfied to get amnesty?",
             "Male"
         ],
@@ -855,7 +855,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "That's it.  To reveal the truth about what has happened and this has to be in your application form, not so?",
             "Male"
         ],
@@ -865,7 +865,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Now is this in your application form what has happened, the truth?",
             "Male"
         ],
@@ -875,7 +875,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "I know it.",
             "Male"
         ],
@@ -885,7 +885,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Right.  Let's move to your annexure that was - did you write this annexure, these seven handwritten pages?",
             "Male"
         ],
@@ -895,7 +895,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Right.  Now that is written in English not so, which you understood very well not so?",
             "Male"
         ],
@@ -905,7 +905,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "But you wrote it in English not so?",
             "Male"
         ],
@@ -915,7 +915,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Now why didn't you in your annexure consisting of seven pages disclose in your annexure as to what happened?  There is nothing about the incident, absolutely nothing.",
             "Male"
         ],
@@ -925,7 +925,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Now why did you refer this Committee to page 2 and paragraph 9?  Why did you specifically single out those pages?",
             "Male"
         ],
@@ -935,7 +935,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "What mistake has happened here?",
             "Male"
         ],
@@ -945,7 +945,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "So you know and you knew what was supposed to be said under paragraph 9. I, II, III and IV?",
             "Male"
         ],
@@ -955,7 +955,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Now you testified that at the time when this offence was, or the acts were perpetrated you were about to defect from the ANC, why did you defect from the ANC?",
             "Male"
         ],
@@ -965,7 +965,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "You further testified as you were led by my learned friend about a meeting in your house, you mentioned certain points that were to be dealt with by your unit commander, and the third one, the third one says, \"to kill if there is necessity to do so\", then you  repeated that in Sotho you say, \"to kill if it's necessary\".  Will I be correct to say that it meant, if you come to a situation, to launch an attack or to carry out an operation and the situation changes and becomes volatile and offensive towards you then the killing can take place, is that correct?",
             "Male"
         ],
@@ -975,7 +975,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Now can you explain to this Committee as to any incident at Mrs Smith's place that caused you to kill?",
             "Male"
         ],
@@ -985,7 +985,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "I think once again you are digressing.  The question that has been put to you is, just listen to me until I have finished the question, right at the time whilst you were there at the house of the Smith family, what caused you to kill?  Why did you kill Mr Smith?",
             "Male"
         ],
@@ -995,7 +995,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Mohapi that is not the evidence you have given us.  I think Mr Mpshe has actually quoted you to some extent, verbatim.  You said,\n\"The operation was intended to disarm, to fund-raise....\"\nand you then went on to qualify the operation further, \"to kill if there is a necessity to do so\".",
             "Female"
         ],
@@ -1005,7 +1005,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "I have tried actually to take down what you said, verbatim.  Now what he wants from you is to explain what caused you to kill on that day because your instructions were to kill if it was necessary to do so?",
             "Female"
         ],
@@ -1020,7 +1020,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Mohapi let me again try and assist you, it is just one question.",
             "Female"
         ],
@@ -1030,7 +1030,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Is there anything which caused you to kill?  That's the question.",
             "Female"
         ],
@@ -1050,7 +1050,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "I hear you Mr Mohapi, but what I want from you and this is what has been canvassed to you by the three Committee members, I want the things that made it necessary, those things or occurrences that made it necessary for you to kill him.  That's all what I am looking for.",
             "Male"
         ],
@@ -1060,7 +1060,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "I will repeat my English, events or occurrences that made it necessary for you to kill.",
             "Male"
         ],
@@ -1070,7 +1070,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Please give us this situation, what kind of situation was that?",
             "Male"
         ],
@@ -1080,7 +1080,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "You know your answer - okay I am not going to analyse it.  But what you are trying to tell us is that it was so calm that the calmness made you to kill, is that the cause?  Is that what made it necessary to kill?",
             "Male"
         ],
@@ -1090,7 +1090,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "You know if you could learn just to answer the question then you will get yourself disentangled from all this language of yours.",
             "Male"
         ],
@@ -1100,7 +1100,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "May I interpose Mr Mpshe.  You see Mr Mohapi you have given us evidence that your instructions were to the following.  You must disarm, you must fund-raise and you must kill only if it is necessary for you to do so.  This is the evidence that you have tendered before this Committee.  Mr Mpshe wants to know why it was necessary for you to kill on this occasion, because you have said your instructions were not to kill.  It was qualified, you only had to kill if it was necessary, only if it was necessary for you to do so.  That is the evidence that you gave is it not, which is different from the evidence given by the other applicant?",
             "Female"
         ],
@@ -1110,7 +1110,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "I want things which have pushed you to kill.",
             "Male"
         ],
@@ -1120,7 +1120,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "What was the situation?",
             "Male"
         ],
@@ -1130,7 +1130,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Do you agree with me that it is evidence that Mr Smith did nothing inasfar as the attack is concerned, you are the person yourself who stabbed him first, you agree on that part?",
             "Male"
         ],
@@ -1140,7 +1140,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "You have answered me.",
             "Male"
         ],
@@ -1150,7 +1150,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "I did not ask for all what you are volunteering, I didn't ask for that.  Do you agree with me that the fact that you stabbed first Mr Smith triggered the events that followed?",
             "Male"
         ],
@@ -1160,7 +1160,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Put those things you will listen to the Sotho and save us time.",
             "Male"
         ],
@@ -1170,7 +1170,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Do you agree with me that the stabbing by yourself of Mr Smith caused the happenings that followed?",
             "Male"
         ],
@@ -1180,7 +1180,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Do you agree further that the necessity then to kill was caused by yourself?",
             "Male"
         ],
@@ -1190,7 +1190,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Then we can proceed.  I want you to turn to your application and have a look at page 8 thereof, that's your annexure.",
             "Male"
         ],
@@ -1200,17 +1200,17 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Yes.  The second paragraph Mr Chairman and members of the Committee, I am just going to read the first three lines of paragraph 2.",
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Mpshe there is no page on mine - would that be the first page of the annexure.",
             "Female"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "The first page of his annexure, it's numbered 1 by himself.  Thank you.\n\tMr Mohapi I am going to read from paragraph 2, only the first three lines.  I quote:\n\"Actually, according to me there had been no progress or substantial changes since Mr de Klerk 2nd February 1990 statement\".\nWhat do you mean thereby?",
             "Male"
         ],
@@ -1220,7 +1220,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "This date, the 2nd February 1990, what does  it remind you of?",
             "Male"
         ],
@@ -1230,7 +1230,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "When was Mr Mandela released Sir?",
             "Male"
         ],
@@ -1240,7 +1240,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Is it not on the 2nd the very same date you are referring to?",
             "Male"
         ],
@@ -1250,7 +1250,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "You remember that political organisations were unbanned by Mr de Klerk, when was that done?",
             "Male"
         ],
@@ -1260,7 +1260,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Now if I put it to you that this statement of yours is incorrect because certain things did happen like the ones I have just mentioned to you, would you agree with me?",
             "Male"
         ],
@@ -1320,7 +1320,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Thank you Mr Chairman.  Now turn over to page 9, paginated, the numbering of the annexure will be page 2, paragraph 3 line 5.  I will just read one sentence and want your comment.\n\"But apartheid had assumed a reformist posture\".\nwhat did you mean there?",
             "Male"
         ],
@@ -1330,7 +1330,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "No I want you to tell us those things which you regarded as making-up a reformist posture, those events.",
             "Male"
         ],
@@ -1340,7 +1340,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Page 14 where? Where on page 14?",
             "Male"
         ],
@@ -1350,7 +1350,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Where it starts with \"it was clear\"?",
             "Male"
         ],
@@ -1360,7 +1360,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "\"It was clear that by \"negotiations\" de Klerk's regime meant collusion, not a dialogue between equals but a monologue between master and servant.  De Klerk thought that apartheid could be reformed but the condemned system was incapable of being reformed just like Satan cannot reform himself.  In de Klerk's \"negotiations\" there was no impartial chairman or mediator.  He, de Klerk was a player and a referee, the prosecutor and the judge, a candidate and examiner\".",
             "Male"
         ],
@@ -1370,7 +1370,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Let me tell you that as well.",
             "Male"
         ],
@@ -1380,7 +1380,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "The only difference was that Mr de Klerk has defected ...(intervention)",
             "Male"
         ],
@@ -1390,7 +1390,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Is that \"perfected\"?",
             "Male"
         ],
@@ -1400,7 +1400,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "\"....has perfected his art of oppressing Africans with the smile of a saint and fantastic manifestos.  He was doing in a more sophisticated and deceptive manner what Botha contemplated doing.\"",
             "Male"
         ],
@@ -1410,7 +1410,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Is that the answer to my question?",
             "Male"
         ],
@@ -1420,7 +1420,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Thank you. Now let's turn to page 12 numbered from a letter 5 by yourself.",
             "Male"
         ],
@@ -1430,7 +1430,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "The fourth paragraph.\n\"December 1990 - 1993 began without fundamental changes having taken place except for.....\"\nthat's  where  my question will  come - \n\"...for massive killings of Blacks on a genocidal scale.   It is estimated that about 18,000\".\nNow my question is where did this happen?  How did it happen?",
             "Male"
         ],
@@ -1440,7 +1440,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Let's go to the next page of your annexure, page 14 of the documents Mr Chairman and Committee members, the last paragraph thereof.  I will quote for you. My  final question is this regard is that, I quote\n\"As I was oppressed by the Whites and their government how was I supposed to feel?\"\ndo you see that?  Will I then be correct if I say to you that because of the oppression by the Whites you thought it wise to commit this crime?  The oppression by the Whites you thought it wise to commit this crime?",
             "Male"
         ],
@@ -1450,7 +1450,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "And you regard it a crime?",
             "Male"
         ],
@@ -1460,7 +1460,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "No I am asking you whether you do.",
             "Male"
         ],
@@ -1470,7 +1470,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "I see.  What is it?",
             "Male"
         ],
@@ -1480,7 +1480,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "And that which you have just said - will I be right if I say it is a revenge on the oppression that was existing?",
             "Male"
         ],
@@ -1490,7 +1490,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "I am quoting you Mr Mohapi, the word that you used.",
             "Male"
         ],
@@ -1500,7 +1500,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Now actually what is it that you were fighting?",
             "Male"
         ],
@@ -1510,7 +1510,7 @@
             "Male"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Thank you Mr Chairman no further questions.\nNO FURTHER QUESTIONS BY MR MPSHE",
             "Male"
         ],
@@ -1520,7 +1520,7 @@
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "Thank you Mr Chairman, I was not aware.\nCOMMITTEE ADJOURNS\nON RESUMPTION",
             "Male"
         ],
@@ -2015,7 +2015,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Mohapi didn't you write a document which you attached to your application reading\n\"My points while I want to be amnestified or rather indemnified....\"\nwhich is part of the application and you wanted us to consider that document together with the application form which you were required to complete?  Now why are you saying what document is the Chairperson referring to?",
             "Female"
         ],
@@ -2095,7 +2095,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Mohapi let's understand you properly.  When you were asked why there was the secretary general on page 4 your explanation was that you were trying to explain what you were then which you were no longer at the time when this commission, at the time when the murder and the removal of certain items from Mr Smith's house was committed.  Now if you check - do you have your application with you?",
             "Female"
         ],
@@ -2105,7 +2105,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Now on page 1 you are asked a question, that question you see at paragraph 7, you have that.  Now paragraph 7 requests of you to\n\"State what, if you were an officer or member or supporter of any political organisation, institution, body or liberation movement, state the name thereof\".\nNow you have put in -\n\"Youth League of the African National Congress\".\nyou understood the question?",
             "Female"
         ],
@@ -2115,7 +2115,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Now why did you not include the organisation of which you were then which was the PAC?",
             "Female"
         ],
@@ -2125,7 +2125,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Okay fine.  You go further.  At paragraph 7B, same paragraph\n\"State capacity in which you served in the organisation, institution, body or liberation movement concerned\".\nand then you again say \"I was a member with card number....\". you give us the card number of the ANC which you have just handed up to us.  That still was an oversight.  Will you turn to page 4, you have already been referred to that, you see there again you speak of no other position in which you held in any organisation but you mentioned specifically the \"secretary general of the ANC\", those are your words.  \n\tAnd you go further Mr Mohapi, you are not just explaining the organisation of which you were, in this paragraph you are explaining the position which you occupied when you committed the offence and the reason why the offence must be seen as an offence associated with a political objective.  You give your justification as having to fund-raise for a big office you were running because you wanted to buy telephones, fax machines, transport and many other vital resources that were needed by your organisation to function in order to bring apartheid to its knees.  Do you see that?\n\tNow turn to page 5.  Now again at paragraph 10D you see that?  Now paragraph 10D says, you are first required at 10A to state the political objective which you sought to achieve which is the response that you gave and you say in your response -\n\"You wanted to achieve the establishment of the majority rule in South Africa\".\nand then paragraph D says, you have to state -\n\"If so explain the nature and the extent of the benefit\".\nThis must be incorrect.  I am trying to read paragraph 10D in English.  Now you are required to explain the nature of your offence and you state -\n\"As I was running the office we had very serious financial constraints and we were financially bankrupt\".\nThis is, you are further elaborating on the financial difficulties that your organisation, of which you were general secretary was experiencing.  \n\tAnd then you still have your document?",
             "Female"
         ],
@@ -2135,7 +2135,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "See at 10C, at 10C this is what you said when you were asked to state whether any benefit accrued financially or otherwise and if so to explain the nature and the extent of that benefit.  You stated as follows\n\"Yes.  In order to pursue the principle of ANC financially....\"\nand then you say \"etc, etc\".\n\tAnd if you could page finally to page 6, and that's paragraph 11B, now there you are asked the following:\n\"Was the act committed in the execution of an order of or on behalf of, or with the approval of the organisation, institution, liberation movement\".\nand your response is the following:\n\"This was performed on behalf of the in-stated(?) organisation\".\nI am sorry - I am now, your response is -\n\"As the secretary general.....\"\nnow you start by again stating your office.\n\"As the secretary general I had an absolute power to conduct such an operation and I briefed my executive committee\".\nThen you go on to give us the names of the people that you briefed being your chairperson, a Mr J Kgwalane and a Mr Orta Mbiga who was the deputy chairperson of the ANC.  Now what was so difficult in you stating here that the order was given by your unit commander who was Mr Mtjikelo?",
             "Female"
         ],
@@ -2170,7 +2170,7 @@
             "Unknown"
         ],
         [
-            "MR MPSHE",
+            "MOKOTEDI MPSHE",
             "For the Chairman's information he is already out, this is another witness on the stand Mr Chairman.\nCOMMITTEE ADJOURNS",
             "Male"
         ]

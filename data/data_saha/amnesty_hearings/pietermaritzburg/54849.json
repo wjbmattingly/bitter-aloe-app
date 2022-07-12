@@ -7,19 +7,20 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54849&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/pmb/pmb.htm",
         "speakers": [
-            "ANSWER",
-            "CHAIRMAN",
-            "INTERPRETER",
-            "JUDGE NGOEPE",
-            "JUDGE WILSON",
-            "MEMBER OF COMMISSION",
-            "MR BANADE",
             "MR BRINK",
-            "MR DE JAGER",
-            "MR JASSAT",
+            "MR BANADE",
+            "CHAIRPERSON",
+            "SISI KHAMPEPE",
+            "JUDGE WILSON",
+            "INTERPRETER",
             "MR MADLALA",
-            "MS KHAMPEPE",
-            "<UNKNOWN>"
+            "MR DE JAGER",
+            "<UNKNOWN>",
+            "ANSWER",
+            "MEMBER OF COMMISSION",
+            "BERNARD MAKGABO NGOEPE",
+            "UNKNOWN",
+            "MR JASSAT"
         ],
         "original_speakers": [
             "MR BANADE",
@@ -51,12 +52,12 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Madlala, do you understand English?",
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "...please say something so we can see whether Mr Madlala is on the right channel?",
             "Female"
         ],
@@ -76,7 +77,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "What is the name of your attorney?",
             "Unknown"
         ],
@@ -86,7 +87,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "...somebody who said that he was your attorney contacted Mr Brink, what is the name of that person?",
             "Unknown"
         ],
@@ -96,7 +97,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "...to Mr Brink.",
             "Unknown"
         ],
@@ -106,7 +107,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Would you ask him to give us the name of his attorney, the person that was acting on his behalf and informed Mr Brink?",
             "Unknown"
         ],
@@ -121,7 +122,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Does it not appear from the application form?",
             "Unknown"
         ],
@@ -131,7 +132,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Is it your wish that you be represented by Mr Banade?",
             "Unknown"
         ],
@@ -141,7 +142,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "I understand that Mr Banade hasn't had a chance to discuss this matter with you so that he can be better prepared to represent you.   Do you understand that?\n1.1\tMR /...\n3",
             "Unknown"
         ],
@@ -151,7 +152,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "...to afford him an opportunity to do so by adjourning this hearing, but I want to be satisfied, my Committee wants to be satisfied that you do want to be represented and that you are quite happy that you should be represented by Mr Banade?",
             "Unknown"
         ],
@@ -161,7 +162,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Very well.   Mr Banade we will adjourn to enable you to have an opportunity to discuss and take instructions from Mr Madlala.   If it transpires in the course of your instructions that there may be a conflict of interest between one or other of the applicants, you will then have to advise us on what you propose doing.",
             "Unknown"
         ],
@@ -186,7 +187,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Banade will you ensure that before we proceed with his evidence that a legible application form on behalf of Madlala is handed in because I understand the form that he's made available to us is a very, very poor copy and it's difficult to read what he said.",
             "Unknown"
         ],
@@ -216,7 +217,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Banade, what is being said to you in terms of the Act, we can only grant amnesty in respect of specific offences, much as we would like to deal with things at a globular level, we are not entitled to do that, there has to be an application for a specific offence.   It is in respect of each specific offence that the Committee considers whether he's entitled to amnesty and may refuse or grant it.  I think that is the only way this can be done.",
             "Unknown"
         ],
@@ -231,7 +232,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "No I do not think that the Act says we must wait because attorneys are not here, she is here, the evidence will be made available or known to her and we must now start moving.   The attorney may not even turn up at 2 o'clock and then what happens?    I think we must just make a beginning and see how far we can get.   It may be that between now and 2 o'clock whatever evidence is going to be led may not concern directly her or her interests.   Be that as it may, I think we should make a beginning.",
             "Unknown"
         ],
@@ -246,7 +247,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "...take down as much as we can of what is said.",
             "Unknown"
         ],
@@ -271,12 +272,12 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "I think you may have to slow down a bit, we're very much interested in the details of that particular day.   Are you able to speak a little bit slower than you are doing?",
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Otherwise you will have to put questions to the witness so that he can give specific answers.   This is going to be impossible for him just to read out his statement.",
             "Unknown"
         ],
@@ -296,7 +297,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Could that not be made available?",
             "Unknown"
         ],
@@ -306,7 +307,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Because if we can hand in copies of that statement it would save a great deal of time, we could ask specific questions to him to highlight whatever he may have said in his statement.",
             "Unknown"
         ],
@@ -316,7 +317,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "I think we'd better do the best we can, let him talk...(end side a)...and I think in all fairness to all the members of the Committee it would be better if we did have both his statement and all the other witnesses that you propose calling if they have statements.",
             "Unknown"
         ],
@@ -326,12 +327,12 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "We will give you an adjournment, we will adjourn for a short while.\nCOMMISSION ADJOURNS - ON RESUMPTION",
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "I see a document before me, is this the statement of your client?",
             "Unknown"
         ],
@@ -621,7 +622,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "(Inaudible)...out of the window?",
             "Unknown"
         ],
@@ -631,7 +632,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "...the pocketbook in his hand to be thrown out of the window?",
             "Unknown"
         ],
@@ -656,7 +657,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "We don't have page 109.",
             "Unknown"
         ],
@@ -666,7 +667,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "No page is numbered.",
             "Unknown"
         ],
@@ -676,7 +677,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "We have what looks like a photographic reproduction of a report that ends at page 107.",
             "Unknown"
         ],
@@ -686,7 +687,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes.\n1.1\tMR /...\nMR BRINK\t25\tW B HARRINGTON",
             "Unknown"
         ],
@@ -696,7 +697,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "It's not marked, but you will tell us where it is.",
             "Unknown"
         ],
@@ -706,7 +707,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Of page 248?",
             "Unknown"
         ],
@@ -716,7 +717,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Right.\nMR BRINK (contd)",
             "Unknown"
         ],
@@ -756,7 +757,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "I am sorry Mr Brink, going back to the judgment which was read back to you, your answer is that as far as you can remember you did tell the Court that the pocketbook was found on the deceased?",
             "Unknown"
         ],
@@ -766,7 +767,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Did you tell the Trial Court what the contents of the pocketbook was, namely that there was a list of some terror deeds which had been carried out by the deceased? (end tape 1b)",
             "Unknown"
         ],
@@ -776,7 +777,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "I don't understand what your answer is, I wanted to know from you whether if you did mention the pocketbook to the Court whether, to the best of your recollection, you also told the judge what the contents thereof was?",
             "Unknown"
         ],
@@ -786,7 +787,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "You would agree won't you Mr Harrington that if you did in fact tell the trial judge that the pocketbook was found, as also what the contents were, it is highly unlikely that the Court would have made the type of finding that Mr Brink has read to you?\n1.2",
             "Unknown"
         ],
@@ -821,7 +822,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Can I just ask you, was the, for clarification, was the evidence led by the Trial Court that the notebook was found on the corpse of the deceased or whether it had been found earlier on by the police?",
             "Unknown"
         ],
@@ -856,7 +857,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "...that he should be killed, who suggested that?",
             "Unknown"
         ],
@@ -866,7 +867,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Was there anybody said that that shouldn't be done?",
             "Unknown"
         ],
@@ -971,7 +972,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Were your superiors aware that you were involved in a gun-running activity?",
             "Female"
         ],
@@ -981,7 +982,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "What I am saying is were your superiors, the people who were higher in rank than you are, aware that you were involved in this kind of activity?",
             "Female"
         ],
@@ -991,7 +992,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Surely if you reported this you would know that you reported it to your superior?",
             "Unknown"
         ],
@@ -1001,7 +1002,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "It is quite clear that no firearm whatsoever was found in the possession of the deceased.",
             "Unknown"
         ],
@@ -1011,7 +1012,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "...his house and search his house for firearms?",
             "Unknown"
         ],
@@ -1021,7 +1022,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "You searched his house to find firearms?",
             "Unknown"
         ],
@@ -1061,7 +1062,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "...single out Jama from that group to put him\n1.2\tin /...\nMEMBER OF COMMITTEE\t33\tW B HARRINGTON\nin the back of the van that your colleague was driving?",
             "Female"
         ],
@@ -1071,7 +1072,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "At which stage did he admit to being a communist?",
             "Female"
         ],
@@ -1081,7 +1082,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "On page 9 of your statement that you have just handed up to the Committee, you indicate that you saw yourself sitting with this enemy who was a communist and that your indoctrination just took the better part of you and you saw an opportunity which you did not want to leave unused.   What I want to know is whether that was the first time for you to have been able to apprehend an ANC supporter?",
             "Female"
         ],
@@ -1091,7 +1092,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "What made you choose or decide to kill this one and see him as an enemy of such great importance that warranted to be killed?",
             "Female"
         ],
@@ -1161,12 +1162,12 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "We will take the customary adjournment at this stage and resume at 2 o'clock.\nCOMMISSION ADJOURNS - ON RESUMPTION\nWILLIAM BASIL HARRINGTON (suo)",
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Is the position that because a man is a member of a political organisation such as the ANC and if you come to hear about him being a member of the ANC, then you would be entitled to do anything you like with him, torture him, assault him, let him go and if need be, kill him?",
             "Unknown"
         ],
@@ -1176,7 +1177,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Is that all part of the training?",
             "Unknown"
         ],
@@ -1291,7 +1292,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "It didn't occur to you that you should open fire because they were all ANC people?",
             "Unknown"
         ],
@@ -1301,7 +1302,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Are you saying that you received instructions to treat ANC members the way that you went about doing that?",
             "Unknown"
         ],
@@ -1311,7 +1312,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "...are you saying that you got instructions from somebody or are you saying that you just decided so yourself?",
             "Unknown"
         ],
@@ -1321,7 +1322,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "...the way that you say you went about doing it?",
             "Unknown"
         ],
@@ -1331,7 +1332,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "I wanted to find out whether possibly you got instructions from your superiors, you didn't get such instructions from your superiors?",
             "Unknown"
         ],
@@ -1356,7 +1357,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "...you were supposed to do, to go about harassing them?",
             "Unknown"
         ],
@@ -1366,7 +1367,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "In your evidence you repeatedly said that you accepted that it was practice to harass members of the ANC, but in this case did you not, by killing the deceased, did you not in fact go beyond even what you understood to be the practice, mere harassment?",
             "Unknown"
         ],
@@ -1376,7 +1377,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "...the killing of the deceased in terms of your evidence would not fall within the framework of your usual operation which consisted of merely harassing them, arresting them, assaulting them and letting them go?",
             "Unknown"
         ],
@@ -1386,7 +1387,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "...to kill the deceased on that day was taken amongst yourselves there at the scene, am I right?",
             "Unknown"
         ],
@@ -1396,7 +1397,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "You never received any instructions from anybody, any of your superiors at all, were you?",
             "Unknown"
         ],
@@ -1406,7 +1407,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Is it correct to say that you were in\n1.2\tcommand /...\nMEMBER OF COMMITTEE\t39\tW B HARRINGTON\ncommand of that group?",
             "Unknown"
         ],
@@ -1416,7 +1417,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "The suggestion to kill the deceased came from somebody who was your junior or under you?",
             "Unknown"
         ],
@@ -1426,7 +1427,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Because he was your junior you could have said to him no we cannot do that.",
             "Unknown"
         ],
@@ -1436,7 +1437,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "You say your rank at the time was a constable?",
             "Unknown"
         ],
@@ -1446,7 +1447,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "So it was, this decision to kill the deceased was taken by just a group of constables without reference to anybody above them?",
             "Unknown"
         ],
@@ -1456,7 +1457,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Did you not think that that was too an important decision to take?",
             "Unknown"
         ],
@@ -1466,7 +1467,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Did you tell your superior about the incident?",
             "Unknown"
         ],
@@ -1476,7 +1477,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Who succeeded Major Terblanche as the commander of Unit 8?",
             "Unknown"
         ],
@@ -1486,7 +1487,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "At the time of the incident?",
             "Unknown"
         ],
@@ -1506,7 +1507,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "...you were asked about the income you derived from the sale of the weapons, how you used it and you said that you bought meat for braai and drinks and the like, you remember that?",
             "Unknown"
         ],
@@ -1516,7 +1517,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "I see here on page 5 of the script you wrote earlier on, not today's, you say\n\"My salary and the money which I earned through my weapon transactions was not enough for me to survive on.\"\n...to mean that you were in fact using the income you derived from the weapons for more than just a braai and the liquor.   The impression I get is that you in fact used the proceeds from such sales to maintain yourself or to help support your family and yourself?",
             "Unknown"
         ],
@@ -1526,7 +1527,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "The impression I get here is that you were using proceeds from the sale of weapons for more than just liquor and braai?",
             "Unknown"
         ],
@@ -1536,7 +1537,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "...the transactions on a regular basis?",
             "Unknown"
         ],
@@ -1546,7 +1547,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Harrington you have repeatedly stated that in your opinion you saw the assault on the ANC members as part of the prevailing culture that was existing within the police force.   Is that correct?",
             "Female"
         ],
@@ -1556,7 +1557,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "As such, you must have found it easy therefore to report all the various assaults which took place on various members of the ANC to your superiors.   Did you in fact do so?",
             "Female"
         ],
@@ -1566,7 +1567,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "...conduct to assault members of the ANC, why not report what you did within the (indistinct) of your duties as a police officer?",
             "Female"
         ],
@@ -1576,7 +1577,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "So you did not report on anything which contained general procedure in your police station, you had no reports made to your commanding officer on any of your\nactivities as a policeman, do you want us to accept that?\n1.2",
             "Female"
         ],
@@ -1591,7 +1592,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "The incident involving the death of the deceased, did you also think it was inappropriate for you to report it as something that you had done within your scope of your activities as a policeman to your commanding officer?",
             "Female"
         ],
@@ -1601,7 +1602,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "...didn't you report it to your superiors?",
             "Female"
         ],
@@ -1611,7 +1612,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Yes.",
             "Female"
         ],
@@ -1621,7 +1622,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "...Mr Harrington not conspire with the other applicants not to reveal such information to your superiors?",
             "Female"
         ],
@@ -1826,7 +1827,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "I don't know what lies ahead but I'm just looking at what on the face of it appears to be a statement by one of the applicants, Mr Madlala.   That very portion that you've been reading the rest of the contents of the same paragraph do you not think that they should be put to\n1.2\tthe /...\nMEMBER OF COMMITTEE\t47\tW B HARRINGTON\nthe applicant Mr Harrington because there appears, on the face of it, there appears to be quite some material contradictions.   I would think that you would put the rest of the contents to him so that we should get some clarity on which is likely to be the correct version.",
             "Unknown"
         ],
@@ -1836,7 +1837,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "It appears that on the face of it there is even a different reason as to why the gentleman was put on the vehicle.",
             "Unknown"
         ],
@@ -1846,7 +1847,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Paragraph what?",
             "Unknown"
         ],
@@ -1871,7 +1872,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "I think in all fairness to the witness Mr Brink, let's break it up into parts because it was quite a mouthful.   The first sentence reads\n\"After we had finished searching, Mbongeni Jama  said these police need to be killed as they had killed IFP supporters at Kwashange.   After I had told Harrington of what had been uttered by\n1.2\tMbongeni /...\nMR BRINK\t49\tW B HARRINGTON\nMbongeni, Harrington and Erasmus took him into the back of the police van.\"\nNow, according to this statement you were told by Mr Madlala that the deceased said we should kill these policemen.   Did he tell you that Mr Madlala?",
             "Unknown"
         ],
@@ -1881,7 +1882,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "It was after he had told you about what the deceased had said that you decided that he must be put into the police van.",
             "Unknown"
         ],
@@ -1891,7 +1892,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "He told you that he said the police should be killed, not because he had an ANC T-shirt on him, not because he had a pocket diary etc., but because he had said that you people should be killed, that's the reason why you decided to put him into the police vehicle that's what he's saying, that is the impression we get here.   Is that the reason why he was put in the vehicle? (end tape 2b)",
             "Unknown"
         ],
@@ -1901,7 +1902,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "...what was the reason for putting him into the vehicle according to your recollection?",
             "Unknown"
         ],
@@ -1926,7 +1927,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "..you decided to kill this man because earlier on he had said well let's kill this policeman isn't that the position?",
             "Unknown"
         ],
@@ -1936,7 +1937,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "...seem to remember precisely why you took him onto the vehicle and why him in particular.   Anyway, the next sentence reads that you are the person who suggested that the deceased be killed.  What is your comment?",
             "Unknown"
         ],
@@ -1946,7 +1947,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "He's saying the suggestion, it doesn't matter whether the suggestion came after you had been to the\n1.3\tbottlestore /...\nMEMBER OF COMMISSION\t51\tW B HARRINGTON\nbottlestore or whatever time, he's simply saying the suggestion that the deceased be killed came from you.   Did it come from you or did it not come from you?",
             "Unknown"
         ],
@@ -1956,7 +1957,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "...later on he said that you knocked the deceased's head against the stone several times and eventually you forced him to shoot the deceased with a shotgun.",
             "Unknown"
         ],
@@ -1966,7 +1967,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "...shoot the deceased that was the second leg of my question.",
             "Unknown"
         ],
@@ -1976,7 +1977,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "...an instructions from you or an order from you that he should shoot him.",
             "Unknown"
         ],
@@ -1986,7 +1987,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "...a member of that group but he understood\n1.3\tit /...\nMEMBER OF COMMISSION\t52\tW B HARRINGTON\nit as more than just a casual request, he understood it as some kind of an order forcing him.   Would his understanding be wrong?",
             "Unknown"
         ],
@@ -1996,7 +1997,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Very well thank you.\nWITNESS IS EXCUSED",
             "Unknown"
         ],
@@ -2021,7 +2022,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Brink are there any questions?\nCROSS-EXAMINATION BY MR BRINK",
             "Unknown"
         ],
@@ -2456,7 +2457,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Brink, I understand that a legal\n1.3\trepresentative/...\nMR BRINK\t67\tF S ERASMUS\nrepresentative is present on behalf of Mrs Jama.",
             "Unknown"
         ],
@@ -2466,7 +2467,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Should he not be afforded an opportunity to put questions?",
             "Unknown"
         ],
@@ -2476,7 +2477,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Can you come somewhere near to a microphone, please.   Can you place yourself on record.",
             "Unknown"
         ],
@@ -2486,7 +2487,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "What is Mrs Jama's attitude towards the application for amnesty?",
             "Unknown"
         ],
@@ -2496,7 +2497,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "I think you've seen by now that there has been fairly comprehensive questioning by members of the Committee as well as far as the events themselves are concerned.  The Committee would like to hear what Mrs Jama's attitude would be or is.  Obviously she was not present at the scene and\n1.3\tonly/...\nMR JASSAT\t68\tF S ERASMUS\nonly heard about it much later, so would not be able to controvert such evidence as has been given.  We may be wrong.   But that's a matter which you may find out.   If you would like to consider putting questions to these witnesses tomorrow morning then I would afford you that opportunity to do so.",
             "Unknown"
         ],
@@ -2506,7 +2507,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "The documents that are made available to us are the applications for amnesty.  Members of the Committee have copies of the judgment of the trial court and the appeal court, but those are public documents.",
             "Unknown"
         ],
@@ -2516,7 +2517,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Jassat, you may do so in the morning tomorrow. We will commencing at 09:30.",
             "Unknown"
         ],
@@ -2526,7 +2527,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Erasmus, you had been led to believe that Mr Jama was an ANC member and that from what you had been told he had been engaged in some serious ANC political activities, is that correct?",
             "Unknown"
         ],
@@ -2536,7 +2537,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Earlier that day you had watched a demonstration by the ANC at which there were several thousand people present.",
             "Unknown"
         ],
@@ -2546,7 +2547,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "From your upbringing and training about hating the ANC because they were the enemies of the people, did it not cause you to lose your cool when you saw that\n1.3\tdemonstration  /...\nCHAIRMAN\t69\tF S ERASMUS\ndemonstration?",
             "Unknown"
         ],
@@ -2556,7 +2557,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "... that the ANC were your enemies and there were such a large number of them engaged in actual protest, you didn't reach breaking point?",
             "Unknown"
         ],
@@ -2566,7 +2567,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "It was later that you did reach breaking point and it is amazing that it coincided with the same time that Harrington reached breaking point.  Isn't that an amazing coincidence?",
             "Unknown"
         ],
@@ -2576,7 +2577,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "I am not talking about whether you knew his feelings, but you heard that he also reached breaking point and you reached breaking point, and my question is that is an amazing coincidence that it should happen at the same time.",
             "Unknown"
         ],
@@ -2586,7 +2587,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "You felt so strongly about it that you had no difficulty in coming to the conclusion that this man should be killed.",
             "Unknown"
         ],
@@ -2596,7 +2597,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "You said that after he had been shot you felt a kind of relief.",
             "Unknown"
         ],
@@ -2606,7 +2607,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "That you had done the right thing.",
             "Unknown"
         ],
@@ -2616,7 +2617,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "You felt that that was your duty to do what you\n1.3\tdid/...\nCHAIRMAN\t70\tF S ERASMUS\ndid.",
             "Unknown"
         ],
@@ -2626,7 +2627,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Why did you decide to withhold informing your superiors about it?  If it was such a correct thing to do why did you not tell your superiors well, we have carried out our jobs as good policemen, this is what we did.  Why didn't you do it?",
             "Unknown"
         ],
@@ -2636,7 +2637,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "But in your eyes you had done nothing wrong.  You had done something very, very valiant and brave.  There was no need for you to be ashamed of what you had done, so why didn't you report it?",
             "Unknown"
         ],
@@ -2646,7 +2647,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Why?  Because you were doing nothing wrong in your eyes?  You were doing something perfectly legitimate as far as you are concerned.",
             "Unknown"
         ],
@@ -2656,7 +2657,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "No, it is not a question of you didn't think about reporting it, you took a conscious decision not to report it.  My question was why.\n1.3",
             "Unknown"
         ],
@@ -2671,7 +2672,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Did you seriously believe that you would be prosecuted?",
             "Unknown"
         ],
@@ -2681,7 +2682,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "(Inaudible)",
             "Unknown"
         ],
@@ -2691,7 +2692,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "... My question is, if you did do something that was right and a man was killed why didn't you report?  And you say you didn't think about it.  And my question was, you did, because you took a decision not to report it.",
             "Unknown"
         ],
@@ -3081,7 +3082,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Erasmus, what did you expect to find from the deceased by submitting him to that extensive search?",
             "Female"
         ],
@@ -3091,7 +3092,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And you found no firearm.",
             "Female"
         ],
@@ -3101,7 +3102,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "You then proceeded to put the deceased in the back of the van with a view of further submitting him to a further search or with a view of obtaining further information?",
             "Female"
         ],
@@ -3111,7 +3112,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "... told you was that he was put in the back of the van because he wanted to ascertain further information.  That is page 3 of your statement.",
             "Female"
         ],
@@ -3121,7 +3122,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Did you at any stage ascertain from Harrington, who you saw as the leader or as the person who\n1.4\twas/..\nMEMBER OF THE COMMITTEE\t78\tF S ERASMUS\nwas the person in charge of your activities, whether the deceased had admitted to being a member of the ANC?",
             "Female"
         ],
@@ -3131,7 +3132,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Did Mr Harrington say anything to you about the deceased's admission with regard to the contents of the pocketbook?",
             "Female"
         ],
@@ -3151,7 +3152,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "... out of the police vehicle, was he in charge of your activities for that day?",
             "Female"
         ],
@@ -3161,7 +3162,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "... was he in charge of the police vehicle or was he in charge of anything that you did in relation to your duties as law enforcement officers of your police station?",
             "Female"
         ],
@@ -3381,7 +3382,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "We will adjourn at this stage and resume at 09:30 tomorrow morning.\nCOMMISSION ADJOURNS\n1.4\tPROCEEDINS/...\n82\nPROCEEDINGS ON 11.2.1997",
             "Unknown"
         ]

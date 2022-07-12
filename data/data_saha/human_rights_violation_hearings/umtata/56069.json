@@ -11,10 +11,10 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=56069&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/umtata/xatula.htm",
         "speakers": [
-            "CHAIRPERSON",
-            "DR MGOJO",
             "MEMBER OF PANEL",
-            "NANCY XATULA"
+            "NANCY XATULA",
+            "CHAIRPERSON",
+            "KHOZA MGOJO"
         ],
         "original_speakers": [
             "MEMBER OF PANEL",
@@ -581,7 +581,7 @@
             "Unknown"
         ],
         [
-            "DR MGOJO",
+            "KHOZA MGOJO",
             "Mama, we would like to get some clarification.  You mentioned something in your statement.  You said two cars were stolen and you also say they are known.",
             "Unknown"
         ],
@@ -591,7 +591,7 @@
             "Female"
         ],
         [
-            "DR MGOJO",
+            "KHOZA MGOJO",
             "What would you like the Commission to do about that?",
             "Unknown"
         ],

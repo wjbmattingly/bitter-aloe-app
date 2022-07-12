@@ -11,12 +11,12 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55946&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/soweto/sithole.htm",
         "speakers": [
-            "ANTOINETTE SITHOLE",
-            "MR LEWIN",
-            "MR MANTHATA",
+            "YASMINE SOOKA",
             "MS MKHIZE",
-            "MS SOOKA",
-            "SAM NZIMA"
+            "ANTOINETTE SITHOLE",
+            "SAM NZIMA",
+            "THOMAS MANTHATA",
+            "MR LEWIN"
         ],
         "original_speakers": [
             "MS SOOKA",
@@ -31,7 +31,7 @@
     },
     "testimony": [
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Thank you Fathers, thank you.  I would like to welcome to the proceedings today the Premier of our Province, Mr Tokyo Sexwale and I would ask him to rise please so that people can recognise him.\n The process that we normally use in these hearings is that we call witnesses to the stand.  They are usually accompanied by a briefer, who is either a trained counsellor or a mental health worker to assist them in the proceedings.  They may also be accompanied by friends or family.  The witnesses then take the oath and we, as is our practice, we assign one of the Commissioners or Committee members to assist them with the telling of their evidence.  \n We would like to remind people that these are victim hearings and that in terms of section 11 of the Act victims are to be treated with dignity, compassion, so therefore they must be allowed to tell their stories in absolute quiet.  \n Unpleasant though it may be I would like to remind you as well that in terms of the Act I have the power to have anybody removed from this hall if they create a disturbance.   I would now like to present my fellow commissioners and Committee members to you so that you may know who they are for the process for this day.  They are Mr Hlengiwe Mkhize, the Chairperson of the Reparation and Rehabilitation \nSOWETO HEARING TRC/GAUTENG\n2\nCommittee.  Mr Tom Manthata a member of the Reparation Committee on my extreme right.  Mr Hugh Lewin, a member of the Human Rights Violation Committee. \n Today is a very special day for the Truth Commission.  For many of us Soweto '76 is a time remembered in our history.  We know the evidence that has gone to previous commissions, however, what we want to do today is to get the story behind Soweto.  The story of the human beings who lived in Soweto.  I would like to ask my fellow commissioner Hlengiwe Mkhize to present the witnesses for today to us.",
             "Female"
         ],
@@ -41,7 +41,7 @@
             "Female"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "I now call Antoinette Sithole and Sam Nzima to take the stand please.  Before we begin I would like to explain that it is customary of the Commission to ask the witnesses to speak in the language that they are comfortable with.  To assist people with understanding we have provided interpretation services.  These items are available for people who do not understand Sotho or Zulu.  Please make sure that you collect a pair so that you are comfortable with the evidence as it is being led.  I would also like our people who are here in the hall to make sure that as many people as possible receive these earphones and headsets.\n During this period I would also like to thank Peter Magubane and Sam Nziva for mounting the photo exhibition that we have at the back of the hall.  Thank you.",
             "Female"
         ],
@@ -51,7 +51,7 @@
             "Unknown"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "If I may ask you to rise as well please.  Could you please put the headphones on.",
             "Female"
         ],
@@ -61,7 +61,7 @@
             "Unknown"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "As is customary with the Commission we have made sure that there is a Commissioner to assist you with the leading of your evidence.  I will be doing that for both of you and I will start with Antoinette first.  Please feel free to tell the story in your own words.  You may speak in the language of your choice because I will be able to hear you in the translation.  The translation is to assist me and my fellow commissioners and committee members and not yourself.  But if you have a problem with hearing please let me know.  Could we have quiet please so that we may begin.  Antoinette are you comfortable?",
             "Female"
         ],
@@ -71,7 +71,7 @@
             "Female"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "You may now begin to tell your story.  Please press the red button when you want to speak and you can press the other one to switch it off.",
             "Female"
         ],
@@ -81,7 +81,7 @@
             "Female"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Thank you.",
             "Female"
         ],
@@ -91,7 +91,7 @@
             "Female"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Thank you.  I am going to ask you some questions for clarification please.  Could you tell me whether Hector was a member of any student organisation at the time?",
             "Female"
         ],
@@ -101,7 +101,7 @@
             "Female"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "So Hector got caught in the crossfire?",
             "Female"
         ],
@@ -111,7 +111,7 @@
             "Female"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "How old was Hector at the time?",
             "Female"
         ],
@@ -121,7 +121,7 @@
             "Female"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "How old were you at the time?",
             "Female"
         ],
@@ -131,7 +131,7 @@
             "Female"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "What has happened to you since, what do you do?",
             "Female"
         ],
@@ -141,7 +141,7 @@
             "Female"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "How do you feel about the fact that so many years after June '76 we now have a new government, do you feel that Hector's death in any way contributed to what we have today?",
             "Female"
         ],
@@ -151,12 +151,12 @@
             "Female"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Thank you.  I will ask my fellow commissioners and committee members whether they want to ask you any questions.  Thank you very much.\nSOWETO HEARING TRC/GAUTENG\n7 A SITHOLE",
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "Antoinette at the time in what class were you, that is in what form were you?",
             "Male"
         ],
@@ -166,7 +166,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "And at that time what subjects were you doing in Afrikaans?",
             "Male"
         ],
@@ -176,7 +176,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "Was it easy and pleasant to receive lessons in that language?",
             "Male"
         ],
@@ -186,7 +186,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "We have here Umbiswa Makubu who was seen carrying Hector Petersen, how long had you known him before this occasion?",
             "Male"
         ],
@@ -196,7 +196,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "What happened to the students, that is those who were marching towards the end of the day?  Did they march the whole day?",
             "Male"
         ],
@@ -206,7 +206,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "Thank you.  No further questions.",
             "Male"
         ],
@@ -256,7 +256,7 @@
             "Female"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Thank you Antoinette.   Sam will you now tell us your account of what happened on June the 16th and the subsequent days, and particularly how you came to take that picture which was splashed across the world?",
             "Female"
         ],
@@ -266,7 +266,7 @@
             "Male"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Thank you.  I'd like to ask you a few questions please for clarification.  On that particular day were you alerted to what was going to happen prior to the march taking place, how did you come to be where you were, where the march was taking place?",
             "Female"
         ],
@@ -276,7 +276,7 @@
             "Male"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Could you tell me whether your editor knew, before he had assigned you to covering the march, whether he was aware of the fact that there was going to be this march which would take this particular direction or was it simply a march which was meant to start as a protest, could you tell us a little bit more about that please?",
             "Female"
         ],
@@ -286,7 +286,7 @@
             "Male"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Living in the township were you aware of the tensions that were seething at the time which gave vent to this protest march?",
             "Female"
         ],
@@ -296,7 +296,7 @@
             "Male"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Do you think that the police were prepared, in a sense, to deal with this march?",
             "Female"
         ],
@@ -306,7 +306,7 @@
             "Male"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "When the policeman who was in charge gave the order to fire, besides giving the students a warning to disperse did he not attempt to use any other methods of getting them to disperse, for instance by using teargas or rubber bullets, or was the first instruction simply for them to disperse and in the next few minutes the order came to shoot?",
             "Female"
         ],
@@ -316,7 +316,7 @@
             "Male"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "In your opinion the shooting was meant to kill?",
             "Female"
         ],
@@ -326,7 +326,7 @@
             "Male"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "As a Black journalist you were able to move around quite freely in the townships because what we do have which has come to us through reports at the time is that journalists, other than black journalists are not allowed to enter the townships, could you tell us about what happened and whether you covered anything else after that particular day?",
             "Female"
         ],
@@ -336,7 +336,7 @@
             "Male"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Would you agree that a possible explanation for that could have been that the taking of their photograph exposed them to the system at the time?",
             "Female"
         ],
@@ -346,12 +346,12 @@
             "Male"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Thank you.  I will ask my fellow Commissioners and Committee members whether they want to ask you any questions.",
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "Mr Nzima do I understand you well to say that since the picture you took and the march you saw there was never peace amongst the students in Soweto?",
             "Male"
         ],
@@ -361,7 +361,7 @@
             "Male"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "Even at that time was it possible to get shots, snaps, photos of the police confronting the students, what I mean is that there was a continued confrontation between the police and the students, was it possible to catch such scenes as you were moving around?",
             "Male"
         ],
@@ -371,7 +371,7 @@
             "Male"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "What about the community at that time, was it possible to get communities that were peaceful that you could have managed to take photos of?",
             "Male"
         ],
@@ -381,7 +381,7 @@
             "Male"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "At the World offices what was the thinking of the late Percy Goboza who sent you to take photos of the students on the march?",
             "Male"
         ],
@@ -421,7 +421,7 @@
             "Male"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Thank you.",
             "Female"
         ],
@@ -446,7 +446,7 @@
             "Male"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Thank you.  I would like to thank you Antoinette for sharing your story with us.  It is one of the sad tragedies about South Africa that this democracy that we cherish so has been brought about by the blood and the sacrifices of many, many young people such as your brother.  We know that there is a monument to him but I would like to ask is there anything else that you think that the Commission can do which it can recommend to government to make sure that young people remember the sacrifices of people like Hector Petersen?",
             "Female"
         ],
@@ -456,7 +456,7 @@
             "Female"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Thank you.  Sam we thank you for sharing your story with us, and we thank you also for bringing along the pictures that you have so generously allowed us to show which we would remind people are set up at the back of the hall.  I think one of the tragedies of South Africa is that journalists like yourself who are often the only windows between what has happened in Soweto and the world did not get remunerated properly for the work that you did.  We will not promise, I think in your instance, to be able to assist you in dealing with it, but we could possibly try and recommend some legal firm that could assist you with trying to do something about getting some kind of accreditation for the picture that you took.  Thank you very much for sharing your stories with us.",
             "Female"
         ],
@@ -466,7 +466,7 @@
             "Male"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Thank you, thank you very much, you may resume your seat.",
             "Female"
         ]

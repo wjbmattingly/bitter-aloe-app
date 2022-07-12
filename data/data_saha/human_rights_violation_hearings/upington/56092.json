@@ -8,15 +8,16 @@
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/upington/ct04432.htm",
         "speakers": [
             "CASE NO",
-            "CHAIRPERSON",
-            "DAVID ISAAKS",
-            "MR POTGIETER",
-            "MS BURTON",
-            "<UNKNOWN>",
-            "TESTIMONY FROM",
             "UPI",
             "VICTIM",
-            "WHITE MAN"
+            "DAVID ISAAKS",
+            "<UNKNOWN>",
+            "WHITE MAN",
+            "TESTIMONY FROM",
+            "MR POTGIETER",
+            "TESTIMONY_GIVER:",
+            "CHAIRPERSON",
+            "MARY BURTON"
         ],
         "original_speakers": [
             "CASE NO",
@@ -534,7 +535,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "Ms Isaaks, it is a terrible story that you have told and it is hard even to understand why such a thing should have happened.  I am still struggling to understand.  It seems such an awful thing to happen.  Mr Brandt died after this happened?  Was he, why was he there, was he a friend of Mr Nolte?",
             "Female"
         ],
@@ -544,7 +545,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             " ... policeman or...",
             "Female"
         ],
@@ -554,7 +555,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             " The other person you mentioned, Mr Hershelman, he was also a friend?",
             "Female"
         ],
@@ -564,7 +565,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             " But he had already had differences of opinion with your husband.",
             "Female"
         ],
@@ -574,7 +575,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "You paint a very sad picture of what relationships were like in the area at the time.  I would just like to say that you say you are a woman alone but you are a very good example of how a woman can be strong and carry on her husband's business and bring up her children, so, thank you.",
             "Female"
         ],

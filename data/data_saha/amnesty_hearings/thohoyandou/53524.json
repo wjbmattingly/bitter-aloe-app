@@ -10,13 +10,14 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53524&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99071214_tho_990712th.htm",
         "speakers": [
-            "ADV DE JAGER",
-            "ADV SIGODI",
             "CHAIRPERSON",
-            "INTERPRETER",
+            "ADV SIGODI",
+            "ADV DE JAGER",
             "MR NDOU",
             "MR VAN RENSBURG",
-            "MS PATEL"
+            "MS PATEL",
+            "UNKNOWN",
+            "INTERPRETER"
         ],
         "original_speakers": [
             "CHAIRPERSON",

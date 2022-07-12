@@ -8,13 +8,13 @@
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/helder/ct02201.htm",
         "speakers": [
             "CASE NO",
-            "CHAIRPERSON",
-            "COMMISSIONER",
-            "MS WILDSCHUT",
-            "<UNKNOWN>",
+            "VICTIM",
             "<UNKNOWN>",
             "TESTIMONY FROM",
-            "VICTIM"
+            "COMMISSIONER",
+            "GLENDA WILDSCHUT",
+            "TESTIMONY_GIVER:",
+            "CHAIRPERSON"
         ],
         "original_speakers": [
             "CASE NO",
@@ -64,7 +64,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "Good afternoon Ms Moses.",
             "Female"
         ],
@@ -74,7 +74,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " Are you comfortable and can you hear me clearly?",
             "Female"
         ],
@@ -84,12 +84,12 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "Thanks, before I ask you to tell us a little bit about yourself - Ek hoor nie.",
             "Female"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " Are you okay now, can you hear us know.",
             "Female"
         ],
@@ -99,7 +99,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " Good before I ask you to tell us a little bit about yourself and then also to tell us about your daughter, I would like to just read some of the context statement that has been prepared by your research team so that we understand what the context was and - at the time of your daughter's shooting. On June the 17th 1980 violence broke out in the Coloured Townships of Elsies River and Lavender Hill during the commemorations of the June 16, 1976. Events reached their peak on the night of the 17th of June and the morning of the 18th of June 1980. A two day stayaway was held to commemorate the uprisings of 1976. Apparently the police detained Coloured leaders prior to the 16th and 17th of June in an effort to avoid violence as a result of the memorial activities. In addition the Government banned meetings and gatherings during this time. These actions by the Government may have contributed to the climate of disorganization and spontaneous gathering which led to the uprisings. At the time there were ongoing boycotts of Coloured schools protesting conditions of the schools as well as bus boycotts that was brought on by fare increase, busier increase. Incidents of arson, looting, plundering and general uprising market the events. There were some speculation about the involvement of gang members. Police action involved the use of tear gas, baton charge and live ammunition. Police declined to issue a casualty list, the total number of deaths recorded at 5 Peninsula hospitals was more that of - more than 42. Of those who died, 26 were identified by relatives, over 200 people were injured. A large number of woman, young and pregnant mothers and children were amongst the victims. According to newspaper reports, Johanna Moses, your daughter, was in Halt Road, Elsies River at about 800 pm on the 17th of June 1980. The witness might have made a mistake with the date, I wasn't meant to read that one, I am sorry. Shooting took place on the evening of the 17th and the morning of the 18th. Johanna was 18 years old and had a 2 year old son called Mark at the time of the incident.",
             "Female"
         ],
@@ -109,7 +109,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " Okay, maybe you should tell your story now in your own words and perhaps we can have a look at the evidence that we have here and see whether it should be corrected. Go ahead please and tell us your story.",
             "Female"
         ],
@@ -119,7 +119,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " Ms Moses we know that you've gone through a very painful time, having lost your daughter in such a tragic way. You mentioned that you",
             "Female"
         ],
@@ -129,7 +129,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " Yes certainly.",
             "Female"
         ],
@@ -139,7 +139,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " We know that you are grieving very deeply Ms Moses and we share your grief. Could we - could we ask you one or two questions just for clarification.  Can you tell us how old Johanna was when she was shot?",
             "Female"
         ],
@@ -149,7 +149,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " And at that time she was not involved in any political organization or any activities.",
             "Female"
         ],
@@ -159,7 +159,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " She was merely doing some handwork, knitting with her friend and so on, they were busy doing the handwork together and she was on her way home.",
             "Female"
         ],
@@ -169,7 +169,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " Was there ever an inquest held?",
             "Female"
         ],
@@ -179,7 +179,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " Did - and they didn't invite you to the inquest?",
             "Female"
         ],
@@ -189,7 +189,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " At the time of your - at the time of your daughter's death, the two year old child, how did it affect his life at the time of your daughter's death. How did he react to his mother's death.",
             "Female"
         ],
@@ -199,7 +199,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " So you were really like a mother to your grandson, he was very close to you.",
             "Female"
         ],
@@ -209,7 +209,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " This death of your grandson, happened in December last year?",
             "Female"
         ],
@@ -219,7 +219,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " So you are still feeling very sore inside and very grieved still about the loss of your daughter and the loss of your grandson.",
             "Female"
         ],
@@ -229,7 +229,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " Ms Moses you've had many-many losses in a very short period of time. I wonder how that has affected you as a person, how has that affected your life?",
             "Female"
         ],
@@ -239,7 +239,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " We are very grateful that you have come to tell us your story, a very painful story today. But I am wondering how it is that we as the Truth Commission can help you, what are the kinds of things that you would like from us?",
             "Female"
         ],
@@ -249,7 +249,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "Thank you very much Ms Moses, we have noted what you have requested from us and we certainly will take very seriously the request that you have made to us. I would like to hand over to the Chair as I do not have any more questions, thank you.",
             "Female"
         ],

@@ -7,14 +7,15 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54034&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/2000/200215pi.htm",
         "speakers": [
-            "ALZINA MKAZA LUTHULI",
             "CHAIRPERSON",
-            "INTERPRETER",
-            "JUDGE DE JAGER",
             "MR DEHAL",
-            "MR MAPOMA",
             "MR PANDAY",
-            "MR SIBANYONI"
+            "JUDGE DE JAGER",
+            "MR SIBANYONI",
+            "INTERPRETER",
+            "ALZINA MKAZA LUTHULI",
+            "MR MAPOMA",
+            "UNKNOWN"
         ],
         "original_speakers": [
             "MR DEHAL",

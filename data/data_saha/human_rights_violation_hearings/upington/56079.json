@@ -8,14 +8,15 @@
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/upington/ct01404.htm",
         "speakers": [
             "CASE NO",
-            "CHAIRPERSON",
+            "UPI",
+            "VICTIM",
             "JIM BONAKELE YANTA",
-            "MR POTGIETER",
             "<UNKNOWN>",
             "SUPPORTERS",
             "TESTIMONY FROM",
-            "UPI",
-            "VICTIM"
+            "MR POTGIETER",
+            "TESTIMONY_GIVER:",
+            "CHAIRPERSON"
         ],
         "original_speakers": [
             "CASE NO",

@@ -10,15 +10,16 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53157&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99020105_nel_990204ne.htm",
         "speakers": [
-            "ADRIAN CHARLES OFARRELL",
-            "ADV BOSMAN",
             "CHAIRPERSON",
-            "INTERPRETER",
-            "MR BLACK",
-            "MR CHAIRPERSON",
-            "MR LAX",
             "MS THABETE",
-            "VOICE SAMBO"
+            "MR BLACK",
+            "VOICE SAMBO",
+            "INTERPRETER",
+            "MR LAX",
+            "ADV BOSMAN",
+            "ADRIAN CHARLES O'FARRELL",
+            "MR O'FARRELL",
+            "UNKNOWN"
         ],
         "original_speakers": [
             "MS THABETE",
@@ -2958,7 +2959,7 @@
             "Female"
         ],
         [
-            "MR CHAIRPERSON",
+            "CHAIRPERSON",
             "Who bit whose hand?",
             "Male"
         ],

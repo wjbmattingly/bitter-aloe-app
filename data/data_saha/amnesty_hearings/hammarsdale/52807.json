@@ -10,15 +10,15 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=52807&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98081114_hmm_hammar4.htm",
         "speakers": [
-            "ADV MOTATA",
-            "ADV MPSHE",
             "CHAIRPERSON",
-            "D WORDSWORTH LETHULI",
-            "MR HEWITT",
-            "MR NGUBANE",
             "MR STEWART",
+            "D WORDSWORTH LETHULI",
+            "MR NGUBANE",
+            "ADV MOTATA",
             "MR WILLS",
-            "MS KHAMPEPE"
+            "MR HEWITT",
+            "MOKOTEDI MPSHE",
+            "SISI KHAMPEPE"
         ],
         "original_speakers": [
             "CHAIRPERSON",
@@ -885,7 +885,7 @@
             "Unknown"
         ],
         [
-            "ADV MPSHE",
+            "MOKOTEDI MPSHE",
             "I have no questions, Mr Chairman, thank you.\nNO QUESTIONS BY ADV MPSHE",
             "Unknown"
         ],
@@ -905,7 +905,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "None.",
             "Female"
         ],

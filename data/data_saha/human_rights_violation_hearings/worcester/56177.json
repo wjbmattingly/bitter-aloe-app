@@ -11,11 +11,11 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=56177&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/worcest/ct07000.htm",
         "speakers": [
-            "ADV POTGIETER",
-            "DR BORAINE",
-            "DR ORR",
+            "WENDY ORR",
             "MR KARIEM",
-            "MS BURTON"
+            "MARY BURTON",
+            "DR BORAINE",
+            "ADV POTGIETER"
         ],
         "original_speakers": [
             "DR ORR\n",
@@ -27,7 +27,7 @@
     },
     "testimony": [
         [
-            "DR ORR",
+            "WENDY ORR",
             "Good afternoon Mr Kariem, welcome here - is this your mother with you?",
             "Unknown"
         ],
@@ -37,17 +37,17 @@
             "Male"
         ],
         [
-            "DR ORR",
+            "WENDY ORR",
             "Welcome to you, thank you for coming here to be with your son today.  Ridwaan you have indicated that you will take the affirmation.  So can I ask you now to stand.\nRIDWAAN KARIEM Affirms to speak the truth",
             "Unknown"
         ],
         [
-            "DR ORR",
+            "WENDY ORR",
             "Thank you, I will now hand you over to Ms Mary Burton, who will help you tell your story.",
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "Good afternoon and thank you again for coming to be with us.  Are you  going to speak Afrikaans?",
             "Female"
         ],
@@ -57,7 +57,7 @@
             "Male"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "So maybe you might want to put the earphones on.",
             "Female"
         ],
@@ -67,7 +67,7 @@
             "Male"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "Yes, we heard this morning about some of the events in the schools in Worcester in 1985 and we would like you to tell us more about it and about your involvement in the activities around the school boycotts and then about your experiences of  being detained and assaulted.  You were very young at the time about 14 is that right.",
             "Female"
         ],
@@ -77,7 +77,7 @@
             "Male"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "You were at school at Esselen Park?",
             "Female"
         ],
@@ -87,7 +87,7 @@
             "Male"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "[indistinct] being taken in the van - all of you were schoolchildren?",
             "Female"
         ],
@@ -97,7 +97,7 @@
             "Male"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "[indistinct] Kariem you are giving us a very full picture of the build-up of the boycotts and its very interesting to hear, your memory is so vivid at time but if you could just try and pull it to your experiences, your actual assaults and the things that happened to you whilst you were detained.  You told us that you were detained for several periods in '85 and I think you were assaulted in '86 can you just give us those details.",
             "Female"
         ],
@@ -107,7 +107,7 @@
             "Male"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "[indistinct]  we understand about 1985,  just about 1986.",
             "Female"
         ],
@@ -117,7 +117,7 @@
             "Male"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "[indistinct] thank you very much Mr Kariem. You have given us a very clear picture about how such a young man could  get caught up in activities and you had several weeks of detention in Victor Verster prison as well as here in Worcester.  It clearly made a very-very  vivid impression on you and your family which is still visible today.\nI thank you for coming to tell your story, I have no questions Mr Chairperson.",
             "Female"
         ],
@@ -187,7 +187,7 @@
             "Unknown"
         ],
         [
-            "DR ORR",
+            "WENDY ORR",
             "I don't have a question, I just want to make a comment and that is - on the role that  your mother played.  I think the mothers and  sisters and wives of South Africa have suffered so much and you are very fortunate to have a mother who fought so hard to get you out of jail, thank you very much.",
             "Unknown"
         ],

@@ -11,16 +11,16 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53931&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99111517_tho_991115th.htm",
         "speakers": [
-            "ADV DE JAGER",
-            "ADV SIGODI",
             "CHAIRPERSON",
-            "INTERPRETER",
-            "INTREPRETER",
             "JUDGE PILLAY",
-            "LANGANANI FOSTER MUNYAI",
+            "ADV SIGODI",
+            "ADV DE JAGER",
             "MR NDOU",
             "MR VAN RENSBURG",
-            "MS PATEL"
+            "MS PATEL",
+            "INTREPRETER",
+            "LANGANANI FOSTER MUNYAI",
+            "INTERPRETER"
         ],
         "original_speakers": [
             "CHAIRPERSON",

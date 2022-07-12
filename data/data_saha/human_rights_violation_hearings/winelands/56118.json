@@ -11,12 +11,12 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=56118&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/wineland/ct00252.htm",
         "speakers": [
-            "ADV POTGIETER",
-            "DR ORR",
+            "WENDY ORR",
+            "PROF MEIRING",
             "MR CLOETE",
             "MS GOBODO",
-            "MS WILDSCHUT",
-            "PROF MEIRING"
+            "ADV POTGIETER",
+            "GLENDA WILDSCHUT"
         ],
         "original_speakers": [
             "DR ORR\n",
@@ -29,12 +29,12 @@
     },
     "testimony": [
         [
-            "DR ORR",
+            "WENDY ORR",
             "Mr Cloete thank you very much for coming.  You've come a very long way and that is from Saldanha and we would like to welcome you and the lady that has accompanied you.  Would you please rise to take the oath?\nPETRUS ALBERT CLOETE Duly sworn states",
             "Unknown"
         ],
         [
-            "DR ORR",
+            "WENDY ORR",
             "Thank  you very much, I will ask Piet Meiring to help you tell your story.",
             "Unknown"
         ],
@@ -399,7 +399,7 @@
             "Female"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "Mr Cloete I would like to put one short question to you and it's about your face.  Did you ever consult a specialist - an eye specialist who could perhaps give you specialist advice on what to do about your eye?",
             "Female"
         ],
@@ -409,7 +409,7 @@
             "Male"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "Do you feel that if you see an eye specialist that you would possibly obtain good advice with regards to your face?",
             "Female"
         ],
@@ -419,7 +419,7 @@
             "Male"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "Thank you very much.",
             "Female"
         ],

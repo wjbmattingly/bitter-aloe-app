@@ -7,14 +7,15 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=56074&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/upington/ct00695.htm",
         "speakers": [
-            "ARREST AND INCARCERATION",
             "CASE NO",
+            "VICTIM",
             "GODFREY XOLILE YONA",
-            "MR POTGIETER",
             "<UNKNOWN>",
+            "ARREST AND INCARCERATION",
             "TESTIMONY FROM",
-            "THIS WAS RECORDED ON SIDE A",
-            "VICTIM"
+            "MR POTGIETER",
+            "TESTIMONY_GIVER:",
+            "THIS WAS RECORDED ON SIDE A"
         ],
         "original_speakers": [
             "CASE NO",

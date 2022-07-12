@@ -10,15 +10,15 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54678&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/capetown/capetown_maxam.htm",
         "speakers": [
-            "ADV LOURENS OBJECTS",
             "CHAIRPERSON",
-            "INTERPRETER",
-            "JUDGE WILSON",
             "MR BRINK",
-            "MR ROTHFUCHS",
+            "ADV LOURENS",
+            "JUDGE WILSON",
             "MR SWART",
-            "MS KHAMPEPE",
-            "PHILEMON KABILA MAXAM"
+            "MR ROTHFUCHS",
+            "PHILEMON KABILA MAXAM",
+            "SISI KHAMPEPE",
+            "INTERPRETER"
         ],
         "original_speakers": [
             "CHAIRPERSON",
@@ -77,7 +77,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "I appear for the applicants, Advocate ...",
             "Unknown"
         ],
@@ -92,7 +92,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "John Lourens for the applicants.",
             "Unknown"
         ],
@@ -167,7 +167,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Mr Chairman, my understanding is that the applicants will be sworn in before I proceed.  Is that correct?",
             "Unknown"
         ],
@@ -197,7 +197,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Mr Chairman, I do not wish to make any preliminary address. I call the first applicant then, Mr Philemon Maxam.",
             "Unknown"
         ],
@@ -227,7 +227,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Maxam, are you going to be sworn in?",
             "Female"
         ],
@@ -237,7 +237,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "You may stand up.",
             "Female"
         ],
@@ -247,12 +247,12 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "You may sit down, you have been properly sworn in.\nEXAMINATION BY ADVOCATE LOURENS",
             "Female"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Mr Maxam, could you please for the record, state your age.",
             "Unknown"
         ],
@@ -262,7 +262,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Where were you born?",
             "Unknown"
         ],
@@ -277,7 +277,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "I understand that you have lived your whole life in Paarl.  Is that correct?",
             "Unknown"
         ],
@@ -287,7 +287,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Did you attend school?",
             "Unknown"
         ],
@@ -297,7 +297,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Till what standard did you attend school?",
             "Unknown"
         ],
@@ -307,7 +307,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Now, is it correct that you lived in a township near Paarl called Mbekweni?",
             "Unknown"
         ],
@@ -317,7 +317,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Is it correct that at present you are serving a 25 year term of imprisonment at Allandale Prison?  I do not think he is hearing.",
             "Unknown"
         ],
@@ -332,7 +332,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "And is it correct that your term of imprisonment that you are serving now arises out of an incident that occurred on 15 April 1986?",
             "Unknown"
         ],
@@ -342,7 +342,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "We shall return to you, that incident shortly. I would like you to describe to the Committee what it was like living in Mbekweni prior to 1986.",
             "Unknown"
         ],
@@ -352,7 +352,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Could you explain to the Committee what you mean when you say there was war there.",
             "Unknown"
         ],
@@ -377,12 +377,12 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "I think that is, the translation is incorrect.",
             "Female"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Is incorrect.",
             "Unknown"
         ],
@@ -392,7 +392,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "When did, were you involved in these fights between the UDF, on the one side, and AZAPO and the police on the other?",
             "Unknown"
         ],
@@ -402,7 +402,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Could you explain to the Committee what your involvement was?",
             "Unknown"
         ],
@@ -412,7 +412,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Before we proceed with, more specifically with the aims of PAYCO could you explain or tell the Committee when you first became politically involved?",
             "Unknown"
         ],
@@ -422,7 +422,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Could you just stop there for a moment?  Did you, in fact, lose your job as a result of your political involvement?",
             "Unknown"
         ],
@@ -447,7 +447,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "My question was did you, in fact, lose your job as a result of your political involvement?",
             "Unknown"
         ],
@@ -457,7 +457,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "And where was that?",
             "Unknown"
         ],
@@ -467,7 +467,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Were any of your family members involved in the political aims of the UDF and its related organisations?",
             "Unknown"
         ],
@@ -477,7 +477,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "And is it correct that your brother had been detained at that stage?",
             "Unknown"
         ],
@@ -487,47 +487,47 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Now, could you explain to the Committee what the aims of PAYCO were?",
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Sorry, Mr Lourens, what stage are you referring us to?  I mean, you are ...",
             "Female"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "The ...",
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "...  are you talking ...",
             "Female"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "I am referring to ...",
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "... of 1985?",
             "Female"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "In the eighties.  In 19 ...",
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "In particular 1985?",
             "Female"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "In particular 1985.  Could you explain to the Committee what the aims of PAYCO were?",
             "Unknown"
         ],
@@ -537,7 +537,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Now, could you be more specific when you say that you were against the Government.  What, in respect of being against the Government, what were the aims of your movement?",
             "Unknown"
         ],
@@ -547,7 +547,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Yes, I am referring to PAYCO.  The, in respect of being against the Government, Mr Chairman.",
             "Unknown"
         ],
@@ -562,7 +562,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Now, PAYCO was against the Government, is that correct?  The Government of the day in 1985.",
             "Unknown"
         ],
@@ -572,7 +572,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Were there any specific, was there any specific plan to bring down that Government or act against the Government?",
             "Unknown"
         ],
@@ -582,7 +582,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Now, how would you make the country ungovernable?  What was the plan to make the country ungovernable?",
             "Unknown"
         ],
@@ -592,7 +592,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Now, you were involved with an incident in a beer hall.  Is that correct?",
             "Unknown"
         ],
@@ -602,7 +602,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Could you briefly explain to the Committee what happened in that incident.",
             "Unknown"
         ],
@@ -622,7 +622,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Now, is it correct that nothing, in fact, came of this incident?  No one was hurt and, in that incident and the bomb, in fact, did not go off.  Is that correct?",
             "Unknown"
         ],
@@ -632,7 +632,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Now, ...",
             "Unknown"
         ],
@@ -642,7 +642,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "No, no.  Now, Mr Maxam, you spoke about the fight against the Government and that violence had to be met with violence.  If you could interpret that please.  And that violence had to be met with violence.",
             "Unknown"
         ],
@@ -652,7 +652,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "You spoke about the fight against the Government and that violence had to be met with violence.",
             "Unknown"
         ],
@@ -672,7 +672,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Did you have the means to retaliate?",
             "Unknown"
         ],
@@ -682,7 +682,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Now, if you could cast your mind back to 15 April 1986, could you describe to the Committee what was going in Mbekweni the days before 15 April 1986.  Just before 15 April 1986.",
             "Unknown"
         ],
@@ -702,7 +702,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "... before then.",
             "Unknown"
         ],
@@ -712,7 +712,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "I am specifically referring just to just prior to ...",
             "Unknown"
         ],
@@ -722,7 +722,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Yes, that is so, Mr Chairman.",
             "Unknown"
         ],
@@ -732,7 +732,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Mr Maxam, Mr Maxam, could you just go a bit slower please.  I am sorry.  You can proceed.",
             "Unknown"
         ],
@@ -742,7 +742,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "So, do I understand you correctly that at this stage when the situation, as you described, was terrible, there seemed to be civil war in Mbekweni, you decided that it was time to retaliate and do something about it?  Is that correct?",
             "Unknown"
         ],
@@ -752,7 +752,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "And you purchased a firearm?",
             "Unknown"
         ],
@@ -762,7 +762,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Could you explain to the Committee where you obtained the firearm?",
             "Unknown"
         ],
@@ -772,7 +772,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Now, before we proceed with the events on the 15th of April I would like you to explain to the Committee about your involvement in a necklace incident just preceding these events.",
             "Unknown"
         ],
@@ -782,7 +782,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Now, you gave evidence about the Tambo text and listening to Radio Freedom.",
             "Unknown"
         ],
@@ -792,7 +792,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Now, on the 15th of April 1986 you and the other two applicants as well as approximately five other people went to a farm nearby Paarl.  Is that correct?",
             "Unknown"
         ],
@@ -802,7 +802,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Could you explain to the Committee how it came about that you went to that farm?",
             "Unknown"
         ],
@@ -827,7 +827,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "As I understand it Mr Chairman, that is so.  He is speaking about how, the question that was put to him was how it was that they came to go to the farm on the 15th.",
             "Unknown"
         ],
@@ -837,7 +837,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "If I might just clarify it with the applicant.",
             "Unknown"
         ],
@@ -847,7 +847,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Mr Maxam ...",
             "Unknown"
         ],
@@ -857,7 +857,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Mr Chairman, I do not recollect specifically asking about the 13th as a day.",
             "Unknown"
         ],
@@ -872,7 +872,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "The 15th ...",
             "Unknown"
         ],
@@ -882,7 +882,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "... Mr Chairman.",
             "Unknown"
         ],
@@ -892,7 +892,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "I, if I might just ...",
             "Unknown"
         ],
@@ -902,7 +902,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "... clear that up.",
             "Unknown"
         ],
@@ -912,7 +912,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Mr Maxam, on the 15th you went to a farm.  Is that correct?",
             "Unknown"
         ],
@@ -922,7 +922,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "The other two applicants went with you to the farm?",
             "Unknown"
         ],
@@ -932,7 +932,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Now, on what day did you meet them to go to the farm?",
             "Unknown"
         ],
@@ -942,7 +942,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "And are those the, the events that you were giving evidence about just now, was that leading up to meeting with the other two applicants on the 15th?",
             "Unknown"
         ],
@@ -952,52 +952,52 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Lourens, was your witness not trying to explain how he met the applicants?",
             "Female"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "That is how I understood his ...",
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And the ...",
             "Female"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "...  evidence Mr Chairman.",
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Well, probably you have got to lead him, because he does not seem to be getting us into the actual incident.",
             "Female"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "As I understood his evidence he was leading up to how he met with the other two.",
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "I am simply presuming that the two applicants were part of the group of youth that he referred to in his evidence.",
             "Female"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "It will become ...",
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "I am not sure.",
             "Female"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "... apparent in, perhaps if we could.  Mr Maxam, on the 15th, explain to the Committee how it is that you met with the other two applicants.",
             "Unknown"
         ],
@@ -1012,7 +1012,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Sir.",
             "Unknown"
         ],
@@ -1027,7 +1027,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Maxam, ...",
             "Female"
         ],
@@ -1037,7 +1037,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "... is this in Silverton, in Silverton?",
             "Female"
         ],
@@ -1062,7 +1062,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Sir ...",
             "Unknown"
         ],
@@ -1077,7 +1077,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Could you just stop there please.  Who is Madoda?",
             "Unknown"
         ],
@@ -1087,7 +1087,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Could I just stop you there Mr Maxam.  The house that you are talking about, do you mean the farm?",
             "Unknown"
         ],
@@ -1097,7 +1097,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Yes, and am I correct in saying that the farm's name was Vlakkeland?",
             "Unknown"
         ],
@@ -1107,7 +1107,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Now, before you proceed with the events at Vlakkeland, who told you that there would be firearms there or to go and look at that particular farm?",
             "Unknown"
         ],
@@ -1117,7 +1117,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Right, please proceed.",
             "Unknown"
         ],
@@ -1127,22 +1127,22 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "May I interpose, Mr Lourens, do we have the correct translation when the witness says,\n\"I said Mr Noble, we are looking for a job?\".",
             "Female"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "That is so.  That is the name of the farmer who they met at the gate to the farm as he ...",
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "So he actually addressed him as Mr Noble?",
             "Female"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "That is so.  May I just put, Mr Maxam before you go on.  Mr Noble, was he known to you at that stage?  On the 15th of April did you know what his name was?",
             "Unknown"
         ],
@@ -1152,7 +1152,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Yes.",
             "Unknown"
         ],
@@ -1172,7 +1172,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "When did you ask her to open the door?  Was that before you asked for a glass of water or after you had asked for a glass of water?  At what stage did you ask her to open the door?",
             "Female"
         ],
@@ -1192,7 +1192,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Mr Maxam, the lady that you referred to that was shot, was she the domestic worker?",
             "Unknown"
         ],
@@ -1202,7 +1202,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Now could you please make it clear to the Committee why it is that you shot at her and shot at the gardener?",
             "Unknown"
         ],
@@ -1212,7 +1212,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "When you ...",
             "Unknown"
         ],
@@ -1227,7 +1227,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "When you had planned now to go to the farm house, to Vlakkeland, did you, was it part of your plan that you would kill people who were possibly standing in your way of obtaining firearms?",
             "Unknown"
         ],
@@ -1237,7 +1237,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Now, you personally, as I understand your evidence, took ammunition from the house, bullets.  Did you take anything else?",
             "Unknown"
         ],
@@ -1252,7 +1252,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Mr Chairman, the question that I put to the applicant was that he personally took ammunition ...",
             "Unknown"
         ],
@@ -1262,7 +1262,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "... the other things will be covered by the other applicants.",
             "Unknown"
         ],
@@ -1277,7 +1277,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Mr ...",
             "Unknown"
         ],
@@ -1317,7 +1317,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Maxam, did you after this operation have an opportunity as a group of people who had gone into the house to rob, obviously, with a view of getting the necessary ammunition, did you have an opportunity to discuss amongst yourselves with regard to what each of you had managed to find in the house?  Did you have that opportunity?",
             "Female"
         ],
@@ -1327,7 +1327,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "So, in short, your response is that you never had an opportunity to discuss amongst yourselves what had been stolen in the house in question?  You never had that opportunity?  I just need a short response to that question.",
             "Female"
         ],
@@ -1337,7 +1337,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And my other question is were you in charge of this operation?  Were you, in fact, commanding the operation or directing it?  Were you the person who everybody looked up to with regard to the planning and the execution of the whole operation?",
             "Female"
         ],
@@ -1357,7 +1357,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And you did not after this incident have any interest in making enquiries from the people who you went with to steal the arms, to find out whether the mission had been successful or not, to find out what kind of ammunition or weaponry had been found in the house?  You did not convene a meeting or try and speak to the other people to find out what had, in fact, been stolen?",
             "Female"
         ],
@@ -1367,7 +1367,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "But if they had that kind of information how would they be able to convey it to you?  How would you know whether the mission was successful or not?",
             "Female"
         ],
@@ -1377,7 +1377,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Thank you Mr Lourens, you may proceed.",
             "Female"
         ],
@@ -1387,7 +1387,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "As the Committee pleases.",
             "Unknown"
         ],
@@ -1407,7 +1407,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "(cont)\n\tThank you Mr Chairman.  Mr Maxam, before we move on I just want you to, perhaps, explain to the Committee more why you feared being implicated by the two victims in this matter.",
             "Unknown"
         ],
@@ -1527,7 +1527,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Mr Maxam, you were, were you quite, shall we say, an important part of the struggle in Mbekweni at that, in 1985?",
             "Unknown"
         ],
@@ -1537,7 +1537,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "If you had been arrested what would the consequences have been for the struggle?",
             "Unknown"
         ],
@@ -1592,7 +1592,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Mr Maxam, do you take responsibility for the shooting?",
             "Unknown"
         ],
@@ -1602,7 +1602,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Now, at the trial of this matter it was found that the motive for the attack on the farmhouse was one of robbery, because of the other items that were stolen and, if I am correct, the learned Judge in your trial found that to find guns would have been an added bonus, I think in his words.  If that could just be interpreted before I proceed.  Why was the political nature of the raid on the farmhouse not emphasised at the trial?",
             "Unknown"
         ],
@@ -1637,7 +1637,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Mr Maxam, if I might just ask you when, that the stage that you did not emphasise the political nature of it, was that at the time of your arrest?",
             "Unknown"
         ],
@@ -1647,7 +1647,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Mr Chairman, if I might just clarify.  I believe, I understood the evidence myself to be that at the time of the arrest of the applicant.",
             "Unknown"
         ],
@@ -1657,7 +1657,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "I ...",
             "Unknown"
         ],
@@ -1667,7 +1667,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "If I might clarify.",
             "Unknown"
         ],
@@ -1677,7 +1677,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "If I address my question by referring to...",
             "Unknown"
         ],
@@ -1687,7 +1687,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "... to the actual trial.  Mr Maxam, at the time of your arrest you did testify that you were arrested by a certain policeman.  Can you remember his name?",
             "Unknown"
         ],
@@ -1697,7 +1697,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Now is it correct that at that stage he said to you do not emphasise the political nature of this matter?",
             "Unknown"
         ],
@@ -1707,7 +1707,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Mr Chairman, perhaps if I could clarify.  I had intended to, I was just waiting for this section to finish.  I do have a statement from Sergeant Moss, a short statement that was obtained shortly after the last time we appeared here which I beg leave to hand to the Committee if that is acceptable.",
             "Unknown"
         ],
@@ -1717,7 +1717,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Thank you.",
             "Unknown"
         ],
@@ -1732,7 +1732,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "I just have one, I have one further aspect that I wish to put to him.  Mr Maxam, you have previously given evidence at a Truth and Reconciliation Commission, is that correct?",
             "Unknown"
         ],
@@ -1742,7 +1742,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "What was the nature of your evidence there?",
             "Unknown"
         ],
@@ -1752,7 +1752,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "And is it correct that in 1995, a petition was circulated in Mbekweni asking for your release?",
             "Unknown"
         ],
@@ -1762,7 +1762,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "If I might refer the Committee to page 37 of the record.  The petition is contained there.  Thank you, then I have no further questions for this applicant.\nNO FURTHER QUESTIONS BY ADVOCATE LOURENS",
             "Unknown"
         ],
@@ -2162,7 +2162,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Mr Chairman, I wonder if I might be allowed to address an objection about this line of questioning.  The, what we have here is a record of the Appellate Division hearing the appeal.  This is a summary by the Appeal Court Judge of the evidence contained in a written confession taken by a Magistrate which this court does, which this Committee has not before it.  It may be that this is a summary of the actual words contained or the meanings contained in the confession and it is not immediately apparent that the, for example,\n\"She slumped to the floor and he shot her again\",\nare the exact words as contained in the confession.  It may be a summary of the events that took place.  One is not sure of that.  We do not have a record of the trial proceedings.  I would submit that the applicant has given an explanation.  If there are discrepancies why there should be or why there are those discrepancies, but I am in the hands of the Committee. I just thought I would bring it to you, your attention.",
             "Unknown"
         ],
@@ -2187,7 +2187,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Mr Chairman I must object again, because we do not know exactly what the applicant said initially.",
             "Unknown"
         ],
@@ -2202,7 +2202,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Yes, Mr Chairman.  Perhaps, if I would repeat my objection, Mr Chairman.  It is being put to the applicant what he said at the relevant time, be it at the confession or even in the trial.  In fact, this Committee does not know what was contained in the concession, confession or what was said at the trial which occurred almost eight, nine years ago.",
             "Unknown"
         ],
@@ -2222,7 +2222,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Mr Chairman, I voice my objection purely on the grounds that this, the confession and the record is not before this Committee.  I accept that this is a summary of how the Judge, how he found the evidence to be.",
             "Unknown"
         ],
@@ -2232,7 +2232,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "That is so Mr Chairman.",
             "Unknown"
         ],
@@ -2242,7 +2242,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "That is so, in summarised form.",
             "Unknown"
         ],
@@ -2392,7 +2392,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Are you not referring to PAYCO, Mr Maxam?  Are you not referring to PAYCO when you refer to an organisation?",
             "Female"
         ],
@@ -2402,7 +2402,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "But the UDF then existed as a legitimate organisation whereas the African National Congress was a banned organisation.",
             "Female"
         ],
@@ -2437,7 +2437,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Mr Chairman, I object to that question on the basis that it is unfair, it is not to say that at night time there would not be people at the house, that it is something that can be taken for granted that there would not be people at the house at night.",
             "Unknown"
         ],
@@ -2477,7 +2477,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Maxam, this house was identified to you by Mr Ndinisa.  That is your evidence.  Am I correct in stating that way?  That is how I have understood your evidence.  Mr Ndinisa identified this house in Vlakkeland to you.",
             "Female"
         ],
@@ -2487,7 +2487,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "I think it is my mistake, my apologies.  That is your evidence, Tisana.  I had the wrong surname.  Mr Tisana, in fact, identified the house in question to you.",
             "Female"
         ],
@@ -2497,7 +2497,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And did he advise you at the time of identification of that house that there would be a possibility of a domestic worker and/or a gardener being present at the time that you intended to break into that house?",
             "Female"
         ],
@@ -2507,7 +2507,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And did you not expect to find a domestic worker or a gardener at the time that you intended to break into the house?",
             "Female"
         ],
@@ -2517,7 +2517,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And how did you intend to deal with the presence of a domestic worker or a gardener?  Was that, did you have any planning in that regard?",
             "Female"
         ],
@@ -2527,7 +2527,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Thank you.",
             "Female"
         ],
@@ -2602,7 +2602,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "That is precisely what is being put to you Mr Maxam.",
             "Female"
         ],
@@ -2612,7 +2612,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "That you intended to kill at all costs in order to obtain the weapons that you were looking for.",
             "Female"
         ],
@@ -3262,7 +3262,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Mr Chairman, I just wish to address one aspect to Mr Maxam.  Sir, to be a member of PAYCO, is it correct that you could be a registered member of PAYCO?",
             "Unknown"
         ],
@@ -3272,7 +3272,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Would you, yourself, have been aware of everybody who was an actual registered member of PAYCO?",
             "Unknown"
         ],
@@ -3282,7 +3282,7 @@
             "Male"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "So, is it correct to say or is it possible then that there were people who supported PAYCO and its ideals, but who may not have actually been registered members as such?",
             "Unknown"
         ],
@@ -3297,7 +3297,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Comrades.",
             "Unknown"
         ],
@@ -3307,7 +3307,7 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Yes.",
             "Unknown"
         ],
@@ -3317,12 +3317,12 @@
             "Unknown"
         ],
         [
-            "ADV LOURENS OBJECTS",
+            "ADV LOURENS",
             "Thank you Mr Chairman.  It was an aspect I just wish to clarify.  Then I have no further questions for the applicant.\nNO FURTHER QUESTIONS BY ADVOCATE LOURENS",
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Maxam, what was an A-team?  In some of your documents you have referred us to a unit called the A-team.",
             "Female"
         ],
@@ -3332,7 +3332,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Thank you.",
             "Female"
         ],
@@ -3357,7 +3357,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "In fact, Mr Maxam, AZAPO was not affiliated to the PAC.  The PAC also existed as its own organisation, independent from AZAPO.  Was it not the situation in 1986, that there were three organisations predominantly and AZAPO was one of those organisations?",
             "Female"
         ],

@@ -11,17 +11,17 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54677&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/capetown/capetown_jack.htm",
         "speakers": [
-            "CHAIRMAN",
-            "COMMITTEE ADJOURNS UNTIL TOMORROW MORNING",
-            "INTERPRETER",
-            "JUDGE WILSON",
-            "MR ANDERSON",
-            "MR BLACK",
+            "CHAIRPERSON",
             "MR BRINK",
             "MR MILLS",
-            "MS KHAMPEPE",
+            "MR ANDERSON",
+            "MR BLACK",
+            "UNKNOWN",
+            "TWOBOY JACK",
+            "SISI KHAMPEPE",
+            "JUDGE WILSON",
             "MSHLABUNSIMA MAXIM PHAKAMISA",
-            "TWOBOY JACK"
+            "INTERPRETER"
         ],
         "original_speakers": [
             "MR BRINK",
@@ -43,7 +43,7 @@
     },
     "testimony": [
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Brink, before we commence, will you place on record the reason why we have been delayed?",
             "Unknown"
         ],
@@ -53,7 +53,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Die you receive any notification or indication at all that they were interested in being present?",
             "Unknown"
         ],
@@ -63,7 +63,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "I think we have waited a long time for them and we must now proceed in their absence, they may never turn up at all.",
             "Unknown"
         ],
@@ -73,7 +73,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Mills and Mr Anderson, are you here?  Will you come forward please?  Have you been given to understand that this is a case in which we are considering applications for amnesty by these two individuals and that you have an opportunity of conveying your attitude to this application, to us, that if it is your wish or if it is your intention to oppose the application for amnesty, that you will be afforded an opportunity to give reasons why and on what grounds.  And you may even ask questions of the applicants.  Are you aware of that?",
             "Unknown"
         ],
@@ -83,7 +83,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "What is your attitude?",
             "Unknown"
         ],
@@ -93,7 +93,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "And you?",
             "Unknown"
         ],
@@ -103,7 +103,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Do I understand you to mean that you have no comments to make?",
             "Unknown"
         ],
@@ -113,7 +113,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Does that mean you have no questions to ask either?",
             "Unknown"
         ],
@@ -123,7 +123,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "In the light of what you say, I may tell you that you don't have to remain here if you do not wish to, that you are excused from further attendance, but if you wish to remain, you are entitled to remain.  Do you understand that?",
             "Unknown"
         ],
@@ -133,7 +133,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "You may be seated.  Yes, Mr Brink?",
             "Unknown"
         ],
@@ -143,7 +143,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Brink, I think that the people who do our transcription, that we should place on record before the commencement of each proceedings, certain particulars about the Committee and Council appearing in the matter.  For the purposes of record, the Committee is made up of myself, Judge Wilson on my left and Ms Khampepe on my right.  Mr Robin Brink appears as the leader of evidence and Mr Manthana as the representative for the two applicants.\n\tMr Manthana, what are your initials?  Pardon?",
             "Unknown"
         ],
@@ -153,7 +153,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "\"S\"?",
             "Unknown"
         ],
@@ -163,7 +163,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Manthana are you an Attorney?",
             "Unknown"
         ],
@@ -178,7 +178,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "That will be noted.  Yes, Mr Manthana?",
             "Unknown"
         ],
@@ -188,7 +188,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Will they be giving evidence through Xhoza?",
             "Unknown"
         ],
@@ -198,7 +198,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Who are you calling first?",
             "Unknown"
         ],
@@ -208,12 +208,12 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Jack, will you stand?",
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Will you swear him in?",
             "Unknown"
         ],
@@ -223,12 +223,12 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "You are sworn in full, you may have a seat.",
             "Female"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes, Mr Manthana?",
             "Unknown"
         ],
@@ -238,7 +238,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Do you have a copy of those statements?",
             "Unknown"
         ],
@@ -248,7 +248,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "No, let him read them out.",
             "Unknown"
         ],
@@ -268,7 +268,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Bring it right in front of you.",
             "Unknown"
         ],
@@ -293,7 +293,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Brink, are there any questions you wish to put to this applicant?",
             "Unknown"
         ],
@@ -363,7 +363,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Thank you Mr Brink, about that.  We had actually taken note thereof.  Mr Jack, you have stated that\nthe intention of SANCO was to get rid of the police, the ISU from your township, was there any plan which was specifically devised by SANCO in order to carry out the intention of getting rid of these policemen?\n\tWere you advised as SDU members by SANCO what you would have to do to assist SANCO to get rid of the police from the township?",
             "Female"
         ],
@@ -373,7 +373,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And what was the advice from SANCO?",
             "Female"
         ],
@@ -383,7 +383,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Were you told that you were to attack the police when you saw them on sight, when you saw them in the township?",
             "Female"
         ],
@@ -393,7 +393,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Thank you.",
             "Female"
         ],
@@ -408,7 +408,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "How do you draw a distinction between Koevoet and ISU, did they wear different uniforms?",
             "Unknown"
         ],
@@ -418,7 +418,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Is there any re-examination or any other questions you wish to put to this man?",
             "Unknown"
         ],
@@ -428,7 +428,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Are you calling the next applicant now?",
             "Unknown"
         ],
@@ -438,7 +438,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Would it not be appropriate for you to put that to the second applicant, and ask him whether he confirms what has been said by the first applicant and ask him if there is anything else he wishes to add?",
             "Unknown"
         ],
@@ -448,12 +448,12 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Will you swear him in please.",
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Phakamisa, please stand.",
             "Female"
         ],
@@ -463,7 +463,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "You may have a seat, you are sworn in in full.",
             "Female"
         ],
@@ -473,7 +473,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes.",
             "Unknown"
         ],
@@ -538,7 +538,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes, can you place on record when were you arrested?",
             "Unknown"
         ],
@@ -548,7 +548,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "And where?",
             "Unknown"
         ],
@@ -558,7 +558,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "You are not telling me where, I want to know where it was?",
             "Unknown"
         ],
@@ -568,7 +568,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "And was the sentenced imposed on you, the same as\nthat imposed on Two-Boy Jack?",
             "Unknown"
         ],
@@ -578,7 +578,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Was it for the same offences for which he has been found guilty or was it different offences?",
             "Unknown"
         ],
@@ -598,7 +598,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Is there nothing else you wish to put to the applicant?",
             "Unknown"
         ],
@@ -608,7 +608,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Brink, is there anything else you wish to put to this applicant?",
             "Unknown"
         ],
@@ -618,7 +618,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Phakamisa, in your application you have made reference to a certain Mr Makalene and Mr Mtemba.  Who are they?",
             "Female"
         ],
@@ -628,7 +628,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Were they present when a decision that you should attack the police in your neighbourhood was taken?",
             "Female"
         ],
@@ -648,7 +648,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Phakamisa, in your application in response to paragraph 11, the translation reads as thus and I would like to have your comment because probably we have to amend this:  At 11 B, you say we took this decision as SDU members on the 29th of August 1993 together with agreements with SANCO leadership.\n\tI don't remember their addresses, but I have their telephone numbers.  In brackets you then include Richard\nMakalene and his telephone number and Sonwabo Mtengwani and his telephone number, this must be a mistake.  There was never a decision taken on the 29th of August 1993?",
             "Female"
         ],
@@ -663,7 +663,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Yes, 1993.",
             "Female"
         ],
@@ -673,7 +673,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Oh, sorry, I think we have, here is a mistake.  In fact Mr Brink, I actually have two translations for ...",
             "Female"
         ],
@@ -683,7 +683,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "I think we will disregard page 7 up to page 9 for the record.  Thank you Mr Phakamisa, I just had a problem with the dates reflected in your application, it turns out that we were given the wrong bundle.",
             "Female"
         ],
@@ -723,7 +723,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Brink, before this applicant is excused, is it possible for you to enquire whether the other interested people who were expected to be here, are here?  And if they have a say in the matter or if they are interested in having a say in the matter.",
             "Unknown"
         ],
@@ -733,7 +733,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Apart from the two who were here earlier this morning.",
             "Unknown"
         ],
@@ -748,7 +748,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Manthana we don't particularly want to ask you to address us unless there is something special which you wish to put forward?",
             "Unknown"
         ],
@@ -758,7 +758,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Brink?",
             "Unknown"
         ],
@@ -768,7 +768,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "The Committee will consider its decision in due course and will make it known to Counsel for the applicants and to the applicants.\n\tThank you.  Mr Brink, does that bring to a close the proceedings for the day?",
             "Unknown"
         ],
@@ -778,7 +778,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "The applications for tomorrow, will they be ready to proceed?",
             "Unknown"
         ],
@@ -788,7 +788,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Can we commence earlier than we did this morning?",
             "Unknown"
         ],
@@ -798,7 +798,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "All right, provisionally can we commence at 9.30?",
             "Unknown"
         ],
@@ -808,7 +808,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "All right, the Committee will now adjourn and resume at 9.30 tomorrow morning.\nCOMMITTEE ADJOURNS UNTIL 9.30 TOMORROW MORNING: .",
             "Unknown"
         ]

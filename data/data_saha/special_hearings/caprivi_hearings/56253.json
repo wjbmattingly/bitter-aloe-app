@@ -9,22 +9,22 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=56253&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/special/caprivi/caprivi4.htm",
         "speakers": [
-            "BRIAN GCINA MKHIZE",
-            "CHAIRMAN",
-            "INTERPRETER",
-            "MR",
-            "MR COETZEE",
-            "MR DE VOS",
-            "MR LASICH",
-            "MR LAX",
-            "MR MACADAM",
+            "CHAIRPERSON",
             "MR MARITZ",
+            "BRIAN GCINA MKHIZE",
+            "MR MACADAM",
+            "TESTIMONY_GIVER:",
+            "INTERPRETER",
+            "MR WILLS",
+            "MR LASICH",
+            "MR VISSER",
+            "MR LAX",
+            "YASMINE SOOKA",
+            "MR VAN ZYL",
+            "MR DE VOS",
             "MR NTSEBEZA",
             "MR STEWART",
-            "MR VAN ZYL",
-            "MR VISSER",
-            "MR WILLS",
-            "MS SOOKA"
+            "MR COETZEE"
         ],
         "original_speakers": [
             "MR MARITZ",
@@ -48,7 +48,7 @@
     },
     "testimony": [
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "We will start this morning with further evidence from Mr Gcina Mkhize, and evidence will be led from him relating to activities in - around Esikhaweni Township, and thereafter counsel will be given an opportunity to cross-examine him.  I'm not going to go through the same issues that I went through yesterday and on Monday, save to emphasise the following, that we will not permit extensive, long-winded cross-examination and we will not permit hectoring or harassment of witnesses.  We would expect counsel to place their clients' versions on record in so far as these versions differ from the witnesses' version and also to raise what they consider to be factual inaccuracies in the witnesses' evidence, and I would ask counsel to please bear those remarks in mind.",
             "Unknown"
         ],
@@ -58,7 +58,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Thank you.  We will respond to that at a later stage.  We won't interrupt the proceedings at this stage.  Mr Wills, I will swear your client in again, because this evidence relates to different issues.  Are you Brian Gcina Mkhize?",
             "Unknown"
         ],
@@ -73,7 +73,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Macadam.",
             "Unknown"
         ],
@@ -488,7 +488,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes, that's because he's dead, Mr Lasich.",
             "Unknown"
         ],
@@ -1158,7 +1158,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "We will adjourn till 2.15.\nLONG ADJOURNMENT\n/\nON RESUMPTION\n2B\nON RESUMPTION",
             "Unknown"
         ],
@@ -1168,7 +1168,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Macadam is just going to help you complete your evidence now.",
             "Unknown"
         ],
@@ -1228,7 +1228,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "There will now be an opportunity for counsel to put questions to Mr Mkhize.  I understand that amongst you you have decided who should be proceed first.",
             "Unknown"
         ],
@@ -1243,7 +1243,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Sorry, Mr Wills, I meant to refer the matter to you first.  If there's anything that you want to clarify.",
             "Unknown"
         ],
@@ -1283,7 +1283,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Thank you, Mr Wills.  Mr Visser.",
             "Unknown"
         ],
@@ -1548,7 +1548,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Please don't laugh or talk amongst yourselves.",
             "Unknown"
         ],
@@ -1563,7 +1563,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Please don't interrupt the witness.",
             "Unknown"
         ],
@@ -1593,7 +1593,7 @@
             "Male"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Sorry, Mr Visser, I just want to interject.  I think that you have asked the question and, in fact, it has been answered.  I think Mr Mkhize did say that he had given the Goldstone Commission a statement which was different to what he is actually telling us here and I think that this kind of debate between witness is not really seemly.",
             "Female"
         ],
@@ -1603,7 +1603,7 @@
             "Male"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Mr Mkhize, could you also refrain from continuing in that vein?",
             "Female"
         ],
@@ -2428,7 +2428,7 @@
             "Male"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Mr de Vos, put that to him then.",
             "Female"
         ],
@@ -2528,7 +2528,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes, Mr Stewart.",
             "Unknown"
         ],
@@ -2713,7 +2713,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "No ... [break in recording].",
             "Unknown"
         ],
@@ -2733,12 +2733,12 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "No, you are not.  Please let's hear what you have to say.",
             "Unknown"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "Mr de Vos, I think there isn't a question of\n /cross-examining\n3B cross-examining counsel, but I think what we want to understand is what exactly is the version your client is putting.  I am rather confused myself, because, you see, I think the position or the submission that was made by Mr de Vos is that the Defence Force can train anybody in any arms that they wish and I'm not quite sure if that is what he said, and then later on he followed that with a submission that his clients at the top delegated this task to someone else so if we can just get some clarity on that, so that we can get a clear understanding of the perspective as well.",
             "Female"
         ],
@@ -2748,7 +2748,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr de Vos, we are aware of that.  We have access to all that evidence.  We've read summaries of the evidence and the judgment and I think at the outset of these proceedings I said that this witness, for example, has put a particular version on record.  He said that his training in the Caprivi was for a very specific purpose.  That's how he understood it.  That he understood that he was to be trained in deadly skills and that he was to return to this province and he was to kill people and I think it would help us if you put to him that your instructions from your client are totally contrary to that, that they understood that they were doing something of a secret nature at the request of Minister Buthelezi,\n /in order to\n3B in order to train them to provide protection for himself and his VIPs, as other members of counsel have done, because I don't see your line of cross-examination is really taking us much further.  The witness is confused and we are also becoming confused.  It seems to me that there are two very different opposite versions taking place here on either side of us and it would help us if you could put to him a version and ask him whether he agrees with it or not.",
             "Unknown"
         ],
@@ -2763,12 +2763,12 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr de Vos, I think anything that relates to why they were trained in the use of AK-47s as far as your clients were concerned should be best put to us by way of a submission, as you've told us you will be doing in due course.  I don't think the witness can throw any light on that really.  He would just be speculating as to why they were trained in those weapons.",
             "Unknown"
         ],
         [
-            "MS SOOKA",
+            "YASMINE SOOKA",
             "In any event, I think it's Mr Varney's submission that, in fact, he draws that kind of link and I think you are going to address a memorandum that sets out your clients' position in respect of a lot of those issues and I think that's where it could properly be dealt with in terms of a higher strategy.",
             "Female"
         ],
@@ -2778,7 +2778,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Well, Mr de Vos, I stated right at the beginning of these proceedings that that is how limited cross-examination should and will take place, that we put a version to a witness and ask him whether he agrees with it or not and I agree with Mr Stewart and this is no news to us, as the panel, that that is what we expect them to do and it is certainly not improper to suggest to you that you should put a version and we expect you to put a version.",
             "Unknown"
         ],
@@ -2788,7 +2788,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "No, Sir, we will not adjourn.  We will carry\n /on with the\n3B on with the cross-examination now, and please don't clap.",
             "Unknown"
         ],
@@ -2798,7 +2798,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes, please.",
             "Unknown"
         ],
@@ -2808,7 +2808,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Wills, are you happy that your client be called again on Monday?",
             "Unknown"
         ],
@@ -2818,7 +2818,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "If there is no serious objection to that and I will invite serious objection only, then I suggest that that is the way that we go.  Any serious objection?  9 o'clock tomorrow morning.\nPROCEEDINGS ADJOURNED TO 1997/08/08\n/PROCEEDINGS RESUMED",
             "Unknown"
         ]

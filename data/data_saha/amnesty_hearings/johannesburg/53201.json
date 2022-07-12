@@ -11,13 +11,14 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53201&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99020818_jhb_990208ji.htm",
         "speakers": [
-            "ADV BOSMAN",
             "CHAIRPERSON",
-            "GLADWELL SELAHLE",
-            "INTERPRETER",
-            "MR LAX",
             "MR MOHLABA",
-            "MS THABETE"
+            "GLADWELL SELAHLE",
+            "MR LAX",
+            "INTERPRETER",
+            "ADV BOSMAN",
+            "MS THABETE",
+            "UNKNOWN"
         ],
         "original_speakers": [
             "CHAIRPERSON",

@@ -12,16 +12,17 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53234&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99032326_el_990326el.htm",
         "speakers": [
-            "ADV GCABASHE",
             "ADV PRIOR",
-            "ADV SANDI",
-            "CHAIRPERSON",
-            "INTERPRETER",
             "MR LAX",
-            "MR MBANDAZAYO",
-            "MR NTONGA",
+            "UNKNOWN",
+            "CHAIRPERSON",
             "MS COLLETT",
-            "XHOLILE TJABANE"
+            "MR NTONGA",
+            "MR MBANDAZAYO",
+            "XHOLILE TJABANE",
+            "ADV GCABASHE",
+            "ADV SANDI",
+            "INTERPRETER"
         ],
         "original_speakers": [
             "ADV PRIOR",

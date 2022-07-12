@@ -10,10 +10,10 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=52910&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98101423_pnt_981016pn.htm",
         "speakers": [
-            "ADV MPSHE",
-            "APPLICANT",
             "CHAIRPERSON",
-            "MR FALCONER"
+            "MR FALCONER",
+            "MOKOTEDI MPSHE",
+            "APPLICANT"
         ],
         "original_speakers": [
             "CHAIRPERSON",
@@ -54,7 +54,7 @@
             "Male"
         ],
         [
-            "ADV MPSHE",
+            "MOKOTEDI MPSHE",
             "No problems, Mr Chairman, thank you.",
             "Unknown"
         ],

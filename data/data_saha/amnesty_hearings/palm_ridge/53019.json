@@ -11,12 +11,12 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53019&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/9811231210_pr_981130th.htm",
         "speakers": [
-            "ADV SANDI",
-            "ADV STEENKAMP",
             "CHAIRPERSON",
-            "MAZULANDILE EPHRAIM MZONDO",
             "MR MOPEDI",
-            "MR SIBEKO"
+            "MR SIBEKO",
+            "ADV STEENKAMP",
+            "MAZULANDILE EPHRAIM MZONDO",
+            "ADV SANDI"
         ],
         "original_speakers": [
             "CHAIRPERSON",

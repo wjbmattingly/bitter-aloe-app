@@ -11,15 +11,15 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55085&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/ermelo/8ermmats.htm",
         "speakers": [
-            "DR ALLY",
-            "DR RANDERA",
-            "JENETHA MTSWENI",
-            "MS MTSWENI",
             "MR LEWIN",
-            "MR MANTHATA",
             "MRS MTSWENI",
+            "RUSSELL ALLY",
+            "JENETHA MTSWENI",
+            "THOMAS MANTHATA",
             "TEMBI MTSWENI",
-            "TRANSLATOR"
+            "TRANSLATOR",
+            "MS MTSWENI",
+            "DR RANDERA"
         ],
         "original_speakers": [
             "MR LEWIN",
@@ -60,7 +60,7 @@
             "Male"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "Good you please rise and raise your right hand Mrs Mtsweni.  Do you swear that the testimony that you are about to give will be the truth, the whole truth and nothing but the truth, so help me God.",
             "Unknown"
         ],
@@ -75,7 +75,7 @@
             "Male"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "You are accompanied too.  Who is the person sitting with you by your side ?",
             "Male"
         ],
@@ -85,7 +85,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "She's your daughter.  What's her name ?",
             "Male"
         ],
@@ -95,7 +95,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "What is her name ?",
             "Male"
         ],
@@ -105,7 +105,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "Tembi. Tembi.  Mrs Mtsweni can you proceed to tell us about Boetie Mtetha Mtsweni who was beaten up.",
             "Male"
         ],
@@ -115,7 +115,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "Relax Mama, really.",
             "Male"
         ],
@@ -135,7 +135,7 @@
             "Unknown"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "Tembi, can you please tell us what you saw.",
             "Male"
         ],
@@ -160,7 +160,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "If I had to ask questions the first would be, where is  Boetie now ?  Are you still going on, sorry.",
             "Male"
         ],
@@ -170,7 +170,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "So, July was taken to court for injuring Boetie but after he died ... (interrupted)",
             "Male"
         ],
@@ -180,7 +180,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "You say Mathews was working in Pretoria ?",
             "Male"
         ],
@@ -190,7 +190,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "Where was he working ?",
             "Male"
         ],
@@ -200,7 +200,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "Nobody in the family knows ?",
             "Male"
         ],
@@ -210,7 +210,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "You've got nothing from where he was working, after his death or even during his.... ?",
             "Male"
         ],
@@ -220,7 +220,7 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "Had he not worked anywhere before ?",
             "Male"
         ],
@@ -230,12 +230,12 @@
             "Female"
         ],
         [
-            "MR MANTHATA",
+            "THOMAS MANTHATA",
             "It's very complicated.   Maybe we'll stop questioning any further.",
             "Male"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "Mrs Mtsweni, in your statement you seem to suggest that Mathews and July Mtetwa actually knew each other before this incident.  Is that correct ?",
             "Unknown"
         ],
@@ -245,7 +245,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "Were they friends ?",
             "Unknown"
         ],
@@ -255,7 +255,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "In you statement you also suggest that what caused them to become enemies was some dispute around a tavern.  Some tavern had been opened and soon after that they became enemies.  Can you just explain to us what you mean by that.",
             "Unknown"
         ],
@@ -265,7 +265,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "But why were they fighting ?  Do you have any idea ?",
             "Unknown"
         ],
@@ -275,7 +275,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "Who's this they that you're referring to who attacked him ?",
             "Unknown"
         ],
@@ -285,7 +285,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "Now in your statement you also speak about this conflict we've been hearing about most of to-day.  The conflict between the ANC and the IFP.  You say there was a fight between IFP supporter s and ANC supporters.  This feud or dispute between your late son Mathews and July Ntetwa, how did this relate to this conflict, this fight between the ANC and the IFP which you speak about ?  Was there a link ?",
             "Unknown"
         ],
@@ -295,7 +295,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "Did your son, after the first attack, you say that he was attacked by July and July's sister, did he do anything about this ?  Did he report the matter or did he take any steps to protect himself ?  What happened after this first attack ?",
             "Unknown"
         ],
@@ -305,7 +305,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "Nothing.  Your son was attacked, according to your statement, that this took place in January of 1991.",
             "Unknown"
         ],
@@ -315,7 +315,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "And you say your son died in January of 1997.",
             "Unknown"
         ],
@@ -325,7 +325,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "That's this year, this January.  So there's  six years that have passed.  In the certificate that you've also put in your statement, the cause of death here says natural causes.  What was it that caused the death of your son ?",
             "Unknown"
         ],
@@ -335,7 +335,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "In the attack you son lost his right eye.  That's correct ? After this attack he was blind in the one eye ?",
             "Unknown"
         ],
@@ -345,7 +345,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "Did he recover sufficiently from this attack ?  Did he ever work again after that attack or ...?",
             "Unknown"
         ],
@@ -355,7 +355,7 @@
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "Thank you very much.",
             "Unknown"
         ],

@@ -11,14 +11,14 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54159&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/2000/200508th.htm",
         "speakers": [
-            "ADV SIGODI",
             "CHAIRPERSON",
-            "INTERPRETER",
-            "JOHANNES MAKATU",
             "JUDGE DE JAGER",
-            "MR MAPOMA",
+            "ADV SIGODI",
             "MR NDOU",
-            "MR VAN RENSBURG"
+            "MR MAPOMA",
+            "MR VAN RENSBURG",
+            "INTERPRETER",
+            "JOHANNES MAKATU"
         ],
         "original_speakers": [
             "CHAIRPERSON",

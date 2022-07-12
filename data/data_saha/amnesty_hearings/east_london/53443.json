@@ -11,15 +11,14 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=53443&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99052527_el_990527el.htm",
         "speakers": [
-            "CHAIRMAN",
             "CHAIRPERSON",
             "DR TSOTSI",
-            "INTERPRETER",
-            "MNCEDISI JODWANA",
             "MR LAX",
-            "MR MAPITSE",
             "MR WILLIAMS",
-            "MS MTANGA"
+            "MR MAPITSE",
+            "MS MTANGA",
+            "MNCEDISI JODWANA",
+            "INTERPRETER"
         ],
         "original_speakers": [
             "CHAIRPERSON",
@@ -76,7 +75,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Jodwana, have you - what language would you prefer to use?",
             "Unknown"
         ],

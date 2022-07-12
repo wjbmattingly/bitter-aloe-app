@@ -10,14 +10,14 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=52872&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98091418_jhb_1johanb4.htm",
         "speakers": [
-            "ADV SIGODI",
             "CHAIRPERSON",
-            "INTERPRETER",
-            "MR LAX",
             "MR MAPOMA",
-            "MR MBANDAZAYO",
             "MS CAMBANIS",
-            "NKOSINATHI MPUMELELO MVIJANE"
+            "MR MBANDAZAYO",
+            "MR LAX",
+            "NKOSINATHI MPUMELELO MVIJANE",
+            "ADV SIGODI",
+            "INTERPRETER"
         ],
         "original_speakers": [
             "CHAIRPERSON",

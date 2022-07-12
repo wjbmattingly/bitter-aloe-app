@@ -5,16 +5,17 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54800&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/pe/3pebco3b.htm",
         "speakers": [
-            "ADV DE JAGER",
-            "ADV SANDI",
-            "CHAIRPERSON",
-            "CORNELIUS PETRUS DE LANGE",
-            "JOE MAMASELA",
-            "MR BOOYENS",
             "MR BRINK",
+            "ADV DE JAGER",
+            "CORNELIUS PETRUS DE LANGE",
+            "CHAIRPERSON",
+            "MR BOOYENS",
+            "UNKNOWN",
             "MR LAMEY",
             "MR NYOKA",
-            "MS HARTLE"
+            "MS HARTLE",
+            "JOE MAMASELA",
+            "ADV SANDI"
         ],
         "starting date": "UNKNOWN",
         "original_speakers": [

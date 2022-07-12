@@ -9,17 +9,18 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54880&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/pta/ismail1.htm",
         "speakers": [
-            "ABOOBAKER ISMAIL",
-            "CHAIRPERSON",
-            "DR TSOTI",
-            "DR TSOTSI",
-            "JUDGE PILLAY",
-            "LEGAL COUNSEL",
             "MR POOE",
-            "MR SIBANYONI",
+            "CHAIRPERSON",
+            "MR VISSER",
+            "ABOOBAKER ISMAIL",
             "MR STEENKAMP",
             "MR TRENGOVE",
-            "MR VISSER"
+            "UNKNOWN",
+            "JUDGE PILLAY",
+            "DR TSOTSI",
+            "LEGAL COUNSEL",
+            "DR TSOTI",
+            "MR SIBANYONI"
         ],
         "original_speakers": [
             "MR POOE",

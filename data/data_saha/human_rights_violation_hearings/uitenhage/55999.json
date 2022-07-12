@@ -10,7 +10,6 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55999&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/uiten/hans.htm",
         "speakers": [
-            "CCHAIRPERSON",
             "CHAIRPERSON",
             "KHULULEKILE MATTHEW HENS",
             "PANEL MEMBER",
@@ -27,7 +26,7 @@
     },
     "testimony": [
         [
-            "CCHAIRPERSON",
+            "CHAIRPERSON",
             "Could we call forward the next witness, Khululekile Matthew Hens.",
             "Unknown"
         ],

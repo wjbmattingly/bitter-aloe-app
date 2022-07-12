@@ -11,12 +11,12 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=52834&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98090708_ben_benoni1.htm",
         "speakers": [
-            "ADV MOTATA",
-            "ADV STEENKAMP",
-            "CHAIRPERSON",
-            "MOLWEDI MOKOENA",
             "MR KOOPEDI",
-            "MS KHAMPEPE"
+            "CHAIRPERSON",
+            "ADV STEENKAMP",
+            "MOLWEDI MOKOENA",
+            "SISI KHAMPEPE",
+            "ADV MOTATA"
         ],
         "original_speakers": [
             "MR KOOPEDI",
@@ -260,7 +260,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "I have no questions Mr Chairman.",
             "Female"
         ],

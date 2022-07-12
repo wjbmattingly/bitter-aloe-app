@@ -11,22 +11,22 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54745&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/joburg/shell6.htm",
         "speakers": [
-            "CHAIRPERSON",
-            "INTERPRETER",
-            "JUDGE NGCOBO",
-            "JUDGE NGOEPE",
-            "MR CURRIN",
-            "MR DORFLING",
-            "MR DORFLINGG",
-            "MR HUMAN",
-            "MR LAX",
-            "MR PRETORIUS",
-            "MR TIPP",
-            "MS KHAMPEPE",
             "MS MORAKA",
+            "CHAIRPERSON",
+            "STEPHEN MAROLE MOOLMAN",
             "MS MOROKA",
-            "MS VAN HUYSSTEEN",
-            "STEPHEN MAROLE MOOLMAN"
+            "INTERPRETER",
+            "SISI KHAMPEPE",
+            "MR PRETORIUS",
+            "MR CURRIN",
+            "BERNARD MAKGABO NGOEPE",
+            "MR TIPP",
+            "JUDGE NGCOBO",
+            "TESTIMONY_GIVER:",
+            "MR LAX",
+            "MR DORFLING",
+            "MR HUMAN",
+            "MS VAN HUYSSTEEN"
         ],
         "original_speakers": [
             "MS MORAKA",
@@ -155,7 +155,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "The speaker is to far from the microphone the interpreters could not catch the last part.  Mr Moolman try to speak a little bit louder please.",
             "Female"
         ],
@@ -620,7 +620,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "What did you say the evidence of witness was?",
             "Unknown"
         ],
@@ -630,7 +630,7 @@
             "Male"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Yes.",
             "Unknown"
         ],
@@ -925,7 +925,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "May I understand you Mr Pretorius.  Is this line of questioning therefore intended to establish the time when the video was taken?",
             "Female"
         ],
@@ -950,7 +950,7 @@
             "Unknown"
         ],
         [
-            "JUDGE NGOEPE",
+            "BERNARD MAKGABO NGOEPE",
             "Unless Mr Pretorius there is a further point you want to make by this line of questioning.",
             "Unknown"
         ],
@@ -995,7 +995,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Are you saying Mr Moolman that there was a gunshot coming from the corner de Villiers and King George Street?",
             "Female"
         ],
@@ -1250,7 +1250,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Yes Mr Pretorius I thought I heard the witness' testimony conceding that after reviewing the whole incident he is now convinced that there was such a possibility.",
             "Female"
         ],
@@ -1320,7 +1320,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Are you able to say Mr Moolman whether there was a march that was in support of the Zulu king?",
             "Female"
         ],
@@ -1490,7 +1490,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Dorfling may I interpose I am sorry to be doing this during your cross examination.  I am not clear in my mind who you are referring to the person who might have given him instructions about the secondary shooting.  Maybe that's the difficulty that the witness has.",
             "Female"
         ],
@@ -1500,7 +1500,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "As long as the witness is on the same page with you I am fine.",
             "Female"
         ],
@@ -1610,7 +1610,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "But I think the question that Mr Dorfling wants you to respond to is how would you have known that the guards on the ground were under attack because you didn't know where they were specifically located on the ground.",
             "Female"
         ],
@@ -2590,7 +2590,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Moolman did you know at the time when you completed this application form what standard of education Mr Llale had obtained?",
             "Female"
         ],
@@ -2600,7 +2600,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Thank you Mr Dorfling.",
             "Female"
         ],
@@ -2830,7 +2830,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "I may be inclined to agree with you Mr Dorfling I think he did refer to the parapet.",
             "Female"
         ],
@@ -3570,7 +3570,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Moolman just a follow up of what has been asked of you by my colleague.\n\tCan you paint a picture for me of how large this group was?  I think different estimations have been given by different applicants.  In your opinion how large was this group?",
             "Female"
         ],
@@ -3580,7 +3580,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Are you able to estimate in terms of numbers? Are we talking of approximately 500 marchers, a 1000 or over a 1000 marchers?",
             "Female"
         ],
@@ -3590,7 +3590,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Thank you.",
             "Female"
         ],

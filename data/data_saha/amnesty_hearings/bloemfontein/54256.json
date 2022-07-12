@@ -12,14 +12,13 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54256&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/2000/200614bl.htm",
         "speakers": [
-            "ADV SANDI",
             "CHAIRPERSON",
-            "HUMPHREY LUYANDA GQOMFA",
-            "JUDGE DE JAGER",
-            "MR COETZER",
             "MR MBANDAZAYO",
-            "MR MBANDAZAYO IN ARGUMENT",
-            "MS MTANGA"
+            "MR COETZER",
+            "JUDGE DE JAGER",
+            "MS MTANGA",
+            "ADV SANDI",
+            "HUMPHREY LUYANDA GQOMFA"
         ],
         "original_speakers": [
             "CHAIRPERSON",
@@ -600,7 +599,7 @@
             "Unknown"
         ],
         [
-            "MR MBANDAZAYO IN ARGUMENT",
+            "MR MBANDAZAYO",
             "Chairperson, just briefly.  Chairperson, ...(intervention)",
             "Male"
         ],

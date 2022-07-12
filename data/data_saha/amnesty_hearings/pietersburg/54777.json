@@ -10,13 +10,13 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=54777&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/pburg/kruger.htm",
         "speakers": [
+            "CHAIRPERSON",
             "ADV VISSER",
-            "CHAIRMAN",
-            "JH KRUGER",
             "JOHACHIM HEINRICH KRUGER",
-            "MR BLACK",
             "MR KRUGER",
             "MR ROSSOUW",
+            "MR BLACK",
+            "JH KRUGER",
             "NORTHERN PROVINCE"
         ],
         "original_speakers": [
@@ -33,7 +33,7 @@
     },
     "testimony": [
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Visser?",
             "Unknown"
         ],
@@ -178,7 +178,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Visser, it intrigues me that you keep on asking to arrest at all cost, is \nwasn't at all costs?",
             "Unknown"
         ],
@@ -188,7 +188,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "It intrigues me that you keep on asking the witnesses whether they were at all \ncosts to arrest, it was not at all costs?  But I understand you of course.",
             "Unknown"
         ],
@@ -198,7 +198,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Yes, you were instructed to do everything possible to arrest them, but not at \nthe expense of your own lives?",
             "Unknown"
         ],
@@ -278,7 +278,7 @@
             "Unknown"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Rossouw?",
             "Unknown"
         ],
@@ -293,7 +293,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Mr Black?",
             "Unknown"
         ],
@@ -308,7 +308,7 @@
             "Male"
         ],
         [
-            "CHAIRMAN",
+            "CHAIRPERSON",
             "Thank you Mr Kruger.",
             "Unknown"
         ],

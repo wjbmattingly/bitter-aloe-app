@@ -10,18 +10,18 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=52803&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98081114_hmm_hammar1.htm",
         "speakers": [
-            "ADV MOTATA",
-            "ADV MPSHE",
-            "BHEKISISA ALEX KHUMALO",
             "CHAIRPERSON",
-            "INTERPRETER",
-            "MR GLADLA",
-            "MR HEWITT",
-            "MR MOLOI",
-            "MR NGUBANE",
             "MR STEWART",
             "MR WILLS",
-            "MS KHAMPEPE"
+            "MR HEWITT",
+            "MR NGUBANE",
+            "MOKOTEDI MPSHE",
+            "BHEKISISA ALEX KHUMALO",
+            "SISI KHAMPEPE",
+            "INTERPRETER",
+            "ADV MOTATA",
+            "MR MOLOI",
+            "MR GLADLA"
         ],
         "original_speakers": [
             "CHAIRPERSON",
@@ -71,7 +71,7 @@
             "Unknown"
         ],
         [
-            "ADV MPSHE",
+            "MOKOTEDI MPSHE",
             "Thank you Mr Chairman, Members of the Committee, J M Mpshe representing the TRC Amnesty in particular.  I am here with my learned friend, Mr Nati Gladla, thank you.",
             "Unknown"
         ],
@@ -101,7 +101,7 @@
             "Male"
         ],
         [
-            "ADV MPSHE",
+            "MOKOTEDI MPSHE",
             "Mr Chairman, before Mr Stewart commences, just for record purposes, we have a total number of 199 victims who have been notified.  There may be more than those who are known to us but those that we have identified and notified are 199.",
             "Unknown"
         ],
@@ -656,7 +656,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "May I interpose Mr Stewart?\n\tWere the people that you have mentioned, Smu Bengu, Molefi and Sithole, also members of the Defensive Group?",
             "Female"
         ],
@@ -666,7 +666,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Thank you Mr Stewart.",
             "Female"
         ],
@@ -851,7 +851,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Khumalo, when you Pumlani Mshemu, are you still referring to Xholani Mshemu?",
             "Female"
         ],
@@ -861,7 +861,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And when you say you were approached with Mshemu by JP, what had happened to the two other members of your group, were they still part of the troop that went to Ulundi?",
             "Female"
         ],
@@ -1161,7 +1161,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "May I interpose Mr Stewart?\n\tWhen you committed these drive-by shootings that you've alluded to, was Mr Jabulani Makatini who was a full member of the BSI Police Force present?",
             "Female"
         ],
@@ -1171,7 +1171,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Did he participate in the so-called drive-by shootings?",
             "Female"
         ],
@@ -1181,7 +1181,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "So you were the only ones who would intimidate and harass people you perceived to be UDF members but he would simply be a driver and not participate in the actual harassment or whatever form of intimidation that you ...[indistinct] on the perceived UDF members, is that what you are saying?",
             "Female"
         ],
@@ -1201,7 +1201,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Stewart, I don't think your question has been clearly answered by your client.  I don't know whether he understood the gist of your question.",
             "Female"
         ],
@@ -1486,7 +1486,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Mr Khumalo, you've just responded that the reason why you stabbed the person was that you saw him or you perceived him to be, you stabbed this person ...[intervention]",
             "Female"
         ],
@@ -1496,7 +1496,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "You've just stated that you stabbed this person because he perceived him to be a UDF supporter by the fact that he was wearing a UDF T-shirt.",
             "Female"
         ],
@@ -1506,7 +1506,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "In your application you stated that you knew this person even though you could not remember his name, to your knowledge, was he a member of the UDF?",
             "Female"
         ],
@@ -1516,7 +1516,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Apart from the fact that he was wearing a UDF T-shirt, was he to your knowledge a member of the UDF or a supporter or sympathiser of the UDF?",
             "Female"
         ],
@@ -1526,7 +1526,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Thank you.",
             "Female"
         ],
@@ -1856,7 +1856,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "But the question is, was what you did within the general instructions, is that what you're saying?  You're saying: \"Yes\" to that question?",
             "Female"
         ],
@@ -1866,7 +1866,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And if you say: \"Yes\", who gave you those general instructions and when were they given to you?",
             "Female"
         ],
@@ -1876,7 +1876,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "I still do not understand your response to my question.  Were you ever made to believe that if you saw it fit to take an action against a person you perceived to be a UDF member or a political opponent, you were free to exercise your own discretion in taking whatever action that you deemed appropriate?",
             "Female"
         ],
@@ -1886,7 +1886,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "If I may proceed further Mr Khumalo, how long did it take you to verify the information that you got from Bongo about the activities of Mrs Xhaba?",
             "Female"
         ],
@@ -1896,7 +1896,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Were you able to verify such information within minutes or did it take you a few hours to do so?",
             "Female"
         ],
@@ -2236,7 +2236,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "May I interpose Mr Stewart?\n\tHow large was this group of ANC toyi-toying?",
             "Female"
         ],
@@ -2246,7 +2246,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Were they armed as well?",
             "Female"
         ],
@@ -3816,7 +3816,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Your mike is off.",
             "Female"
         ],
@@ -3891,7 +3891,7 @@
             "Unknown"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Thank you Mr Chairperson.\n\tMr Khumalo, I want you to give us a picture of how the general instructions were given to you, when and how.  I still don't have a clear picture in my mind with regard to that.  When were you made to understand that you were given general instructions to launch indiscriminate attacks on UDF members, that's the first question, and by whom were you made to understand that you could do that?",
             "Female"
         ],
@@ -3901,7 +3901,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Are you saying therefore that the person who gave you general instructions to use your discretion in launching indiscriminate attacks was Mr Luthule?",
             "Female"
         ],
@@ -3911,7 +3911,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And is it your evidence that the people who were to use their discretion in carrying out these general instructions were the people who were present at that pre-Koeberg meeting in 1988?",
             "Female"
         ],
@@ -3921,7 +3921,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Who was present at that meeting?  I heard you referring to yourself and group commanders, what do you mean by group commanders?",
             "Female"
         ],
@@ -3931,7 +3931,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Were you one of the group commanders?",
             "Female"
         ],
@@ -3941,7 +3941,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Is it your understanding and your evidence before this Commission that other Caprivians also were made to believe that they could carry out unlawful or what was perceived to then be lawful actions, for political ...[indistinct] or were selected people to carry out those general instructions?",
             "Female"
         ],
@@ -3951,7 +3951,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Now with regard Mrs Xhaba's attack, you say that you were advised by Mr Bongo or Bongo is the first name, I can't recall, but you were advised by a certain Bongo about Mrs Xhaba's activities within the UDF.",
             "Female"
         ],
@@ -3961,7 +3961,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And Bongo Nsomi was also a Caprivian was he not?",
             "Female"
         ],
@@ -3971,7 +3971,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "He also would have been able to carry out such general instructions as you were able to, as a Caprivian too?",
             "Female"
         ],
@@ -3981,7 +3981,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Now why was it necessary for him to advise you about Mrs Xhaba's activities when he also could have carried out the general instructions as he understood them to be, by executing Mrs Xhaba?  Why was it necessary for him to tell you and for you to take that decision?",
             "Female"
         ],
@@ -3991,7 +3991,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "And you've stated that you verified the information received from Bongo by speaking to other IFP members and that verification was done in a few minutes, that was your evidence.",
             "Female"
         ],
@@ -4001,7 +4001,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Why were you unable to get in touch with Mr Luthule within those minutes that you were able to do the verification?",
             "Female"
         ],
@@ -4011,7 +4011,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Was it the policy of you as Caprivians to report to Mr Luthule about all the activities that you would have undertaken in the name of the IFP?",
             "Female"
         ],
@@ -4021,7 +4021,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "How long after Mrs Xhaba had been killed did you bring this operation to Mr Lethuli's attention?",
             "Female"
         ],
@@ -4031,7 +4031,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Now when you were questioned by Mr Hewitt you stated that it wasn't your policy to shoot a person from behind, do you remember when you were questioned by Mr Hewitt and you responded in that fashion?",
             "Female"
         ],
@@ -4041,7 +4041,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Are you able to advise this Committee how many persons you did shoot, not from behind but whilst they were facing you in close proximity as Mrs Xhaba was?",
             "Female"
         ],
@@ -4051,7 +4051,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "Thank you Chairperson.",
             "Female"
         ],

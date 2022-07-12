@@ -11,16 +11,15 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=52924&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98101922_dbn_dbn3_.htm",
         "speakers": [
-            "ADV POTGIETER",
-            "ADV PRIOR",
             "CHAIRPERSON",
-            "COMMITTEE ADJOURNS",
-            "<UNKNOWN>",
-            "MLUNGESI JUSTICE MAJOSI",
-            "MR MAGADE",
-            "MR MAGADE",
+            "ADV PRIOR",
             "MR MNOWABE",
-            "MS KHAMPEPE"
+            "ADV POTGIETER",
+            "MR MAGADE",
+            "MLUNGESI JUSTICE MAJOSI",
+            "SISI KHAMPEPE",
+            "<UNKNOWN>",
+            "COMMITTEE ADJOURNS"
         ],
         "original_speakers": [
             "CHAIRPERSON",
@@ -211,7 +210,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "The question is, why did you shoot the policeman, Groenewald?",
             "Female"
         ],

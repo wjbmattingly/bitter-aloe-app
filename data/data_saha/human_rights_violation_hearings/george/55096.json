@@ -11,11 +11,11 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=55096&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/george/ct00553.htm",
         "speakers": [
-            "DR ALLY",
-            "DR RAMASHALA",
-            "<UNKNOWN>",
+            "MAPULE RAMASHALA",
             "MR YALOLO",
-            "MS BURTON"
+            "<UNKNOWN>",
+            "MARY BURTON",
+            "RUSSELL ALLY"
         ],
         "original_speakers": [
             "DR RAMASHALA\n",
@@ -27,12 +27,12 @@
     },
     "testimony": [
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "Would you stand please.\nGEOFFREY YALOLO Duly sworn states",
             "Unknown"
         ],
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "Thank you - Chairperson I have been assigned to facilitate the testimony from Mr Yalolo.\n This case is about the torture of Mr Geoffrey Yalolo by the police.  Mr Yalolo it is very important for us  to  get as much detail  as you  possibly can remember about your torture, the sequence of events - the circumstances and anything that is - or was unusual to  you with respect to this torture.  \n So would you begin - go back as far as you can to give the circumstances for your arrest and your  subsequent torture, thank you.",
             "Unknown"
         ],
@@ -42,7 +42,7 @@
             "Male"
         ],
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "Thank you Mr Yalolo - I think to give you a break and we also have a lot of questions to ask you, so what we will do is take a tea break and then we will come back after tea and proceed with the questions, so is it okay to give you a break - okay.\n We will break for  twenty minutes for a tea break and then we will come back and finish with Mr Yalolo - thank you - please remember to leave your earphones.",
             "Unknown"
         ],
@@ -52,12 +52,12 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "We are to begin with the second half of the morning's program - just in case there are people who have just arrived, we welcome you all once again and explain that there are headsets for translation available in the hall.  Unfortunately there are not quite enough for everybody, so  you may be able to find that you can share with somebody if you can understand one language where the other person understands another.  We apologise for the fact that there is a shortage of the headsets - it's because we have hearings also in Umtata today and the other number of headsets has had to go there.\n We are continuing now with the testimony of Mr Geoffrey Yalolo - he spoke to us before we broke for an interlude and the panel are now going to ask him questions.  Dr Ramashala is facilitating his  evidence and we'll start.",
             "Female"
         ],
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "Mr Yalolo there seems to be - to have been some confusion about you and your brother's identity specifically to - with relation to  Cekibonga.  What role do you think Cekibonga - is it Cekibonga - the comrade who came in is his name Cekibonga?",
             "Unknown"
         ],
@@ -67,7 +67,7 @@
             "Male"
         ],
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "Okay, police station, it seems that the person who was identifying you  incorrectly was Chekibonga and it seems like there was some confusion about who was named  Geoffrey and who was named Joseph - could you explain that a little bit - or give us your thinking about what you think was happening.",
             "Unknown"
         ],
@@ -77,7 +77,7 @@
             "Male"
         ],
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "In your statement you said the first day they put a plastic over my head for eight hours,   and used electric shocks on my body and my head.  Could you explain that - exactly what they were doing with the electric shocks.",
             "Unknown"
         ],
@@ -87,7 +87,7 @@
             "Male"
         ],
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "What  do you mean they worked me through - I want you to be specific if you can.",
             "Unknown"
         ],
@@ -97,7 +97,7 @@
             "Male"
         ],
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "Am I correct to say that you  were a member of the UDF.",
             "Unknown"
         ],
@@ -107,7 +107,7 @@
             "Male"
         ],
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "And I am asking that because it seems that they were being  [indistinct] on getting information from you, thinking that you had something, what was your position in the UDF.",
             "Unknown"
         ],
@@ -117,12 +117,12 @@
             "Male"
         ],
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "Chairperson I'll yield to my colleagues and then I may come back again for  some more questions.",
             "Unknown"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "Geoffrey what kind of information is it that they wanted from you?",
             "Unknown"
         ],
@@ -132,7 +132,7 @@
             "Male"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "But anything specifically did they want you to admit to certain things that had happened?",
             "Unknown"
         ],
@@ -142,7 +142,7 @@
             "Male"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "Did they ever give you any statement which they wanted you to sign or did they - or did they try to force you to make a statement.",
             "Unknown"
         ],
@@ -152,7 +152,7 @@
             "Male"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "Did they want you  to name names and inform them on specific people is that what was going on?",
             "Unknown"
         ],
@@ -162,7 +162,7 @@
             "Male"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "You  say that you were eventually charged on six accounts, on assault, on people's courts on other charges what - what happened?  Were you ever found guilty on those charges or  were you acquitted?",
             "Unknown"
         ],
@@ -172,7 +172,7 @@
             "Male"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "[indistinct] acquitted you say.",
             "Unknown"
         ],
@@ -182,7 +182,7 @@
             "Male"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "[indistinct] three policeman specifically Petersen, Steyn and Tise - were these people directly involved in - in actually torturing you or were they only present?",
             "Unknown"
         ],
@@ -192,7 +192,7 @@
             "Male"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "They were there when electric shocks were applied to you.",
             "Unknown"
         ],
@@ -202,7 +202,7 @@
             "Male"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "Thank you.\nUNKNOWN;\nWhat was your views on the conflict of the time  [indistinct] as a member of UDF?",
             "Unknown"
         ],
@@ -222,7 +222,7 @@
             "Male"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "The things that you have talked about, most of them happened while you were in detention is that right?",
             "Female"
         ],
@@ -232,7 +232,7 @@
             "Male"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "[indistinct] were charged and you were sent to the Rooihel prison.",
             "Female"
         ],
@@ -242,7 +242,7 @@
             "Male"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "[indistinct] prison.",
             "Female"
         ],
@@ -252,7 +252,7 @@
             "Male"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "The torture that you have described to us, that happened before you were charged.",
             "Female"
         ],
@@ -262,7 +262,7 @@
             "Male"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "Quite a long time that you  were in detention and being taken out of the cell and tortured and then taken back to the cells.",
             "Female"
         ],
@@ -272,7 +272,7 @@
             "Male"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "[indistinct] times a place on the third floor of a building in York Street, why did they  take you  to - to another building?",
             "Female"
         ],
@@ -282,7 +282,7 @@
             "Male"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "[indistinct] other people were also taken for interrogation out of the police cells to a different building?",
             "Female"
         ],
@@ -292,7 +292,7 @@
             "Male"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "And the place that you mentioned that was far beyond Mossel Bay did you say that was called Herbetsdal?",
             "Female"
         ],
@@ -307,12 +307,12 @@
             "Male"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "Thank you very much - Dr Ramashala.",
             "Female"
         ],
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "Mr Yalolo you made a statement that the police gave you  a piece of paper for you to sign, was there something written on the piece of paper or was there - was it blank?",
             "Unknown"
         ],
@@ -322,7 +322,7 @@
             "Male"
         ],
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "What was written on that piece of paper?",
             "Unknown"
         ],
@@ -332,7 +332,7 @@
             "Male"
         ],
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "[indistinct] released on the day that you were suppose to go to court in 1986 - and then the police visited you, this was Petersen, visited you in  [indistinct] Street, what happened in between, between 1986 and 1990?",
             "Unknown"
         ],
@@ -342,7 +342,7 @@
             "Male"
         ],
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "[indistinct] the police left you alone or if they continued to harass you during that period?",
             "Unknown"
         ],
@@ -352,7 +352,7 @@
             "Male"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "Thank you Dr Ramashala, I would like to ask one last question and to just say to you that our investigative unit has tried to find out more about your experience, but as in many other cases the records of the cell register of the time that you were in detention is not available to them.\n So one of the things we would like to know is if you remember the names of any of the other people who were in the cells with you, who could testify to the condition that you  were in and to your experience.",
             "Female"
         ],
@@ -362,7 +362,7 @@
             "Male"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "[indistinct] now you can give us the names afterwards if you remember.",
             "Female"
         ],
@@ -372,12 +372,12 @@
             "Male"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "[indistinct] from you later and we would like to thank you very much, this has been a long and very taxing experience for you to tell all of these details to us now, we thank you very much indeed for coming and for telling us of your experience.  You  can step down from the platform now.",
             "Female"
         ],
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "Madam Chairperson I'd like to ask one more question.  Mr  Yalolo I personally am surprised that you are still alive.  And it is very clear that you have suffered and sustained a lot of injuries - is there anything specific either than telling you story so that it can be documented - is there anything that you would  like the Commission to do.\n I talked with you outside and you explained that you have a lot of pain in your body and I am just wondering if you would like to express some wishes to the Commission about what we can recommend to be done for you.",
             "Unknown"
         ],
@@ -387,7 +387,7 @@
             "Male"
         ],
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "When was the last time you consulted with a doctor?",
             "Unknown"
         ],
@@ -397,17 +397,17 @@
             "Male"
         ],
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "Mr Yalolo, I know this has been very painful especially having to relive all those experiences.  We are very grateful that you were able to describe what happened to you, to give us  a full understanding so that we may have full documentation.\n Sir I applaud your bravery, and thank you very much.",
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "Thank you Mr Yalolo we do recognise that it is very hard to be reconciled when people have not showed any repentance for the things that they have done.  And we hope that maybe not quickly because these things don't happen quickly, it will work in people's hearts to come forward and to show signs of remorse and to apologise so that we can move forward and people can be reconciled with one another.\n We are not asking you to hide your pain and your anger, it's good that you are able to show it and to say those things.  And we hope that by coming here this will be one step for you in moving towards a better future.  We need to find a way in which the people can have confidence in the Security Forces and believe that they are there for the protection of everybody.\n So we thank you for what you have to say and we hope that you will improve both in your body and in your mind as the Truth Commission and you yourself move forward to making the future a better place.  Thank you, I think Dr Ally want's to say something as well.",
             "Female"
         ],
         [
-            "DR ALLY",
+            "RUSSELL ALLY",
             "This Committee the Human Rights Violations Committee doesn't have any powers to - to prosecute, but what the Committee can do is if people are named as alleged perpetrators that the Committee can actually call them forward and ask them to give an account of -  of their actions or to deny it - do you think that it would help if the people who you mentioned as alleged perpetrators came forward or were asked to come forward and asked to explain and give an account of their deeds and their actions -  would that help you to come to some sort of peace with what is - what has happened to you?",
             "Unknown"
         ],
@@ -417,7 +417,7 @@
             "Male"
         ],
         [
-            "DR RAMASHALA",
+            "MAPULE RAMASHALA",
             "Mr Yalolo would you please leave the name of your doctor so that we can help follow up on your health - thank you.",
             "Unknown"
         ],
@@ -427,7 +427,7 @@
             "Male"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "Thank you very much Mr Yalolo we won't ask you anymore questions now, thank you.",
             "Female"
         ]

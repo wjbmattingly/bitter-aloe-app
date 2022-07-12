@@ -7,15 +7,16 @@
         "url": "http://sabctrc.saha.org.za/hearing.php?id=56072&t=&tab=hearings",
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/upington/ct00168.htm",
         "speakers": [
-            "ASSAULT AND DISAPPEARANCE",
             "CASE NO",
-            "CHAIRPERSON",
+            "VICTIM",
             "HEADMAN MBATHA",
-            "MR POTGIETER",
-            "MS BURTON",
             "<UNKNOWN>",
+            "ASSAULT AND DISAPPEARANCE",
             "TESTIMONY FROM",
-            "VICTIM"
+            "MR POTGIETER",
+            "TESTIMONY_GIVER:",
+            "CHAIRPERSON",
+            "MARY BURTON"
         ],
         "original_speakers": [
             "CASE NO",
@@ -337,7 +338,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "Ms Mbatha, thank you for telling us about what happened to Headman.  It is very hard to lose a son and not to know what happened to him.  I wanted to ask you if you have other children and grandchildren?",
             "Female"
         ],
@@ -347,7 +348,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             " Did Headman have children?",
             "Female"
         ],
@@ -357,7 +358,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             " So he was the one that was looking after you at that time?",
             "Female"
         ],
@@ -367,7 +368,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             " And now are you receiving a pension?",
             "Female"
         ],
@@ -377,7 +378,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "  ... somebody staying with you?",
             "Female"
         ],
@@ -387,7 +388,7 @@
             "Unknown"
         ],
         [
-            "MS BURTON",
+            "MARY BURTON",
             "Thank you.",
             "Female"
         ],

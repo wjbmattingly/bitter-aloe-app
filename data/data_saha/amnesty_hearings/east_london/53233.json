@@ -12,16 +12,16 @@
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1999/99032326_el_990325el.htm",
         "speakers": [
             "ADV PRIOR",
-            "ADV PRIOR ADDRESSES",
-            "ADV SANDI",
-            "CHAIRPERSON",
-            "CHARLES ALEXANDER MATHER",
-            "MR LAX",
             "MR MBANDAZAYO",
-            "MR MBANDAZAYO IN REPLY",
             "MR NAUDE",
-            "MR SIBANYONI",
-            "MS TSEMANE"
+            "CHAIRPERSON",
+            "MR LAX",
+            "CHARLES ALEXANDER MATHER",
+            "ADV SANDI",
+            "MS TSEMANE",
+            "UNKNOWN",
+            "MR MBANDAZAYO IN REPLY",
+            "MR SIBANYONI"
         ],
         "original_speakers": [
             "ADV PRIOR",
@@ -2678,7 +2678,7 @@
             "Male"
         ],
         [
-            "ADV PRIOR ADDRESSES",
+            "ADV PRIOR",
             "Mr Chairman, Mr Mbandazayo has been given an opportunity to address you on other matters.  If at the end of it if I may just be able to make a closing statement on behalf of the victims.",
             "Unknown"
         ],

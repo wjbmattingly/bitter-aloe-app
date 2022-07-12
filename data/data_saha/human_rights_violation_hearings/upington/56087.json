@@ -8,15 +8,15 @@
         "original file": "http://sabctrc.saha.org.za/originals/hrvtrans/upington/ct04114.htm",
         "speakers": [
             "CASE NO",
-            "HARASSMENT",
-            "MR POTGIETER",
-            "MS ORR",
-            "MS WILDSCHUT",
-            "<UNKNOWN>",
-            "<UNKNOWN>",
+            "VICTIM",
             "SHADRACK KWAZA",
+            "<UNKNOWN>",
+            "HARASSMENT",
             "TESTIMONY FROM",
-            "VICTIM"
+            "MR POTGIETER",
+            "WENDY ORR",
+            "TESTIMONY_GIVER:",
+            "GLENDA WILDSCHUT"
         ],
         "original_speakers": [
             "CASE NO",
@@ -89,7 +89,7 @@
             "Male"
         ],
         [
-            "MS ORR",
+            "WENDY ORR",
             "[Indistinct] ... want to repeat the Chairperson's welcome.  Thank you for sitting here through what has been a long day.  It is not easy coming towards the end of a day when we have heard many very painful and difficult stories and I hope the audience will give you as much attention as they have the other people who have given evidence today.  You are going to tell us about the death of your son, Shadrack who was shot by the police in 1987.  Can you tell us about the circumstances surrounding Shadrack's death.",
             "Female"
         ],
@@ -99,7 +99,7 @@
             "Unknown"
         ],
         [
-            "MS ORR",
+            "WENDY ORR",
             " You said that since 1985 the police had been trying to arrest Shadrack.  Was this because he was politically active or the member of a political group?",
             "Female"
         ],
@@ -109,7 +109,7 @@
             "Unknown"
         ],
         [
-            "MS ORR",
+            "WENDY ORR",
             " [Indistinct] ... looking for him for a long time by the time he was shot.",
             "Female"
         ],
@@ -119,7 +119,7 @@
             "Unknown"
         ],
         [
-            "MS ORR",
+            "WENDY ORR",
             " How old was Shadrack when he was shot?",
             "Female"
         ],
@@ -129,7 +129,7 @@
             "Unknown"
         ],
         [
-            "MS ORR",
+            "WENDY ORR",
             " I just have one further question.  Was there any enquiry or inquest or Court case after his death?",
             "Female"
         ],
@@ -139,7 +139,7 @@
             "Unknown"
         ],
         [
-            "MS ORR",
+            "WENDY ORR",
             "So as our Chairperson has said in the previous cases, our investigative team has visited the Upington police station to look for the relevant documents and have been informed that all the records for the period 1985 to 1993 have been destroyed, but we will be following this up.  I would like to hand back to the Chairperson now.",
             "Female"
         ],
@@ -149,7 +149,7 @@
             "Male"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "Ms Kwaza, my question is just around the death certificate.  Do you have a death certificate at all?",
             "Female"
         ],
@@ -159,7 +159,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " Do you know what was stated on the death certificate? ",
             "Female"
         ],
@@ -169,7 +169,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " So the police stated on the death certificate that he had been wounded in the head, been shot in the head?",
             "Female"
         ],
@@ -179,7 +179,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " Ms Kwaza, the police who used to come to your house and who then assaulted yourself and your family.  Could you give us their names, were they Security Branch people or not?",
             "Female"
         ],
@@ -189,17 +189,17 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "What reason did they give for the fact that they were looking for Shadrack?",
             "Female"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             "---  No, they never told me.  I always asked them why are you looking for Shadrack and they never gave me any answer.  They just kept telling me, you will still wear black clothes, you will go in mourning for your son.",
             "Female"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " Did you consult any lawyers about this case?",
             "Female"
         ],
@@ -209,7 +209,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " And you didn't lay a charge with the police?",
             "Female"
         ],
@@ -219,7 +219,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " And were you ever given any further information about this case, whether any further investigations were being conducted?",
             "Female"
         ],
@@ -229,7 +229,7 @@
             "Unknown"
         ],
         [
-            "MS WILDSCHUT",
+            "GLENDA WILDSCHUT",
             " You were never summons to go to Court?",
             "Female"
         ],

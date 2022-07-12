@@ -12,15 +12,15 @@
         "original file": "http://sabctrc.saha.org.za/originals/amntrans/1998/98080307_jhb_ellisp1.htm",
         "speakers": [
             "ADV PRIOR",
-            "ADV SANDI",
             "CHAIRPERSON",
-            "DR TSOTSI",
-            "DR TSTOTSI",
-            "HAROLD MATSHIDIDI",
-            "INTERPRETER",
             "MR LANDMAN",
-            "MRS KLUKAS",
-            "MS KHAMPEPE"
+            "DR TSOTSI",
+            "ADV SANDI",
+            "HAROLD MATSHIDIDI",
+            "SISI KHAMPEPE",
+            "INTERPRETER",
+            "DR TSTOTSI",
+            "MRS KLUKAS"
         ],
         "original_speakers": [
             "ADV PRIOR",
@@ -153,7 +153,7 @@
             "Male"
         ],
         [
-            "MS KHAMPEPE",
+            "SISI KHAMPEPE",
             "That is correct.",
             "Female"
         ],
